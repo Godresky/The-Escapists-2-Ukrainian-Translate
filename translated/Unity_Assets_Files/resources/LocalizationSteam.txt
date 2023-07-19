@@ -199,7 +199,7 @@ Text.RewiredAction.ZoomIn	Приблизити мапу	Karte größer	Zoom avan
 Text.RewiredAction.ZoomOut	Віддалити мапу	Karte kleiner	Zoom arrière	Alejar el mapa	Уменьшить карту	Rimpicciolisci la mappa	地图缩小	マップを縮小
 Text.RewiredAction.UpAFloor	Поверх мапи вверх	Etage nach oben	Niveau de la carte supérieur	Mapa arriba	Карта пола вверх	Mappa Piano di sopra	地图上层	マップの上階へ
 Text.RewiredAction.DownAFloor	Поверх мапи вниз	Etage nach unten	Niveau de la carte inférieur	Mapa abajo	Карта пола вниз	Mappa Piano di sotto	地图下层	マップの下階へ
-Text.RewiredAction.CycleFilter1	Перемкнути умовні позначення	Legende anzeigen	Afficher/Masquer la carte	Cambiar leyenda mapa	Клавиша переключения карты	Attiva/Disattiva icone mappa	开关地图	マップアイコンを切り替え
+Text.RewiredAction.CycleFilter1	Перемкнути умовні знаки	Legende anzeigen	Afficher/Masquer la carte	Cambiar leyenda mapa	Клавиша переключения карты	Attiva/Disattiva icone mappa	开关地图	マップアイコンを切り替え
 Text.RewiredAction.Alternate_Key1Alt_Up	Мінігра ліво	Minispiel links	Mini-jeu - Gauche	Minijuego a la izquierda	Мини-игра слева	Minigioco sinistra	小游戏 左	ミニゲームで左
 Text.RewiredAction.Alternate_Key2Alt_Down	Мінігра право	Minispiel rechts	Mini-jeu - Droite	Minijuego a la derecha	Мини-игра справа	Minigioco destra	小游戏 右	ミニゲームで右
 Text.RewiredAction.PrimaryKey	Дія роботи	Job-Aktion	Action du travail	Actividad de trabajo	Действие работы	Azione Lavoro	工作动作	仕事アクション

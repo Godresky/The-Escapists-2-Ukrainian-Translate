@@ -169,8 +169,8 @@ HUD.Interact.Job.ShoemakerStepC	Пари взуття	Schuhpaare	Paires de chaus
 HUD.Interact.Job.WasteDisposalStepA	Маска та рукавиці	Maske & Handschuhe	Masque et gants	Máscara y guantes	Маска и перчатки	Maschera e guanti	面具和手套	マスクと手袋		
 HUD.Interact.Job.WasteDisposalStepB	Відходи	Abfall	Déchets	Basura	Отходы	Rifiuti	废料	ゴミ		
 HUD.Interact.Job.WasteDisposalStepC	Спалювач відходів	Abfallbehälter	Bennes à ordures	Basureros	Мусорные контейнеры	Pattumiere	废料处理器	ゴミ焼却炉		
-HUD.Interact.Job.WoodworkStepA	Матеріяли	Möbelmaterialien	Matériaux	Materiales para muebles	Материалы для мебели	Materiali d’arredamento	家具材料	家具の材料		
-HUD.Interact.Job.WoodworkStepB	Станок	Feinschliffmaschine	Machine de finition	Máquina de acabado	Финишный станок	Rifinitrice	修整机	加工機		
+HUD.Interact.Job.WoodworkStepA	Матеріяли для виробів	Möbelmaterialien	Matériaux	Materiales para muebles	Материалы для мебели	Materiali d’arredamento	家具材料	家具の材料		
+HUD.Interact.Job.WoodworkStepB	Станок по дереву	Feinschliffmaschine	Machine de finition	Máquina de acabado	Финишный станок	Rifinitrice	修整机	加工機		
 HUD.Interact.Job.WoodworkStepC	Вироби	Möbel	Meubles	Muebles	Мебель	Arredamento	家具	家具		
 HUD.Routine.Breakfast	Сніданок	Frühstückszeit	Petit-déjeuner	Desayuno	Завтрак	Colazione	早餐时间	朝食		
 HUD.Routine.Dinner	Вечеря	Abendbrotzeit	Dîner	Cena	Ужин	Cena	晚餐时间	夕食		
@@ -1124,7 +1124,7 @@ Text.NamePrefix.Doctor	Др. $name	Dr. $name	Dr $name	Dr. $name	Доктор $na
 Text.NamePrefix.Glorious	Славетний $name	Glorreicher $name	Glorieux $name	Glorioso $name	Великий $name	Glorioso $name	伟大的 $name	栄光の $name		
 Text.NamePrefix.Major	Майор $name	Major $name	Major $name	Alcalde $name	Майор $name	Maggiore $name	$name 少校	$name 少佐		
 Text.NamePrefix.Colonel	Полковник $name	Oberst $name	Colonel $name	Coronel $name	Полковник $name	Colonnello $name	$name 上校	$name 大佐		
-Text.Player.ContrabandDetect          	Мої контрабандні предмети було виявлено!	Meine Schmuggelware-Gegenstände wurden entdeckt!	 Mes objets de contrebande ont été détectés !	 ¡Han detectado mis objetos de contrabando!	Мои контрабандные предметы обнаружены!	I miei oggetti di contrabbando sono stati individuati!	我的违禁品被发现了！ 	禁制品が見つかった！		
+Text.Player.ContrabandDetect          	Мою контрабандну виявили!	Meine Schmuggelware-Gegenstände wurden entdeckt!	 Mes objets de contrebande ont été détectés !	 ¡Han detectado mis objetos de contrabando!	Мои контрабандные предметы обнаружены!	I miei oggetti di contrabbando sono stati individuati!	我的违禁品被发现了！ 	禁制品が見つかった！		
 Text.Player.PouchUsed           	Мою торбинку для контрабанди можна використати лише один раз…	Mein Schmuggelware-Beutel kann noch ein Mal benutzt werden ...	Ma pochette de contrebande n'a plus qu'une seule utilisation...	A mi bolsa de contrabando solo le queda un uso...	Мою сумку для контрабанды можно использовать еще только один раз...	Posso usare questa Sacca da contrabbando solo un'altra volta...	我的违禁品袋只能再用一次了…… 	禁制品ポーチはあと一度しか使えない…		
 Text.JobBoard.Back	НАЗАД	ZURÜCK	RETOUR	ATRÁS	НАЗАД	INDIETRO	后退	戻る		
 Text.FE.KeysRemainingOLD	You need $keys more key(s) to unlock this prison	"Du brauchst $keys weitere Schlüssel, um dieses Gefängnis freizuschalten"	Il vous faut $keys clé(s) de plus pour déverrouiller cette prison	Necesitas $keys llave(s) mas para accesar a esta prisión.	"Вам понадобится $keys больше ключей, чтобы разблокировать эту тюрьму"	Avrai bisogno di $keys più chiave/i per sbloccare questa prigione	你还需要 $keys 钥匙才能解锁这座监狱	この刑務所をアンロックするには、 あと $keys 本のカギが必要です		
