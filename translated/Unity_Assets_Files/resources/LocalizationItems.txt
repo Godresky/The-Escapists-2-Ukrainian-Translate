@@ -17,7 +17,7 @@ Text.Item.Sheet	Простирало	Bettlaken	Drap	Sábana	Простыня	Len
 Text.Item.Paper	Аркуш паперу	Blatt Papier	Feuille de papier	Folio	Лист бумаги	Foglio di carta	纸张	紙きれ			
 Text.Item.SheetOfMetal	Лист металу	Blech	Plaque de métal	Lámina de metal	Метал. пластина	Lastra di metallo	金属板	金属板			
 Text.Item.Bleach	Відбілювач	Bleichmittel	Bac d'eau de Javel	Bote de lejía	Отбеливатель	Flacone di candeggina	一盆漂白剂	漂白剤			
-Text.Item.Bolts	Прогоничі	Bolzen	Boulons	Tornillos	Болты	Bulloni	螺栓	ボルト			
+Text.Item.Bolts	Прогонич	Bolzen	Boulons	Tornillos	Болты	Bulloni	螺栓	ボルト			
 Text.Item.Bongos	Бонґо	Bongos	Bongo	Bongos	Бонго	Bongo	邦戈鼓	ボンゴ			
 Text.Item.Crowbar	Цвяходер	Brecheisen	Pied-de-biche	Palanca	Ломик	Piede di porco	撬棍	バール			
 Text.Item.Letter	Лист	Brief	Lettre	Carta	Письмо	Lettera	信件	手紙			
@@ -142,7 +142,7 @@ Text.Item.DeadRat	Мертва миша	Tote Ratte	Rat mort	Rata muerta	Дохл
 Text.Item.Drums	Барабан	Trommel	Tambour	Tambor	Барабан	Tamburo	鼓	ドラム			
 Text.Item.TalcumPowder	Лояковий порошок	Tube mit Talkumpuder	Bac de talc	Bote de talco	Тальк	Flacone di borotalco	盆装滑石粉	ベビーパウダー			
 Text.Item.UnidentifiedSkull	Нерозпізнаний череп	Unidentifizierter Schädel	Crâne non identifié	Calavera sin identificar	Неидентифицир. череп	Teschio non identificato	不明头骨	身元不明のドクロ			
-Text.Item.UngluedFurniture	Несклеєна фурнітура	Unverleimtes Möbelstück	Pièces détachées	Mueble sin encolar	Разобранная мебель	Mobile scollato	脱胶的家具	未接着の家具			
+Text.Item.UngluedFurniture	Несклеєний виріб	Unverleimtes Möbelstück	Pièces détachées	Mueble sin encolar	Разобранная мебель	Mobile scollato	脱胶的家具	未接着の家具			
 Text.Item.BurntPie	Обгорілий пляцок	Verbrannte Pastete	Tarte brûlée	Pastel quemado	Горел. пирог	Torta bruciata	烧糊的馅饼	焦げたパイ			
 Text.Item.BurntFood	Обгоріла їжа	Verbranntes Essen	Nourriture brûlée	Comida quemada	Сгоревшая еда	Cibo bruciato	烧糊的食物	焦げた食べ物			
 Text.Item.Wax	Віск	Wachs	Cire	Cera	Воск	Cera	蜡	ワックス			
@@ -190,7 +190,7 @@ Text.Item.FlimsyShovel	Крихка лопата	Schwache Schaufel	Pelle fragile
 Text.Item.FakeVentCover	Несправжня вентиляційна решітка	Falscher Lüftungsdeckel	Fausse bouche d'aération	Cubierta de rejilla falsa	Фальш. крышка вент. шахты	Copertura condotto finta	仿制的通风口盖	偽ダクトカバー			
 Text.Item.FramedPhoto	Світлина в рамці	Gerahmtes Foto	Photo encadrée	Foto enmarcada	Фото в рамке	Foto con cornice	装裱后照片	フレーム入り写真			
 Text.Item.GlassShank	Скляна заточка	Glasmesser	Lame de verre	Cuchillo de cristal	Осколок стекла	Coltello di vetro	玻璃杆	ガラスナイフ			
-Text.Item.GlueReadiedFurniture	Склеєна фурнітура	Mit Leim vorbereitetes Möbelstück	Meuble monté	Mueble reparado con cola	Проклеенная мебель	Mobile preparato con colla	上好胶的家具	接着済みの家具			
+Text.Item.GlueReadiedFurniture	Склеєний виріб	Mit Leim vorbereitetes Möbelstück	Meuble monté	Mueble reparado con cola	Проклеенная мебель	Mobile preparato con colla	上好胶的家具	接着済みの家具			
 Text.Item.MakeshiftCosh	Саморобий кий	Provisorischer Knüppel	Gourdin de fortune	Arma improvisada	Самодельн. дубинка	Randello di fortuna	临时用短棍	即席こん棒			
 Text.Item.MakeshiftRocketThruster	Саморобний ракетний рушій	Provisorische Raketendüse	Propulseur de fortune	Propulsor improvisado	Самодельный ракетный двигатель	Propulsore di fortuna	临时用火箭推进器	簡易ジェット装置			
 Text.Item.MoltenPlastic	Розтоплений плястик	Geschmolzenes Plastik	Plastique fondu	Plástico derretido	Расплавл. пластик	Plastica fusa	熔化的塑料	溶けたプラスチック			
@@ -199,7 +199,7 @@ Text.Item.PaperMache	Пап’є-маше	Pappmaché	Papier mâché	Papel maché
 Text.Item.Sling	Канат	Schleuder	Lance-pierre	Honda	Канат	Fionda	吊带	パチンコ			
 Text.Item.SockMace	Шкарпеткова булава	Sockenkeule	Chaussette lestée	Calcetín maza	Носок-кистень	Mazza con calzino	袜锤	靴下ハンマー			
 Text.Item.ToolHandle	Ручка знаряддя	Werkzeuggriff	Poignée d'outil	Mango de herramienta	Ручка инструм.	Manico di attrezzo	工具把手	工具のハンドル			
-Text.Item.FinishedFurniture	Завершена фурнітура	Fertiges Möbelstück	Meuble terminé	Mueble terminado	Готовая мебель	Mobile finito	制成家具	完成した家具			
+Text.Item.FinishedFurniture	Готовий виріб	Fertiges Möbelstück	Meuble terminé	Mueble terminado	Готовая мебель	Mobile finito	制成家具	完成した家具			
 Text.Item.WadOfPutty	Жмуток шпаклівки	Stück Knete	Boule de mastic	Montón de masilla	Кусок мастики	Manciata di stucco	油灰团	パテの塊			
 Text.Item.ZipLine	Зиплайн	Seilrutsche	Tyrolienne	Tirolina	Зиплайн	Fune sospesa	滑索	ワイヤロープ			
 Text.Item.BreathableTrashbag	Сміттєвий мішок для дихання	Atembare Mülltüte	Sac-poubelle respirant	Bolsa de basura respirable	Воздухопр. мешок д/мус.	Sacco della spazzatura traspirante	透气的垃圾袋	空気穴つきゴミ袋			
@@ -209,7 +209,7 @@ Text.Item.CrateTop	Верх коробки	Kistendeckel	Couvercle de caisse	Tapa
 Text.Item.CrossbowBody	Приклад арбалета	Armbrust-Körper	Support d'arbalète	Cuerpo de ballesta	Ложе арбалета	Corpo di balestra	十字弓身	クロスボウの本体			
 Text.Item.CrossbowLathe	Дуга арбалета	Armbrust-Wurfarm	Arc d'arbalète	Cuerda de ballesta	Плечо арбалета	Arco di balestra	十字弓车床	クロスボウの弓			
 Text.Item.FakeAudioEquipment	Несправжнє звукове обладнання	Falsche Audioausrüstung	Faux équipement audio	Equipo de sonido falso	Фальш. аудиооборудование	Apparecchio audio finto	仿制音频设备	偽ガンマイク			
-Text.Item.FakeFence	Несправжній паркан	Falscher Zaun	Fausse clôture	Valla falsa	Фальш. заграж.	Recinzione finta	仿制篱笆	偽フェンス			
+Text.Item.FakeFence	Несправжня огорожа	Falscher Zaun	Fausse clôture	Valla falsa	Фальш. заграж.	Recinzione finta	仿制篱笆	偽フェンス			
 Text.Item.GrappleHead	Голівка гаку	Greifkopf	Tête de grappin	Cabeza de gancho	Захват	Gancio	抓钩头部	フックヘッド			
 Text.Item.GunMakerKit	Набір для виготовлення зброї	Schusswaffen-Bastelset	Pièces de pistolet	Kit de armas	Набор для изгот. оружия	Kit pistola	制枪套件	銃作成キット			
 Text.Item.HalfFrameOfGlider	Пів рама плянера	Halber Gleiterrahmen	Demi cadre de planeur	Medio bastidor de planeador	1/2 каркаса дельтаплана	Metà telaio per aliante	滑翔机半副骨架	グライダーフレーム（半分）			
@@ -349,13 +349,13 @@ Text.EquipmentStat.Range.Low	Низька	Niedrig	Faible	Bajo	Низк.	Bassa	�
 Text.EquipmentStat.Range.Medium	Середня	Mittel	Moyenne	Medio	Средн.	Media	中	中			
 Text.EquipmentStat.Range.High	Висока	Hoch	Élevée	Alto	Высок.	Alta	高	高			
 Text.EquipmentStat.OutfitType.None	Немає	Keines	Aucun	Ninguno	Нет	Nessuno	无	なし			
-Text.EquipmentStat.OutfitType.Guard	Наглядача	Wärter	Gardien	Guardia	Охрана	Guardia	守卫	看守			
+Text.EquipmentStat.OutfitType.Guard	Варти	Wärter	Gardien	Guardia	Охрана	Guardia	守卫	看守			
 Text.EquipmentStat.OutfitType.Inmate	В’язня	Häftling	Détenu	Preso	Заключенный	Detenuto	囚犯	囚人			
 Text.EquipmentStat.OutfitType.Medic	Лікаря	Sanitäter	Médecin	Médico	Медик	Medico	医生	医務官			
 Text.EquipmentStat.OutfitType.Warden	Начальника	Wächter	Directeur	Alcaide	Надзиратель	Direttore	典狱长	所長			
 Text.Item.Flour	Пачка муки	Mehlbeutel	Sac de farine	Saco de harina	Мешок муки	Sacco di farina	袋装面粉	小麦粉の袋			
-Text.Item.RobotOfficerOutfit	Guard Outfit	Wärter-Kleidung	Tenue de gardien	Uniforme de guardia	Форма охранника	Vestiti da guardia	守卫服装	看守の服			
-Text.Item.POWOutfit	Inmate Outfit	Häftlingskleidung	Tenue de détenu	Uniforme de preso	Одежда заключ.	Vestiti da detenuto	囚犯服装	囚人服			
+Text.Item.RobotOfficerOutfit	Однострій наглядача	Wärter-Kleidung	Tenue de gardien	Uniforme de guardia	Форма охранника	Vestiti da guardia	守卫服装	看守の服			
+Text.Item.POWOutfit	Вбрання в’язня	Häftlingskleidung	Tenue de détenu	Uniforme de preso	Одежда заключ.	Vestiti da detenuto	囚犯服装	囚人服			
 Text.EquipmentStat.DamageReduction.Unassigned	Н /Д	N/A	S/O	N/D	Н/Д	N/A	无	なし			
 Text.EquipmentStat.DamageReduction.Low	Low	Niedrig	Faible	Bajo	Низк.	Bassa	低	低			
 Text.EquipmentStat.DamageReduction.Medium	Medium	Mittel	Moyenne	Medio	Средн.	Media	中	中			
