@@ -201,13 +201,13 @@ Text.Item.SockMace	Шкарпеткова булава	Sockenkeule	Chaussette le
 Text.Item.ToolHandle	Ручка знаряддя	Werkzeuggriff	Poignée d'outil	Mango de herramienta	Ручка инструм.	Manico di attrezzo	工具把手	工具のハンドル			
 Text.Item.FinishedFurniture	Завершена фурнітура	Fertiges Möbelstück	Meuble terminé	Mueble terminado	Готовая мебель	Mobile finito	制成家具	完成した家具			
 Text.Item.WadOfPutty	Жмуток шпаклівки	Stück Knete	Boule de mastic	Montón de masilla	Кусок мастики	Manciata di stucco	油灰团	パテの塊			
-Text.Item.ZipLine	Тиролька	Seilrutsche	Tyrolienne	Tirolina	Зиплайн	Fune sospesa	滑索	ワイヤロープ			
+Text.Item.ZipLine	Зиплайн	Seilrutsche	Tyrolienne	Tirolina	Зиплайн	Fune sospesa	滑索	ワイヤロープ			
 Text.Item.BreathableTrashbag	Сміттєвий мішок для дихання	Atembare Mülltüte	Sac-poubelle respirant	Bolsa de basura respirable	Воздухопр. мешок д/мус.	Sacco della spazzatura traspirante	透气的垃圾袋	空気穴つきゴミ袋			
 Text.Item.Cake	Торт	Kuchen	Gâteau	Tarta	Пирог	Dolce	蛋糕	ケーキ			
-Text.Item.CrateCasing	Облямівка коробки Casing	Kistenwände	Tour de caisse	Carcasa de caja	Корпус ящика	Involucro di cassa	箱子罩	木のケース			
+Text.Item.CrateCasing	Корпус коробки	Kistenwände	Tour de caisse	Carcasa de caja	Корпус ящика	Involucro di cassa	箱子罩	木のケース			
 Text.Item.CrateTop	Верх коробки	Kistendeckel	Couvercle de caisse	Tapa de caja	Крышка ящ.	Parte superiore di cassa	箱子顶	木のフタ			
-Text.Item.CrossbowBody	Приклад самостріла	Armbrust-Körper	Support d'arbalète	Cuerpo de ballesta	Ложе арбалета	Corpo di balestra	十字弓身	クロスボウの本体			
-Text.Item.CrossbowLathe	Дуга самостріла	Armbrust-Wurfarm	Arc d'arbalète	Cuerda de ballesta	Плечо арбалета	Arco di balestra	十字弓车床	クロスボウの弓			
+Text.Item.CrossbowBody	Приклад арбалета	Armbrust-Körper	Support d'arbalète	Cuerpo de ballesta	Ложе арбалета	Corpo di balestra	十字弓身	クロスボウの本体			
+Text.Item.CrossbowLathe	Дуга арбалета	Armbrust-Wurfarm	Arc d'arbalète	Cuerda de ballesta	Плечо арбалета	Arco di balestra	十字弓车床	クロスボウの弓			
 Text.Item.FakeAudioEquipment	Несправжнє звукове обладнання	Falsche Audioausrüstung	Faux équipement audio	Equipo de sonido falso	Фальш. аудиооборудование	Apparecchio audio finto	仿制音频设备	偽ガンマイク			
 Text.Item.FakeFence	Несправжній паркан	Falscher Zaun	Fausse clôture	Valla falsa	Фальш. заграж.	Recinzione finta	仿制篱笆	偽フェンス			
 Text.Item.GrappleHead	Голівка гаку	Greifkopf	Tête de grappin	Cabeza de gancho	Захват	Gancio	抓钩头部	フックヘッド			
@@ -230,48 +230,48 @@ Text.Item.SleepingGas	Балончик зі снодійним газом	Kanist
 Text.Item.UncookedPie	Сирий пляцок	Rohe Pastete	Tarte à cuire	Pastel sin hacer	Неиспечен. пирог	Torta non cotta	未烹制的馅饼	未調理のパイ			
 Text.Item.WhiteGloves	Білі рукавички	Weiße Handschuhe	Gants blancs	Guantes blancos	Белые перчатки	Paio di guanti bianchi	一副白手套	白い手袋			
 Text.Item.BeautifulPainting	Прекрасний малюнок	Hübsches Gemälde	Tableau de maître	Cuadro bonito	Красивый рисунок	Quadro meraviglioso	漂亮的油画	美しい絵			
-Text.Item.CompleteFrameOfGlider	Complete Glider Frame	Fertiger Gleiterrahmen	Cadre complet de planeur	Bastidor de planeador completo	Весь каркас дельтаплана	Telaio per aliante completo	制成的滑翔机骨架	完成したグライダーフレーム			
+Text.Item.CompleteFrameOfGlider	Готова рама плянера	Fertiger Gleiterrahmen	Cadre complet de planeur	Bastidor de planeador completo	Весь каркас дельтаплана	Telaio per aliante completo	制成的滑翔机骨架	完成したグライダーフレーム			
 Text.Item.ContrabandPouch	Торбинка для контрабанди	Schmuggelware-Beutel	Pochette de contrebande	Bolsa de contrabando	Сумка д/контраб.	Sacca da contrabbando	违禁品袋	禁制品ポーチ			
-Text.Item.EnergyModule	Energy Module	Energiemodul	Module énergétique	Módulo de energía	Энергомодуль	Modulo energia	能量模块	動力モジュール			
+Text.Item.EnergyModule	Енергомодуль	Energiemodul	Module énergétique	Módulo de energía	Энергомодуль	Modulo energia	能量模块	動力モジュール			
 Text.Item.EscapistsFigurine	Статуетка «Втікачі»	Escapists-Figur	Figurine des Escapists	Figura de escapista	Статуэтка Escapists	Statuetta fuggiasco	脱逃者小雕像	脱獄者ドール			
-Text.Item.FakeKeycard	Fake Keycard	Falsche Schlüsselkarte	Fausse carte magnétique	Tarjeta falsa	Фальш. ключ-карта	Chiave elettronica finta	仿制的门卡	偽造キーカード			
-Text.Item.FullTrebuchetFrame	Full Trebuchet Frame	Kompletter Tribok-Rahmen	Cadre complet de trébuchet	Estructura de catapulta completa	Весь каркас катапульты	Telaio per catapulta completo	完整的投石机骨架	完全な投石機のフレーム			
+Text.Item.FakeKeycard	Несправжня ключ-картка	Falsche Schlüsselkarte	Fausse carte magnétique	Tarjeta falsa	Фальш. ключ-карта	Chiave elettronica finta	仿制的门卡	偽造キーカード			
+Text.Item.FullTrebuchetFrame	Повна рама требушета	Kompletter Tribok-Rahmen	Cadre complet de trébuchet	Estructura de catapulta completa	Весь каркас катапульты	Telaio per catapulta completo	完整的投石机骨架	完全な投石機のフレーム			
 Text.Item.MachineReadyShoe	Підготовлений черевик	Schuhmachermaschine	Chaussure à assembler	Zapato listo para la máquina	Подгот. ботинок	Macchina assembla-scarpe	机械组装鞋	未加工の靴			
 Text.Item.MakeshiftBreathingApparatus	Саморобний кисневий прилад	Provisorisches Atemgerät	Appareil respiratoire de fortune	Aparato de respiración improvisado	Самодельный дыхательный аппарат	Autorespiratore di fortuna	临时用呼吸装置	簡易呼吸器			
-Text.Item.MakeshiftRaft	Makeshift Raft	Provisorisches Floß	Radeau de fortune	Balsa improvisada	Самодельный плот	Zattera di fortuna	临时用木筏	手作りイカダ			
-Text.Item.MakeshiftSledgehammer	Makeshift Sledgehammer	Provisorischer Vorschlaghammer	Masse de fortune	Mazo improvisado	Самодельная кувалда	Mazza di fortuna	临时用大锤	簡易スレッジハンマー			
-Text.Item.MakeshiftSpear	Makeshift Spear	Provisorischer Speer	Lance de fortune	Lanza improvisada	Самодельный дротик	Lancia di fortuna	临时用长矛	手作りのヤリ			
-Text.Item.MakeshiftStungun	Makeshift Stungun	Provisorischer Elektroschocker	Pistolet tranquillisant de fortune	Pistola eléctrica improvisada	Самодельный шокер	Storditore di fortuna	临时用电击枪	手作りスタンガン			
+Text.Item.MakeshiftRaft	Саморобний пліт	Provisorisches Floß	Radeau de fortune	Balsa improvisada	Самодельный плот	Zattera di fortuna	临时用木筏	手作りイカダ			
+Text.Item.MakeshiftSledgehammer	Саморобний молот	Provisorischer Vorschlaghammer	Masse de fortune	Mazo improvisado	Самодельная кувалда	Mazza di fortuna	临时用大锤	簡易スレッジハンマー			
+Text.Item.MakeshiftSpear	Саморобний спис	Provisorischer Speer	Lance de fortune	Lanza improvisada	Самодельный дротик	Lancia di fortuna	临时用长矛	手作りのヤリ			
+Text.Item.MakeshiftStungun	Саморобний електрошокер	Provisorischer Elektroschocker	Pistolet tranquillisant de fortune	Pistola eléctrica improvisada	Самодельный шокер	Storditore di fortuna	临时用电击枪	手作りスタンガン			
 Text.Item.MouldedGun	Виліпок пістоля	Gegossene Schusswaffe	Pistolet moulé	Pistola moldeada	Отлитое оружие	Pistola fatta con stampino	模铸枪	成型銃			
 Text.Item.Nunchuck	Нунчаку	Nunchaku	Nunchaku	Nunchakus	Нунчаки	Nunchaku	双节棍	ヌンチャク			
 Text.Item.PlasticKey	Плястиковий ключ	Plastikschlüssel	Clé en plastique	Llave de plástico	Пласт. ключ	Chiave di plastica	塑料钥匙	プラスチックのカギ			
 Text.Item.PlatedInmateOutfit	Вбрання в’зяня з плитою	Beschichtete Häftlingskleidung	Tenue de détenu plaquée	Uniforme de preso con placas	Усиленная одежда заключ.	Vestiti da detenuto corazzati	带护板的囚犯服装	プレート入り囚人服			
-Text.Item.RaftBase	Raft Base	Floßboden	Base de radeau	Base de balsa	Основание плота	Base per zattera	木筏底座	イカダの基部			
-Text.Item.Sail	Sail	Segel	Voile	Vela	Парус	Vela	帆	帆			
+Text.Item.RaftBase	Основа плота	Floßboden	Base de radeau	Base de balsa	Основание плота	Base per zattera	木筏底座	イカダの基部			
+Text.Item.Sail	Вітрило	Segel	Voile	Vela	Парус	Vela	帆	帆			
 Text.Item.SecurityPass	Перепустка	Sicherheitspass	Pass de sécurité	Pase de seguridad	Пропуск	Pass sicurezza	安保通行证	通行証			
-Text.Item.SleepingGasCannister	Sleeping Gas Cannister	Kanister mit Schlafgas	Gaz soporifique	Lata de gas de sueño	Баллон с усыпл. газом	Bombola di gas soporifero	催眠气体罐	催眠ガス			
+Text.Item.SleepingGasCannister	Снодійний газ	Kanister mit Schlafgas	Gaz soporifique	Lata de gas de sueño	Баллон с усыпл. газом	Bombola di gas soporifero	催眠气体罐	催眠ガス			
 Text.Item.SturdyCutters	Міцні різці	Stabiler Seitenschneider	Pince coupante robuste	Cortador pesado	Прочный резак	Taglierino robusto	坚固的切割工具	丈夫なカッター			
 Text.Item.SturdyPickaxe	Міцне кайло	Stabile Spitzhacke	Pioche robuste	Hacha pesada	Прочная кирка	Piccone robusto	坚固的镐	丈夫なツルハシ			
 Text.Item.SturdyShovel	Міцна лопата	Stabile Schaufel	Pelle robuste	Pala pesada	Прочная лопата	Pala robusta	坚固的铲	丈夫なシャベル			
-Text.Item.SuperKnuckleDuster	Super Knuckle Duster	Toller Schlagring	Super poing américain	Puño americano superior	Суперкастет	Tirapugni super	超级指关节套	スーパーメリケンサック			
-Text.Item.SuperSockMace	Super Sock Mace	Tolle Sockenkeule	Super chaussette lestée	Calcetín maza superior	Суперкистень из носка	Mazza con calzino super	超级袜锤	スーパー靴下ハンマー			
+Text.Item.SuperKnuckleDuster	Суперкастет	Toller Schlagring	Super poing américain	Puño americano superior	Суперкастет	Tirapugni super	超级指关节套	スーパーメリケンサック			
+Text.Item.SuperSockMace	Супершкарпеткова булава	Tolle Sockenkeule	Super chaussette lestée	Calcetín maza superior	Суперкистень из носка	Mazza con calzino super	超级袜锤	スーパー靴下ハンマー			
 Text.Item.Whip	Батіг	Peitsche	Fouet	Látigo	Кнут	Frusta	鞭	ムチ			
-Text.Item.ZiplineHook	Zipline Hook	Seilrutschen-Haken	Crochet de tyrolienne	Gancho de tirolina	Крюк для зиплайна	Gancio per fune sospesa	滑索钩	ワイヤロープのフック			
+Text.Item.ZiplineHook	Гак зиплайну	Seilrutschen-Haken	Crochet de tyrolienne	Gancho de tirolina	Крюк для зиплайна	Gancio per fune sospesa	滑索钩	ワイヤロープのフック			
 Text.Item.BreakdanceIdle	Breakdance Idle	Breakdance Pose	Pose breakdance	Pose de breakdance	Брейкданс — пауза	Posa breakdance	闲置霹雳舞	ブレイクダンス像			
-Text.Item.CattleProd	Cattle Prod	Viehtreiber	Pique	Picana para ganado	Электрохлыст	Sprone per bestiame	赶牛棒	牛追い棒			
-Text.Item.CompleteCrossbow	Complete Crossbow	Fertige Armbrust	Arbalète complète	Ballesta completa	Завершенный арбалет	Balestra completa	完整的十字弓	完成したクロスボウ			
-Text.Item.CompleteTrebuchet	Complete Trebuchet	Fertiger Tribok	Trébuchet complet	Catapulta completa	Завершенная катапульта	Catapulta completa	完整的投石机	完成した投石機			
-Text.Item.DurableContrabandPouch	Durable Contraband Pouch	Stabiler Schmuggelware-Beutel	Pochette de contrebande résistante	Bolsa de contrabando resistente	Прочная сумка для контрабанды	Sacca contrabbando durevole	耐用的违禁品袋	強化禁制品ポーチ			
-Text.Item.EnergySword	Energy Sword	Energieschwert	Épée énergétique	Espada de energía	Энергомеч	Spada energetica	能量剑	エネルギーソード			
-Text.Item.FakeGun	Fake Gun	Falsche Schusswaffe	Faux pistolet	Pistola de mentira	Фальш. оруж	Pistola finta	仿制枪	インチキ銃			
-Text.Item.GrapplingHook	Grappling Hook	Enterhaken	Crochet de grappin	Gancho de sujeción	Захватный крюк	Rampino	抓钩	投げフック			
-Text.Item.MakeshiftGasMask	Makeshift Gas Mask	Provisorische Gasmaske	Masque à gaz de fortune	Máscara de gas improvisada	Самодельный респиратор	Maschera antigas di fortuna	临时用防毒面具	簡易ガスマスク			
+Text.Item.CattleProd	Електропалиця	Viehtreiber	Pique	Picana para ganado	Электрохлыст	Sprone per bestiame	赶牛棒	牛追い棒			
+Text.Item.CompleteCrossbow	Готовий арбалет	Fertige Armbrust	Arbalète complète	Ballesta completa	Завершенный арбалет	Balestra completa	完整的十字弓	完成したクロスボウ			
+Text.Item.CompleteTrebuchet	Готовий требушет	Fertiger Tribok	Trébuchet complet	Catapulta completa	Завершенная катапульта	Catapulta completa	完整的投石机	完成した投石機			
+Text.Item.DurableContrabandPouch	Багаторазова торбинка для контрабанди	Stabiler Schmuggelware-Beutel	Pochette de contrebande résistante	Bolsa de contrabando resistente	Прочная сумка для контрабанды	Sacca contrabbando durevole	耐用的违禁品袋	強化禁制品ポーチ			
+Text.Item.EnergySword	Енергомеч	Energieschwert	Épée énergétique	Espada de energía	Энергомеч	Spada energetica	能量剑	エネルギーソード			
+Text.Item.FakeGun	Несправжній пістоль	Falsche Schusswaffe	Faux pistolet	Pistola de mentira	Фальш. оруж	Pistola finta	仿制枪	インチキ銃			
+Text.Item.GrapplingHook	Кішка	Enterhaken	Crochet de grappin	Gancho de sujeción	Захватный крюк	Rampino	抓钩	投げフック			
+Text.Item.MakeshiftGasMask	Саморобна газова маска	Provisorische Gasmaske	Masque à gaz de fortune	Máscara de gas improvisada	Самодельный респиратор	Maschera antigas di fortuna	临时用防毒面具	簡易ガスマスク			
 Text.Item.MimeIdle	Mime Idle	Pantomime Pose	Pose mime	Pose de mimo	Мим — пауза	Posa mimo	闲置哑剧	パントマイム像			
 Text.Item.Multitool	Багатоцільовий прилад	Allzweckwerkzeug	Outil multifonction	Multiherramienta	Унив. инстр.	Multiattrezzo	多用途工具	マルチツール			
-Text.Item.SkinnedGlider	Skinned Glider	Bespannter Gleiter	Planeur avec toile	Planeador con tela	Дельтаплан с парусом	Aliante di tessuto	有外壳的滑翔机	カバー付きグライダー			
+Text.Item.SkinnedGlider	Шкіряний плянер	Bespannter Gleiter	Planeur avec toile	Planeador con tela	Дельтаплан с парусом	Aliante di tessuto	有外壳的滑翔机	カバー付きグライダー			
 Text.Item.SuperBaseballBat	Супербейсбольна бита	Toller Baseballschläger	Super batte de base-ball	Bate de béisbol superior	Супербита	Mazza da baseball super	超级棒球棍	スーパーバット			
 Text.Item.SuperMetalBaton	Суперметалевий кийок	Toller Metall-Schlagstock	Super matraque en métal	Porra de metal superior	Супердубинка	Manganello di metallo super	超级金属棒	スーパーメタルバトン			
-Text.Item.SuperWhip	Super Whip	Tolle Peitsche	Super fouet	Látigo superior	Суперкнут	Frusta super	超级鞭	スーパームチ			
+Text.Item.SuperWhip	Супербатіг	Tolle Peitsche	Super fouet	Látigo superior	Суперкнут	Frusta super	超级鞭	スーパームチ			
 Text.Item.MakeshiftLadder	Саморобна драбина	Provisorische Leiter	Échelle de fortune	Escalera improvisada	Самодельная лестница	Scala di fortuna	临时用梯子	簡易ハシゴ			
 Text.Item.RedKey	Червоний ключ	Schlüssel (rot)	Clé rouge	Llave roja	Кр. ключ	Chiave rossa	红色钥匙	赤色のカギ			
 Text.Item.PurpleKey	Пурпурний ключ	Schlüssel (lila)	Clé violette	Llave lila	Фиол. ключ	Chiave viola	紫色钥匙	紫色のカギ			
@@ -303,9 +303,9 @@ Text.Item.FakeYellowKeyCard	Несправжня жовта ключ-картк�
 Text.Item.FakeCyanKeyCard	Несправжня блакитна ключ-картка	Falsche Schlüsselkarte (türkis)	Fausse carte magnétique cyan	Tarjeta cian falsa	Фальш. бирюз. ключ-карта	Chiave elettronica azzurra finta	仿制的青色门卡	偽造キーカード（水色）			
 Text.Item.FakeGreenKeyCard	Несправжня зелена ключ-картка	Falsche Schlüsselkarte (lila)	Fausse carte magnétique violette	Tarjeta lila falsa	Фальш. фиол. ключ-карта	Chiave elettronica viola finta	仿制的紫色门卡	偽造キーカード（緑）			
 Text.Item.VentCover	Вентиляційна решітка	Lüftungsdeckel	Bouche d'aération	Cubierta de rejilla	Крышка вент. шахты	Copertura condotto d'aria	通风口盖	ダクトカバー			
-Text.Item.DummiesGuide	Flight Manual	Flughandbuch	Manuel de vol	Manual de vuelo	Руков. по полету	Manuale di volo	飞行手册	飛行マニュアル			
-Text.Item.RockHammer	Rock Hammer	Presslufthammer	Marteau de géologue	Martillo de roca	Альпеншток	Martello da roccia	石锤	ロックハンマー			
-Text.Item.MedicOutfit	Medic Outfit	Sanitäter-Kleidung	Tenue de médecin	Uniforme de médico	Одежда медика	Vestiti da medico	医生服装	医務官の服			
+Text.Item.DummiesGuide	Посібник з польотів	Flughandbuch	Manuel de vol	Manual de vuelo	Руков. по полету	Manuale di volo	飞行手册	飛行マニュアル			
+Text.Item.RockHammer	Молоточок	Presslufthammer	Marteau de géologue	Martillo de roca	Альпеншток	Martello da roccia	石锤	ロックハンマー			
+Text.Item.MedicOutfit	Вбрання лікаря	Sanitäter-Kleidung	Tenue de médecin	Uniforme de médico	Одежда медика	Vestiti da medico	医生服装	医務官の服			
 Text.Item.JuicyWorm	Juicy Worm	Saftiger Wurm	Ver juteux	Gusano jugoso	Дожд. червяк	Verme succoso	多汁的虫子	ぶっといミミズ			
 Text.Item.HardHat	Hard Hat	Schutzhelm	Casque de chantier	Casco de obra	Каска	Elmetto	硬帽子	ヘルメット			
 Text.Item.Salmon	Salmon	Lachs	Saumon	Salmón	Лосось	Salmone	鲑鱼	シャケ			
