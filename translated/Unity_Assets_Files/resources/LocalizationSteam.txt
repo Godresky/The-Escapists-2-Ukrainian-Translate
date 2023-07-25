@@ -184,8 +184,8 @@ Text.Menu.Legend12_PC	[IN=UI_Cancel] ВИЙТИ [IN=UI_Submit] ВИБРАТИ	[I
 Text.Menu.Legend12	[IN=UI_Submit] ВИБРАТИ [IN=UI_Cancel] Вийти	[IN=UI_Submit] AUSWÄHLEN [IN=UI_Cancel] Beenden	[IN=UI_Submit] SÉLECTIONNER [IN=UI_Cancel] Quitter	[IN=UI_Submit] SELECCIONAR [IN=UI_Cancel] Salir	[IN=UI_Submit] ВЫБРАТЬ [IN=UI_Cancel] Выход	[IN=UI_Submit] SELEZIONA [IN=UI_Cancel] Esci	[IN=UI_Submit] 选择 [IN=UI_Cancel] 退出	[IN=UI_Submit]で選択 [IN=UI_Cancel]で終了
 Text.Menu.NoGamesAvailable	There are currently no games available	Derzeit sind keine Spiele verfügbar	Il n'y a aucun jeu disponible.	Ahora mismo no hay partidas disponibles	На данный момент доступных игр нет	Non ci sono partite disponibili	当前无可加入游戏	現在利用できるゲームがありません
 								
-Text.UI.Keyboard 	Мишка і клавіятура	"Maus, Tastatur"	"Souris, clavier"	"Ratón, teclado"	"Мышь, клавиатура"	"Mouse, Tastiera"	鼠标和键盘	マウス＆キーボード
-Text.UI.KeyboardAndPad 	"Мишка, клавіятура і контролер"	"Maus, Tastatur, Controller"	"Souris, clavier, manette"	"Ratón, teclado, mando"	"Мышь, клавиатура, контролер"	"Mouse, Tastiera, Controller"	鼠标， 键盘和控制器	マウス＆キーボードとコントローラー
+Text.UI.Keyboard 	Мишка і клавіатура	"Maus, Tastatur"	"Souris, clavier"	"Ratón, teclado"	"Мышь, клавиатура"	"Mouse, Tastiera"	鼠标和键盘	マウス＆キーボード
+Text.UI.KeyboardAndPad 	"Мишка, клавіатура і контролер"	"Maus, Tastatur, Controller"	"Souris, clavier, manette"	"Ratón, teclado, mando"	"Мышь, клавиатура, контролер"	"Mouse, Tastiera, Controller"	鼠标， 键盘和控制器	マウス＆キーボードとコントローラー
 Text.UI.DefaultControls 	Спосіб керування	Eingabe	Contrôles	Entrada de controles	Элемент управления	Input controlli	控制器输入	操作入力
 								
 Text.UI.Blur	Розмиття	Unschärfe	Flou	Ofuscar	Размытие	Sfocatura	模糊	ブラー
