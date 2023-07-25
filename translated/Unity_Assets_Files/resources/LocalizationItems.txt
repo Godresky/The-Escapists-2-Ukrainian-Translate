@@ -100,10 +100,10 @@ Text.Item.OrangeColouredPen	Помаранчева ручка	Orangefarbener Sti
 Text.Item.PieFilling	Начинка пляцка	Pastetenfüllung	Garniture	Relleno de pastel	Начинка пирога	Ripieno del timballo	馅饼馅料	パイの具			
 Text.Item.BeadedSnake	Змія з бісеру	Perlenschlange	Serpent en perles	Serpiente con cuentas	Змея из бисера	Serpente di perline	蛇珠	ビーズのヘビ			
 Text.Item.PilotsFood	Їжа для пілотів	Pilotenessen	Repas du pilote	Comida de pilotos	Еда пилотов	Cibo per piloti	飞行员食物	パイロットフード			
-Text.Item.PlasticFork	Плястикова виделка	Plastikgabel	Fourchette en plastique	Tenedor de plástico	Пластик. вилка	Forchetta di plastica	塑料叉	プラのフォーク			
+Text.Item.PlasticFork	Пластикова виделка	Plastikgabel	Fourchette en plastique	Tenedor de plástico	Пластик. вилка	Forchetta di plastica	塑料叉	プラのフォーク			
 Text.Item.RubberGloves	Резинові рукавички	Plastikhandschuhe	Gants en caoutchouc	Guantes de goma	Резиновые перчатки	Paio di guanti di gomma	一副橡胶手套	ゴム手袋			
-Text.Item.PlasticSpoon	Плястикова ложка	Plastiklöffel	Cuillère en plastique	Cuchara de plástico	Пластик. ложка	Cucchiaio di plastica	塑料勺	プラのスプーン			
-Text.Item.PlasticKnife	Плястиковий ножик	Plastikmesser	Couteau en plastique	Cuchillo de plástico	Пластиковый нож	Coltello di plastica	塑料刀	プラのナイフ			
+Text.Item.PlasticSpoon	Пластикова ложка	Plastiklöffel	Cuillère en plastique	Cuchara de plástico	Пластик. ложка	Cucchiaio di plastica	塑料勺	プラのスプーン			
+Text.Item.PlasticKnife	Пластиковий ножик	Plastikmesser	Couteau en plastique	Cuchillo de plástico	Пластиковый нож	Coltello di plastica	塑料刀	プラのナイフ			
 Text.Item.Plunger	Вантуз	Pömpel	Ventouse	Desatascador	Вантуз	Sturalavandini	搋子	ラバーカップ			
 Text.Item.MailSack	Мішок з листами	Postsack	Sac de courrier	Correo	Почт. мешок	Sacco postale	邮袋	郵便袋			
 Text.Item.JetPack	Реактивний ранець	Raketenrucksack	Réacteur dorsal	Mochila voladora	Реакт. ранец	Jet pack	喷气背包	ジェットパック			
@@ -160,7 +160,7 @@ Text.Item.BaseballIdle	Бейсбол - павза	Baseball Pose	Pose base-ball 
 Text.Item.CombShiv	Заточений гребінець	Kammklinge	Peigne taillé	Peine-pincho	Гребень-заточ	Coltello pettine	梳子剃刀	くしナイフ			
 Text.Item.CounterWeight	Противага	Gegengewicht	Contrepoids	Contrapeso	Противовес	Contrappeso	配重	おもり			
 Text.Item.CupOfTea	Кухлик чаю	Tasse Tee	Tasse de thé	Taza de té	Чашка чая	Tazza di tè	一杯茶	紅茶入りマグ			
-Text.Item.GliderSkin	Покриття плянера	Gleiter-Bespannung	Toile de planeur	Tela para planeador	Парус дельтапл.	Tessuto per aliante	滑翔机外壳	グライダーカバー			
+Text.Item.GliderSkin	Покриття планера	Gleiter-Bespannung	Toile de planeur	Tela para planeador	Парус дельтапл.	Tessuto per aliante	滑翔机外壳	グライダーカバー			
 Text.Item.JugglingIdle	Жонґлювання - павза	Jonglier-Pose	Pose jonglage	Pose de malabares	Жонглир. — пауза	Posa giocoliere	闲置杂耍球	ジャグリング人形			
 Text.Item.LaxativeMix	Проносне	Abführmittel	Mélange de laxatif	Mezcla laxante	Слабительное	Mix lassativo	泻药	下剤ミックス			
 Text.Item.MakeshiftHarness	Саморобне кріплення	Provisorisches Gurtzeug	Harnais de fortune	Arnés improvisado	Самодельная страховка	Imbragatura di fortuna	临时用马具	簡易ハーネス			
@@ -193,7 +193,7 @@ Text.Item.GlassShank	Скляна заточка	Glasmesser	Lame de verre	Cuchil
 Text.Item.GlueReadiedFurniture	Склеєний виріб	Mit Leim vorbereitetes Möbelstück	Meuble monté	Mueble reparado con cola	Проклеенная мебель	Mobile preparato con colla	上好胶的家具	接着済みの家具			
 Text.Item.MakeshiftCosh	Саморобий кий	Provisorischer Knüppel	Gourdin de fortune	Arma improvisada	Самодельн. дубинка	Randello di fortuna	临时用短棍	即席こん棒			
 Text.Item.MakeshiftRocketThruster	Саморобний ракетний рушій	Provisorische Raketendüse	Propulseur de fortune	Propulsor improvisado	Самодельный ракетный двигатель	Propulsore di fortuna	临时用火箭推进器	簡易ジェット装置			
-Text.Item.MoltenPlastic	Розтоплений плястик	Geschmolzenes Plastik	Plastique fondu	Plástico derretido	Расплавл. пластик	Plastica fusa	熔化的塑料	溶けたプラスチック			
+Text.Item.MoltenPlastic	Розтоплений пластик	Geschmolzenes Plastik	Plastique fondu	Plástico derretido	Расплавл. пластик	Plastica fusa	熔化的塑料	溶けたプラスチック			
 Text.Item.MusicWashboard	Музична дошка для прання	Musik-Waschbrett	Planche à laver musicale	Tabla de lavar musical	Музык. стир. доска	Washboard	音乐搓板	演奏用ウォッシュボード			
 Text.Item.PaperMache	Пап’є-маше	Pappmaché	Papier mâché	Papel maché	Папье-маше	Cartapesta	纸模	張り子紙			
 Text.Item.Sling	Канат	Schleuder	Lance-pierre	Honda	Канат	Fionda	吊带	パチンコ			
@@ -212,7 +212,7 @@ Text.Item.FakeAudioEquipment	Несправжнє звукове обладна�
 Text.Item.FakeFence	Несправжня огорожа	Falscher Zaun	Fausse clôture	Valla falsa	Фальш. заграж.	Recinzione finta	仿制篱笆	偽フェンス			
 Text.Item.GrappleHead	Голівка гаку	Greifkopf	Tête de grappin	Cabeza de gancho	Захват	Gancio	抓钩头部	フックヘッド			
 Text.Item.GunMakerKit	Набір для виготовлення зброї	Schusswaffen-Bastelset	Pièces de pistolet	Kit de armas	Набор для изгот. оружия	Kit pistola	制枪套件	銃作成キット			
-Text.Item.HalfFrameOfGlider	Пів рама плянера	Halber Gleiterrahmen	Demi cadre de planeur	Medio bastidor de planeador	1/2 каркаса дельтаплана	Metà telaio per aliante	滑翔机半副骨架	グライダーフレーム（半分）			
+Text.Item.HalfFrameOfGlider	Пів рама планера	Halber Gleiterrahmen	Demi cadre de planeur	Medio bastidor de planeador	1/2 каркаса дельтаплана	Metà telaio per aliante	滑翔机半副骨架	グライダーフレーム（半分）			
 Text.Item.HalfSlingshotTrebuchetSupportFrame	Пів головної рами требушета	Halber Tribok-Unterstützungsrahmen	Demi cadre de trébuchet	Medio bastidor de base de catapulta	Половина подставки под катапульту	Metà telaio per catapulta	半具投石机支撑骨架	投石機のサポートフレームの片方			
 Text.Item.HeartRateSlower	Уповільнювач пульсу	Herzschlag-Verlangsamer	Ralentisseur de rythme cardiaque	Ralentizador de latidos	Замедлитель пульса	Rallentatore di battito cardiaco	心率减慢器	心拍数低下装置			
 Text.Item.HiddenCompartment	Схованка	Verstecktes Fach	Compartiment secret	Compartimento secreto	Тайник	Scomparto segreto	隐藏隔间	隠し場所			
@@ -230,7 +230,7 @@ Text.Item.SleepingGas	Балончик зі снодійним газом	Kanist
 Text.Item.UncookedPie	Сирий пляцок	Rohe Pastete	Tarte à cuire	Pastel sin hacer	Неиспечен. пирог	Torta non cotta	未烹制的馅饼	未調理のパイ			
 Text.Item.WhiteGloves	Білі рукавички	Weiße Handschuhe	Gants blancs	Guantes blancos	Белые перчатки	Paio di guanti bianchi	一副白手套	白い手袋			
 Text.Item.BeautifulPainting	Прекрасний малюнок	Hübsches Gemälde	Tableau de maître	Cuadro bonito	Красивый рисунок	Quadro meraviglioso	漂亮的油画	美しい絵			
-Text.Item.CompleteFrameOfGlider	Готова рама плянера	Fertiger Gleiterrahmen	Cadre complet de planeur	Bastidor de planeador completo	Весь каркас дельтаплана	Telaio per aliante completo	制成的滑翔机骨架	完成したグライダーフレーム			
+Text.Item.CompleteFrameOfGlider	Готова рама планера	Fertiger Gleiterrahmen	Cadre complet de planeur	Bastidor de planeador completo	Весь каркас дельтаплана	Telaio per aliante completo	制成的滑翔机骨架	完成したグライダーフレーム			
 Text.Item.ContrabandPouch	Торбинка для контрабанди	Schmuggelware-Beutel	Pochette de contrebande	Bolsa de contrabando	Сумка д/контраб.	Sacca da contrabbando	违禁品袋	禁制品ポーチ			
 Text.Item.EnergyModule	Енергомодуль	Energiemodul	Module énergétique	Módulo de energía	Энергомодуль	Modulo energia	能量模块	動力モジュール			
 Text.Item.EscapistsFigurine	Статуетка «Втікачі»	Escapists-Figur	Figurine des Escapists	Figura de escapista	Статуэтка Escapists	Statuetta fuggiasco	脱逃者小雕像	脱獄者ドール			
@@ -244,7 +244,7 @@ Text.Item.MakeshiftSpear	Саморобний спис	Provisorischer Speer	Lanc
 Text.Item.MakeshiftStungun	Саморобний електрошокер	Provisorischer Elektroschocker	Pistolet tranquillisant de fortune	Pistola eléctrica improvisada	Самодельный шокер	Storditore di fortuna	临时用电击枪	手作りスタンガン			
 Text.Item.MouldedGun	Виліпок пістоля	Gegossene Schusswaffe	Pistolet moulé	Pistola moldeada	Отлитое оружие	Pistola fatta con stampino	模铸枪	成型銃			
 Text.Item.Nunchuck	Нунчаку	Nunchaku	Nunchaku	Nunchakus	Нунчаки	Nunchaku	双节棍	ヌンチャク			
-Text.Item.PlasticKey	Плястиковий ключ	Plastikschlüssel	Clé en plastique	Llave de plástico	Пласт. ключ	Chiave di plastica	塑料钥匙	プラスチックのカギ			
+Text.Item.PlasticKey	Пластиковий ключ	Plastikschlüssel	Clé en plastique	Llave de plástico	Пласт. ключ	Chiave di plastica	塑料钥匙	プラスチックのカギ			
 Text.Item.PlatedInmateOutfit	Вбрання в’зяня з плитою	Beschichtete Häftlingskleidung	Tenue de détenu plaquée	Uniforme de preso con placas	Усиленная одежда заключ.	Vestiti da detenuto corazzati	带护板的囚犯服装	プレート入り囚人服			
 Text.Item.RaftBase	Основа плота	Floßboden	Base de radeau	Base de balsa	Основание плота	Base per zattera	木筏底座	イカダの基部			
 Text.Item.Sail	Вітрило	Segel	Voile	Vela	Парус	Vela	帆	帆			
@@ -268,7 +268,7 @@ Text.Item.GrapplingHook	Кішка	Enterhaken	Crochet de grappin	Gancho de sujec
 Text.Item.MakeshiftGasMask	Саморобна газова маска	Provisorische Gasmaske	Masque à gaz de fortune	Máscara de gas improvisada	Самодельный респиратор	Maschera antigas di fortuna	临时用防毒面具	簡易ガスマスク			
 Text.Item.MimeIdle	Mime Idle	Pantomime Pose	Pose mime	Pose de mimo	Мим — пауза	Posa mimo	闲置哑剧	パントマイム像			
 Text.Item.Multitool	Багатоцільовий прилад	Allzweckwerkzeug	Outil multifonction	Multiherramienta	Унив. инстр.	Multiattrezzo	多用途工具	マルチツール			
-Text.Item.SkinnedGlider	Шкіряний плянер	Bespannter Gleiter	Planeur avec toile	Planeador con tela	Дельтаплан с парусом	Aliante di tessuto	有外壳的滑翔机	カバー付きグライダー			
+Text.Item.SkinnedGlider	Шкіряний планер	Bespannter Gleiter	Planeur avec toile	Planeador con tela	Дельтаплан с парусом	Aliante di tessuto	有外壳的滑翔机	カバー付きグライダー			
 Text.Item.SuperBaseballBat	Супербейсбольна бита	Toller Baseballschläger	Super batte de base-ball	Bate de béisbol superior	Супербита	Mazza da baseball super	超级棒球棍	スーパーバット			
 Text.Item.SuperMetalBaton	Суперметалевий кийок	Toller Metall-Schlagstock	Super matraque en métal	Porra de metal superior	Супердубинка	Manganello di metallo super	超级金属棒	スーパーメタルバトン			
 Text.Item.SuperWhip	Супербатіг	Tolle Peitsche	Super fouet	Látigo superior	Суперкнут	Frusta super	超级鞭	スーパームチ			
@@ -278,11 +278,11 @@ Text.Item.PurpleKey	Пурпурний ключ	Schlüssel (lila)	Clé violette	
 Text.Item.YellowKey	Жовтий ключ	Schlüssel (gelb)	Clé jaune	Llave amarilla	Желтый ключ	Chiave gialla	黄色钥匙	黄色のカギ			
 Text.Item.CyanKey	Блакитний ключ	Schlüssel (türkis)	Clé cyan	Llave cian	Бирюз. ключ	Chiave azzurra	青色钥匙	水色のカギ			
 Text.Item.GreenKey	Зелений ключ	Schlüssel (grün)	Clé verte	Llave verde	Зелен. ключ	Chiave verde	绿色钥匙	緑色のカギ			
-Text.Item.PlasticRedKey	Червоний плястиковий ключ	Plastikschlüssel (rot)	Clé rouge en plastique	Llave de plástico roja	Красн. пласт. ключ	Chiave rossa di plastica	塑料红钥匙	プラのカギ（赤）			
-Text.Item.PlasticPurpleKey	Пурпурний плястиковий ключ	Plastikschlüssel (lila)	Clé violette en plastique	Llave de plástico lila	Фиол. пласт. ключ	Chiave viola di plastica	塑料紫钥匙	プラのカギ（紫）			
-Text.Item.PlasticYellowKey	Жовтий плястиковий ключ	Plastikschlüssel (gelb)	Clé jaune en plastique	Llave de plástico amarilla	Желтый пласт. ключ	Chiave gialla di plastica	塑料黄钥匙	プラのカギ（黄）			
-Text.Item.PlasticCyanKey	Блакитний плястиковий ключ	Plastikschlüssel (türkis)	Clé cyan en plastique	Llave de plástico cian	Бирюз. пласт. ключ	Chiave azzurra di plastica	塑料青钥匙	プラのカギ（水色）			
-Text.Item.PlasticGreenKey	Зелений плястиковий ключ	Plastikschlüssel (grün)	Clé verte en plastique	Llave de plástico verde	Зеленый пласт. ключ	Chiave verde di plastica	塑料绿钥匙	プラのカギ（緑）			
+Text.Item.PlasticRedKey	Червоний пластиковий ключ	Plastikschlüssel (rot)	Clé rouge en plastique	Llave de plástico roja	Красн. пласт. ключ	Chiave rossa di plastica	塑料红钥匙	プラのカギ（赤）			
+Text.Item.PlasticPurpleKey	Пурпурний пластиковий ключ	Plastikschlüssel (lila)	Clé violette en plastique	Llave de plástico lila	Фиол. пласт. ключ	Chiave viola di plastica	塑料紫钥匙	プラのカギ（紫）			
+Text.Item.PlasticYellowKey	Жовтий пластиковий ключ	Plastikschlüssel (gelb)	Clé jaune en plastique	Llave de plástico amarilla	Желтый пласт. ключ	Chiave gialla di plastica	塑料黄钥匙	プラのカギ（黄）			
+Text.Item.PlasticCyanKey	Блакитний пластиковий ключ	Plastikschlüssel (türkis)	Clé cyan en plastique	Llave de plástico cian	Бирюз. пласт. ключ	Chiave azzurra di plastica	塑料青钥匙	プラのカギ（水色）			
+Text.Item.PlasticGreenKey	Зелений пластиковий ключ	Plastikschlüssel (grün)	Clé verte en plastique	Llave de plástico verde	Зеленый пласт. ключ	Chiave verde di plastica	塑料绿钥匙	プラのカギ（緑）			
 Text.Item.RedKeyCard	Червона ключ-картка	Schlüsselkarte (rot)	Carte magnétique rouge	Tarjeta roja	Кр. ключ-карта	Chiave elettronica rossa	红色门卡	赤色のキーカード			
 Text.Item.PurpleKeyCard	Пурпурна ключ-картка	Schlüsselkarte (lila)	Carte magnétique violette	Tarjeta lila	Фиол. ключ-карта	Chiave elettronica viola	紫色门卡	紫色のキーカード			
 Text.Item.YellowKeyCard	Жовта ключ-картка	Schlüsselkarte (gelb)	Carte magnétique jaune	Tarjeta amarilla	Желтая ключ-карта	Chiave elettronica gialla	黄色门卡	黄色のキーカード			
