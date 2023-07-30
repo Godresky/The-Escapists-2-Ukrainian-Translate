@@ -3,7 +3,7 @@ Text.Item.AdrenalineShot	Доза адреналіну	Adrenalinschuss	Dose d'ad
 Text.Item.Aftershave	Крем після бриття	Aftershave	Bouteille d'après-rasage	Loción para después del afeitado	Лосьон после бритья	Bottiglia di dopobarba	一瓶须后水	シェーブローション			
 Text.Item.OldBox	Стара коробочка	Alte Schachtel	Vieille boîte	Caja vieja	Коробка	Vecchia scatola	旧盒子	古い箱			
 Text.Item.Foil	Рулон фолії	Alufolie	Rouleau d'aluminium	Papel de aluminio	Рулон фольги	Rotolo di alluminio	一卷锡箔纸	アルミホイル			
-Text.Item.BalsaWood	Бальсове деревина	Balsaholz	Balsa	Madera de balsa	Пробк. дерево	Legno di balsa	轻木	バルサ材			
+Text.Item.BalsaWood	Бальсова деревина	Balsaholz	Balsa	Madera de balsa	Пробк. дерево	Legno di balsa	轻木	バルサ材			
 Text.Item.MedicalMesh	Медична сітка	Bandage	Gaze	Venda médica	Мед. сетка	Benda medica	医用绷带	医療用メッシュ			
 Text.Item.Baseball	М’ячик	Baseball	Balle de base-ball	Pelota de béisbol	Бейсбол	Palla da baseball	棒球	ボール			
 Text.Item.BaseballMitt	Бейсбольна рукавичка	Baseballhandschuh	Gant de base-ball	Guante de béisbol	Бейсб. перчатка	Guanto da baseball	棒球手套	グローブ			
