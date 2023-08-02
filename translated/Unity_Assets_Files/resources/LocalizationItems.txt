@@ -306,7 +306,7 @@ Text.Item.VentCover	Вентиляційна решітка	Lüftungsdeckel	Bouc
 Text.Item.DummiesGuide	Посібник з польотів	Flughandbuch	Manuel de vol	Manual de vuelo	Руков. по полету	Manuale di volo	飞行手册	飛行マニュアル			
 Text.Item.RockHammer	Молоточок	Presslufthammer	Marteau de géologue	Martillo de roca	Альпеншток	Martello da roccia	石锤	ロックハンマー			
 Text.Item.MedicOutfit	Вбрання лікаря	Sanitäter-Kleidung	Tenue de médecin	Uniforme de médico	Одежда медика	Vestiti da medico	医生服装	医務官の服			
-Text.Item.JuicyWorm	Juicy Worm	Saftiger Wurm	Ver juteux	Gusano jugoso	Дожд. червяк	Verme succoso	多汁的虫子	ぶっといミミズ			
+Text.Item.JuicyWorm	Гробак	Saftiger Wurm	Ver juteux	Gusano jugoso	Дожд. червяк	Verme succoso	多汁的虫子	ぶっといミミズ			
 Text.Item.HardHat	Hard Hat	Schutzhelm	Casque de chantier	Casco de obra	Каска	Elmetto	硬帽子	ヘルメット			
 Text.Item.Salmon	Salmon	Lachs	Saumon	Salmón	Лосось	Salmone	鲑鱼	シャケ			
 Text.Item.FishingRod	Fishing Rod	Angel	Canne à pêche	Caña de pescar	Удочка	Canna da pesca	鱼竿	釣り竿			
@@ -329,7 +329,7 @@ Text.Item.MailbagGreen	Мішок зі зеленою поштою	Postsack (gr�
 Text.Item.MailbagRed	Мішок з червоною поштою	Postsack (rot)	Sac de courrier rouge	Bolsa de correo roja	Кр. почт. сумка	Borsa postale rossa	红色邮袋	郵便袋（赤）			
 Text.Item.WeakBaton	М’який кийок	Gepolsterter Schlagstock	Matraque capitonnée	Porra acolchada	Мягкая дубинка	Manganello imbottito	带垫子的短棍	パッド入り警棒			
 Text.Item.ColouredBox	Розписана коробка	Farbige Schachtel	Boîte colorée	Caja pintada	Цветная коробка	Scatola colorata	带色盒子	カラーボックス			
-Text.Item.Harmonica	Harmonica	Harmonika	Harmonica	Armónica	Губн. гарм.	Armonica	口琴	ハーモニカ			
+Text.Item.Harmonica	Harmonica	Позитва	Harmonica	Armónica	Губн. гарм.	Armonica	口琴	ハーモニカ			
 Text.Item.InflatableAlien	Inflatable Alien	Aufblasbares Alien	Extraterrestre gonflable	Extraterrestre inflable	Надувной пришелец	Alieno gonfiabile	充气外星人	風船エイリアン			
 Text.Item.KeyMouldGreen	Виліпок зеленого ключа	Schlüsselform (grün)	Moule à clé verte	Molde de llave verde	Слепок зел. ключа	Stampo di chiave verde	绿色钥匙模具	カギの型（緑）			
 Text.Item.Microchip	Мікрочип	Mikrochip	Puce électronique	Microchip	Микрочип	Microchip	芯片	マイクロチップ			
@@ -357,11 +357,11 @@ Text.Item.Flour	Пачка муки	Mehlbeutel	Sac de farine	Saco de harina	Ме
 Text.Item.RobotOfficerOutfit	Однострій наглядача	Wärter-Kleidung	Tenue de gardien	Uniforme de guardia	Форма охранника	Vestiti da guardia	守卫服装	看守の服			
 Text.Item.POWOutfit	Вбрання в’язня	Häftlingskleidung	Tenue de détenu	Uniforme de preso	Одежда заключ.	Vestiti da detenuto	囚犯服装	囚人服			
 Text.EquipmentStat.DamageReduction.Unassigned	Н /Д	N/A	S/O	N/D	Н/Д	N/A	无	なし			
-Text.EquipmentStat.DamageReduction.Low	Low	Niedrig	Faible	Bajo	Низк.	Bassa	低	低			
-Text.EquipmentStat.DamageReduction.Medium	Medium	Mittel	Moyenne	Medio	Средн.	Media	中	中			
-Text.EquipmentStat.DamageReduction.High	High	Hoch	Élevée	Alto	Высок.	Alta	高	高			
+Text.EquipmentStat.DamageReduction.Low	Низький	Niedrig	Faible	Bajo	Низк.	Bassa	低	低			
+Text.EquipmentStat.DamageReduction.Medium	Середній	Mittel	Moyenne	Medio	Средн.	Media	中	中			
+Text.EquipmentStat.DamageReduction.High	Високий	Hoch	Élevée	Alto	Высок.	Alta	高	高			
 Text.Item.TubeOfArtPaintsB	Тюбик художньої фарби	Tube Künstlerfarbe	Tube de peinture	Tubo de pinturas	Тюбик краски	Tubetto di pittura	美术颜料管	絵の具			
-Text.EquipmentStat.Damage.Highest	Highest	Max.	Max.	Max.	Максимум	Max.	最高	最強			
+Text.EquipmentStat.Damage.Highest	Найвищий	Max.	Max.	Max.	Максимум	Max.	最高	最強			
 Text.Item.RedKeyCardCopy	Матриця червоної ключ-картки	Schlüsselkarten-Form (rot)	Moule de carte magnétique rouge	Molde de tarjeta roja	Слепок кр. ключ-карты	Stampo chiave elettronica rossa	红色	キーカードの型（赤）			
 Text.Item.PurpleKeyCardCopy	Матриця пурпурової ключ-картки	Schlüsselkarten-Form (lila)	Moule de carte magnétique violette	Molde de tarjeta lila	Слепок фиол. ключ-карты	Stampo chiave elettronica viola	红色门卡模具	キーカードの型（紫）			
 Text.Item.YellowKeyCardCopy	Матриця жовтої ключ-картки	Schlüsselkarten-Form (gelb)	Moule de carte magnétique jaune	Molde de tarjeta amarilla	Слепок желтой ключ-карты	Stampo chiave elettronica gialla	紫色门卡模具	キーカードの型（黄）			
