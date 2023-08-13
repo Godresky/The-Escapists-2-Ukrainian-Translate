@@ -930,277 +930,277 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Inmates.Showers	"Голова болить, не зараз"	"Nicht jetzt, hab Kopfweh."	"Non merci, j'ai la migraine."	"Ahora no, me duele la cabeza."	"Не сейчас, голова болит"	"Non ora, ho mal di testa"	现在不行， 头疼着呢	今はちょっと頭痛が…			
 &Text.Inmates.Ignore	Се не моя справа	Nicht mein Bier.	C'est pas mes affaires.	No es asunto mío.	Это не мое дело	Non sono affari miei	跟我没关系	どうでもいい			
 &Text.NPC.DiscoverEscapeAttemptIgnore	Мене це не стосується	Nicht mein Bier.	Pas mes affaires.	No es asunto mío.	Не мое дело	Non mi riguarda	跟我没关系	知ったことか			
-&Text.Guards.EscapeAttempt	Not on my watch!	Nicht mit mir!	Pas de ça avec moi !	¡No durante mi turno!	Не в мою смену!	Non nel mio turno!	有我在就别想！ 	ナメやがって！			
-&Text.Inmates.Banter	Not sure how I feel about that	"Nicht sicher, wie ich darüber denke."	Ça me laisse perplexe.	No estoy seguro de si me gusta esto.	"Не знаю, что и думать по этому поводу"	Non so come dovrei sentirmi	我也不知道自己作何感想	なんとも言えない感じだ			
-&Text.Inmates.FoodHall	Not while I'm eating...	"Nicht, während ich esse ..."	Pas quand je mange...	No mientras estoy comiendo...	И пока я ем...	Non mentre sto mangiando...	我在吃饭呢， 不行……	食事中は話しかけるな…			
-&Text.Inmate.Snitch.Character.Dislike	Not while I'm around! Guards!	"Nicht, wenn ich da bin! Wärter!"	Pas tant que je serai là ! Gardiens !	¡No en mi presencia! ¡Guardias!	Только через мой труп! Охрана!	Non mentre ci sono io! Guardie!	有我在就别想！ 守卫！ 	こんなの許せねえ、 看守さん！			
-&Text.Guards.Showers	Nothing like a freezing shower to wake you up!	"Nichts besseres, als eine eiskalte Dusche, um aufzuwachen!"	Rien de tel qu'une douche glacée pour se réveiller !	¡No hay nada como una ducha helada para despertarse!	"Ничто не пробуждает лучше, чем ледяной душ!"	Niente di meglio di una doccia gelata per svegliarvi!	没什么比冰水澡更能让人清新的了！ 	冷たいシャワーは眠気覚ましに最高だ！			
-&Text.NPC.Maintenance.Idle	Doing nothing is exhausting	Nichts tun ist anstrengend.	C'est fatigant de rien faire.	No hacer nada cansa mucho.	Ничегонеделание выматывает	Non fare niente è stancante	无所事事好累啊	何もしないのは本当に疲れる			
-&Text.Guards.FoodHall	Leave none to waste!	Nichts wird weggeworfen!	Videz les assiettes !	¡No tiréis nada!	Чтоб все доели!	Non lasciate nulla!	不要浪费！ 	残すなよ、 もったいない！			
-&Text.Inmates.PlayerRep3	Nothing to report	Nichts zu berichten.	Rien à signaler.	Sin novedades.	Нечего докладывать	Nulla da dire	没什么需要报告的	報告などしない			
-&Text.Guards.RollCallMain	No one escapes on my watch	"Niemand entkommt, wenn ich da bin."	Je vous surveille TOUS.	Nadie se escapa durante mi turno.	В мою смену никто не сбежит	Nessuno evade quando ci sono io	有我在， 谁都别想逃跑	ひとりの脱獄者も許すものか			
-&Text.NPC.Warden	No one escapes on my watch	"Niemand entkommt, wenn ich da bin."	Je vous surveille TOUS.	Nadie se escapa durante mi turno.	В мою смену никто не сбежит	Nessuno evade quando ci sono io	有我在， 谁都别想逃跑	ひとりの脱獄者も出すものか			
-&Text.Guard.Heat	Accept your fate	Nimm dein Schicksal an.	Accepte ton destin.	Acepta tu destino.	Смирись с судьбой	Accetta il tuo destino	接受你的命运吧	運命を受け入れろ			
-&Text.Guard.Stealing	Get your hands away from there!	Nimm deine Hände da weg!	Vire tes sales pattes de là !	¡Saca las manos de ahí!	Руки прочь от меня!	Leva le mani da lì!	别碰那里！ 	その手を放せ！			
-&Text.Inmates.FoodHall	Get yo' elbows out my food!	Nimm den Ellenbogen aus meinem Essen!	Sors tes coudes de mon assiette !	¡Saca tus codos de mi comida!	Убери локти из моей еды!	Togli il gomito dal mio cibo!	你的胳膊肘碰到我的食物了！ 	その肘をどけろ！			
-&Text.Inmates.Banter	Take my hand	Nimm meine Hand.	Prends ma main.	Dame la mano.	Возьми меня за руку	Dammi la mano	抓住我的手	わが手を取りたもう			
-&Text.NPC.Counselor	Take a seat	Nimm Platz.	Assieds-toi.	Toma asiento.	Садитесь	Accomodati	坐吧	座りたまえ			
-&Text.NPC.MedicCarrying	Took it like a champ	Nimmt’s wie ein Mann.	Il l'a pris comme un pro.	Se lo ha tomado genial.	Перенес это как мужик	Ha avuto coraggio	勇敢点， 吃下去	こっぴどくやられたな			
-&Text.NPC.Maintenance.Idle	Nothin' on the telly...	Nix im Fernsehen ...	Il n'y a rien à la télé...	No hay nada en la tele...	По телеку ничего...	Niente in tv...	没什么好看的节目……	テレビは何もやっていない…			
-&Text.NPC.Chef	Another one burned!	Noch einer verbrannt!	Encore un de cramé !	¡Otro quemado!	Еще одно подгорело!	Bruciato anche questo!	又烧糊一个！ 	また焦がしたぁ！			
-&Text.Inmates.FoodHall	Nom nom	Nom nom	Miam.	"Ñam, ñam."	Ням-ням	Gnam gnam	*咀嚼*	モグモグ			
-&Text.Inmates.Banter	Well that was unexpected	"Nun, das war unerwartet."	"Eh bien, c'était inattendu."	Eso no me lo esperaba.	Это было неожиданно	"Beh, questo non me l’aspettavo"	没想到啊	まあ、 予想外だったよ			
-&Text.Inmates.FoodHall	Only a couple of flies in this one	Nur ein paar Fliegen in dem.	Juste quelques mouches dans celui-là.	Este solo tiene un par de moscas.	Всего пара мух попала	Ho trovato solo un paio di mosche qui	这里面只有一两只苍蝇而已	ハエが2匹ならマシか…			
-&Text.Inmates.GuardBanter	"Quite frankly, you're all scumbags..."	Offen gesagt seid ihr Abschaum ...	"Franchement, vous n'êtes que des vauriens..."	"Sinceramente, sois basura..."	"Скажу вам честно, вы все мрази..."	"Detto francamente, siete solo feccia..."	坦白说， 你们就是一帮人渣……	率直に言って、 おまえら全員クズだ…			
-&Text.NPC.MedicCarrying	Oh... did I pause the film?	Oh ... hab ich den Film angehalten?	Oh... J'ai appuyé sur pause ?	Vaya... ¿he parado la peli?	О... я поставил на паузу?	"Oh, ho messo in pausa il film?"	噢……我刚刚把电影暂停了吗？	あ…ビデオは止めたっけ？			
-&Text.NPC.Medic	"Oh, he was pronounced DOA"	"Oh, der war schon bei Ankunft tot."	"Oh, il était déjà mort."	Lo dieron por muerto en el acto.	"О, сказали, умер по дороге"	"Oh, l’avevano dichiarato morto"	哦， 他到达时已死亡	ああ、 着いた時にはもう死んでた			
-&Text.Inmates.Showers	Oh they are eyeballing you right now	"Oh, die glotzen dich gerade an."	"Oh, on te reluque, là."	"Vaya, ahora mismo te están mirando."	Они пялятся на тебя прямо сейчас	Ti stanno fissando	哦， 他们现在就在盯着你呢	あいつら、 あんたを舐めるように見てんぞ			
+&Text.Guards.EscapeAttempt	Не на моїй зміні!	Nicht mit mir!	Pas de ça avec moi !	¡No durante mi turno!	Не в мою смену!	Non nel mio turno!	有我在就别想！ 	ナメやがって！			
+&Text.Inmates.Banter	Не певен, що я про це думаю	"Nicht sicher, wie ich darüber denke."	Ça me laisse perplexe.	No estoy seguro de si me gusta esto.	"Не знаю, что и думать по этому поводу"	Non so come dovrei sentirmi	我也不知道自己作何感想	なんとも言えない感じだ			
+&Text.Inmates.FoodHall	Тільки не тоді, коли я їм...	"Nicht, während ich esse ..."	Pas quand je mange...	No mientras estoy comiendo...	И пока я ем...	Non mentre sto mangiando...	我在吃饭呢， 不行……	食事中は話しかけるな…			
+&Text.Inmate.Snitch.Character.Dislike	Тільки не тоді, коли я поруч! Варто!	"Nicht, wenn ich da bin! Wärter!"	Pas tant que je serai là ! Gardiens !	¡No en mi presencia! ¡Guardias!	Только через мой труп! Охрана!	Non mentre ci sono io! Guardie!	有我在就别想！ 守卫！ 	こんなの許せねえ、 看守さん！			
+&Text.Guards.Showers	Ніщо так не пробуджує, як крижаний душ!	"Nichts besseres, als eine eiskalte Dusche, um aufzuwachen!"	Rien de tel qu'une douche glacée pour se réveiller !	¡No hay nada como una ducha helada para despertarse!	"Ничто не пробуждает лучше, чем ледяной душ!"	Niente di meglio di una doccia gelata per svegliarvi!	没什么比冰水澡更能让人清新的了！ 	冷たいシャワーは眠気覚ましに最高だ！			
+&Text.NPC.Maintenance.Idle	Байдикування виснажує	Nichts tun ist anstrengend.	C'est fatigant de rien faire.	No hacer nada cansa mucho.	Ничегонеделание выматывает	Non fare niente è stancante	无所事事好累啊	何もしないのは本当に疲れる			
+&Text.Guards.FoodHall	Не марнуйте їжу!	Nichts wird weggeworfen!	Videz les assiettes !	¡No tiréis nada!	Чтоб все доели!	Non lasciate nulla!	不要浪费！ 	残すなよ、 もったいない！			
+&Text.Inmates.PlayerRep3	Нема про що повідомляти	Nichts zu berichten.	Rien à signaler.	Sin novedades.	Нечего докладывать	Nulla da dire	没什么需要报告的	報告などしない			
+&Text.Guards.RollCallMain	Жоден не втече на моїй зміні	"Niemand entkommt, wenn ich da bin."	Je vous surveille TOUS.	Nadie se escapa durante mi turno.	В мою смену никто не сбежит	Nessuno evade quando ci sono io	有我在， 谁都别想逃跑	ひとりの脱獄者も許すものか			
+&Text.NPC.Warden	Жоден не втече на моїй зміні	"Niemand entkommt, wenn ich da bin."	Je vous surveille TOUS.	Nadie se escapa durante mi turno.	В мою смену никто не сбежит	Nessuno evade quando ci sono io	有我在， 谁都别想逃跑	ひとりの脱獄者も出すものか			
+&Text.Guard.Heat	Звикни зі своєю долею	Nimm dein Schicksal an.	Accepte ton destin.	Acepta tu destino.	Смирись с судьбой	Accetta il tuo destino	接受你的命运吧	運命を受け入れろ			
+&Text.Guard.Stealing	Руки геть!	Nimm deine Hände da weg!	Vire tes sales pattes de là !	¡Saca las manos de ahí!	Руки прочь от меня!	Leva le mani da lì!	别碰那里！ 	その手を放せ！			
+&Text.Inmates.FoodHall	Прибери свої мацаки від моєї їжі!	Nimm den Ellenbogen aus meinem Essen!	Sors tes coudes de mon assiette !	¡Saca tus codos de mi comida!	Убери локти из моей еды!	Togli il gomito dal mio cibo!	你的胳膊肘碰到我的食物了！ 	その肘をどけろ！			
+&Text.Inmates.Banter	Візьми мене за руку	Nimm meine Hand.	Prends ma main.	Dame la mano.	Возьми меня за руку	Dammi la mano	抓住我的手	わが手を取りたもう			
+&Text.NPC.Counselor	Присядь	Nimm Platz.	Assieds-toi.	Toma asiento.	Садитесь	Accomodati	坐吧	座りたまえ			
+&Text.NPC.MedicCarrying	Витримав, як боєць	Nimmt’s wie ein Mann.	Il l'a pris comme un pro.	Se lo ha tomado genial.	Перенес это как мужик	Ha avuto coraggio	勇敢点， 吃下去	こっぴどくやられたな			
+&Text.NPC.Maintenance.Idle	А по телебаченю нічого...	Nix im Fernsehen ...	Il n'y a rien à la télé...	No hay nada en la tele...	По телеку ничего...	Niente in tv...	没什么好看的节目……	テレビは何もやっていない…			
+&Text.NPC.Chef	Знову підгоріло!	Noch einer verbrannt!	Encore un de cramé !	¡Otro quemado!	Еще одно подгорело!	Bruciato anche questo!	又烧糊一个！ 	また焦がしたぁ！			
+&Text.Inmates.FoodHall	Ням-ням	Nom nom	Miam.	"Ñam, ñam."	Ням-ням	Gnam gnam	*咀嚼*	モグモグ			
+&Text.Inmates.Banter	Що ж, це було несподівано	"Nun, das war unerwartet."	"Eh bien, c'était inattendu."	Eso no me lo esperaba.	Это было неожиданно	"Beh, questo non me l’aspettavo"	没想到啊	まあ、 予想外だったよ			
+&Text.Inmates.FoodHall	Тут лише кілька мух	Nur ein paar Fliegen in dem.	Juste quelques mouches dans celui-là.	Este solo tiene un par de moscas.	Всего пара мух попала	Ho trovato solo un paio di mosche qui	这里面只有一两只苍蝇而已	ハエが2匹ならマシか…			
+&Text.Inmates.GuardBanter	"Чесно кажучи, ви всі покидьки..."	Offen gesagt seid ihr Abschaum ...	"Franchement, vous n'êtes que des vauriens..."	"Sinceramente, sois basura..."	"Скажу вам честно, вы все мрази..."	"Detto francamente, siete solo feccia..."	坦白说， 你们就是一帮人渣……	率直に言って、 おまえら全員クズだ…			
+&Text.NPC.MedicCarrying	Ох... а я поставив фільм на павзу?	Oh ... hab ich den Film angehalten?	Oh... J'ai appuyé sur pause ?	Vaya... ¿he parado la peli?	О... я поставил на паузу?	"Oh, ho messo in pausa il film?"	噢……我刚刚把电影暂停了吗？	あ…ビデオは止めたっけ？			
+&Text.NPC.Medic	"Ой, можете констатувати смерть"	"Oh, der war schon bei Ankunft tot."	"Oh, il était déjà mort."	Lo dieron por muerto en el acto.	"О, сказали, умер по дороге"	"Oh, l’avevano dichiarato morto"	哦， 他到达时已死亡	ああ、 着いた時にはもう死んでた			
+&Text.Inmates.Showers	Ох, вони всі витріщаються на тебе	"Oh, die glotzen dich gerade an."	"Oh, on te reluque, là."	"Vaya, ahora mismo te están mirando."	Они пялятся на тебя прямо сейчас	Ti stanno fissando	哦， 他们现在就在盯着你呢	あいつら、 あんたを舐めるように見てんぞ			
 &Text.GuardAlert.Disguise	"Ооо, привіт, незнайомцю!"	"Oh, hallo, Fremder!"	"Salut, toi !"	"¡Oh, hola!"	"Привет, незнакомец!"	"Oh, salve!"	你好， 陌生人！ 	やあ、 新人さん！			
-&Text.Chase.Missing	Oh I'll find 'em... I'll FIND 'EM!	"Oh, ich find sie ... ICH FIND SIE!"	Oh je les trouverai... JE LES TROUVERAI !	Ya lo encontraré... ¡LO ENCONTRARÉ!	Я их найду... Я ИХ НАЙДУ!	"Oh, li troverò... LI TROVERÒ!"	我会找到他们……我会找到他们的！ 	どこへ行った… 見つけてやるぞ！			
-&Text.GuardAlert.Flood	Oh I don't believe this!	"Oh, ich glaub’s nicht!"	"Oh, j'y crois pas !"	¡No me lo puedo creer!	Не могу поверить!	"Oh, non ci credo!"	难以置信！ 	うおっ、 信じられん！			
-&Text.ChatToGuard	Oh I know things...	"Oh, ich weiß Sachen ..."	"Oh, je sais des choses."	Yo sé cosas...	Я повидал жизнь...	Io so delle cose...	噢， 我知道的不少呢……	ああ、 知ってるさ…			
-&Text.Visitor.Leave	Oh is that the time?	"Oh, schon so spät?"	Il est déjà si tard ?	¿Esa hora es?	Уже время?	"Oh, è finito il tempo?"	噢， 时间到了吗？	うおっ、 もうそんな時間か？			
-&Text.Visitor.BanterJoin	Oh and also…	"Oh, und ..."	"Oh, et aussi..."	"Ah, y además..."	И еще...	"Oh, inoltre..."	哦， 另外……	ああ、 それから…			
-&Text.NPC.Gardener	Oh grow up!	"Oh, wachs endlich!"	"Oh, grandis !"	¡Madura!	Повзрослей!	"Oh, cresci!"	长大吧！ 	大きくなれよぉ～！			
-&Text.Guard.Flooding	Oh for….	"Oh, zur ..."	Oh put...	"Oh, por..."	О-о...	"Oh, per..."	我了个……	おいおい…			
-&Text.Inmates.Attacked	Oh?	Oh?	Oh ?	¿Cómo?	О?	Oh?	噢？	うん？			
-&Text.NPC.JobstaffLeaving	Without a job you're nothing…	Ohne Job bist du nichts ...	"Sans emploi, on n'est rien..."	Sin trabajo no eres nada.	Без работы ты никто...	Non sei nessuno senza un lavoro...	没有工作， 你一无是处……	無職の者に価値はない…			
-&Text.Guards.Reported	"Without me, nothing would get sorted!"	Ohne mich würde hier gar nichts laufen!	"Sans moi, rien ne serait fait !"	"¡Sin mí, esto no iría a ninguna parte!"	Без меня был бы полный хаос	Senza di me sarebbe un disastro!	没有我， 什么事都办不好！ 	地道な報告が欠かせない！			
-&Text.Inmates.PlayerRep2	Okay...	Okay ...	Okay...	Vale...	ОК...	Ok...	好吧……	はいはい…			
-&Text.Guards.Gym	My grandma benches more than that	Oma stemmt mehr als das.	Ma grand-mère soulève plus que ça.	Mi abuela levanta más pesas que vosotros.	Моя бабуля и та поднимает груз побольше	Mia nonna fa più piegamenti di voi	我爷爷都比那厉害	うちの婆ちゃんのほうが力があるぞ			
-&Text.Visitor.Banter	Dear old nan's popped her clogs	Omachen hat abgedankt.	Mamie a passé l'arme à gauche.	La abuelita ha petado.	Панночка померла	La nonnina è passata a miglior vita	亲爱的祖母去世了	愛する婆ちゃんにお迎えがきてね			
-&Text.Inmates.Report	OMG! Guards!	OMG! Wärter!	OH ! Gardiens !	¡Eh! ¡Guardias!	О боже! Охрана!	Oddio! Guardie!	老天啊！ 守卫！ 	うわっ、 看守さん！			
-&Text.Visitor.Banter	Grandad's kicked the bucket at last	Opa hat ins Gras gebissen.	Papy a enfin cassé sa pipe.	El abuelo ha estirado la pata.	Дедуля наконец-то склеил ласты	Il nonno ha tirato le cuoia	祖父终于去世了	爺さんがとうとうくたばったよ			
-&Text.Guards.LockdownStart	PACK 'EM UP BOYS - IT'S A LOCKDOWN!	PACKT SIE ZUSAMMEN – DAS IST EINE VERRIEGELUNG!	"EN CELLULE, LES GARS. ÉTAT D'URGENCE !"	"¡EMPAQUETADLOS, ESTO ES UN BLOQUEO!"	"ЗАПИРАЙ ИХ, ПАРНИ — ОБЪЯВЛЕНА ИЗОЛЯЦИЯ!"	"RADUNATELI, RAGAZZI, SIAMO IN LOCKDOWN!"	收拾好东西， 封锁开始了！ 	準備はいいか、 封鎖封鎖だ！			
-&Text.Inmates.MaxPrisonAlertness	Party! Party! Party!	Party! Party! Party!	Que la fête commence !	¡FIESTA! ¡FIESTA! ¡FIESTA!	Вечеринкаааа!!!	Festa! Festa! Festa!	派对！ 派对！ 派对！ 	パーティだ、 パーティ！			
-&Text.Inmates.AttackedRunsAway	Watch your back	Pass auf dich auf.	Attention à toi !	¡Vigila tu espalda!	Оглядывайся почаще	Guardati le spalle	当心身后	背中に気をつけな			
-&Text.Inmates.PlayerRep0	Watch your back	Pass auf dich auf.	Attention à toi !	¡Vigila tu espalda!	Оглядывайся почаще	Guardati le spalle	当心身后	夜道に気をつけな			
-&Text.NPC.Janitor	Watch your step	"Pass auf, wo du hintrittst."	Attention.	¡Mira dónde pisas!	Ступай осторожно	Passate con cautela	当心脚下	注意して歩け			
-&Text.Inmates.DetachedFromEquipment	Tread lightly	Pass auf.	Fais attention.	Ve con cuidado.	Полегче	Vacci piano	步步小心	夜歩きに注意しな…			
-&Text.Inmates.Banter	Tread lightly	Pass auf.	Fais attention.	Ve con cuidado.	Полегче	Vacci piano	步步小心	慎重に歩きな			
-&Text.Inmates.PlayerRep2	Tread lightly	Pass auf.	Fais attention.	Ve con cuidado.	Полегче	Vacci piano	步步小心	用心して歩け			
-&Text.Player.ActionInmate	Best watch it buddy!	"Pass besser auf, Kumpel!"	Fais gaffe à toi !	"¡Ten cuidado, amigo!"	"Смотри у меня, приятель!"	Fai attenzione!	伙计， 保重！ 	気をつけな、 相棒！			
-&Text.Inmates.Gym	Wanna spot me?	Passt du auf?	Tu m'assures ?	¿Quieres ayudarme?	Подстрахуешь меня?	Vuoi osservarmi?	你想阻止我吗？	一緒にやるか？			
-&Text.NPC.Warden	Polish my shoes would ya?	"Polier mir die Schuhe, ja?"	"Cire mes pompes, tu veux ?"	"Límpiame los zapatos, ¿vale?"	Почисти мои сапоги!	Mi lucideresti le scarpe?	帮我擦个鞋好吗？	靴を磨いてくれるかな？			
-&Text.NPC.JobstaffBanter	Try it! Nothing better than a day's work	Probier’s! Nichts ist besser als ein Tag voll Arbeit.	Essaie ! Rien ne vaut une journée de travail.	¡Pruébalo! Nada mejor que un día de trabajo.	Давай! Поработал — и чувствуешь себя человеком.	Provate! Niente di meglio di un giorno di lavoro	试试吧！ 工作一天最开心	一度やってみろ、 労働は最高の美徳だ			
-&Text.NPC.FavourAttention	Psst!	Psst!	Psst !	¡Tss!	Пс-ст!	Psss!	嘶！ 	ちょっと！			
-&Text.Guards.Gym	"LOAD THOSE GUNS, CONS!"	"PUMPT DIE MUSKELN, KNACKIS!"	"ALLEZ, ON SORT LES MUSCLES !"	"¡CARGAD ESOS MÚSCULOS, CACOS!"	"ЗАРЯДИТЕ ЭТИ СТВОЛЫ, ЗЭКИ!"	"USATE I MUSCOLI, FECCIA!"	罪犯们， 给枪上子弹！ 	気合を入れろ、 囚人ども！			
-&Text.NPC.Maintenance	Quality craftsmanship!	Qualitätsarbeit!	Un travail de qualité !	¡Un trabajo de calidad!	Высочайшее качество!	Che maestria!	优质做工！ 	優れた職人わざ！			
-&Text.Visitor.Greet	Guess what…	Rate mal ...	Devine quoi...	¿Adivinar qué?	Не угадаешь...	Indovina...	你猜发生了什么……	なんだと思う…			
-&Text.Inmates.Banter	Guess what I just heard...	"Rate, was ich gerade gehört habe."	Devine ce que j'ai entendu...	Adivina de qué me he enterado...	"Угадай, что я только что услышал"	Indovina cosa ho appena sentito	你知道我刚听说了啥吗……	すげえこと聞いちまった…			
-&Text.Guards.LockdownStart	Guess what? LOCKDOWN!	Ratet mal? VERRIEGELUNG!	Devinez : ÉTAT D'URGENCE !	¿Adivina qué? ¡UN BLOQUEO!	"Угадай, что? ИЗОЛЯЦИЯ!"	Indovinate... LOCKDOWN!	你猜怎么着？封锁开始了！ 	こりゃ何かって？施設封鎖だ！			
+&Text.Chase.Missing	О, я знайду його... Я ЗНАЙДУ ЙОГО!	"Oh, ich find sie ... ICH FIND SIE!"	Oh je les trouverai... JE LES TROUVERAI !	Ya lo encontraré... ¡LO ENCONTRARÉ!	Я их найду... Я ИХ НАЙДУ!	"Oh, li troverò... LI TROVERÒ!"	我会找到他们……我会找到他们的！ 	どこへ行った… 見つけてやるぞ！			
+&Text.GuardAlert.Flood	Ой, не можу в це повірити!	"Oh, ich glaub’s nicht!"	"Oh, j'y crois pas !"	¡No me lo puedo creer!	Не могу поверить!	"Oh, non ci credo!"	难以置信！ 	うおっ、 信じられん！			
+&Text.ChatToGuard	Ох, я багато чого знаю...	"Oh, ich weiß Sachen ..."	"Oh, je sais des choses."	Yo sé cosas...	Я повидал жизнь...	Io so delle cose...	噢， 我知道的不少呢……	ああ、 知ってるさ…			
+&Text.Visitor.Leave	Ой, вже час?	"Oh, schon so spät?"	Il est déjà si tard ?	¿Esa hora es?	Уже время?	"Oh, è finito il tempo?"	噢， 时间到了吗？	うおっ、 もうそんな時間か？			
+&Text.Visitor.BanterJoin	О, а ще…	"Oh, und ..."	"Oh, et aussi..."	"Ah, y además..."	И еще...	"Oh, inoltre..."	哦， 另外……	ああ、 それから…			
+&Text.NPC.Gardener	Ой, та вирости вже!	"Oh, wachs endlich!"	"Oh, grandis !"	¡Madura!	Повзрослей!	"Oh, cresci!"	长大吧！ 	大きくなれよぉ～！			
+&Text.Guard.Flooding	Ось би…	"Oh, zur ..."	Oh put...	"Oh, por..."	О-о...	"Oh, per..."	我了个……	おいおい…			
+&Text.Inmates.Attacked	Га?	Oh?	Oh ?	¿Cómo?	О?	Oh?	噢？	うん？			
+&Text.NPC.JobstaffLeaving	Без роботи ви ніщо…	Ohne Job bist du nichts ...	"Sans emploi, on n'est rien..."	Sin trabajo no eres nada.	Без работы ты никто...	Non sei nessuno senza un lavoro...	没有工作， 你一无是处……	無職の者に価値はない…			
+&Text.Guards.Reported	"Що б вони всі робили без мене!"	Ohne mich würde hier gar nichts laufen!	"Sans moi, rien ne serait fait !"	"¡Sin mí, esto no iría a ninguna parte!"	Без меня был бы полный хаос	Senza di me sarebbe un disastro!	没有我， 什么事都办不好！ 	地道な報告が欠かせない！			
+&Text.Inmates.PlayerRep2	Гаразд...	Okay ...	Okay...	Vale...	ОК...	Ok...	好吧……	はいはい…			
+&Text.Guards.Gym	Та навіть моя бабуся вижимає більше	Oma stemmt mehr als das.	Ma grand-mère soulève plus que ça.	Mi abuela levanta más pesas que vosotros.	Моя бабуля и та поднимает груз побольше	Mia nonna fa più piegamenti di voi	我爷爷都比那厉害	うちの婆ちゃんのほうが力があるぞ			
+&Text.Visitor.Banter	Люба бабуся не топтатиме більше рясу	Omachen hat abgedankt.	Mamie a passé l'arme à gauche.	La abuelita ha petado.	Панночка померла	La nonnina è passata a miglior vita	亲爱的祖母去世了	愛する婆ちゃんにお迎えがきてね			
+&Text.Inmates.Report	О, БОЖЕ! Варто!	OMG! Wärter!	OH ! Gardiens !	¡Eh! ¡Guardias!	О боже! Охрана!	Oddio! Guardie!	老天啊！ 守卫！ 	うわっ、 看守さん！			
+&Text.Visitor.Banter	Дід зрештою відкинув копита	Opa hat ins Gras gebissen.	Papy a enfin cassé sa pipe.	El abuelo ha estirado la pata.	Дедуля наконец-то склеил ласты	Il nonno ha tirato le cuoia	祖父终于去世了	爺さんがとうとうくたばったよ			
+&Text.Guards.LockdownStart	ПАКУЙТЕ ЇХ, ХЛОПЦІ - ЦЕ ЗАМИКАННЯ!	PACKT SIE ZUSAMMEN – DAS IST EINE VERRIEGELUNG!	"EN CELLULE, LES GARS. ÉTAT D'URGENCE !"	"¡EMPAQUETADLOS, ESTO ES UN BLOQUEO!"	"ЗАПИРАЙ ИХ, ПАРНИ — ОБЪЯВЛЕНА ИЗОЛЯЦИЯ!"	"RADUNATELI, RAGAZZI, SIAMO IN LOCKDOWN!"	收拾好东西， 封锁开始了！ 	準備はいいか、 封鎖封鎖だ！			
+&Text.Inmates.MaxPrisonAlertness	Вечірка! Вечірка! Вечірка!	Party! Party! Party!	Que la fête commence !	¡FIESTA! ¡FIESTA! ¡FIESTA!	Вечеринкаааа!!!	Festa! Festa! Festa!	派对！ 派对！ 派对！ 	パーティだ、 パーティ！			
+&Text.Inmates.AttackedRunsAway	Стережи спину	Pass auf dich auf.	Attention à toi !	¡Vigila tu espalda!	Оглядывайся почаще	Guardati le spalle	当心身后	背中に気をつけな			
+&Text.Inmates.PlayerRep0	Стережи спину	Pass auf dich auf.	Attention à toi !	¡Vigila tu espalda!	Оглядывайся почаще	Guardati le spalle	当心身后	夜道に気をつけな			
+&Text.NPC.Janitor	Слідкуй, куди стаєш	"Pass auf, wo du hintrittst."	Attention.	¡Mira dónde pisas!	Ступай осторожно	Passate con cautela	当心脚下	注意して歩け			
+&Text.Inmates.DetachedFromEquipment	Обережніше	Pass auf.	Fais attention.	Ve con cuidado.	Полегче	Vacci piano	步步小心	夜歩きに注意しな…			
+&Text.Inmates.Banter	Обережніше	Pass auf.	Fais attention.	Ve con cuidado.	Полегче	Vacci piano	步步小心	慎重に歩きな			
+&Text.Inmates.PlayerRep2	Обережніше	Pass auf.	Fais attention.	Ve con cuidado.	Полегче	Vacci piano	步步小心	用心して歩け			
+&Text.Player.ActionInmate	Стеж за собою, друже!	"Pass besser auf, Kumpel!"	Fais gaffe à toi !	"¡Ten cuidado, amigo!"	"Смотри у меня, приятель!"	Fai attenzione!	伙计， 保重！ 	気をつけな、 相棒！			
+&Text.Inmates.Gym	Хочеш підстрахувати мене?	Passt du auf?	Tu m'assures ?	¿Quieres ayudarme?	Подстрахуешь меня?	Vuoi osservarmi?	你想阻止我吗？	一緒にやるか？			
+&Text.NPC.Warden	Почистиш мої чоботи?	"Polier mir die Schuhe, ja?"	"Cire mes pompes, tu veux ?"	"Límpiame los zapatos, ¿vale?"	Почисти мои сапоги!	Mi lucideresti le scarpe?	帮我擦个鞋好吗？	靴を磨いてくれるかな？			
+&Text.NPC.JobstaffBanter	Спробуй! Нема нічого кращого ніж цілий день праці	Probier’s! Nichts ist besser als ein Tag voll Arbeit.	Essaie ! Rien ne vaut une journée de travail.	¡Pruébalo! Nada mejor que un día de trabajo.	Давай! Поработал — и чувствуешь себя человеком.	Provate! Niente di meglio di un giorno di lavoro	试试吧！ 工作一天最开心	一度やってみろ、 労働は最高の美徳だ			
+&Text.NPC.FavourAttention	Пссс!	Psst!	Psst !	¡Tss!	Пс-ст!	Psss!	嘶！ 	ちょっと！			
+&Text.Guards.Gym	"ГОТУЙТЕ ОБЛАДНАННЯ, ПАЦЮКИ!"	"PUMPT DIE MUSKELN, KNACKIS!"	"ALLEZ, ON SORT LES MUSCLES !"	"¡CARGAD ESOS MÚSCULOS, CACOS!"	"ЗАРЯДИТЕ ЭТИ СТВОЛЫ, ЗЭКИ!"	"USATE I MUSCOLI, FECCIA!"	罪犯们， 给枪上子弹！ 	気合を入れろ、 囚人ども！			
+&Text.NPC.Maintenance	Виняткова майстерність!	Qualitätsarbeit!	Un travail de qualité !	¡Un trabajo de calidad!	Высочайшее качество!	Che maestria!	优质做工！ 	優れた職人わざ！			
+&Text.Visitor.Greet	Знаєш що…	Rate mal ...	Devine quoi...	¿Adivinar qué?	Не угадаешь...	Indovina...	你猜发生了什么……	なんだと思う…			
+&Text.Inmates.Banter	Вгадайте, що я щойно почув...	"Rate, was ich gerade gehört habe."	Devine ce que j'ai entendu...	Adivina de qué me he enterado...	"Угадай, что я только что услышал"	Indovina cosa ho appena sentito	你知道我刚听说了啥吗……	すげえこと聞いちまった…			
+&Text.Guards.LockdownStart	Вгадаєте що? ЗАМИКАННЯ!	Ratet mal? VERRIEGELUNG!	Devinez : ÉTAT D'URGENCE !	¿Adivina qué? ¡UN BLOQUEO!	"Угадай, что? ИЗОЛЯЦИЯ!"	Indovinate... LOCKDOWN!	你猜怎么着？封锁开始了！ 	こりゃ何かって？施設封鎖だ！			
 &Text.GuardAlert.DisguiseBeating	Грубе правосуддя - те, що я ОБОЖНЮЮ!	Raue Gerechtigkeit – GEFÄLLT MIR!	J'ADORE la justice brutale !	"Justicia dura, ¡ME ENCANTA!"	Суровое правосудие — ОБОЖАЮ это!	Giustizia brutale... la ADORO!	粗暴的正义。 我喜欢！ 	いいねえ、 これこそ正義だ！			
-&Text.NPC.Chef	Get out of my Kitchen!	Raus aus meiner Küche!	Sors de ma cuisine !	¡Sal de mi cocina!	Убирайся с моей кухни!	Esci dalla mia cucina!	滚出我的厨房！ 	厨房から出てけ！			
-&Text.NPC.MedicDismissFromInfirmary	Get outta here!	Raus hier!	Tire-toi !	¡Fuera de aquí!	Иди сюда!	Esci fuori!	滚出去！ 	さっさと出てけ！			
-&Text.Inmates.Banter	Never tell me the odds	Red nicht von Chancen.	Moi et les probabilités...	No me digas las probabilidades.	Не говори мне о шансах	Non parlarmi di probabilità	别跟我说胜算	確率の話はよせ			
-&Text.Inmates.Banter	Are they talking about me?	Reden sie über mich?	On parle de moi ?	¿Están hablando de mí?	Они обо мне говорят?	Stanno parlando di me?	他们在谈论我吗？	それってオレのことか？			
-&Text.Inmates.Banter	You talkin' to me?	Redest du mit mir?	Tu me parles ?	¿Hablas conmigo?	Ты со мной говоришь?	Dici a me?	你在跟我说话吗？	オレに言ってんのか？			
-&Text.Guards.RollCallStart	Get in line morons!	Reiht euch ein!	"Tous en rang, abrutis !"	"¡En fila, inútiles!"	"Встать в ряд, уроды!"	"In riga, imbecilli!"	蠢货们， 排好队！ 	ちゃんと並べ、 マヌケども！			
-&Text.Inmates.FoodHall	Get that up in ya!	Rein damit!	Avale ça !	¡Cómete eso!	Запихивайте это в себя!	Ingoia tutto!	吃下去！ 	無心で食ええええ！			
-&Text.NPC.Warden	Get your acts together!	Reißt euch zusammen!	Reprenez-vous en main !	¡Poneos las pilas!	Пора взяться за ум!	Mettete la testa a posto!	别吊儿郎当的了！ 	シャキッとしたまえ！			
-&Text.Guards.RollCallMain	Get your acts together	Reißt euch zusammen.	Reprenez-vous.	Poneos las pilas.	Пора взяться за ум	Mettete la testa a posto	别吊儿郎当的了	シャキッとしろ			
+&Text.NPC.Chef	Геть з моєї кухні!	Raus aus meiner Küche!	Sors de ma cuisine !	¡Sal de mi cocina!	Убирайся с моей кухни!	Esci dalla mia cucina!	滚出我的厨房！ 	厨房から出てけ！			
+&Text.NPC.MedicDismissFromInfirmary	Забирайся звідси!	Raus hier!	Tire-toi !	¡Fuera de aquí!	Иди сюда!	Esci fuori!	滚出去！ 	さっさと出てけ！			
+&Text.Inmates.Banter	Не розказуй мені про шанси	Red nicht von Chancen.	Moi et les probabilités...	No me digas las probabilidades.	Не говори мне о шансах	Non parlarmi di probabilità	别跟我说胜算	確率の話はよせ			
+&Text.Inmates.Banter	Це вони про мене?	Reden sie über mich?	On parle de moi ?	¿Están hablando de mí?	Они обо мне говорят?	Stanno parlando di me?	他们在谈论我吗？	それってオレのことか？			
+&Text.Inmates.Banter	Що, ти зі мною говориш?	Redest du mit mir?	Tu me parles ?	¿Hablas conmigo?	Ты со мной говоришь?	Dici a me?	你在跟我说话吗？	オレに言ってんのか？			
+&Text.Guards.RollCallStart	Станьте в ряд, дебіли!	Reiht euch ein!	"Tous en rang, abrutis !"	"¡En fila, inútiles!"	"Встать в ряд, уроды!"	"In riga, imbecilli!"	蠢货们， 排好队！ 	ちゃんと並べ、 マヌケども！			
+&Text.Inmates.FoodHall	Нумо жерти!	Rein damit!	Avale ça !	¡Cómete eso!	Запихивайте это в себя!	Ingoia tutto!	吃下去！ 	無心で食ええええ！			
+&Text.NPC.Warden	Візьміть себе в руки!	Reißt euch zusammen!	Reprenez-vous en main !	¡Poneos las pilas!	Пора взяться за ум!	Mettete la testa a posto!	别吊儿郎当的了！ 	シャキッとしたまえ！			
+&Text.Guards.RollCallMain	Візьміть себе в руки	Reißt euch zusammen.	Reprenez-vous.	Poneos las pilas.	Пора взяться за ум	Mettete la testa a posto	别吊儿郎当的了	シャキッとしろ			
 &Text.Guards.CombatEnded	Поважай кийок	Respektiere den Schlagstock.	Respectez la matraque.	Respeta la porra.	Уважай дубинку	Rispetta il manganello	畏惧警棍吧	警棒を敬え			
-&Text.Inmates.Banter	That's right... 	Richtig ... 	C'est ça... 	Así es... 	О да... 	Giusto... 	没错……	そういうこった…			
-&Text.Inmates.Banter	Can you smell that?	Riechst du das?	Tu sens ça ?	¿Lo puedes oler?	Чувствуешь запах?	Senti questo odore?	你闻到了吗？	何かニオわないか？			
-&Text.Inmates.FoodHall	Smells strange right?	"Riecht komisch, stimmt’s?"	"Ça sent bizarre, hein ?"	"Huele raro, ¿verdad?"	"Странно пахнет, да?"	"Ha un odore strano, vero?"	闻起来怪怪的不是吗？	ニオイが変じゃね？			
-&Text.Guards.Gym	Straighten your back	Rücken gerade!	Les dos bien droits !	Pon la espalda recta.	Выпрями спину	Raddrizzate la schiena	胸挺直	背筋を伸ばせ			
-&Text.Inmates.AttackedRunsAway	Dial 911!	Ruf den Notruf!	S.O.S. !	¡Llama a emergencias!	Наберите 911!	Fai il 911!	打911！ 	ケーサツに電話だ！			
-&Text.Inmates.Showers	Call me	Ruf mich an.	Appelle-moi.	Llámame.	Позвони мне	Chiamami	给我打电话	電話してくれ			
-&Text.Inmates.PlayerRep3	Call me if you need me	"Ruf mich, wenn du mich brauchst."	Appelle si t'as besoin.	Llámame si me necesitas.	"Позови, если я понадоблюсь"	Chiamami se hai bisogno	有需要就打我电话	必要な時は呼べ			
-&Text.NPC.MedicDismissFromInfirmary	Rest it off	Ruh dich aus.	Repose-toi.	Descansa.	Отдохни	Riposati	休息休息就好了	休んでけ			
-&Text.Guards.RollCallMain	Quiet at the back!	Ruhe da hinten!	"Silence, au fond !"	¡Silencio allí al fondo!	Тишина сзади!	"Silenzio, giù in fondo!"	后面别交头接耳！ 	後ろ、 静かに！			
-&Text.Guards.RollCallStart	QUIET! ALL OF YOU!	RUHE! ALLE!	DU CALME ! VOUS TOUS !	¡CALLAOS! ¡TODOS!	ТИХО! ВЫ ВСЕ!	FATE SILENZIO! TUTTI!	肃静！ 都别说话了！ 	静かに！全員だ！			
-&Text.Guard.CharacterStoodOnDesk	Get down!	Runter!	Descends !	¡Abajo!	Слезь!	Scendi!	下来！ 	下りろ！			
-&Text.Guard.CharacterKnockedOut	Easy…	Sachte.	Tout doux...	Tranquilo...	Тише...	Facile...	放轻松……	ちょろいな…			
-&Text.Guard.CharacterAttacking	Say hello to my baton!	Sag Hallo zu meinem Schlagstock!	Dis bonjour à ma matraque !	¡Saluda a mi porra!	Привет от моей дубинки!	Saluta il mio manganello!	和我的警棍打个招呼吧！ 	わが警棒にご挨拶しな！			
-&Text.Inmates.Banter	Say hello to the bad guy	Sag Hallo zum bösen Jungen.	Dis bonjour au méchant.	Saluda al malote.	Поздоровайся с плохим парнем	Saluta il cattivo	和坏蛋打个招呼吧	悪党にご挨拶しな			
-&Text.NPC.Counselor	Tell me what he did…	"Sag mir, was er getan hat."	Dis-moi ce qu'il a fait...	Dime qué ha hecho...	"Расскажите, что он сделал"	Dimmi cosa ha fatto...	告诉我他干了什么……	詳しく聞こうか…			
-&Text.NPC.Counselor	Tell me what happened	"Sag mir, was geschehen ist."	Que s'est-il passé ?	Dime qué ha pasado.	"Расскажи мне, что произошло"	Dimmi cosa è successo	告诉我发生了什么	何があったか聞こう			
+&Text.Inmates.Banter	Правильно... 	Richtig ... 	C'est ça... 	Así es... 	О да... 	Giusto... 	没错……	そういうこった…			
+&Text.Inmates.Banter	Відчуваєш се?	Riechst du das?	Tu sens ça ?	¿Lo puedes oler?	Чувствуешь запах?	Senti questo odore?	你闻到了吗？	何かニオわないか？			
+&Text.Inmates.FoodHall	Запах дивний, чи не так?	"Riecht komisch, stimmt’s?"	"Ça sent bizarre, hein ?"	"Huele raro, ¿verdad?"	"Странно пахнет, да?"	"Ha un odore strano, vero?"	闻起来怪怪的不是吗？	ニオイが変じゃね？			
+&Text.Guards.Gym	Спину рівно	Rücken gerade!	Les dos bien droits !	Pon la espalda recta.	Выпрями спину	Raddrizzate la schiena	胸挺直	背筋を伸ばせ			
+&Text.Inmates.AttackedRunsAway	Викликайте швидку!	Ruf den Notruf!	S.O.S. !	¡Llama a emergencias!	Наберите 911!	Fai il 911!	打911！ 	ケーサツに電話だ！			
+&Text.Inmates.Showers	Зателефонуй мені	Ruf mich an.	Appelle-moi.	Llámame.	Позвони мне	Chiamami	给我打电话	電話してくれ			
+&Text.Inmates.PlayerRep3	Поклич мене, якщо я тобі буду потрібен	"Ruf mich, wenn du mich brauchst."	Appelle si t'as besoin.	Llámame si me necesitas.	"Позови, если я понадоблюсь"	Chiamami se hai bisogno	有需要就打我电话	必要な時は呼べ			
+&Text.NPC.MedicDismissFromInfirmary	Розслабся	Ruh dich aus.	Repose-toi.	Descansa.	Отдохни	Riposati	休息休息就好了	休んでけ			
+&Text.Guards.RollCallMain	Задній ряде, мовчати!	Ruhe da hinten!	"Silence, au fond !"	¡Silencio allí al fondo!	Тишина сзади!	"Silenzio, giù in fondo!"	后面别交头接耳！ 	後ろ、 静かに！			
+&Text.Guards.RollCallStart	ЦИЦЬ! УСІ!	RUHE! ALLE!	DU CALME ! VOUS TOUS !	¡CALLAOS! ¡TODOS!	ТИХО! ВЫ ВСЕ!	FATE SILENZIO! TUTTI!	肃静！ 都别说话了！ 	静かに！全員だ！			
+&Text.Guard.CharacterStoodOnDesk	Злізай!	Runter!	Descends !	¡Abajo!	Слезь!	Scendi!	下来！ 	下りろ！			
+&Text.Guard.CharacterKnockedOut	Спокійно…	Sachte.	Tout doux...	Tranquilo...	Тише...	Facile...	放轻松……	ちょろいな…			
+&Text.Guard.CharacterAttacking	Познайомся з моїм кийком!	Sag Hallo zu meinem Schlagstock!	Dis bonjour à ma matraque !	¡Saluda a mi porra!	Привет от моей дубинки!	Saluta il mio manganello!	和我的警棍打个招呼吧！ 	わが警棒にご挨拶しな！			
+&Text.Inmates.Banter	Скажи привіт поганцю	Sag Hallo zum bösen Jungen.	Dis bonjour au méchant.	Saluda al malote.	Поздоровайся с плохим парнем	Saluta il cattivo	和坏蛋打个招呼吧	悪党にご挨拶しな			
+&Text.NPC.Counselor	Розкажи мені, що він зробив…	"Sag mir, was er getan hat."	Dis-moi ce qu'il a fait...	Dime qué ha hecho...	"Расскажите, что он сделал"	Dimmi cosa ha fatto...	告诉我他干了什么……	詳しく聞こうか…			
+&Text.NPC.Counselor	Розкажи мені, що трапилося	"Sag mir, was geschehen ist."	Que s'est-il passé ?	Dime qué ha pasado.	"Расскажи мне, что произошло"	Dimmi cosa è successo	告诉我发生了什么	何があったか聞こう			
 &Text.Guards.CombatEnded	Лікаря!	Sanitäter!	Médecin !	¡Un médico!	Врача!	Dottore!	医生！ 	ドクター！			
-&Text.Inmates.PlayerRep2	Sorry you feel that way	"Schade, dass du so empfindest."	Dommage.	Siento que pienses así.	"Мне жаль, что ты так думаешь"	Mi spiace ti senta così	你那么认为我很遗憾	そう感じたならすまない			
-&Text.Guards.Gym	Can't hack it?	Schaffst es nicht?	Trop difficile ?	¿No podéis más?	"Что, слабо?"	Non ci riuscite?	搞不定吗？	きついか？			
-&Text.Inmates.Gym	Check out these abs!	Schau dir den Sixpack an!	Regarde mes abdos !	¡Mira estos abdominales!	Зацени пресс!	Guarda che addominali!	看看这些腹肌！ 	どうだ、 この腹筋！			
-&Text.Inmates.Showers	Look away	Schau weg.	Dégage.	No mires.	Отвернись	Non guardare	别看	あっちを向いてろ			
-&Text.Inmates.Showers	Watch his eyes	"Schau, seine Augen."	Regarde-le.	Ojo a dónde mira.	Глянь ему в глаза	Guardalo in faccia	看他的眼睛	ヤツの目を見ろって…			
-&Text.Guard.ContrabandInContainer	Well look what I've found!	"Schau, was ich gefunden hab!"	Regardez ce que j'ai trouvé !	¡Mira lo que he encontrado!	"Смотри, что я нашел!"	"Guarda guarda, cosa ho trovato!"	看看我找到了什么！ 	おやおや、 こんなモノが出てきたぞ！			
-&Text.Inmates.FoodHall	Look what I found in mine!	"Schau, was in meinem war!"	Regarde ce que j'ai trouvé !	¡Mira lo que había en el mío!	"Смотри, что я нашел у себя!"	Guardo cosa ho trovato nel mio!	看看我在食物里找到了啥！ 	すげえもんが入ってたぜ！			
-&Text.NPC.Janitor	It looked like a Great Dane did it!	Schaut aus wie von einer Deutschen Dogge!	On dirait qu'un danois a fait ça !	¡Parece obra de un gran danés!	"Кажется, это сделал немецкий дог!"	Sembra quella di un Alano!	似乎是大丹狗干的！ 	あのバカ犬がやりやがった！			
-&Text.Guards.EscapeAttemptDEMO	Just look at the state of this... It's not even fit for the cons!	Schaut euch diesen Zustand an ... Das geht nicht einmal für Knackis!	Regardez un peu l'état de ce truc... Ce n'est même pas adapté aux détenus !	Solo hay que mirar cómo está esto... ¡Ni siquiera vale para los presos!	"Только посмотрите, на что это похоже... Это место не годится даже для зэков!"	Guarda che condizioni... Non va bene neanche per i galeotti!	看看这儿的状态啊……这里连关罪犯都不合适！ 	こいつを見てくれ…刑務所にしたってひどすぎるぞ！			
-&Text.Guards.Gym	Look at the state of you all... pathetic!	Schaut euch doch an ... erbärmlich!	Regardez dans quel état vous êtes... Pathétiques !	Mirad cómo estáis... ¡patético!	"Посмотрите, на что вы похожи... кучка слизняков!"	Guardate in che stato siete... patetici!	看看你们这帮人的样子……实在可悲！ 	ひどいザマだぞ、 情けない！			
-&Text.Guards.Showers	Look at the state of you all!	Schaut euch nur an!	Regardez dans quel état vous êtes !	¡Mirad cómo estáis!	"Посмотрите, на что вы похожи!"	Guardate in che stato siete!	看看你们这帮人的样子！ 	おまえら、 なんてザマだ！			
-&Text.NPC.Maintenance	Looks good	Schaut gut aus.	Pas mal !	¡Está bien!	Выглядит отлично	Non male	看起来不错	いい感じだ			
-&Text.Guards.RollCallMain	Look at me when I'm speaking!	"Schaut mich an, wenn ich spreche!"	Regardez-moi quand je vous parle !	¡Mírame cuando te hable!	"Смотреть на меня, когда я говорю!"	Guardatemi quando vi parlo!	我说话的时候看着我！ 	話している時はこっちを見ろ！			
-&Text.NPC.MedicCarrying	It's not looking good…	Schaut nicht gut aus ...	Ça se présente mal...	No tiene buena pinta...	Выглядит не очень хорошо...	Non ha un bell’aspetto...	看起来不妙……	まずい感じだ…			
-&Text.Guards.RollCallMain	Don't even look at us unless we say so	"Schaut uns nicht mal an, wenn wir es nicht sagen."	"Sauf ordre contraire, baissez les yeux."	Ni nos miréis a menos que os lo ordenemos.	"Даже не смотрите на нас, пока вас не попросят"	Non guardateci nemmeno se non ve lo diciamo noi	没叫你们看着我们就别看我们	許可なく我々のほうを見るな			
+&Text.Inmates.PlayerRep2	Шкода, що ти так думаєш	"Schade, dass du so empfindest."	Dommage.	Siento que pienses así.	"Мне жаль, что ты так думаешь"	Mi spiace ti senta così	你那么认为我很遗憾	そう感じたならすまない			
+&Text.Guards.Gym	Не можеш витримати?	Schaffst es nicht?	Trop difficile ?	¿No podéis más?	"Что, слабо?"	Non ci riuscite?	搞不定吗？	きついか？			
+&Text.Inmates.Gym	Заціни м’язи живота!	Schau dir den Sixpack an!	Regarde mes abdos !	¡Mira estos abdominales!	Зацени пресс!	Guarda che addominali!	看看这些腹肌！ 	どうだ、 この腹筋！			
+&Text.Inmates.Showers	Відвернися	Schau weg.	Dégage.	No mires.	Отвернись	Non guardare	别看	あっちを向いてろ			
+&Text.Inmates.Showers	Глянь йому в очі	"Schau, seine Augen."	Regarde-le.	Ojo a dónde mira.	Глянь ему в глаза	Guardalo in faccia	看他的眼睛	ヤツの目を見ろって…			
+&Text.Guard.ContrabandInContainer	Ну і ну, що я надибав!	"Schau, was ich gefunden hab!"	Regardez ce que j'ai trouvé !	¡Mira lo que he encontrado!	"Смотри, что я нашел!"	"Guarda guarda, cosa ho trovato!"	看看我找到了什么！ 	おやおや、 こんなモノが出てきたぞ！			
+&Text.Inmates.FoodHall	Диви, що я в себе знайшов!	"Schau, was in meinem war!"	Regarde ce que j'ai trouvé !	¡Mira lo que había en el mío!	"Смотри, что я нашел у себя!"	Guardo cosa ho trovato nel mio!	看看我在食物里找到了啥！ 	すげえもんが入ってたぜ！			
+&Text.NPC.Janitor	Тут наче чорт з очерету пройшовсі!	Schaut aus wie von einer Deutschen Dogge!	On dirait qu'un danois a fait ça !	¡Parece obra de un gran danés!	"Кажется, это сделал немецкий дог!"	Sembra quella di un Alano!	似乎是大丹狗干的！ 	あのバカ犬がやりやがった！			
+&Text.Guards.EscapeAttemptDEMO	Погляньте, як тут все кепсько... Навіть пацюки звідсиля тікають!	Schaut euch diesen Zustand an ... Das geht nicht einmal für Knackis!	Regardez un peu l'état de ce truc... Ce n'est même pas adapté aux détenus !	Solo hay que mirar cómo está esto... ¡Ni siquiera vale para los presos!	"Только посмотрите, на что это похоже... Это место не годится даже для зэков!"	Guarda che condizioni... Non va bene neanche per i galeotti!	看看这儿的状态啊……这里连关罪犯都不合适！ 	こいつを見てくれ…刑務所にしたってひどすぎるぞ！			
+&Text.Guards.Gym	Погляньте на себе... жалюгіддя!	Schaut euch doch an ... erbärmlich!	Regardez dans quel état vous êtes... Pathétiques !	Mirad cómo estáis... ¡patético!	"Посмотрите, на что вы похожи... кучка слизняков!"	Guardate in che stato siete... patetici!	看看你们这帮人的样子……实在可悲！ 	ひどいザマだぞ、 情けない！			
+&Text.Guards.Showers	Подивіться на себе!	Schaut euch nur an!	Regardez dans quel état vous êtes !	¡Mirad cómo estáis!	"Посмотрите, на что вы похожи!"	Guardate in che stato siete!	看看你们这帮人的样子！ 	おまえら、 なんてザマだ！			
+&Text.NPC.Maintenance	Усе ладно	Schaut gut aus.	Pas mal !	¡Está bien!	Выглядит отлично	Non male	看起来不错	いい感じだ			
+&Text.Guards.RollCallMain	Дивіться на мене, коли я розмовляю!	"Schaut mich an, wenn ich spreche!"	Regardez-moi quand je vous parle !	¡Mírame cuando te hable!	"Смотреть на меня, когда я говорю!"	Guardatemi quando vi parlo!	我说话的时候看着我！ 	話している時はこっちを見ろ！			
+&Text.NPC.MedicCarrying	Цей у кепському стані…	Schaut nicht gut aus ...	Ça se présente mal...	No tiene buena pinta...	Выглядит не очень хорошо...	Non ha un bell’aspetto...	看起来不妙……	まずい感じだ…			
+&Text.Guards.RollCallMain	Навіть не дивіться на нас, якщо ми не давали на се згоди	"Schaut uns nicht mal an, wenn wir es nicht sagen."	"Sauf ordre contraire, baissez les yeux."	Ni nos miréis a menos que os lo ordenemos.	"Даже не смотрите на нас, пока вас не попросят"	Non guardateci nemmeno se non ve lo diciamo noi	没叫你们看着我们就别看我们	許可なく我々のほうを見るな			
 &Text.GuardAlert.Disguise	Навряд чи воно того варте, чи не так?	"Scheint es kaum wert zu sein, oder?"	"Ça vaut pas franchement le coup, si ?"	No parece que funcione.	"Кажется, что все напрасно, правда?"	"Non sembra ne valga la pena, vero?"	似乎一点都不值得， 不是吗？	ちっとも見合ってないだろ？			
-&Text.NPC.MedicDismissFromSolitary	Send me a postcard	Schick mir eine Karte.	Envoie-moi une carte.	Envíame una postal.	Отправь мне открытку	Mandami una cartolina	给我寄明信片	たまには葉書をよこせよ！			
-&Text.Inmates.Attacked	You chose poorly	Schlechte Wahl.	T'as mal choisi.	Has elegido mal.	Ты ошибся с выбором	Hai fatto una scelta sbagliata	你选错人了	選択を誤ったな			
-&Text.ChatToGuard	Close your mouth when talking to me!	"Schließ dein Maul, wenn du mit mir sprichst!"	Ferme la bouche quand tu parles !	¡Cierra la boca cuando me hables!	"Закрой рот, когда говоришь со мной!"	Chiudi la bocca quando parli con me!	跟我说话时把嘴闭上！ 	その汚い口を閉じてしゃべれ！			
-&Text.Inmates.FoodHall	Stop chewing down my ear	Schmatz nicht so laut.	Tu me soules.	No mastiques tan cerca.	Хватит чавкать мне в ухо	Non masticarmi nell’orecchio	嚼东西时别靠我那么近	クチャクチャ音を立てるなっての			
-&Text.Guards.FoodHall	Doesn't taste nice? Aww - GOOD.	Schmeckt’s nicht? Ohhh – GUT.	Ce n'est pas bon ? Oooh... TANT MIEUX.	"Sabe bien, ¿verdad? Mmm... RICO."	"Что, невкусно? О-о — ХОРОШО."	"Non è buono? Mmm, BUONO."	不好吃吗？ 噢……妙啊。 	メシが不味いって？何よりだ			
-&Text.Guard.SentToContrabandDesk	Contraband found!	Schmuggelware gefunden!	De la contrebande !	¡Contrabando hallado!	Найдена контрабанда!	Merce di contrabbando!	发现违禁品！ 	禁制品を発見！			
-&Text.Guard.ContrabandInContainer	Contraband eh!	"Schmuggelware, eh?"	De la contrebande ?	"Contrabando, ¿no?"	Контрабанда!	"Contrabbando, eh?"	违禁品！ 	禁制品だ！			
-&Text.NPC.Janitor	Litterbug!	Schmutzfink!	Pollueur !	¡Gusano!	Свинья!	Sozzone!	垃圾虫！ 	ゴミを捨てるな！			
-&Text.Guards.MaxPrisonAlertnessSpotted	GET THEM!	SCHNAPPT SIE!	CHOPEZ-LES !	¡A POR ELLOS!	ДЕРЖИ ИХ!	PRENDETELI!	抓住他们！ 	とっ捕まえろ！			
-&Text.Guards.MaxPrisonAlertnessSpotted	QUICK! GRAB 'EM!	SCHNELL! ERGREIFT SIE!	VITE ! ATTRAPEZ-LES !	¡RÁPIDO! ¡AGÁRRALOS!	СКОРЕЕ! ХВАТАЙ ИХ!	SVELTI! PRENDETELI!	快！ 抓住他们！ 	急げ！ひっ捕らえろ！			
-&Text.NPC.Chef	You hear about the other Chef? He pasta way…	Schon vom anderen Koch gehört? Hat den Löffel abgegeben ...	Tu sais pour l'autre cuistot ? Ses carottes sont cuites...	¿Has oído lo del otro chef? Se fue a freír espárragos...	Ты слышал о другом поваре? Он знает толк в пасте...	Hai sentito dell’altro chef? È passato... a miglior vita	听说另外一个厨师的事了吗？ 他去世了……	前のシェフは味見中に死んだとか…			
-&Text.Lockdown	Not again? 	Schon wieder? 	Encore ?! 	¿Repetimos? 	Опять? 	Di nuovo? 	又来？ 	またか？			
-&Text.Guards.LightsOut	Nice to see the cons all tucked up!	"Schön, wie alle Knackis weggesperrt sind!"	C'est bon de tous les voir enfermés !	¡Me encanta verlos a todos bien arropaditos!	Приятно видеть всех зэков в одной куче!	Bello vedere tutti sotto le coperte!	很高兴见到罪犯们都进牢房了！ 	囚人どもは全員すやすや寝てらぁ！			
-&Text.GuardAlert.Disguise	"Файні сподні, друже!"	"Schöne Hose, Kumpel!"	Sympa le futal !	"¡Bonitos pantalones, tío!"	"Годные штанцы, парниша!"	"Bei pantaloni, collega!"	伙计， 裤子不错啊！ 	いいズボンだな、 相棒！			
-&Text.Inmates.Gym	"No pain, no gain"	Schönheit muss leiden.	On a rien sans rien.	El que algo quiere...	Без боли нет результата	Nessun cambiamento senza dolori	没有付出就没有收获	ラクな道などない			
-&Text.Guards.Reporting	Am I spelling this right?!	Schreib ich das richtig?!	Ça s'écrit comme ça ?!	¡¿Lo estoy escribiendo bien?!	Я правильно произношу?!	L’ho scritto bene?!	我没拼错吧？！ 	この字で合ってるっけ？			
-&Text.Inmates.Showers	Scrub me all over	Schrubb mich ab.	Frotte-moi partout.	Frota por todas partes.	Потри меня хорошенько	Strofinami tutto	擦擦我全身	ケツの穴まで洗ってくれ			
-&Text.Guards.MaxPrisonAlertness	Let the batons swing lads!	"Schwingt die Schlagstöcke, Jungs!"	"Sortez les matraques, les gars !"	"¡Que hablen las porras, chicos!"	"Поработайте дубинками, ребята!"	Fate volteggiare i manganelli!	警棍挥起来！ 	警棒をブンまわせぇ！			
-&Text.Guard.CharacterKnockedOut	See you when you wake up!	"Seh dich, wenn du aufwachst!"	On se voit à ton réveil !	¡Nos vemos cuando despiertes!	"Увидимся, когда ты проснешься!"	Ci vediamo quando ti sveglierai!	等你醒时再见！ 	目覚めた時に会おう！			
-&Text.Guards.RollCallStart	SILENCE!	SEID STILL!	SILENCE !	¡SILENCIO!	ТИШИНА!	SILENZIO!	肃静！ 	静しゅくに！			
-&Text.NPC.Chef	SERVICE!	SERVICE!	SERS ÇA !	¡SERVICIO!	СЕРВИС!	SERVIZIO!	服务！ 	サービス命ぃ！			
-&Text.NPC.Warden	Get the kettle on	Setz den Kessel auf.	Fais chauffer l'eau.	Pon el agua a hervir.	Поставь чайник	Accendi il bollitore	烧壶水	お湯をわかしてくれ			
-&Text.Guards.Inactive	Sigh…	Seufz ...	Pff...	Vale...	Вздох...	Sigh…	唉……	はあ…			
-&Text.Inmate.Snitch.Prison	Sigh…	Seufz ...	Pff...	Vale...	Вздох...	Sigh…	唉……	まったく…			
-&Text.Guards.GoReport	Sigh... There's ALWAYS stuff for me to go and do...	Seufz ... Ich muss IMMER irgendwo hin oder etwas tun.	Pff... J'ai TOUJOURS des choses à faire...	Vale... SIEMPRE tengo algo que hacer...	"Вздох... Вечно происходит какая-то фигня, а я разруливай..."	Sigh... Ci sono SEMPRE cose da fare e posti in cui andare...	唉……总有事给我做……	まったく…やることが一向に減らない…			
-&Text.NPC.Generic	Sigh… How did I end up here?!	Seufz ... wie bin ich nur hier gelandet?!	... Comment j'ai fini dans ce trou ?	Vaya... ¿cómo he terminado aquí?	Вздох... И как меня сюда занесло?!	Sigh... come sono finito qui?!	唉……我怎么来到了这个鬼地方？！ 	まったく…なんでこんなところへ？！			
-&Text.Lockdown	Sigh. 	Seufz. 	Pff. 	Vale. 	Вздох. 	Sigh. 	唉。 	やれやれ…			
-&Text.Inmates.Banter	They're hitting on me again	Sie baggern mich wieder an.	On me drague encore.	Van a por mí otra vez.	Они снова ко мне пристают	Mi stanno facendo altre avance	他们又跟我搭讪了	あいつがまた言い寄ってきてさ…			
-&Text.Inmates.GuardBanter	They flanked me	Sie flankierten mich.	C'était fichu.	Me rodearon.	Они зашли с фланга	Mi hanno circondato	他们从侧翼包抄我	挟み撃ちを食らってな			
-&Text.Inmates.Banter	They took one on the chin	Sie haben es mit Fassung getragen.	"Paf, dans le menton."	Han aguantado una a la barbilla.	Получили в челюсть	Ne hanno preso uno sul mento	他们下巴上挨了一下	アゴに一発食らわせてやった			
-&Text.Inmates.Banter	They backstabbed me	Sie haben mich betrogen.	Un poignard dans le dos.	Me traicionaron.	Они напали исподтишка	Mi hanno tradito	他们在我背后捅刀	後ろからブスりってな			
-&Text.Inmates.Banter	They ratted me out	Sie haben mich verpfiffen.	Des rats ont balancé.	Me traicionaron.	Они меня сдали	Hanno fatto il mio nome	他们出卖了我	仲間に売られたんだ			
-&Text.Inmates.Banter	They took one for the team	Sie haben sich fürs Team geopfert.	Un coup pour l'équipe.	Han sufrido una por el equipo.	Они приняли удар на себя	Si sacrificano per la squadra	他们为队伍得了一分	あいつが仲間を救ったんだ			
-&Text.NPC.Maintenance.Idle	"She read it, just didn't bother replying..."	"Sie hat ihn gelesen, aber nicht zurückgeschrieben ..."	"Elle l'a lu, elle n'a juste pas répondu..."	"Lo ha leído, pero no responde..."	"Она читает, просто ей некогда отвечать..."	"L’ha letto, ma non mi ha risposto..."	她读了， 只是懒得回复……	彼女はメールを読むだけで、 返事をよこさない…			
-&Text.Chase.Missing	They can't run forever	Sie können nicht ewig laufen.	Ils réapparaîtront un jour.	No pueden huir para siempre.	Они не могут бегать вечно	Non correranno per sempre	他们跑不了一世	いずれシッポを出すさ			
-&Text.Inmates.Banter	Left them on the floor	Sie liegen am Boden.	Ça s'est fini par terre.	Déjalos en el suelo.	Оставил их на полу	Lasciateli per terra	把他们丢在地板上了	野郎は床に転がしといたよ			
-&Text.Inmates.Banter	Left them in a heap	Sie liegen auf einem Haufen.	Ça s'est mal fini.	Déjalos en un salto.	Оставил их в куче	Lasciateli dove sono	把他们丢在垃圾堆里了	わら山に隠したんだ			
-&Text.Guards.MaxPrisonAlertness	They must be around here somewhere!	Sie müssen hier irgendwo sein!	Ils doivent bien être quelque part !	¡Tienen que estar por aquí!	Они где-то рядом!	Devono essere qui da qualche parte!	他们肯定就在附近某处！ 	ヤツらはこの辺にいるはずだ！			
-&Text.NPC.Receptionist	They never clean up after themselves!	Sie räumen nie hinter sich auf!	Ils ne nettoient jamais derrière eux !	¡Nunca limpian lo que ensucian!	Они никогда за собой не убирают!	Lasciano sempre sporcizia!	他们从不清理自己丢下的垃圾！ 	ちっとは片づけろっての！			
-&Text.Inmates.Banter	She said she can't	"Sie sagte, sie kann nicht."	Elle a dit non.	Ella dijo que no podía.	"Сказала, что не может"	Ha detto che non può	她说她办不到	あの女にはムリだってさ			
-&Text.NPC.Maintenance.Idle	They said I was too boring	"Sie sagten, ich sei langweilig."	Ils ont dit que j'étais barbant...	Dicen que era muy aburrido.	"Говорят, я слишком скучный"	Hanno detto che sono noioso	别人说我太无聊了	私は退屈すぎるらしい			
-&Text.NPC.Maintenance.Idle	They went without me again...	Sie sind wieder ohne mich los ...	Ils sont encore sortis sans moi...	Se han ido sin mí otra vez...	Они снова ушли без меня...	"Sono andati senza di me, di nuovo..."	他们又没带上我就走了……	また私をのけ者にして…			
-&Text.Inmates.Banter	They'll regret saying that	Sie werden den Kommentar bereuen.	Je vais le lui faire regretter.	Se arrepentirán de haberlo dicho.	Они пожалеют о своих словах	Si pentiranno di averlo detto	他们说那种话会后悔的	あの言葉を後悔させてやる			
-&Text.Inmates.Banter	They won't see it coming	Sie werden es nicht kommen sehen.	Ça va surprendre tout le monde.	No lo han visto venir.	Они и не заметят	Non se ne accorgeranno	肯定能打他们个措手不及	あいつは夢にも思っちゃいねえさ			
-&Text.Inmates.Banter	They were caught sniffin 'em!	Sie wurden beim Schnüffeln erwischt!	On les a trouvés en train de sniffer.	¡Los han pillado esnifándola!	"Их поймали, когда они ее обнюхивали!"	Li hanno beccati ad annusarli!	他们在闻的时候别逮了个正着！ 	あいつらを調べてたら捕まったんだ！			
-&Text.Guard.CharacterKnockedOut	The baton won	Sieg des Stocks.	Vive la matraque.	La porra ha ganado.	Дубинка победила	Il manganello vince	获胜者是警棍	警棒の勝ちだ			
-&Text.GuardAlert.Item	Well well well…	"Sieh an, sieh an ..."	"Bien, bien, bien..."	"Vaya, vaya, vaya..."	Так-так-так...	Bene bene bene...	哎呀呀……	これはこれは…			
-&Text.ChatToGuard	See this baton?	Siehst du den Schlagstock?	Tu vois cette arme ?	¿Ves esta porra?	Видишь эту дубинку?	Vedi il manganello?	看到这根警棍了吗？	この警棒が見えるか？			
-&Text.Inmates.Banter	You see what he did?	"Siehst du, was er getan hat?"	T'as vu ce qu'il a fait ?	¿Has visto lo que ha hecho?	"Вы видели, что он сделал?"	Hai visto che ha fatto?	你看到他干了什么吗？	あの男が何をしたって？			
-&Text.Inmates.Banter	You see what she did?	"Siehst du, was sie getan hat?"	T'as vu ce qu'elle a fait ?	¿Has visto lo que ha hecho?	"Вы видели, что она сделала?"	Hai visto che ha fatto?	你看到她干了什么吗？	あの女が何をしたって？			
+&Text.NPC.MedicDismissFromSolitary	Надішли мені листівку	Schick mir eine Karte.	Envoie-moi une carte.	Envíame una postal.	Отправь мне открытку	Mandami una cartolina	给我寄明信片	たまには葉書をよこせよ！			
+&Text.Inmates.Attacked	Не на того напав	Schlechte Wahl.	T'as mal choisi.	Has elegido mal.	Ты ошибся с выбором	Hai fatto una scelta sbagliata	你选错人了	選択を誤ったな			
+&Text.ChatToGuard	Рило затули, коли зі мною розмовляєш!	"Schließ dein Maul, wenn du mit mir sprichst!"	Ferme la bouche quand tu parles !	¡Cierra la boca cuando me hables!	"Закрой рот, когда говоришь со мной!"	Chiudi la bocca quando parli con me!	跟我说话时把嘴闭上！ 	その汚い口を閉じてしゃべれ！			
+&Text.Inmates.FoodHall	Годі чавкати мені під вухо	Schmatz nicht so laut.	Tu me soules.	No mastiques tan cerca.	Хватит чавкать мне в ухо	Non masticarmi nell’orecchio	嚼东西时别靠我那么近	クチャクチャ音を立てるなっての			
+&Text.Guards.FoodHall	Погано смакує? Ой-й... ЧУДОВО.	Schmeckt’s nicht? Ohhh – GUT.	Ce n'est pas bon ? Oooh... TANT MIEUX.	"Sabe bien, ¿verdad? Mmm... RICO."	"Что, невкусно? О-о — ХОРОШО."	"Non è buono? Mmm, BUONO."	不好吃吗？ 噢……妙啊。 	メシが不味いって？何よりだ			
+&Text.Guard.SentToContrabandDesk	Контрабанду знайдено!	Schmuggelware gefunden!	De la contrebande !	¡Contrabando hallado!	Найдена контрабанда!	Merce di contrabbando!	发现违禁品！ 	禁制品を発見！			
+&Text.Guard.ContrabandInContainer	Контрабанда, га!	"Schmuggelware, eh?"	De la contrebande ?	"Contrabando, ¿no?"	Контрабанда!	"Contrabbando, eh?"	违禁品！ 	禁制品だ！			
+&Text.NPC.Janitor	Вандал!	Schmutzfink!	Pollueur !	¡Gusano!	Свинья!	Sozzone!	垃圾虫！ 	ゴミを捨てるな！			
+&Text.Guards.MaxPrisonAlertnessSpotted	ЛОВІТЬ ЇХ!	SCHNAPPT SIE!	CHOPEZ-LES !	¡A POR ELLOS!	ДЕРЖИ ИХ!	PRENDETELI!	抓住他们！ 	とっ捕まえろ！			
+&Text.Guards.MaxPrisonAlertnessSpotted	ХУТЧІШ! ЛОВІТЬ ЇХ!	SCHNELL! ERGREIFT SIE!	VITE ! ATTRAPEZ-LES !	¡RÁPIDO! ¡AGÁRRALOS!	СКОРЕЕ! ХВАТАЙ ИХ!	SVELTI! PRENDETELI!	快！ 抓住他们！ 	急げ！ひっ捕らえろ！			
+&Text.NPC.Chef	Чув щось про іншого шефа? Якось він запроПАСТАвся…	Schon vom anderen Koch gehört? Hat den Löffel abgegeben ...	Tu sais pour l'autre cuistot ? Ses carottes sont cuites...	¿Has oído lo del otro chef? Se fue a freír espárragos...	Ты слышал о другом поваре? Он знает толк в пасте...	Hai sentito dell’altro chef? È passato... a miglior vita	听说另外一个厨师的事了吗？ 他去世了……	前のシェフは味見中に死んだとか…			
+&Text.Lockdown	Знову? 	Schon wieder? 	Encore ?! 	¿Repetimos? 	Опять? 	Di nuovo? 	又来？ 	またか？			
+&Text.Guards.LightsOut	Добре на душі стає, коли всі пацюки закутані!	"Schön, wie alle Knackis weggesperrt sind!"	C'est bon de tous les voir enfermés !	¡Me encanta verlos a todos bien arropaditos!	Приятно видеть всех зэков в одной куче!	Bello vedere tutti sotto le coperte!	很高兴见到罪犯们都进牢房了！ 	囚人どもは全員すやすや寝てらぁ！			
+&Text.GuardAlert.Disguise	"Файні ґаці, друже!"	"Schöne Hose, Kumpel!"	Sympa le futal !	"¡Bonitos pantalones, tío!"	"Годные штанцы, парниша!"	"Bei pantaloni, collega!"	伙计， 裤子不错啊！ 	いいズボンだな、 相棒！			
+&Text.Inmates.Gym	"Без болю - нема справи"	Schönheit muss leiden.	On a rien sans rien.	El que algo quiere...	Без боли нет результата	Nessun cambiamento senza dolori	没有付出就没有收获	ラクな道などない			
+&Text.Guards.Reporting	Я ж правильно вимовляю це?!	Schreib ich das richtig?!	Ça s'écrit comme ça ?!	¡¿Lo estoy escribiendo bien?!	Я правильно произношу?!	L’ho scritto bene?!	我没拼错吧？！ 	この字で合ってるっけ？			
+&Text.Inmates.Showers	Скреби мене повністю	Schrubb mich ab.	Frotte-moi partout.	Frota por todas partes.	Потри меня хорошенько	Strofinami tutto	擦擦我全身	ケツの穴まで洗ってくれ			
+&Text.Guards.MaxPrisonAlertness	Хай гойдаються кийки, хлопці!	"Schwingt die Schlagstöcke, Jungs!"	"Sortez les matraques, les gars !"	"¡Que hablen las porras, chicos!"	"Поработайте дубинками, ребята!"	Fate volteggiare i manganelli!	警棍挥起来！ 	警棒をブンまわせぇ！			
+&Text.Guard.CharacterKnockedOut	Побачимося, коли ти прокинешся!	"Seh dich, wenn du aufwachst!"	On se voit à ton réveil !	¡Nos vemos cuando despiertes!	"Увидимся, когда ты проснешься!"	Ci vediamo quando ti sveglierai!	等你醒时再见！ 	目覚めた時に会おう！			
+&Text.Guards.RollCallStart	ТИШИНА!	SEID STILL!	SILENCE !	¡SILENCIO!	ТИШИНА!	SILENZIO!	肃静！ 	静しゅくに！			
+&Text.NPC.Chef	ОСЬ, ОБСЛУГОВУВАННЯ!	SERVICE!	SERS ÇA !	¡SERVICIO!	СЕРВИС!	SERVIZIO!	服务！ 	サービス命ぃ！			
+&Text.NPC.Warden	Поставте чайник	Setz den Kessel auf.	Fais chauffer l'eau.	Pon el agua a hervir.	Поставь чайник	Accendi il bollitore	烧壶水	お湯をわかしてくれ			
+&Text.Guards.Inactive	Ех…	Seufz ...	Pff...	Vale...	Вздох...	Sigh…	唉……	はあ…			
+&Text.Inmate.Snitch.Prison	Ех…	Seufz ...	Pff...	Vale...	Вздох...	Sigh…	唉……	まったく…			
+&Text.Guards.GoReport	Ех... ЗАВЖДИ щось треба мені робити...	Seufz ... Ich muss IMMER irgendwo hin oder etwas tun.	Pff... J'ai TOUJOURS des choses à faire...	Vale... SIEMPRE tengo algo que hacer...	"Вздох... Вечно происходит какая-то фигня, а я разруливай..."	Sigh... Ci sono SEMPRE cose da fare e posti in cui andare...	唉……总有事给我做……	まったく…やることが一向に減らない…			
+&Text.NPC.Generic	Ех... Як я сюди потрапив?!	Seufz ... wie bin ich nur hier gelandet?!	... Comment j'ai fini dans ce trou ?	Vaya... ¿cómo he terminado aquí?	Вздох... И как меня сюда занесло?!	Sigh... come sono finito qui?!	唉……我怎么来到了这个鬼地方？！ 	まったく…なんでこんなところへ？！			
+&Text.Lockdown	Ех. 	Seufz. 	Pff. 	Vale. 	Вздох. 	Sigh. 	唉。 	やれやれ…			
+&Text.Inmates.Banter	Знову зі мною розводять шури-мури	Sie baggern mich wieder an.	On me drague encore.	Van a por mí otra vez.	Они снова ко мне пристают	Mi stanno facendo altre avance	他们又跟我搭讪了	あいつがまた言い寄ってきてさ…			
+&Text.Inmates.GuardBanter	Вони напали на мене зі спини	Sie flankierten mich.	C'était fichu.	Me rodearon.	Они зашли с фланга	Mi hanno circondato	他们从侧翼包抄我	挟み撃ちを食らってな			
+&Text.Inmates.Banter	Вони потерпіли поразку	Sie haben es mit Fassung getragen.	"Paf, dans le menton."	Han aguantado una a la barbilla.	Получили в челюсть	Ne hanno preso uno sul mento	他们下巴上挨了一下	アゴに一発食らわせてやった			
+&Text.Inmates.Banter	Вони ударили в спину	Sie haben mich betrogen.	Un poignard dans le dos.	Me traicionaron.	Они напали исподтишка	Mi hanno tradito	他们在我背后捅刀	後ろからブスりってな			
+&Text.Inmates.Banter	Вони здали мене	Sie haben mich verpfiffen.	Des rats ont balancé.	Me traicionaron.	Они меня сдали	Hanno fatto il mio nome	他们出卖了我	仲間に売られたんだ			
+&Text.Inmates.Banter	Вони пожертвували собою	Sie haben sich fürs Team geopfert.	Un coup pour l'équipe.	Han sufrido una por el equipo.	Они приняли удар на себя	Si sacrificano per la squadra	他们为队伍得了一分	あいつが仲間を救ったんだ			
+&Text.NPC.Maintenance.Idle	"Вона прочитала, просто відповідати не хоче..."	"Sie hat ihn gelesen, aber nicht zurückgeschrieben ..."	"Elle l'a lu, elle n'a juste pas répondu..."	"Lo ha leído, pero no responde..."	"Она читает, просто ей некогда отвечать..."	"L’ha letto, ma non mi ha risposto..."	她读了， 只是懒得回复……	彼女はメールを読むだけで、 返事をよこさない…			
+&Text.Chase.Missing	Бігати вічно не може	Sie können nicht ewig laufen.	Ils réapparaîtront un jour.	No pueden huir para siempre.	Они не могут бегать вечно	Non correranno per sempre	他们跑不了一世	いずれシッポを出すさ			
+&Text.Inmates.Banter	Залишив їх на підлозі	Sie liegen am Boden.	Ça s'est fini par terre.	Déjalos en el suelo.	Оставил их на полу	Lasciateli per terra	把他们丢在地板上了	野郎は床に転がしといたよ			
+&Text.Inmates.Banter	Залишив їх на купі	Sie liegen auf einem Haufen.	Ça s'est mal fini.	Déjalos en un salto.	Оставил их в куче	Lasciateli dove sono	把他们丢在垃圾堆里了	わら山に隠したんだ			
+&Text.Guards.MaxPrisonAlertness	Вони мають бути десь тут!	Sie müssen hier irgendwo sein!	Ils doivent bien être quelque part !	¡Tienen que estar por aquí!	Они где-то рядом!	Devono essere qui da qualche parte!	他们肯定就在附近某处！ 	ヤツらはこの辺にいるはずだ！			
+&Text.NPC.Receptionist	Ніколи за собою не прибирають!	Sie räumen nie hinter sich auf!	Ils ne nettoient jamais derrière eux !	¡Nunca limpian lo que ensucian!	Они никогда за собой не убирают!	Lasciano sempre sporcizia!	他们从不清理自己丢下的垃圾！ 	ちっとは片づけろっての！			
+&Text.Inmates.Banter	Вона сказала, що не може	"Sie sagte, sie kann nicht."	Elle a dit non.	Ella dijo que no podía.	"Сказала, что не может"	Ha detto che non può	她说她办不到	あの女にはムリだってさ			
+&Text.NPC.Maintenance.Idle	Вони сказали, що я був занудний	"Sie sagten, ich sei langweilig."	Ils ont dit que j'étais barbant...	Dicen que era muy aburrido.	"Говорят, я слишком скучный"	Hanno detto che sono noioso	别人说我太无聊了	私は退屈すぎるらしい			
+&Text.NPC.Maintenance.Idle	Вони знову пішли без мене...	Sie sind wieder ohne mich los ...	Ils sont encore sortis sans moi...	Se han ido sin mí otra vez...	Они снова ушли без меня...	"Sono andati senza di me, di nuovo..."	他们又没带上我就走了……	また私をのけ者にして…			
+&Text.Inmates.Banter	Вони пошкодують, що сказали це	Sie werden den Kommentar bereuen.	Je vais le lui faire regretter.	Se arrepentirán de haberlo dicho.	Они пожалеют о своих словах	Si pentiranno di averlo detto	他们说那种话会后悔的	あの言葉を後悔させてやる			
+&Text.Inmates.Banter	Вони цього не очікуватимуть	Sie werden es nicht kommen sehen.	Ça va surprendre tout le monde.	No lo han visto venir.	Они и не заметят	Non se ne accorgeranno	肯定能打他们个措手不及	あいつは夢にも思っちゃいねえさ			
+&Text.Inmates.Banter	Їх піймали за тим, як вони когось обнюхували!	Sie wurden beim Schnüffeln erwischt!	On les a trouvés en train de sniffer.	¡Los han pillado esnifándola!	"Их поймали, когда они ее обнюхивали!"	Li hanno beccati ad annusarli!	他们在闻的时候别逮了个正着！ 	あいつらを調べてたら捕まったんだ！			
+&Text.Guard.CharacterKnockedOut	Кийок переміг	Sieg des Stocks.	Vive la matraque.	La porra ha ganado.	Дубинка победила	Il manganello vince	获胜者是警棍	警棒の勝ちだ			
+&Text.GuardAlert.Item	Ну-ну-ну…	"Sieh an, sieh an ..."	"Bien, bien, bien..."	"Vaya, vaya, vaya..."	Так-так-так...	Bene bene bene...	哎呀呀……	これはこれは…			
+&Text.ChatToGuard	Бачиш цей кийок?	Siehst du den Schlagstock?	Tu vois cette arme ?	¿Ves esta porra?	Видишь эту дубинку?	Vedi il manganello?	看到这根警棍了吗？	この警棒が見えるか？			
+&Text.Inmates.Banter	Бач, що він зробив?	"Siehst du, was er getan hat?"	T'as vu ce qu'il a fait ?	¿Has visto lo que ha hecho?	"Вы видели, что он сделал?"	Hai visto che ha fatto?	你看到他干了什么吗？	あの男が何をしたって？			
+&Text.Inmates.Banter	Бач, що вона зробила?	"Siehst du, was sie getan hat?"	T'as vu ce qu'elle a fait ?	¿Has visto lo que ha hecho?	"Вы видели, что она сделала?"	Hai visto che ha fatto?	你看到她干了什么吗？	あの女が何をしたって？			
 &Text.GuardAlert.Disguise	"Маєш добрий вигляд, кумпелю!"	"Siehst gut aus, Kumpel!"	T'as l'air en forme !	¡Tienes buen aspecto!	"Клево выглядишь, чувак!"	Che schianto!	挺神气啊， 伙计！ 	バッチリ決まってるぞ！			
 &Text.Guard.SuspiciousOfCharacter	Се підозріло…	Sieht dubios aus.	C'est louche...	Parece sospechoso…	Подозрительно...	Che aria sospetta...	看起来很可疑……	怪しいヤツめ…			
-&Text.Guard.Suspicious	Looking shady…	Sieht dubios aus.	C'est louche...	Parece sospechoso…	Подозрительно...	Che aria sospetta...	看起来很可疑……	怪しいヤツめ…			
-&Text.NPC.JobstaffRandom	"Serve your sentence with pride, get employed!"	"Sitz deine Strafe mit Stolz ab, arbeite!"	"Purge ta peine avec fierté, trouve un travail !"	"Cumple tu sentencia con orgullo, ¡busca trabajo!"	"Устраивайтесь на работу, чтобы отсидеть с честью!"	"Scontate la pena con orgoglio, fatevi assumere!"	坐牢也要有尊严， 找份工作吧！ 	職につき、 誇りをもって刑期を務めるんだ！			
-&Text.Inmate.Disguise	Just doing my time	Sitz nur meine Zeit ab.	Je purge ma peine.	Solo paso el tiempo.	Просто отбываю срок	Sto scontando la pena	我只是在服刑	刑期を務めてるだけでさあ			
-&Text.NPC.Maintenance	As good as new!	So gut wie neu!	Comme neuf !	¡Como nuevo!	Как новенькое!	Come nuovo!	和新的一样！ 	新品同様だ！			
-&Text.Inmates.Gym	I used to look like that	So hab ich mal ausgesehen.	"Avant, je ressemblais à ça."	Yo antes tenía esa pinta.	Раньше я вот так выглядел	Anche io ero così	我以前也是那样	前はガリガリだった			
-&Text.Inmates.PlayerRep1	You're not that interesting	So interessant bist du nicht.	Tu m'intéresses pas.	No eres tan interesante.	Не такой уж ты интересный	Non sei così interessante	你没那么有趣	たいして面白くもない			
-&Text.Guards.Inactive	"So, so bored…"	So langweilig ...	Que je m'ennuie.	Me aburro mucho...	Ужасно скучно...	Troppa noia...	好无聊……	クソつまらん…			
-&Text.Guards.RollCallMain	"This is the way it is, get used to it"	So läuft es hier ab. Gewöhnt euch dran.	"C'est comme ça, faut vous y faire."	"Esto es lo que hay, acostumbraos."	"Вот как здесь все устроено, привыкайте"	"Le cose stanno così, abituatevi"	情况就是这样， 习惯就好	この現実に慣れてもらうぞ			
-&Text.Inmates.CombatEnded	That's what I'm talking about!	So lob ich mir das!	C'est ce que je dis !	¡A eso me refería!	Вот о чем я говорю!	Ecco di cosa parlavo!	这样才对！ 	口ほどにもねえ！			
-&Text.NPC.Gardener	I'm not big on the bush	"So peinlich, da werden die Erdbeeren rot."	Je ne suis pas fan du buisson.	Puedo pasar desapercibido.	Вообще-то я не любитель	Non sono bravo con i cespugli	我不太喜欢灌木	草むらは好きじゃない			
+&Text.Guard.Suspicious	Недовірливий вигляд якийсь…	Sieht dubios aus.	C'est louche...	Parece sospechoso…	Подозрительно...	Che aria sospetta...	看起来很可疑……	怪しいヤツめ…			
+&Text.NPC.JobstaffRandom	"Відбувай свій термін з користю - наймайся!"	"Sitz deine Strafe mit Stolz ab, arbeite!"	"Purge ta peine avec fierté, trouve un travail !"	"Cumple tu sentencia con orgullo, ¡busca trabajo!"	"Устраивайтесь на работу, чтобы отсидеть с честью!"	"Scontate la pena con orgoglio, fatevi assumere!"	坐牢也要有尊严， 找份工作吧！ 	職につき、 誇りをもって刑期を務めるんだ！			
+&Text.Inmate.Disguise	Просто відсиджую свій термін	Sitz nur meine Zeit ab.	Je purge ma peine.	Solo paso el tiempo.	Просто отбываю срок	Sto scontando la pena	我只是在服刑	刑期を務めてるだけでさあ			
+&Text.NPC.Maintenance	Як нова копійка!	So gut wie neu!	Comme neuf !	¡Como nuevo!	Как новенькое!	Come nuovo!	和新的一样！ 	新品同様だ！			
+&Text.Inmates.Gym	Колись у мене було таке тіло	So hab ich mal ausgesehen.	"Avant, je ressemblais à ça."	Yo antes tenía esa pinta.	Раньше я вот так выглядел	Anche io ero così	我以前也是那样	前はガリガリだった			
+&Text.Inmates.PlayerRep1	Ти не такий і цікавий	So interessant bist du nicht.	Tu m'intéresses pas.	No eres tan interesante.	Не такой уж ты интересный	Non sei così interessante	你没那么有趣	たいして面白くもない			
+&Text.Guards.Inactive	"Дуже, дуже нудно…"	So langweilig ...	Que je m'ennuie.	Me aburro mucho...	Ужасно скучно...	Troppa noia...	好无聊……	クソつまらん…			
+&Text.Guards.RollCallMain	"Отак все і є, звикайте"	So läuft es hier ab. Gewöhnt euch dran.	"C'est comme ça, faut vous y faire."	"Esto es lo que hay, acostumbraos."	"Вот как здесь все устроено, привыкайте"	"Le cose stanno così, abituatevi"	情况就是这样， 习惯就好	この現実に慣れてもらうぞ			
+&Text.Inmates.CombatEnded	Ось, про що я й казав!	So lob ich mir das!	C'est ce que je dis !	¡A eso me refería!	Вот о чем я говорю!	Ecco di cosa parlavo!	这样才对！ 	口ほどにもねえ！			
+&Text.NPC.Gardener	Не люблю кущі	"So peinlich, da werden die Erdbeeren rot."	Je ne suis pas fan du buisson.	Puedo pasar desapercibido.	Вообще-то я не любитель	Non sono bravo con i cespugli	我不太喜欢灌木	草むらは好きじゃない			
 &Text.GuardAlert.DisguiseBeating	Так і треба. 	So soll es sein. 	C'est comme ça qu'on fait. 	Como debe ser. 	Так и надо. 	Proprio come deve essere. 	就应该这样	当然のことだ			
-&Text.NPC.MedicDismissFromInfirmary	"Right, off you go"	"So, ab mit dir."	"Allez, vas-y."	"Bien, allá vas."	"Все, пошел"	"Bene, puoi andare"	好， 你走吧	よし、 もう行け			
-&Text.Guard.CharacterAttacking	"Right, I've had enough of you!"	"So, ich hab genug von dir!"	"C'est bon, j'en ai ma claque de toi !"	"¡Bien, ya estoy harto de ti!"	"Все, с меня хватит!"	"Va bene, ne ho abbastanza di te!"	我受够你了！ 	おまえにはもうウンザリだ！			
-&Text.Guards.Gym	Am I meant to be impressed?	Soll ich beeindruckt sein?	C'est censé m'impressionner ?	¿Debo estar impresionado?	"Я что, должен быть впечатлен?"	Dovrei impressionarmi?	我应该觉得了不起吗？	ヘナチョコすぎるぞ？			
-&Text.ChatToGuard	Want me to put you to sleep?	Soll ich dich schlafen legen?	Tu veux que je t'assomme ?	¿Quieres que te mande a la cama?	"Хочешь, чтобы я тебя усыпил?"	Vuoi che ti metta a tacere?	你想被我揍晕吗？	寝かしつけてやろうか？			
-&Text.Guards.InmatesBeingNaughtyDEMO	Want me to get out my baton and beat you senseless?	Soll ich meinen Schlagstock rausholen und dich bewusstlos schlagen?	Tu veux que je sorte ma matraque et que je cogne comme un sourd ?	¿Quieres que saque la porra y te pegue hasta dejarte inconsciente?	"Хочешь, чтобы я достал дубинку и избил тебя до полусмерти?"	Vuoi che tiri fuori il manganello e te ne dia di santa ragione?	你要我拔出警棍把你揍晕吗？	そんなにこの警棒で殴られたいか？			
-&Text.Inmate.Snitch.Prison	I should put in for a transfer	Sollte mich überstellen lassen.	Je devrais me faire muter !	Debería pedir un traslado.	Мне следует подать на перевод	Dovrei chiedere il trasferimento	我应该把你调到别的地方去	別の刑務所に移りたい…			
-&Text.NPC.Maintenance	That'll do...	Sollte reichen ...	Ça ira...	Eso bastará...	Сойдет...	Andrà bene...	这样就行了……	十分だろ…			
-&Text.Guard.Chat	Shouldn't you be somewhere $name	"Solltest du nicht wo sein, $name?"	"Tu devrais pas être ailleurs, $name ?"	"¿No deberías estar en otra parte, $name?"	"Ты должен быть в другом месте, $name"	"Dovresti essere altrove, $name"	$name， 你不是有地方可去吗	どこをほっつき歩いてる、 $name			
-&Text.Guard.Heat	Fun's over $name!	"Spaß vorbei, $name!"	"C'est terminé, $name !"	"¡Fin de la diversión, $name!"	"Конец веселью, $name!"	"Fine dei giochi, $name!"	欢乐时光结束了， $name ！ 	遊びはしまいだ、 $name！			
-&Text.Inmates.Banter	Talk to the hand	Sprich mit der Hand.	Parle à ma main.	Háblale a la mano.	Я тебя не слушаю	"Certo, certo"	与手交谈	この手に聞きな			
-&Text.ChatToGuard	Speak to the hand	Sprich mit der Hand.	Parle à ma main.	Habla con la mano.	Я тебя не слушаю	Non mi importa	与手交谈	この手に聞け！			
-&Text.ChatToGuard	Spit it out	Spuck’s aus.	Accouche.	Escúpelo.	Выкладывай	Sputa il rospo	有话快说	なんでも話せ			
-&Text.Guard.Heat	Feel our wrath $name!	"Spür unseren Zorn, $name!"	"Tu vas en baver, $name !"	"¡Siente nuestra ira, $name!"	"Почувствуй наш гнев, $name!"	"Subirai la nostra ira, $name!"	$name ， 马上就让你明白惹恼我们的下场！ 	怒らせた報いだ、 $name！			
-&Text.Guard.InterjectFight	Heavy hit after heavy hit after heavy hit after heavy hit!	Starker Schlag auf starken Schlag auf starken Schlag!	"Coup fatal sur coup fatal, c'est parti !"	"¡Golpe tras golpe, tras golpe, tras golpe!"	"Удар, и еще удар, и еще удар, и еще удар!"	Colpo dopo colpo dopo colpo!	一次一次又一次重击！ 	殴って、 殴って、 殴りまくれぇ！			
-&Text.Guards.LockdownStart	LAUNCH THE LOCKDOWN PROTOCOL - THIS IS IT!	STARTET DAS VERRIEGELUNGS-PROTOKOLL – JETZT!	ACTIVEZ LE PROTOCOLE D'ÉTAT D'URGENCE. ON Y EST !	"INICIAD EL PROCESO DE BLOQUEO, ¡SE ACABÓ!"	ЗАПУЩЕН ПРОТОКОЛ СТРОГОЙ ИЗОЛЯЦИИ!	AVVIO PROTOCOLLO DI LOCKDOWN... FATTO!	启动封锁协议。 现在！ 	封鎖プロトコルを開始、  正念場だ！			
-&Text.Guard.Naked	Put it away $name!	"Steck’s weg, $name!"	"Range-moi ça, $name !"	"¡Sácalo de aquí, $name!"	"Убери это, $name!"	"Mettilo via, $name!"	$name ， 把那东西收起来！ 	そいつをしまえ、 $name！			
-&Text.Player.ActionInmate	You better get up	Steh lieber auf.	Tu devrais te lever.	Mejor que te levantes.	Лучше тебе встать	"Alzati, subito"	你最好起来	起きろっての			
-&Text.Guard.Stealing	Looting eh?	"Stehlen, eh?"	On chaparde ?	¿Saqueando?	"Воруем, а?"	"Rubiamo, eh?"	搜刮东西吗？	お宝を物色中か？			
-&Text.NPC.JobstaffRandom	Pens! They're the best friends you can have!	"Stifte! Die besten Freunde, die du haben kannst!"	Les stylos ! Les meilleurs amis que vous puissiez avoir !	¡Bolis! ¡Son los mejores amigos que puedes tener!	Ручки! Ваши лучшие друзья!	Penne! I migliori amici che possiate avere!	钢笔！  它们是你最好的朋友！ 	ペンだ！ペンこそ最高の友だ！			
-&Text.Guards.RollCallStart	Stand to attention!	Stillgestanden!	Soyez attentifs !	¡Prestad atención!	Стоять смирно!	Sull’attenti!	立正！ 	気をつけっ！			
-&Text.NPC.MedicCarrying	Don't go dying on me!	Stirb mir nicht weg!	Me lâche pas maintenant !	¡No digas que te mueres!	Не смей окочуриться при мне!	Non osare morire!	坚持住， 别死！ 	死ぬんじゃない！			
-&Text.NPC.Chef	Stick it in the Microwave!	Stopf’s in die Mikrowelle!	Mets ça au micro-ondes !	¡Ponlo en el microondas!	Засунь это в микроволновку!	Mettilo nel microonde!	把这玩意儿放进微波炉！ 	だまってレンチンしとけ！			
-&Text.Guards.Gym	Put some back into it!	Streng dich an!	Mettez-y du nerf !	¡Esforzaos un poco!	Надо вкалывать как следует!	"Dateci dentro, forza!"	卖力点！ 	本気でやれ！			
-&Text.Inmates.Banter	Wanna dance?	Tänzchen?	Tu vas valser.	¿Bailas?	Потанцуем?	Vuoi ballare?	想跳支舞吗？	踊りたいか？			
-&Text.NPC.Chef	Pick up the pace!	Tempo erhöhen!	Plus vite !	¡Acelera el ritmo!	Живее!	Sbrigati!	别磨蹭！ 	モタモタするな！			
-&Text.Guards.Reporting	Let's get this logged…	Tippen wir das ein ...	On va le consigner...	Registremos esto...	Зарегистрируем это...	Andiamo a fare rapporto...	把这件事记录一下……	こいつは記録しとこう…			
-&Text.Inmates.Gift.RankHighValue	Awesome!	Toll!	Génial !	¡Guau!	Супер!	Grandioso!	好极了！ 	すげえや！			
-&Text.NPC.Receptionist	Please can you sign the visitors' book	Trag dich bitte im Besucherbuch ein.	Merci de signer le livre d'or.	"Firma el libro de visitas, por favor."	"Распишитесь, пожалуйста, в книге посещений"	Potresti firmare il libro dei visitatori?	麻烦你在来访者名册上签字	面会者名簿にサインを			
-&Text.NPC.Receptionist	Pop that in the diary!	Trag’s im Tagebuch ein!	Mets-ça dans le journal !	¡Pon eso en el diario!	Запиши это в дневник!	Lo scriverò nell’agenda!	把那个写进日记里！ 	日誌に書いとけ！			
-&Text.NPC.JobstaffRandom	"Don't be shy, step right up"	"Trau dich, komm näher."	"Ne sois pas timide, viens par ici."	"No tengas vergüenza, adelante."	"Подходите, не стесняйтесь"	"Non siate timidi, venite avanti"	别害羞， 上前来	遠慮なく入りたまえ			
-&Text.Guards.MaxPrisonAlertness	Round up those vagrants	Treibt das Gesindel zusammen.	Rassemblez ces misérables.	Encierra a esos sintecho.	Сгоните этих бомжей в кучу	Raccogliete quei barboni	 把那些无业游民召集起来	連中をとっ捕まえろ！			
-&Text.Inmates.Showers	Meet me here later	Triff mich später hier.	On se retrouve ici.	Nos vemos aquí luego.	Встретимся здесь позже	Vediamoci qui più tardi	晚些时候再来这里见我	あとで会おう			
+&Text.NPC.MedicDismissFromInfirmary	"Гаразд, тепер іди"	"So, ab mit dir."	"Allez, vas-y."	"Bien, allá vas."	"Все, пошел"	"Bene, puoi andare"	好， 你走吧	よし、 もう行け			
+&Text.Guard.CharacterAttacking	"Ай, осточортів ти мені!"	"So, ich hab genug von dir!"	"C'est bon, j'en ai ma claque de toi !"	"¡Bien, ya estoy harto de ti!"	"Все, с меня хватит!"	"Va bene, ne ho abbastanza di te!"	我受够你了！ 	おまえにはもうウンザリだ！			
+&Text.Guards.Gym	Я що, маю бути вражений?	Soll ich beeindruckt sein?	C'est censé m'impressionner ?	¿Debo estar impresionado?	"Я что, должен быть впечатлен?"	Dovrei impressionarmi?	我应该觉得了不起吗？	ヘナチョコすぎるぞ？			
+&Text.ChatToGuard	Хочеш, щоб я поклав тебе спатки?	Soll ich dich schlafen legen?	Tu veux que je t'assomme ?	¿Quieres que te mande a la cama?	"Хочешь, чтобы я тебя усыпил?"	Vuoi che ti metta a tacere?	你想被我揍晕吗？	寝かしつけてやろうか？			
+&Text.Guards.InmatesBeingNaughtyDEMO	Хочеш, щоб я дістав свій кийок та побив тебе мало не на смерть?	Soll ich meinen Schlagstock rausholen und dich bewusstlos schlagen?	Tu veux que je sorte ma matraque et que je cogne comme un sourd ?	¿Quieres que saque la porra y te pegue hasta dejarte inconsciente?	"Хочешь, чтобы я достал дубинку и избил тебя до полусмерти?"	Vuoi che tiri fuori il manganello e te ne dia di santa ragione?	你要我拔出警棍把你揍晕吗？	そんなにこの警棒で殴られたいか？			
+&Text.Inmate.Snitch.Prison	Мені слід залишити заяву на перехід в іншу в’язницю	Sollte mich überstellen lassen.	Je devrais me faire muter !	Debería pedir un traslado.	Мне следует подать на перевод	Dovrei chiedere il trasferimento	我应该把你调到别的地方去	別の刑務所に移りたい…			
+&Text.NPC.Maintenance	Ось так...	Sollte reichen ...	Ça ira...	Eso bastará...	Сойдет...	Andrà bene...	这样就行了……	十分だろ…			
+&Text.Guard.Chat	Хіба ти не маєш де-інде бути, $name	"Solltest du nicht wo sein, $name?"	"Tu devrais pas être ailleurs, $name ?"	"¿No deberías estar en otra parte, $name?"	"Ты должен быть в другом месте, $name"	"Dovresti essere altrove, $name"	$name， 你不是有地方可去吗	どこをほっつき歩いてる、 $name			
+&Text.Guard.Heat	Кінець веселощам, $name	"Spaß vorbei, $name!"	"C'est terminé, $name !"	"¡Fin de la diversión, $name!"	"Конец веселью, $name!"	"Fine dei giochi, $name!"	欢乐时光结束了， $name ！ 	遊びはしまいだ、 $name！			
+&Text.Inmates.Banter	Слухаю тебе через верх	Sprich mit der Hand.	Parle à ma main.	Háblale a la mano.	Я тебя не слушаю	"Certo, certo"	与手交谈	この手に聞きな			
+&Text.ChatToGuard	Не звертаю на тебе уваги	Sprich mit der Hand.	Parle à ma main.	Habla con la mano.	Я тебя не слушаю	Non mi importa	与手交谈	この手に聞け！			
+&Text.ChatToGuard	Кажи вже	Spuck’s aus.	Accouche.	Escúpelo.	Выкладывай	Sputa il rospo	有话快说	なんでも話せ			
+&Text.Guard.Heat	$name, відчуй мою лють!	"Spür unseren Zorn, $name!"	"Tu vas en baver, $name !"	"¡Siente nuestra ira, $name!"	"Почувствуй наш гнев, $name!"	"Subirai la nostra ira, $name!"	$name ， 马上就让你明白惹恼我们的下场！ 	怒らせた報いだ、 $name！			
+&Text.Guard.InterjectFight	Сильний удар за сильним ударом за сильним ударом за сильним ударом!	Starker Schlag auf starken Schlag auf starken Schlag!	"Coup fatal sur coup fatal, c'est parti !"	"¡Golpe tras golpe, tras golpe, tras golpe!"	"Удар, и еще удар, и еще удар, и еще удар!"	Colpo dopo colpo dopo colpo!	一次一次又一次重击！ 	殴って、 殴って、 殴りまくれぇ！			
+&Text.Guards.LockdownStart	ВВЕДІТЬ ПРОТОКОЛ ЗАМИКАННЯ - ОСЬ І ВСЕ!	STARTET DAS VERRIEGELUNGS-PROTOKOLL – JETZT!	ACTIVEZ LE PROTOCOLE D'ÉTAT D'URGENCE. ON Y EST !	"INICIAD EL PROCESO DE BLOQUEO, ¡SE ACABÓ!"	ЗАПУЩЕН ПРОТОКОЛ СТРОГОЙ ИЗОЛЯЦИИ!	AVVIO PROTOCOLLO DI LOCKDOWN... FATTO!	启动封锁协议。 现在！ 	封鎖プロトコルを開始、  正念場だ！			
+&Text.Guard.Naked	Сховай це, $name!	"Steck’s weg, $name!"	"Range-moi ça, $name !"	"¡Sácalo de aquí, $name!"	"Убери это, $name!"	"Mettilo via, $name!"	$name ， 把那东西收起来！ 	そいつをしまえ、 $name！			
+&Text.Player.ActionInmate	Ліпше встань	Steh lieber auf.	Tu devrais te lever.	Mejor que te levantes.	Лучше тебе встать	"Alzati, subito"	你最好起来	起きろっての			
+&Text.Guard.Stealing	Грабуєш, га?	"Stehlen, eh?"	On chaparde ?	¿Saqueando?	"Воруем, а?"	"Rubiamo, eh?"	搜刮东西吗？	お宝を物色中か？			
+&Text.NPC.JobstaffRandom	Ручки! Найкращі друзі, яких можна придбати!	"Stifte! Die besten Freunde, die du haben kannst!"	Les stylos ! Les meilleurs amis que vous puissiez avoir !	¡Bolis! ¡Son los mejores amigos que puedes tener!	Ручки! Ваши лучшие друзья!	Penne! I migliori amici che possiate avere!	钢笔！  它们是你最好的朋友！ 	ペンだ！ペンこそ最高の友だ！			
+&Text.Guards.RollCallStart	Струнко!	Stillgestanden!	Soyez attentifs !	¡Prestad atención!	Стоять смирно!	Sull’attenti!	立正！ 	気をつけっ！			
+&Text.NPC.MedicCarrying	Не помирай на моїх руках!	Stirb mir nicht weg!	Me lâche pas maintenant !	¡No digas que te mueres!	Не смей окочуриться при мне!	Non osare morire!	坚持住， 别死！ 	死ぬんじゃない！			
+&Text.NPC.Chef	Поклади це у мікрохвильовку!	Stopf’s in die Mikrowelle!	Mets ça au micro-ondes !	¡Ponlo en el microondas!	Засунь это в микроволновку!	Mettilo nel microonde!	把这玩意儿放进微波炉！ 	だまってレンチンしとけ！			
+&Text.Guards.Gym	Про спину не забувай!	Streng dich an!	Mettez-y du nerf !	¡Esforzaos un poco!	Надо вкалывать как следует!	"Dateci dentro, forza!"	卖力点！ 	本気でやれ！			
+&Text.Inmates.Banter	Хочеш потанцювати?	Tänzchen?	Tu vas valser.	¿Bailas?	Потанцуем?	Vuoi ballare?	想跳支舞吗？	踊りたいか？			
+&Text.NPC.Chef	Покваптеся!	Tempo erhöhen!	Plus vite !	¡Acelera el ritmo!	Живее!	Sbrigati!	别磨蹭！ 	モタモタするな！			
+&Text.Guards.Reporting	Відзвітуймо про це…	Tippen wir das ein ...	On va le consigner...	Registremos esto...	Зарегистрируем это...	Andiamo a fare rapporto...	把这件事记录一下……	こいつは記録しとこう…			
+&Text.Inmates.Gift.RankHighValue	Неймовірно!	Toll!	Génial !	¡Guau!	Супер!	Grandioso!	好极了！ 	すげえや！			
+&Text.NPC.Receptionist	Будь ласка, напиши щось у гостьовій книзі	Trag dich bitte im Besucherbuch ein.	Merci de signer le livre d'or.	"Firma el libro de visitas, por favor."	"Распишитесь, пожалуйста, в книге посещений"	Potresti firmare il libro dei visitatori?	麻烦你在来访者名册上签字	面会者名簿にサインを			
+&Text.NPC.Receptionist	Запиши це в щоденник!	Trag’s im Tagebuch ein!	Mets-ça dans le journal !	¡Pon eso en el diario!	Запиши это в дневник!	Lo scriverò nell’agenda!	把那个写进日记里！ 	日誌に書いとけ！			
+&Text.NPC.JobstaffRandom	"Не соромся, підходь"	"Trau dich, komm näher."	"Ne sois pas timide, viens par ici."	"No tengas vergüenza, adelante."	"Подходите, не стесняйтесь"	"Non siate timidi, venite avanti"	别害羞， 上前来	遠慮なく入りたまえ			
+&Text.Guards.MaxPrisonAlertness	В’яжіть сих гультяїв	Treibt das Gesindel zusammen.	Rassemblez ces misérables.	Encierra a esos sintecho.	Сгоните этих бомжей в кучу	Raccogliete quei barboni	 把那些无业游民召集起来	連中をとっ捕まえろ！			
+&Text.Inmates.Showers	Зустрінемось тут пізніше	Triff mich später hier.	On se retrouve ici.	Nos vemos aquí luego.	Встретимся здесь позже	Vediamoci qui più tardi	晚些时候再来这里见我	あとで会おう			
 &Text.Guard.CharacterTardy	Годі байдикувати, $name!	"Trödel nicht rum, $name!"	"Lambine pas, $name !"	"¡No más excusas, $name!"	"Хватит копаться, $name!"	"Basta ciondolare, $name!"	$name ， 别磨蹭了！ 	サボってんな、 $name！			
-&Text.Inmates.Attacked	Moron...	Trottel ...	Débile...	Imbécil...	Болван...	Idiota...	蠢货……	バカが…			
-&Text.NPC.Warden	Repent!	Tu Buße!	Repens-toi !	¡Arrepiéntete!	Кайся!	Pentiti!	忏悔吧！ 	悔い改めよ！			
-&Text.NPC.Counselor	I'm sorry to hear that	"Tut mir leid, das zu hören."	Désolé de l'entendre.	Siento oírlo.	Мне жаль это слышать	Mi spiace che sia così	听到这件事我很难过	そいつは心が痛むな…			
-&Text.NPC.Receptionist	Sorry to keep you waiting	"Tut mir leid, dass du warten musstest."	Pardon pour l'attente.	Perdona por hacerte esperar.	"Извините, что заставили вас ждать"	Mi spiace farti aspettare	抱歉让你久等了	お待たせしてすみません			
-&Text.Guard.InterjectFight	Leave this to me!	Überlasst das mir!	Je m'en charge !	¡Déjame esto a mí!	Оставь это мне!	Lasciate fare a me!	交给我吧！ 	ここは私が！			
-&Text.Guard.CharacterSearchingDesk	Oi! Thief!	Ui! Dieb!	Hé ! Voleur !	¡Eh! ¡Ladrón!	Эй! Вор!	Ehi! Al ladro!	喂！ 抓贼啊！ 	おい！盗っ人！			
-&Text.Guard.CharacterSearchingDesk	Oi! That's not your desk!	Ui! Nicht dein Schreibtisch!	Hé ! C'est pas ton bureau !	¡Eh! ¡Ese no es tu escritorio!	Эй! Это не твой стол!	Ehi! Non è il tuo tavolo!	喂！ 那不是你的桌子！ 	おい！人の机だぞ！			
-&Text.Guard.InterjectFight	Ultra combo!	Ultra-Kombo!	Ultra combo !	¡Ultra combo!	Ультракомбо!	Combo ultra!	超必杀技！ 	ウルトラコンボだ！			
-&Text.Visitor.BanterJoin	And if that wasn't bad enough…	Und als ob das nicht genug wäre ...	Comme si ça ne suffisait pas...	Por si eso no fuese suficiente...	Если тебе недостаточно...	E come se non fosse abbastanza...	好像现在情况还不够糟糕一样……	それだけじゃない…			
-&Text.Guard.CharacterKnockedOut	And stay down…	Und bleib unten ...	Reste à terre...	Y quédate ahí...	Не вставай...	E stai giù...	别起来了……	一生寝てろ…			
-&Text.Visitor.BanterJoin	So because of that…	Und darum ...	Alors à cause de ça...	"Entonces, por eso..."	И поэтому...	Perciò...	因此……	そのせいで…			
-&Text.Visitor.BanterJoin	And on top of that…	Und dazu kommt noch ...	Et en plus de ça...	Y además...	И помимо этого...	E per di più...	更重要的是……	しかもだ…			
-&Text.Inmate.Snitch.Character.Like	And like that… gone!	Und einfach so ... weg!	Et comme ça... disparu !	Y sin más... ¡desapareció!	Вот тебе на... ушли!	Ecco fatto... andato!	就那样……消失了！ 	そして気づくと…消えちまってた！			
-&Text.NPC.MedicDismissFromInfirmary	Now stay out of trouble	Und jetzt keinen Ärger.	"Évite les ennuis, à l'avenir."	Ahora no te metas en líos.	Держись подальше от проблем	Stai lontano dai guai	别惹麻烦	もう騒ぎは起こすな			
-&Text.Guards.RollCallMain	Don't you be rolling your eyes at me	"Und wag es nicht, die Augen zu verdrehen."	Ne levez pas les yeux au ciel quand je parle.	Miradme cuando os hable.	"Не закатывай глаза, когда на меня смотришь"	Non osare far roteare gli occhi con me	不许对我翻白眼	人の顔をジロジロ見るな			
-&Text.Inmates.Showers	And why not?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	いいだろ？			
-&Text.Inmates.JobChat	And why not?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	まあ、 ヒマだしさ？			
-&Text.Inmates.Gym	And why not?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	ま、 どうせヒマだし？			
-&Text.Inmates.FoodHall	And why not?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	まあ、 食えるしな？			
-&Text.Inmates.Banter	And why not?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	断る理由が？			
-&Text.Inmates.Gift.RankHighValue	And why not?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	ま、 もらっとくよ			
-&Text.Inmates.Ignore	And why not?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	ま、 いいんじゃね？			
-&Text.Guard.CharacterBound	And what do you think you're doing?! 	"Und was glaubst du, dass du machst?! "	"Tu te crois où, là ? "	¿Qué te crees que haces? 	"И что, по-твоему, ты делаешь? "	Cosa pensi di fare? 	你这是想干嘛呀？！  	一体何をするつもりだ？！			
-&Text.Guard.ContrabandOnFloor	And what's that?!	Und was ist das?!	"Et c'est quoi, ça ?"	¡¿Y eso qué es?!	И что это такое?!	E che cosa è?!	那是啥？！ 	こりゃなんだ？！			
-&Text.Guard.SentToContrabandDesk	Off it goes!	Und weg!	Et je prends !	¡Allá va!	Прощай!	Via!	走喽！ 	また出たぞ！			
-&Text.GuardAlert.Item	And who might this belong to?	Und wem gehört das wohl?	"Et c'est à qui, ça ?"	¿Y de quién es esto?	И чье это может быть?	Di chi potrebbe essere?	这东西会是谁的呢？	で、 こいつは誰のだ？			
-&Text.NPC.Counselor	So how does that make you feel?	Und wie fühlst du dich da?	"Alors, qu'est-ce que ça te fait ?"	¿Y cómo te hace sentir eso?	Что вы чувствуете?	Come ti fa sentire?	你对此作何感想？	で、 キミの今の心境は？			
-&Text.NPC.MedicCarrying	Another one bites the dust	Und wieder einer ins Gras gebissen.	Il s'en sortira toujours à temps.	¡Otro más muerde el polvo!	Еще один откинулся	Un altro che è finito al creatore	又倒了一个	またひとりぶっ倒れた			
-&Text.NPC.JobstaffLeaving	Go back to being a common prisoner	Und zurück zum normalen Häftling.	Retourne donc à ta vie ordinaire.	Vuelve a ser un prisionero normal.	Возвращайся и будь обычным зэком	Torna a essere un prigioniero qualunque	回去当个普通的囚犯	ただの囚人に戻りたまえ			
-&Text.NPC.Warden	So how's your nan?	"Und, wie geht’s Oma?"	Comment va ta mamie ?	¿Cómo está tu abuela?	Как твоя бабуля?	Come sta vostra nonna?	你的祖母还好吗？	で、 お袋さんは元気か？			
-&Text.Visitor.Banter	Our goldfish escaped	Unser Fisch ist entkommen.	Notre poisson a fugué.	El pez se ha escapado.	Золотая рыбка смылась	Il pesce rosso è scappato	我们的金鱼溜了	金魚が逃げちまってさ			
-&Text.NPC.Medic	Our work is never appreciated	Unsere Arbeit wird nie geschätzt.	Notre travail n'est jamais apprécié.	Nuestro trabajo nunca lo aprecian.	Нашу работу не ценят	Il nostro lavoro non viene apprezzato	我们的工作向来吃力不讨好	決して感謝されない仕事だ			
-&Text.Guard.SpottedWantedCharacter	Suspect in sight!	Verdächtiger in Sicht!	Suspect en vue !	¡Sospechoso a la vista!	Вижу подозреваемого!	Sospetto in vista!	发现嫌疑犯！ 	被疑者を発見！			
-&Text.Guards.Reporting	Let's type this report up!	Verfassen wir diesen Bericht!	Écrivons ce rapport !	¡Vamos a hacer este informe!	Давай напечатаем чертов рапорт!	Scriviamo questo rapporto!	把这件事上报！ 	報告書に記入しておく！			
+&Text.Inmates.Attacked	Бовдур...	Trottel ...	Débile...	Imbécil...	Болван...	Idiota...	蠢货……	バカが…			
+&Text.NPC.Warden	Покайтеся!	Tu Buße!	Repens-toi !	¡Arrepiéntete!	Кайся!	Pentiti!	忏悔吧！ 	悔い改めよ！			
+&Text.NPC.Counselor	Мені шкода це чути	"Tut mir leid, das zu hören."	Désolé de l'entendre.	Siento oírlo.	Мне жаль это слышать	Mi spiace che sia così	听到这件事我很难过	そいつは心が痛むな…			
+&Text.NPC.Receptionist	Даруй, що змусив чекати	"Tut mir leid, dass du warten musstest."	Pardon pour l'attente.	Perdona por hacerte esperar.	"Извините, что заставили вас ждать"	Mi spiace farti aspettare	抱歉让你久等了	お待たせしてすみません			
+&Text.Guard.InterjectFight	Залиште це на мене!	Überlasst das mir!	Je m'en charge !	¡Déjame esto a mí!	Оставь это мне!	Lasciate fare a me!	交给我吧！ 	ここは私が！			
+&Text.Guard.CharacterSearchingDesk	Гей! Крадію!	Ui! Dieb!	Hé ! Voleur !	¡Eh! ¡Ladrón!	Эй! Вор!	Ehi! Al ladro!	喂！ 抓贼啊！ 	おい！盗っ人！			
+&Text.Guard.CharacterSearchingDesk	Гей! Се не твій стіл!	Ui! Nicht dein Schreibtisch!	Hé ! C'est pas ton bureau !	¡Eh! ¡Ese no es tu escritorio!	Эй! Это не твой стол!	Ehi! Non è il tuo tavolo!	喂！ 那不是你的桌子！ 	おい！人の机だぞ！			
+&Text.Guard.InterjectFight	Ультракомбо!	Ultra-Kombo!	Ultra combo !	¡Ultra combo!	Ультракомбо!	Combo ultra!	超必杀技！ 	ウルトラコンボだ！			
+&Text.Visitor.BanterJoin	І ніби цього було недостатньо…	Und als ob das nicht genug wäre ...	Comme si ça ne suffisait pas...	Por si eso no fuese suficiente...	Если тебе недостаточно...	E come se non fosse abbastanza...	好像现在情况还不够糟糕一样……	それだけじゃない…			
+&Text.Guard.CharacterKnockedOut	Так і падай…	Und bleib unten ...	Reste à terre...	Y quédate ahí...	Не вставай...	E stai giù...	别起来了……	一生寝てろ…			
+&Text.Visitor.BanterJoin	Тож через це…	Und darum ...	Alors à cause de ça...	"Entonces, por eso..."	И поэтому...	Perciò...	因此……	そのせいで…			
+&Text.Visitor.BanterJoin	І на додаток до цього…	Und dazu kommt noch ...	Et en plus de ça...	Y además...	И помимо этого...	E per di più...	更重要的是……	しかもだ…			
+&Text.Inmate.Snitch.Character.Like	І якось так… зник!	Und einfach so ... weg!	Et comme ça... disparu !	Y sin más... ¡desapareció!	Вот тебе на... ушли!	Ecco fatto... andato!	就那样……消失了！ 	そして気づくと…消えちまってた！			
+&Text.NPC.MedicDismissFromInfirmary	Тепер стережися лиха	Und jetzt keinen Ärger.	"Évite les ennuis, à l'avenir."	Ahora no te metas en líos.	Держись подальше от проблем	Stai lontano dai guai	别惹麻烦	もう騒ぎは起こすな			
+&Text.Guards.RollCallMain	Не робіть тут мені великі очі	"Und wag es nicht, die Augen zu verdrehen."	Ne levez pas les yeux au ciel quand je parle.	Miradme cuando os hable.	"Не закатывай глаза, когда на меня смотришь"	Non osare far roteare gli occhi con me	不许对我翻白眼	人の顔をジロジロ見るな			
+&Text.Inmates.Showers	Та, чому б і ні?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	いいだろ？			
+&Text.Inmates.JobChat	Та, чому б і ні?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	まあ、 ヒマだしさ？			
+&Text.Inmates.Gym	Та, чому б і ні?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	ま、 どうせヒマだし？			
+&Text.Inmates.FoodHall	Та, чому б і ні?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	まあ、 食えるしな？			
+&Text.Inmates.Banter	Та, чому б і ні?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	断る理由が？			
+&Text.Inmates.Gift.RankHighValue	Та, чому б і ні?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	ま、 もらっとくよ			
+&Text.Inmates.Ignore	Та, чому б і ні?	Und warum nicht?	Pourquoi pas ?	¿Y por qué no?	Почему бы нет?	E perché no?	好呀。 	ま、 いいんじゃね？			
+&Text.Guard.CharacterBound	І що, по-твоєму, ти робиш?! 	"Und was glaubst du, dass du machst?! "	"Tu te crois où, là ? "	¿Qué te crees que haces? 	"И что, по-твоему, ты делаешь? "	Cosa pensi di fare? 	你这是想干嘛呀？！  	一体何をするつもりだ？！			
+&Text.Guard.ContrabandOnFloor	А це що?!	Und was ist das?!	"Et c'est quoi, ça ?"	¡¿Y eso qué es?!	И что это такое?!	E che cosa è?!	那是啥？！ 	こりゃなんだ？！			
+&Text.Guard.SentToContrabandDesk	Що я знайшов - то пропало!	Und weg!	Et je prends !	¡Allá va!	Прощай!	Via!	走喽！ 	また出たぞ！			
+&Text.GuardAlert.Item	І чиє ж це може бути?	Und wem gehört das wohl?	"Et c'est à qui, ça ?"	¿Y de quién es esto?	И чье это может быть?	Di chi potrebbe essere?	这东西会是谁的呢？	で、 こいつは誰のだ？			
+&Text.NPC.Counselor	І які відчуття це в тебе викликає?	Und wie fühlst du dich da?	"Alors, qu'est-ce que ça te fait ?"	¿Y cómo te hace sentir eso?	Что вы чувствуете?	Come ti fa sentire?	你对此作何感想？	で、 キミの今の心境は？			
+&Text.NPC.MedicCarrying	Ще один упав намертво	Und wieder einer ins Gras gebissen.	Il s'en sortira toujours à temps.	¡Otro más muerde el polvo!	Еще один откинулся	Un altro che è finito al creatore	又倒了一个	またひとりぶっ倒れた			
+&Text.NPC.JobstaffLeaving	Повертайся до життя звичайного в’язня	Und zurück zum normalen Häftling.	Retourne donc à ta vie ordinaire.	Vuelve a ser un prisionero normal.	Возвращайся и будь обычным зэком	Torna a essere un prigioniero qualunque	回去当个普通的囚犯	ただの囚人に戻りたまえ			
+&Text.NPC.Warden	Отже, як твоя бабуня?	"Und, wie geht’s Oma?"	Comment va ta mamie ?	¿Cómo está tu abuela?	Как твоя бабуля?	Come sta vostra nonna?	你的祖母还好吗？	で、 お袋さんは元気か？			
+&Text.Visitor.Banter	Наша золота рибка втекла	Unser Fisch ist entkommen.	Notre poisson a fugué.	El pez se ha escapado.	Золотая рыбка смылась	Il pesce rosso è scappato	我们的金鱼溜了	金魚が逃げちまってさ			
+&Text.NPC.Medic	Нашу роботу ніколи не шанують	Unsere Arbeit wird nie geschätzt.	Notre travail n'est jamais apprécié.	Nuestro trabajo nunca lo aprecian.	Нашу работу не ценят	Il nostro lavoro non viene apprezzato	我们的工作向来吃力不讨好	決して感謝されない仕事だ			
+&Text.Guard.SpottedWantedCharacter	Бачу підозрюваного!	Verdächtiger in Sicht!	Suspect en vue !	¡Sospechoso a la vista!	Вижу подозреваемого!	Sospetto in vista!	发现嫌疑犯！ 	被疑者を発見！			
+&Text.Guards.Reporting	Напишімо-но про це звіт!	Verfassen wir diesen Bericht!	Écrivons ce rapport !	¡Vamos a hacer este informe!	Давай напечатаем чертов рапорт!	Scriviamo questo rapporto!	把这件事上报！ 	報告書に記入しておく！			
 &Text.Guard.SuspiciousOfCharacter	Стежу за підозрілою особою	Verfolge Verdächtigen.	Je suis le suspect.	Siguiendo al sospechoso.	Следую за подозреваемым	Seguo il sospetto	正在跟踪嫌疑人	不審者を追跡中			
-&Text.Guard.Suspicious	Tailing suspect	Verfolge Verdächtigen.	On suit le suspect.	Siguiendo al sospechoso.	Следую за подозреваемым	Seguo il sospetto	正在跟踪嫌疑人	不審者を追跡中			
-&Text.Guards.MaxPrisonAlertnessSpotted	IN PURSUIT!	VERFOLGUNG LÄUFT!	EN POURSUITE !	¡A LA BÚSQUEDA!	ВЕДУ ПРЕСЛЕДОВАНИЕ!	INSEGUIMENTO!	正在追踪	追跡する！			
-&Text.NPC.Maintenance.Idle	Don't forget about me	Vergesst mich nicht.	Ne m'oublie pas.	No te olvides de mí.	Не забудь обо мне	Non dimenticarti di me	别忘了我	私のことを忘れないでくれ			
-&Text.Inmates.Gym	Don't forget to breathe!	Vergiss nicht zu atmen!	N'oublie pas de respirer !	¡No te olvides de respirar!	Не забывай дышать!	"Respira, mi raccomando!"	别忘了深呼吸！ 	深呼吸を忘れずにぃぃぃ！			
-&Text.NPC.MedicDismissFromSolitary	Don't forget to write	Vergiss nicht zu schreiben!	N'oublie pas d'écrire.	No te olvides de escribir.	Не забывай писать	Scrivimi!	别忘了写信	ちゃんと手紙を書くようにな！			
+&Text.Guard.Suspicious	Постерігаю за підозрюваним	Verfolge Verdächtigen.	On suit le suspect.	Siguiendo al sospechoso.	Следую за подозреваемым	Seguo il sospetto	正在跟踪嫌疑人	不審者を追跡中			
+&Text.Guards.MaxPrisonAlertnessSpotted	ЗА НИМ!	VERFOLGUNG LÄUFT!	EN POURSUITE !	¡A LA BÚSQUEDA!	ВЕДУ ПРЕСЛЕДОВАНИЕ!	INSEGUIMENTO!	正在追踪	追跡する！			
+&Text.NPC.Maintenance.Idle	Не забувай про мене   Vergesst mich nicht.	Ne m'oublie pas.	No te olvides de mí.	Не забудь обо мне	Non dimenticarti di me	别忘了我	私のことを忘れないでくれ			
+&Text.Inmates.Gym	Не забувай про дихання!	Vergiss nicht zu atmen!	N'oublie pas de respirer !	¡No te olvides de respirar!	Не забывай дышать!	"Respira, mi raccomando!"	别忘了深呼吸！ 	深呼吸を忘れずにぃぃぃ！			
+&Text.NPC.MedicDismissFromSolitary	Не забудь написати	Vergiss nicht zu schreiben!	N'oublie pas d'écrire.	No te olvides de escribir.	Не забывай писать	Scrivimi!	别忘了写信	ちゃんと手紙を書くようにな！			
 &Text.Guards.CombatEnded	Не забувай своє місце…	"Vergiss nicht, wo du stehst."	N'oublie pas ta place...	No te olvides de tu sitio...	Не забывай свое место...	Non dimenticare il tuo posto...	别忘了自己的身份……	調子に乗るなよ…			
-&Text.Chase.Missing	Lost em…	Verloren ...	Perdus...	Los he perdido...	Потерял...	Li ho persi...	甩掉他们了……	見失った…			
-&Text.Guard.CharacterAttacking	Destroying target!	Vernichte Ziel!	Destruction de la cible	¡Destruyendo objetivo!	Уничтожение цели!	Distruzione obiettivo!	正在摧毁目标！ 	野郎をぶっつぶせ！			
-&Text.Inmates.PlayerRep1	Get out my face	Verpiss dich.	Éloigne-toi de moi.	Quítate de mi vista.	Скройся с глаз	Stai alla larga	滚	その顔を見せるな			
-&Text.Guards.LockdownStart	INITIATE LOCKDOWN!	VERRIEGELUNG AUSLÖSEN!	LANCEZ L'ÉTAT D'URGENCE !	¡INICIAD BLOQUEO!	ВВОДИМ РЕЖИМ ИЗОЛЯЦИИ!	ATTIVARE LOCKDOWN!	开始封锁！ 	施設封鎖を開始！			
-&Text.Inmates.PlayerRep1	Take a hike	Verschwinde.	Casse-toi.	Date un paseo.	Свали	Fatti un giro	走开	散歩してこい			
-&Text.Inmates.FoodHall	Try this...	Versuch das ...	Essaie ça...	Prueba esto...	Попробуй-ка...	Prova questo	试试这个……	こいつを食ってみ…			
-&Text.ChatToGuard	"Try it, I dare you"	"Versuch’s doch, trau dich."	"Essaie, si tu l'oses."	"Inténtalo, vamos."	Только попробуй	"Provaci, ti sfido"	有种就试试这个	やってみろ、 腰抜け			
-&Text.Guard.CharacterAttacking	Try this on for size…	Versuchen wir das mal ...	Essaie ça pour voir...	Me probaré esta talla...	На-ка попробуй...	Prova questo...	试试这个吧……	この警棒を試してみるか…			
-&Text.Guard.MissingTile	Trying to escape?	Versuchst du zu fliehen?	On veut s'évader ?	¿Intentando escapar?	Пытаемся бежать?	Volevi evadere?	想越狱吗？	誰かが脱獄を？			
-&Text.Guard.CharacterDamagingTiles	Trying to escape eh?	"Versuchst zu fliehen, eh?"	On essaie de s'évader ?	"Intentando escapar, ¿no?"	Пытаешься сбежать?	"Vorresti evadere, eh?"	想越狱吗？	脱獄しようってか？			
-&Text.Guards.RollCallMain	Be a problem and I’ll eject your teeth	Verursache Ärger und du bist deine Zähne los.	Causez un problème et vous perdrez des dents !	"Como me deis problemas, os arrancaré los dientes."	"Если будут проблемы, я выбью тебе зубы"	Creami dei problemi e ti farò sputare i denti	你要是给我搞事情， 我就打掉你的牙	厄介者は歯をへし折ってやる			
-&Text.Inmates.Ignore	Good luck escaping	Viel Glück beim Ausbruch.	"Bonne chance, hein."	Suerte para escapar.	Удачи вам!	Buona fortuna	祝你越狱顺利	脱獄がんばれよ			
-&Text.Inmate.Snitch.Character.Like	Good luck out there!	Viel Glück da draußen!	Bonne chance !	¡Buena suerte ahí fuera!	Удачи!	Buona fortuna!	祝你好运！ 	応援してるぜ！			
-&Text.NPC.DiscoverEscapeAttemptIgnore	Good luck I say	Viel Glück sag ich!	Bonne chance.	Buena suerte...	"Я сказал, удачи"	Buona fortuna	祝你好运	ま、 がんばってくれ			
-&Text.Inmates.Gift.RankHighValue	Bless you!	Vielen Dank!	Divin !	¡Bendito seas!	Будь здоров!	Salute!	祝福你！ 	ありがとよ！			
-&Text.Player.ThanksForThat	Thank you!	Vielen Dank!	Merci !	¡Gracias!	Спасибо!	Ti ringrazio!	谢谢你！ 	ありがとう！			
-&Text.NPC.JobstaffBanter	Maybe one day you could be in my place	Vielleicht bist du eines Tages statt mir da.	"Tu prendras peut-être ma place, un jour."	A lo mejor un día ocupas mi lugar.	"Может, когда-нибудь вы окажетесь на моем месте"	Magari un giorno starete al mio posto	也许有朝一日你能坐上我的位置	いつの日か立場が入れ替わるかもしれん			
-&Text.NPC.Maintenance.Idle	I might go to the cinema later... By myself.	Vielleicht geh ich nachher ins Kino ... Alleine.	J'irai peut-être au cinéma après... Sans personne.	Creo que después iré al cine... Solo.	"Наверно, я потом схожу в кино... Один."	Potrei andare al cinema più tardi... Da solo.	我过一会儿可能会去电影院…… 一个人去。 	あとで映画に行こうかな…ひとりで			
-&Text.Lockdown	Maybe someone escaped!	Vielleicht ist wer geflohen!	Peut-être une évasion !	¡Quizá se ha escapado alguien!	"Может, кто-нибудь сбежал!"	Forse è evaso qualcuno!	可能有人逃走了！ 	脱獄者かも！			
-&Text.Guards.Reported	Incident logged!	Vorfall aufgenommen!	Incident consigné !	¡Incidente registrado!	Происшествие занесено в журнал!	Incidente registrato	已将事件记录！ 	事例を記録！			
-&Text.Guards.Reported	Incident reported!	Vorfall berichtet!	Incident signalé !	¡Incidente procesado!	О происшествии доложено!	Incidente riportato	已将事件上报！ 	事例を報告！			
-&Text.Guards.Reporting	Reporting incident…	Vorfallsbericht ...	Rapport d'incident...	Informe de incidente...	Доложим о случившемся...	Rapporto dell’incidente	正在上报事件……	事例を報告…			
-&Text.Inmates.PlayerRep2	Careful now	Vorsichtig.	Fais gaffe.	Con cuidado.	Осторожнее	Attenzione...	小心	口に気をつけろ			
-&Text.Guard.Heat	Don't you dare run!	Wag es nicht zu laufen!	Essaie pas de courir !	¡No te atrevas a correr!	Не пытайся бежать!	Non osare scappare!	不许跑！ 	逃げたってムダだ！			
-&Text.Guard.CharacterKnockedOut	Probably deserved that	Wahrscheinlich verdient.	Tu l'as sans doute cherché.	Seguramente se lo merecía.	"Наверное, я это заслужил"	Forse se l’è meritato	大概是罪有应得	当然の報いだ			
-&Text.Inmate.Disguise	Wasn't me!	War nicht ich!	C'est pas moi !	¡Yo no he sido!	Это не я!	Non ero io!	不是我！ 	人違いでさあ！			
-&Text.Guards.GoReport	Wait till the warden hears of this!	"Warte, bis der Wächter davon erfährt!"	Attendez que le directeur l'apprenne !	¡Espera a que el alcaide se entere de esto!	"Подождите, когда надзиратель об этом узнает!"	Aspetta che il direttore lo venga a sapere!	你就等着我去告诉典狱长吧！ 	待ってろ、 所長に報告してやる！			
-&Text.Lockdown	Guards can't even count!	Wärter können nicht mal zählen!	Les gardiens comptent mal !	¡Los guardias no saben ni contar!	Охрана даже считать не умеет!	Le guardie non sanno contare!	守卫连数数都不会！ 	看守は数も数えられない！			
-&Text.Inmates.Report	Guards!	Wärter!	Gardiens !	¡Guardias!	Охрана!	Guardie!	守卫！ 	看守さーん！			
-&Text.Inmates.AttackedRunsAway	Guards!	Wärter!	Gardiens !	¡Guardias!	Охрана!	Guardie!	守卫！ 	看守さーん！			
-&Text.Inmates.Report	Guards! Shenanigans afoot!	Wärter! Gaunereien im Gange!	Gardiens ! Magouille dans l'air !	¡Guardias! ¡Aquí se trama algo!	Охрана! Не гони!	Guardie! C’è qualcosa di losco!	守卫！ 正在搞恶作剧！ 	看守さん、 ここに不正のあとが！			
+&Text.Chase.Missing	Загубив його…	Verloren ...	Perdus...	Los he perdido...	Потерял...	Li ho persi...	甩掉他们了……	見失った…			
+&Text.Guard.CharacterAttacking	Знищую ціль!	Vernichte Ziel!	Destruction de la cible	¡Destruyendo objetivo!	Уничтожение цели!	Distruzione obiettivo!	正在摧毁目标！ 	野郎をぶっつぶせ！			
+&Text.Inmates.PlayerRep1	Та відчеписі ти вже	Verpiss dich.	Éloigne-toi de moi.	Quítate de mi vista.	Скройся с глаз	Stai alla larga	滚	その顔を見せるな			
+&Text.Guards.LockdownStart	ВВЕДІТЬ РЕЖИМ ЗАМИКАННЯ!	VERRIEGELUNG AUSLÖSEN!	LANCEZ L'ÉTAT D'URGENCE !	¡INICIAD BLOQUEO!	ВВОДИМ РЕЖИМ ИЗОЛЯЦИИ!	ATTIVARE LOCKDOWN!	开始封锁！ 	施設封鎖を開始！			
+&Text.Inmates.PlayerRep1	Йди до біса	Verschwinde.	Casse-toi.	Date un paseo.	Свали	Fatti un giro	走开	散歩してこい			
+&Text.Inmates.FoodHall	Скоштуй це...	Versuch das ...	Essaie ça...	Prueba esto...	Попробуй-ка...	Prova questo	试试这个……	こいつを食ってみ…			
+&Text.ChatToGuard	"Спробуй, я наполягаю"	"Versuch’s doch, trau dich."	"Essaie, si tu l'oses."	"Inténtalo, vamos."	Только попробуй	"Provaci, ti sfido"	有种就试试这个	やってみろ、 腰抜け			
+&Text.Guard.CharacterAttacking	Приміряй ось це…	Versuchen wir das mal ...	Essaie ça pour voir...	Me probaré esta talla...	На-ка попробуй...	Prova questo...	试试这个吧……	この警棒を試してみるか…			
+&Text.Guard.MissingTile	Намагаєшся втекти?	Versuchst du zu fliehen?	On veut s'évader ?	¿Intentando escapar?	Пытаемся бежать?	Volevi evadere?	想越狱吗？	誰かが脱獄を？			
+&Text.Guard.CharacterDamagingTiles	Намагаєшся втекти, га?	"Versuchst zu fliehen, eh?"	On essaie de s'évader ?	"Intentando escapar, ¿no?"	Пытаешься сбежать?	"Vorresti evadere, eh?"	想越狱吗？	脱獄しようってか？			
+&Text.Guards.RollCallMain	Будете проблемою - виб’ю ваші зуби	Verursache Ärger und du bist deine Zähne los.	Causez un problème et vous perdrez des dents !	"Como me deis problemas, os arrancaré los dientes."	"Если будут проблемы, я выбью тебе зубы"	Creami dei problemi e ti farò sputare i denti	你要是给我搞事情， 我就打掉你的牙	厄介者は歯をへし折ってやる			
+&Text.Inmates.Ignore	Хай щастить з втечею	Viel Glück beim Ausbruch.	"Bonne chance, hein."	Suerte para escapar.	Удачи вам!	Buona fortuna	祝你越狱顺利	脱獄がんばれよ			
+&Text.Inmate.Snitch.Character.Like	Хай щастить!	Viel Glück da draußen!	Bonne chance !	¡Buena suerte ahí fuera!	Удачи!	Buona fortuna!	祝你好运！ 	応援してるぜ！			
+&Text.NPC.DiscoverEscapeAttemptIgnore	Ну, удачі	Viel Glück sag ich!	Bonne chance.	Buena suerte...	"Я сказал, удачи"	Buona fortuna	祝你好运	ま、 がんばってくれ			
+&Text.Inmates.Gift.RankHighValue	Благослови тебе Бог!	Vielen Dank!	Divin !	¡Bendito seas!	Будь здоров!	Salute!	祝福你！ 	ありがとよ！			
+&Text.Player.ThanksForThat	Дякую!	Vielen Dank!	Merci !	¡Gracias!	Спасибо!	Ti ringrazio!	谢谢你！ 	ありがとう！			
+&Text.NPC.JobstaffBanter	Мабуть, одного дня ти будеш на моєму місці	Vielleicht bist du eines Tages statt mir da.	"Tu prendras peut-être ma place, un jour."	A lo mejor un día ocupas mi lugar.	"Может, когда-нибудь вы окажетесь на моем месте"	Magari un giorno starete al mio posto	也许有朝一日你能坐上我的位置	いつの日か立場が入れ替わるかもしれん			
+&Text.NPC.Maintenance.Idle	Я можу скоро піти в кіно... сам.	Vielleicht geh ich nachher ins Kino ... Alleine.	J'irai peut-être au cinéma après... Sans personne.	Creo que después iré al cine... Solo.	"Наверно, я потом схожу в кино... Один."	Potrei andare al cinema più tardi... Da solo.	我过一会儿可能会去电影院…… 一个人去。 	あとで映画に行こうかな…ひとりで			
+&Text.Lockdown	Мабуть, хтось втік!	Vielleicht ist wer geflohen!	Peut-être une évasion !	¡Quizá se ha escapado alguien!	"Может, кто-нибудь сбежал!"	Forse è evaso qualcuno!	可能有人逃走了！ 	脱獄者かも！			
+&Text.Guards.Reported	Про випадок повідомленно!	Vorfall aufgenommen!	Incident consigné !	¡Incidente registrado!	Происшествие занесено в журнал!	Incidente registrato	已将事件记录！ 	事例を記録！			
+&Text.Guards.Reported	Про випадок прозвітовано!	Vorfall berichtet!	Incident signalé !	¡Incidente procesado!	О происшествии доложено!	Incidente riportato	已将事件上报！ 	事例を報告！			
+&Text.Guards.Reporting	Рапортую про випадок…	Vorfallsbericht ...	Rapport d'incident...	Informe de incidente...	Доложим о случившемся...	Rapporto dell’incidente	正在上报事件……	事例を報告…			
+&Text.Inmates.PlayerRep2	Обережно	Vorsichtig.	Fais gaffe.	Con cuidado.	Осторожнее	Attenzione...	小心	口に気をつけろ			
+&Text.Guard.Heat	Не смій тікати!	Wag es nicht zu laufen!	Essaie pas de courir !	¡No te atrevas a correr!	Не пытайся бежать!	Non osare scappare!	不许跑！ 	逃げたってムダだ！			
+&Text.Guard.CharacterKnockedOut	Заслужив, напевно	Wahrscheinlich verdient.	Tu l'as sans doute cherché.	Seguramente se lo merecía.	"Наверное, я это заслужил"	Forse se l’è meritato	大概是罪有应得	当然の報いだ			
+&Text.Inmate.Disguise	Це не я!	War nicht ich!	C'est pas moi !	¡Yo no he sido!	Это не я!	Non ero io!	不是我！ 	人違いでさあ！			
+&Text.Guards.GoReport	Чекай, поки про це не дізнається начальник!	"Warte, bis der Wächter davon erfährt!"	Attendez que le directeur l'apprenne !	¡Espera a que el alcaide se entere de esto!	"Подождите, когда надзиратель об этом узнает!"	Aspetta che il direttore lo venga a sapere!	你就等着我去告诉典狱长吧！ 	待ってろ、 所長に報告してやる！			
+&Text.Lockdown	Наглядачі навіть полічити не можуть!	Wärter können nicht mal zählen!	Les gardiens comptent mal !	¡Los guardias no saben ni contar!	Охрана даже считать не умеет!	Le guardie non sanno contare!	守卫连数数都不会！ 	看守は数も数えられない！			
+&Text.Inmates.Report	Варто!	Wärter!	Gardiens !	¡Guardias!	Охрана!	Guardie!	守卫！ 	看守さーん！			
+&Text.Inmates.AttackedRunsAway	Охороно!	Wärter!	Gardiens !	¡Guardias!	Охрана!	Guardie!	守卫！ 	看守さーん！			
+&Text.Inmates.Report	Варто! Тут щось затівають!	Wärter! Gaunereien im Gange!	Gardiens ! Magouille dans l'air !	¡Guardias! ¡Aquí se trama algo!	Охрана! Не гони!	Guardie! C’è qualcosa di losco!	守卫！ 正在搞恶作剧！ 	看守さん、 ここに不正のあとが！			
 &Text.Inmates.Report	Guards! Someone's trying to escape!	Wärter! Jemand versucht zu fliehen!	Gardiens ! Quelqu'un essaie de s'évader !	¡Guardias! ¡Alguien intenta escapar!	Охрана! Кто-то пытается бежать!	Guardie! Qualcuno sta cercando di evadere!	守卫！ 有人想要越狱！ 	看守さん、 脱獄者が！			
 &Text.Inmates.Report	Guards! Come quick!	Wärter! Kommt schnell!	Gardiens ! Venez vite !	¡Guardias! ¡Rápido!	Охрана! Быстрее!	"Guardie! Venite, svelte!"	守卫！ 快来！ 	看守さん、 早くこっちへ！			
 &Text.Inmates.Report	Guards! Look what I found!	"Wärter! Schaut, was ich gefunden hab!"	Gardiens ! Regardez ça !	¡Guardias! ¡Mirad lo que he encontrado!	Охрана! Смотри что я нашел!	Guardie! Guardate cos’ho trovato!	守卫！ 看看我找到了啥！ 	看守さん、 これを見てください！			
