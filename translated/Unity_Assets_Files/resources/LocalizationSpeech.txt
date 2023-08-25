@@ -5,11 +5,11 @@ Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese
 &Text.Guard.CharacterTardy	$name! Рухайся!	$name! Beweg dich!	$name ! On se bouge !	¡$name! ¡En marcha!	$name! Шевелитесь!	"$name! Muoversi, aria!"	$name！ 快点！ 	$name！早くしろ！			
 &Text.Guard.CharacterTardy	$name! Ти запізнився!	$name! Du bist spät!	$name ! T'es en retard !	¡$name! ¡Llegas tarde!	$name! Ты опоздал!	$name! Sei in ritardo!	$name！ 你迟到了！ 	$name！遅いぞ！			
 &Text.Guard.Naked	$name! Світити дупою тут не можна!	$name! Flitzen ist hier nicht!	$name ! On est pas chez les nudistes !	¡$name! ¡Está prohibido ir desnudo!	$name! Прилюдно оголяться запрещено!	$name! È proibito correre nudi!	$name！ 禁止裸奔！ 	$name！裸で走るのは禁止だ！			
-&Text.Guard.CharacterTardy	$name! Прямуй туди, де ти сі маєш бути!	"$name! Geh dahin, wo du sein sollst!"	$name ! Retourne à ta place !	¡$name! ¡Vete a tu sitio!	$name! Иди на свое место!	$name! Vai dove dovresti essere!	$name！ 赶紧去该去的地方！ 	$name！決まった場所へ行け！			
+&Text.Guard.CharacterTardy	$name! Прямуй туди, де ти маєш бути!	"$name! Geh dahin, wo du sein sollst!"	$name ! Retourne à ta place !	¡$name! ¡Vete a tu sitio!	$name! Иди на свое место!	$name! Vai dove dovresti essere!	$name！ 赶紧去该去的地方！ 	$name！決まった場所へ行け！			
 &Text.Guard.Heat	$name! Стій!	$name! Halt!	$name ! Stop !	¡$name! ¡Para!	$name! Стоп!	$name! Fermati!	$name！ 站住！ 	$name！止まれ！			
 &Text.Guard.Naked	$name! Не світи грішним!	$name! Kein Flitzen!	$name ! Personne à poil !	¡$name! ¡Nada de nudismo!	$name! Никакого нудизма!	$name! Non si corre nudi!	$name！ 不许裸奔！ 	$name！このヘンタイめ！			
 &Text.Guard.Naked	$name! Одягнися! Зараз!	$name! Kleidung! Jetzt!	$name ! Couvre-moi ça !	¡$name! ¡Ropa! ¡Ahora!	$name! Оденься! Сейчас!	$name! Vestiti! Subito!	$name！ 穿好衣服！  利索点！ 	$name！服だ！早くしろ！			
-&Text.Guards.GetDownFromThere	$name! Спускайся, або ми тебе дістанемо! Komm runter oder wir holen dich.	$name ! Descends ou je te descends.	¡$name! Baja o te reviento.	$name! Слезай сам или мы тебя снимем	$name! Vieni giù o ti buttiamo giù	$name！ 给我下来， 不然就对你不客气	$name！力ずくで下ろされたいか！			
+&Text.Guards.GetDownFromThere	$name! Спускайся, або ми тебе дістанемо!	Komm runter oder wir holen dich.	$name ! Descends ou je te descends.	¡$name! Baja o te reviento.	$name! Слезай сам или мы тебя снимем	$name! Vieni giù o ti buttiamo giù	$name！ 给我下来， 不然就对你不客气	$name！力ずくで下ろされたいか！			
 &Text.GuardAlert.Fighting	$name! Припини!	$name! Lass das!	$name ! Stop !	¡$name! ¡Desiste!	$name! Прекрати!	$name! Arrenditi!	$name！ 住手！ 	$name！よせ！			
 &Text.Guard.NaughtyLocation	$name! Вимітайся звідси!	$name! Raus da!	$name ! Sors de là !	"¡$name, sal de ahí!"	$name! Вылезай оттуда!	$name! Vai via da lì!	$name！ 给我出来！ 	$name！そこから出ろ！			
 &Text.Guard.NaughtyLocation	$name! Що ти тут робиш?!	$name! Was machst du da drin?!	$name ! Qu'est-ce que tu fiches ici ?	¡$name! ¡¿Qué haces ahí?!	$name! Что ты там делаешь?	$name! Che ci fai lì?!	$name！ 你在那里干嘛？	$name！そこで何やってる？			
@@ -1337,13 +1337,13 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Guards.RollCallMain	Ми позбавляємо вас превілеїв	Wir nehmen euch eure Privilegien.	On vous retire vos privilèges.	Os vamos a dejar sin privilegios.	Мы отменяем ваши привилегии	Vogliamo togliervi i vostri privilegi	我们要取消你的特权	特別扱いは一切しない			
 &Text.Inmates.AttackedRunsAway	Ще побачимося	Wir sehen uns wieder.	On se reverra.	¡Volveremos a vernos!	Мы еще увидимся	Ci rincontreremo	我们会再见的	また会おう			
 &Text.Visitor.Leave	До побачення	Wir sehen uns.	À la revoyure.	Hasta la próxima.	Потом увидимся	Alla prossima	下次再见	また会いにくるよ			
-&Text.Inmates.Banter	Ми закінчимо тоді, коли я скажу, що вже все	"Wir sind fertig, wenn ich es sage."	Ce sera fini quand je l'aurai dit.	Habremos acabado cuando yo lo diga.	"Закончим, когда я скажу, что мы закончили"	Avremo chiuso quando io dirò che avremo chiuso	我说完事时才完事	終わりと言った時が終わりだ			
+&Text.Inmates.Banter	«Все» буде тоді, коли я скажу, що «все»	"Wir sind fertig, wenn ich es sage."	Ce sera fini quand je l'aurai dit.	Habremos acabado cuando yo lo diga.	"Закончим, когда я скажу, что мы закончили"	Avremo chiuso quando io dirò che avremo chiuso	我说完事时才完事	終わりと言った時が終わりだ			
 &Text.Inmates.GuardBanter	Ми тут, аби ви нормально себе поводили!	"Wir sind hier, um euch im Zaum zu halten!"	On est là pour vous maîtriser !	¡Estamos aquí para manteneros a raya!	"Мы тут, чтобы вы по струнке ходили!"	Siamo qui per tenervi in riga!	我们是来确保你们服从管束的！ 	われらは秩序の担い手なり！			
 &Text.Inmates.MaxPrisonAlertness	Тепер ми по той бік!	Wir sind jetzt auf der anderen Seite!	On est de l'autre côté du miroir !	¡Ahora al otro lado del espejo!	Теперь мы в зазеркалье!	Siamo dall’altra parte dello specchio!	我们现在处于监视之下！ 	鏡の国へようこそぉぉぉ！			
 &Text.Inmates.GuardBanter	Ми тут не «подружитися» прийшли	"Wir sind nicht hier, um „auszukommen“."	On n'est pas là pour s'entendre.	No estamos aquí para «hacer amigos».	"Мы тут не для того, чтобы корешиться"	Non siamo qui per ‘fare amicizia’	我们不是来‘好好相处’的	ここへは友達を作りにきたんじゃない			
 &Text.GuardAlert.Disguise	Ми повинні повчити їх	Wir sollten ihnen eine Lektion erteilen.	On devrait leur donner une leçon.	Tendríamos que dar una lección a estos.	Мы должны преподать этой шайке урок	Dovremmo dar loro una bella lezione	我们应该给那帮人一个教训	ヤツらにお灸をすえてやる			
 &Text.Guard.InterjectFight	Спробуймо!	Wir wollen auch mal!	Laissez-nous essayer !	¡Deja que probemos!	Дай попробовать!	Lasciateci fare!	让我们试试！ 	われわれが止める！			
-&Text.Guards.Showers	Ми ж платимо за воду вам. Як же мені огидно на душі!	Wir zahlen sogar für das Wasser für euch. Es macht mich krank!	On vous paie même l'eau. Ça me rend malade !	Incluso os pagamos el agua. ¡Me repatea!	Мы даже платим за вашу воду. Мне от этого тошно!	"Paghiamo anche l’acqua che usate, gente. Mi viene da vomitare!"	连你们的水费都是我们付的。 我感到恶心！ 	その水も税金で払ってんだぞ、 ムカつく			
+&Text.Guards.Showers	Ми навіть платимо за воду вам. Як же мені огидно на душі!	Wir zahlen sogar für das Wasser für euch. Es macht mich krank!	On vous paie même l'eau. Ça me rend malade !	Incluso os pagamos el agua. ¡Me repatea!	Мы даже платим за вашу воду. Мне от этого тошно!	"Paghiamo anche l’acqua che usate, gente. Mi viene da vomitare!"	连你们的水费都是我们付的。 我感到恶心！ 	その水も税金で払ってんだぞ、 ムカつく			
 &Text.Guards.FoodHall	Та се не вб’є тебе...	Wird dich nicht umbringen!	Ça ne vous tuera pas...	No te va a matar...	От этого не умирают...	Non ti ucciderò...	又不会死……	死にゃあしないさ…			
 &Text.GuardAlert.Disguise	Це все не стає легшим	Wird nicht leichter werden.	Ça ne s'arrange pas.	No es nada fácil.	Проще не становится	È sempre più difficile	并没有变简单	ちっともラクになりゃしない			
 &Text.NPC.MedicCarrying	Ніхто не сумуватиме	Wird nicht vermisst werden.	Personne ne pleurera sa mort.	Nadie a quien echar de menos.	Скучать ни по кому не будут	Non mancherà a nessuno	没人会想念这家伙	死んでも誰も悲しまない			
@@ -1355,83 +1355,83 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Guard.ContrabandOnFloor	Звідки це?!	Wo kommt das her?!	"Ça vient d'où, ça ?!"	¡¿De dónde ha salido eso?!	Откуда это здесь?	Da dove viene?	那是从哪儿来的？！ 	なぜ、 こんなものがここに？！			
 &Text.NPC.Janitor	Звідки се запах такий?	Wo kommt der Gestank her?	C'est quoi cette odeur ?	¿De dónde viene ese olor?	Откуда этот запах?	Da dove viene questa puzza?	那股气味是哪儿飘出来的？	このニオイはどこから来るんだ？			
 &Text.Chase.Missing	Куди вони ділися?	Wo sind sie hin?	Où sont-ils ?	¿Dónde están?	Куда они пошли?	Dove sono andati?	他们去哪儿了？	ヤツはどこへ？			
-&Text.Inmates.Banter	Де б ти хотів приземлитися?	Wo würdest du gerne landen?	Où voudrais-tu atterrir ?	¿Dónde quieres aterrizar?	Где ты хочешь упасть?	Dove vorresti atterrare?	你想在哪儿着陆？	どこにぶち込まれたい？			
-&Text.Inmates.Attacked	Де б ти хотів приземлитися?	Wo würdest du gerne landen?	Où voudrais-tu atterrir ?	¿Dónde quieres aterrizar?	Где ты хочешь упасть?	Dove vorresti atterrare?	你想在哪儿着陆？	どこをぶん殴られたい？			
+&Text.Inmates.Banter	Де хочеш свою сраку приземлити?	Wo würdest du gerne landen?	Où voudrais-tu atterrir ?	¿Dónde quieres aterrizar?	Где ты хочешь упасть?	Dove vorresti atterrare?	你想在哪儿着陆？	どこにぶち込まれたい？			
+&Text.Inmates.Attacked	Де хочеш свою сраку приземлити?	Wo würdest du gerne landen?	Où voudrais-tu atterrir ?	¿Dónde quieres aterrizar?	Где ты хочешь упасть?	Dove vorresti atterrare?	你想在哪儿着陆？	どこをぶん殴られたい？			
 &Text.Inmates.Gift.RankHighValue	Овва, дяка!	"Wow, danke!"	"Ouah, merci !"	"¡Vaya, gracias!"	"О, спасибо!"	"Wow, grazie!"	哇， 谢谢！ 	ワオ、 どうも！			
 &Text.GuardDog.Doggie	Гав	Wuff	Wouf	¡Guau!	Гав	Woof	汪	ワウッ			
 &Text.Love.Doggie	Гав	Wuff	Wouf	¡Guau!	Гав	Woof	汪	ワンっ			
 &Text.Chase.Missing.Doggie	Гав	Wuff	Wouf	¡Guau!	Гав	Woof	汪	バウッ			
 &Text.Contraband.Doggie	ГАВ ГАВ	WUFF WUFF	WOUF WOUF	¡GUAU!	ГАВ-ГАВ	WOOF WOOF	汪汪	ワンワン！			
-&Text.NPC.Warden	Я б продав свої легені, аби сей заклад працював надалі!	"Würde meine Lunge verkaufen, um das hier am Laufen zu halten!"	Je vendrais mes poumons pour que cet endroit reste ouvert !	¡Vendería mis pulmones por dejar abierto este sitio!	"Я почку продам, лишь бы это место не закрывали!"	Venderei i miei polmoni per tenere aperto questo posto!	我就是去卖肾也要把这儿经营下去！ 	この場所を守るためなら、 肺だって売ろう！			
-&Text.Inmates.Banter	Did you know that there are no Dutch Elms left in Britain?	"Wusstest du, dass es in Großbritannien keine holländische Ulme mehr gibt?"	Tu savais qu'il n'y a plus d'orme en Angleterre ?	¿Sabes que en Inglaterra no quedan más gnomos de jardín?	"Ты знал, что в Британии больше не осталось голландских вязов?"	Sapevi che non ci sono più olmi in Inghilterra?	你知道英国已经没有荷兰榆木了吗？	オークって木の名前なのか？			
-&Text.Inmates.JobChat	It pays the bills...	Zahlt die Rechnungen ...	Ça paie les factures.	Paga las facturas...	Это того стоит...	Ci pago le bollette...	这钱能付各种账单……	こいつを返済の足しに…			
-&Text.Guards.MaxPrisonAlertness	Reveal yourself	Zeig dich.	Montre-toi.	¡Descúbrete!	Покажись!	Fatti vedere	现身吧	姿を見せろ			
-&Text.Guards.Gym	Show no shame!	Zeig keine Scham!	Affirmez-vous !	¡Sin vergüenza!	Не стыдись!	Non avete pudore!	没什么丢脸的！ 	全力でいけ！			
-&Text.Guards.Gym	SHOW US IT!	ZEIG’S UNS!	DÉMENEZ-VOUS !	¡ENSEÑÁDNOSLO!	ПОКАЖИ НАМ!	FATECI VEDERE!	做给我们看！ 	本気を見せろ！			
-&Text.Inmates.Gym	Time to crank it up!	Zeit aufzudrehen!	"Allez, on accélère !"	¡Hora de darle más caña!	Пришло время прокачаться!	Diamoci dentro!	锻炼时间到！ 	負荷を上げちゃる！			
-&Text.NPC.Warden	Time for a back rub	Zeit für eine Rückenmassage.	On se frotte tous le dos.	Hora del masaje.	Время для массажа спины	È ora di un massaggio	按摩时间到	マッサージの時間だ			
-&Text.Guard.Heat	Time's up $name!	"Zeit ist um, $name!"	"C'est fini, $name !"	"¡Se acabó el tiempo, $name!"	"Время вышло, $name!"	"Tempo scaduto, $name!"	$name ， 时间到了！ 	時間切れだ、 $name！			
-&Text.NPC.MedicDismissFromSolitary	Time to think it over…	"Zeit, darüber nachzudenken."	Réfléchis à tes actes...	Hora de pensárselo...	Пришло время все обдумать...	Pensa a ciò che hai fatto...	该考虑考虑了……	そこでじっくり考えろ…			
-&Text.Guard.CharacterAttacking	It's time you were put down	"Zeit, dass du erledigt wirst."	Il est temps d'en finir avec toi.	Es hora de que te derriben.	Пришло время тебя опустить	È ora di abbatterti	该把你打倒在地了	おねんねの時間だ			
-&Text.NPC.MedicDismissFromInfirmary	Time to check out	"Zeit, zu gehen."	"Allez, on s'en va !"	Hora de irse.	Пришло время проверки	Fammi controllare	下班时间到	退院の時間だ			
-&Text.Inmates.Banter	Pull my finger	Zieh den Finger.	Tire sur ce doigt.	Tírame del dedo.	Дерни мой палец	Tirami il dito	拉我的手指	この指を引っ張ってみ			
-&Text.Guard.Naked	Get some clothes on $name!	"Zieh dir was an, $name!"	"Trouve-toi des vêtements, $name !"	"¡Ponte algo, $name!"	"Надень на себя что-нибудь, $name!"	"Mettiti dei vestiti, $name!"	$name ， 穿上衣服！ 	服を着ろっての、 $name！			
-&Text.Guard.CharacterKnockedOut	Target down!	Ziel erledigt!	Cible abattue !	¡Objetivo abatido!	Цель снята!	Obiettivo a terra!	目标已倒下！ 	対象を制圧！			
-&Text.Inmates.CombatEnded	Target down	Ziel erledigt.	Cible abattue.	¡Objetivo abatido!	Цель снята	Obiettivo a terra	目标已倒下	ターゲット死亡だ			
+&Text.NPC.Warden	Я б поклав свої легені, аби сей заклад працював надалі!	"Würde meine Lunge verkaufen, um das hier am Laufen zu halten!"	Je vendrais mes poumons pour que cet endroit reste ouvert !	¡Vendería mis pulmones por dejar abierto este sitio!	"Я почку продам, лишь бы это место не закрывали!"	Venderei i miei polmoni per tenere aperto questo posto!	我就是去卖肾也要把这儿经营下去！ 	この場所を守るためなら、 肺だって売ろう！			
+&Text.Inmates.Banter	А ти знав, що у Великій Британії більше нема голландської хвороби?	"Wusstest du, dass es in Großbritannien keine holländische Ulme mehr gibt?"	Tu savais qu'il n'y a plus d'orme en Angleterre ?	¿Sabes que en Inglaterra no quedan más gnomos de jardín?	"Ты знал, что в Британии больше не осталось голландских вязов?"	Sapevi che non ci sono più olmi in Inghilterra?	你知道英国已经没有荷兰榆木了吗？	オークって木の名前なのか？			
+&Text.Inmates.JobChat	Хоча б гроші є...	Zahlt die Rechnungen ...	Ça paie les factures.	Paga las facturas...	Это того стоит...	Ci pago le bollette...	这钱能付各种账单……	こいつを返済の足しに…			
+&Text.Guards.MaxPrisonAlertness	Покажисі	Zeig dich.	Montre-toi.	¡Descúbrete!	Покажись!	Fatti vedere	现身吧	姿を見せろ			
+&Text.Guards.Gym	Не соромтеся!	Zeig keine Scham!	Affirmez-vous !	¡Sin vergüenza!	Не стыдись!	Non avete pudore!	没什么丢脸的！ 	全力でいけ！			
+&Text.Guards.Gym	ПОКАЖИ НАМ СЕ!	ZEIG’S UNS!	DÉMENEZ-VOUS !	¡ENSEÑÁDNOSLO!	ПОКАЖИ НАМ!	FATECI VEDERE!	做给我们看！ 	本気を見せろ！			
+&Text.Inmates.Gym	Час піднатужитися!	Zeit aufzudrehen!	"Allez, on accélère !"	¡Hora de darle más caña!	Пришло время прокачаться!	Diamoci dentro!	锻炼时间到！ 	負荷を上げちゃる！			
+&Text.NPC.Warden	Час мені масаж спини зробити	Zeit für eine Rückenmassage.	On se frotte tous le dos.	Hora del masaje.	Время для массажа спины	È ora di un massaggio	按摩时间到	マッサージの時間だ			
+&Text.Guard.Heat	Час закінчився, $name!	"Zeit ist um, $name!"	"C'est fini, $name !"	"¡Se acabó el tiempo, $name!"	"Время вышло, $name!"	"Tempo scaduto, $name!"	$name ， 时间到了！ 	時間切れだ、 $name！			
+&Text.NPC.MedicDismissFromSolitary	Час все обміркувати…	"Zeit, darüber nachzudenken."	Réfléchis à tes actes...	Hora de pensárselo...	Пришло время все обдумать...	Pensa a ciò che hai fatto...	该考虑考虑了……	そこでじっくり考えろ…			
+&Text.Guard.CharacterAttacking	Настав час тебе покласти	"Zeit, dass du erledigt wirst."	Il est temps d'en finir avec toi.	Es hora de que te derriben.	Пришло время тебя опустить	È ora di abbatterti	该把你打倒在地了	おねんねの時間だ			
+&Text.NPC.MedicDismissFromInfirmary	Час виписуватися	"Zeit, zu gehen."	"Allez, on s'en va !"	Hora de irse.	Пришло время проверки	Fammi controllare	下班时间到	退院の時間だ			
+&Text.Inmates.Banter	Потягни за палець	Zieh den Finger.	Tire sur ce doigt.	Tírame del dedo.	Дерни мой палец	Tirami il dito	拉我的手指	この指を引っ張ってみ			
+&Text.Guard.Naked	Одягни щось, $name!	"Zieh dir was an, $name!"	"Trouve-toi des vêtements, $name !"	"¡Ponte algo, $name!"	"Надень на себя что-нибудь, $name!"	"Mettiti dei vestiti, $name!"	$name ， 穿上衣服！ 	服を着ろっての、 $name！			
+&Text.Guard.CharacterKnockedOut	Ціль знешкоджено!!	Ziel erledigt!	Cible abattue !	¡Objetivo abatido!	Цель снята!	Obiettivo a terra!	目标已倒下！ 	対象を制圧！			
+&Text.Inmates.CombatEnded	Ціль знешкоджено	Ziel erledigt.	Cible abattue.	¡Objetivo abatido!	Цель снята	Obiettivo a terra	目标已倒下	ターゲット死亡だ			
 &Text.Guards.CombatEnded	Ціль знищена	Ziel erledigt.	Cible abattue.	¡Objetivo abatido!	Цель снята	Obiettivo a terra	目标已倒下	対象を制圧			
-&Text.Guard.Heat	Target sighted!	Ziel gesichtet!	Cible en vue !	¡Objetivo a la vista!	Цель захвачена!	Obiettivo in vista!	发现目标！ 	対象を発見！			
-&Text.Guard.SpottedWantedCharacter	Target sighted!	Ziel gesichtet!	Cible en vue !	¡Objetivo a la vista!	Цель захвачена!	Obiettivo in vista!	发现目标！ 	ターゲットを発見！			
-&Text.Guards.MaxPrisonAlertnessSpotted	TARGET SIGHTED	ZIEL GESICHTET.	CIBLE REPÉRÉE.	¡OBJETIVO A LA VISTA!	ЦЕЛЬ ЗАХВАЧЕНА!	OBIETTIVO IN VISTA	发现目标	ターゲットを視認			
-&Text.Player.ActionInmate	Way outta line	Ziemlich daneben.	C'en est trop.	Fuera de lugar.	Выйди из шеренги	Questo è troppo	太过分了	一線を越えたな			
-&Text.Inmates.PlayerRep1	Get lost	Zisch ab.	Détale.	Piérdete.	Вали	Sparisci	滚开	うせろっての			
-&Text.NPC.Gardener	Oh you prune!	Zu Recht gestutzt!	Quelle taille !	¡Pasa podrida!	Ну ты зануда!	"Oh, perfetto!"	哦， 你会修建枝叶！ 	ああ、 バカどもが！			
+&Text.Guard.Heat	Ціль помічено!	Ziel gesichtet!	Cible en vue !	¡Objetivo a la vista!	Цель захвачена!	Obiettivo in vista!	发现目标！ 	対象を発見！			
+&Text.Guard.SpottedWantedCharacter	Ціль помічено!	Ziel gesichtet!	Cible en vue !	¡Objetivo a la vista!	Цель захвачена!	Obiettivo in vista!	发现目标！ 	ターゲットを発見！			
+&Text.Guards.MaxPrisonAlertnessSpotted	ЦІЛЬ ЗНАЙДЕНО	ZIEL GESICHTET.	CIBLE REPÉRÉE.	¡OBJETIVO A LA VISTA!	ЦЕЛЬ ЗАХВАЧЕНА!	OBIETTIVO IN VISTA	发现目标	ターゲットを視認			
+&Text.Player.ActionInmate	Це вже занадто	Ziemlich daneben.	C'en est trop.	Fuera de lugar.	Выйди из шеренги	Questo è troppo	太过分了	一線を越えたな			
+&Text.Inmates.PlayerRep1	Зникни	Zisch ab.	Détale.	Piérdete.	Вали	Sparisci	滚开	うせろっての			
+&Text.NPC.Gardener	Ах ти йолоп!	Zu Recht gestutzt!	Quelle taille !	¡Pasa podrida!	Ну ты зануда!	"Oh, perfetto!"	哦， 你会修建枝叶！ 	ああ、 バカどもが！			
 &Text.GuardAlert.Disguise	Занадто тихо, як на мене	Zu still für meinen Geschmack.	C'est trop calme à mon goût.	Muy tranquilo para mi gusto.	Как-то слишком тихо	Troppo silenzio...	安静得让我不舒服	妙に静かすぎる…			
-&Text.NPC.Medic	Fortunately he flatlined	Zum Glück gab das Herz auf.	"Heureusement, il est mort."	Por suerte se murió.	"К счастью, он скончался"	Per fortuna è morto	幸运的是他断气了	あの男は死んで幸いだったよ			
-&Text.Inmates.DetachedFromEquipment	The heck?	Zum Teufel?	Bordel !	¿Qué...?	Что за?..	Che diamine?	搞什么？	なんだぁ？			
-&Text.NPC.Gardener	Don't you shrug your shoulders!	Zupf nicht mit den Achseln!	Ne hausse pas les épaules !	No te encojas de hombros.	Нечего пожимать плечами!	Non scrollare le spalle!	不许耸肩！ 	あきらめたらそこで終わりだ！			
-&Text.NPC.MedicCarrying	Coming through!	Zur Seite!	Chaud devant !	"¡Paso, paso!"	Прорвемся!	Arrivo!	借过！ 	通してくれ！			
-&Text.Inmates.Showers	Back up or I'll clock you one	Zurück oder du fängst dir eine.	Recule ou je t'en mets une.	Retrocede o te meto una leche.	"Назад, или получишь"	Spostati o le prenderai	退后， 不然我就揍你	下がれ、 殴るぞ			
-&Text.NPC.Maintenance	Bodged it	Zusammengeflickt.	Réparé.	Lo he clavado.	Сляпал кое-как	Aggiustato	胡乱修好了	一時しのぎだ			
-&Text.Guards.RollCallMain	Pull it together people!	"Zusammenreißen, Leute!"	"Ressaisissez-vous, les gars !"	¡Vamos a concentrarnos!	"Соберитесь, люди!"	Un po' di contegno!	大家打起精神来！ 	チンタラするな！			
-&Text.Inmates.Showers	Budge on up!	Zusammenrücken!	Pousse-toi !	¡Moveos!	Подвинься!	Spostati!	让一让！ 	もっと詰めろぉ！			
-&Text.Inmates.Showers	Budge up honey	"Zusammenrücken, Herzchen."	"Décale-toi, bébé."	"Muévete, cariño."	"Подвинься, золотце"	"Spostati, tesoro"	让一让， 亲爱的	詰めてくれ、 ハニー			
-&Text.Inmates.FoodHall	Two forks…	Zwei Gabeln.	Le couteau ?	Dos tenedores...	Две вилки...	Due forchette...	两把叉子……	食えたもんじゃない…			
-Text.JobQuota.B	"Another strike, $ATTEMPTS_LEFT more missed quota and I'm out of a job!"	"Zweite Warnung, noch $ATTEMPTS_LEFT Mal das Soll nicht erfüllen und ich bin arbeitslos!"	Encore un avertissement. Encore $ATTEMPTS_LEFT et c'est la porte !	"Otro intento, ¡si fallo $ATTEMPTS_LEFT más me quedo sin trabajo!"	"Еще одна попытка, еще $ATTEMPTS_LEFT невыполненных норм, и меня уволят!"	"Un altro fallimento, altri $ATTEMPTS_LEFT errori e perderò il lavoro!"	又罢工了。 再出现$ATTEMPTS_LEFT次不完成指标的情况， 我就要丢饭碗了！ 	またノルマを達成できなかった。 もう$ATTEMPTS_LEFT回失敗すると、 仕事を失ってしまう！			
-&Text.Guards.InmatesBeingNaughtyDEMO	Don't make me give you a good ol' beating!	"Zwing mich nicht dazu, dich zu verprügeln!"	"Arrête, ou tu recevras une bonne vieille correction !"	¡No me hagas darte una buena paliza!	Не заставляй ломать об тебя дубинку!	Non costringermi a darti un po’ di sane botte!	别逼我揍你！ 	おまえをぶん殴らせるな！			
-&Text.Inmates.PlayerRep1	Don't make me crack you one	"Zwing mich nicht, dir eine zu hauen."	Me force pas à t'en mettre une.	No hagas que te dé.	Не заставляй меня применять силу	Non costringermi a pestarti	别逼我打你	オレに殴らせるな			
-Text.Engineer.EquipItem	I need a Soldering Iron and Safety Goggles	Ich brauche einen Lötkolben und eine Schutzbrille	Il me faut des lunettes et un fer à souder	Necesito un soldador y gafas de protección.	Мне нужен паяльник и защитные очки	Mi servono il Saldatore e gli Occhiali protettivi.	我需要焊接铁块和安全护目镜	「はんだごて」と「安全ゴーグル」が必要だ			
+&Text.NPC.Medic	На щастя, він пішов під білу березу	Zum Glück gab das Herz auf.	"Heureusement, il est mort."	Por suerte se murió.	"К счастью, он скончался"	Per fortuna è morto	幸运的是他断气了	あの男は死んで幸いだったよ			
+&Text.Inmates.DetachedFromEquipment	Якого біса?	Zum Teufel?	Bordel !	¿Qué...?	Что за?..	Che diamine?	搞什么？	なんだぁ？			
+&Text.NPC.Gardener	Не пожимай мені тут плечима!	Zupf nicht mit den Achseln!	Ne hausse pas les épaules !	No te encojas de hombros.	Нечего пожимать плечами!	Non scrollare le spalle!	不许耸肩！ 	あきらめたらそこで終わりだ！			
+&Text.NPC.MedicCarrying	Іду!	Zur Seite!	Chaud devant !	"¡Paso, paso!"	Прорвемся!	Arrivo!	借过！ 	通してくれ！			
+&Text.Inmates.Showers	Відійшов, а то в харю отримаєш	Zurück oder du fängst dir eine.	Recule ou je t'en mets une.	Retrocede o te meto una leche.	"Назад, или получишь"	Spostati o le prenderai	退后， 不然我就揍你	下がれ、 殴るぞ			
+&Text.NPC.Maintenance	Оце насвинячили	Zusammengeflickt.	Réparé.	Lo he clavado.	Сляпал кое-как	Aggiustato	胡乱修好了	一時しのぎだ			
+&Text.Guards.RollCallMain	Ану зібрались, люди!	"Zusammenreißen, Leute!"	"Ressaisissez-vous, les gars !"	¡Vamos a concentrarnos!	"Соберитесь, люди!"	Un po' di contegno!	大家打起精神来！ 	チンタラするな！			
+&Text.Inmates.Showers	Сунься!	Zusammenrücken!	Pousse-toi !	¡Moveos!	Подвинься!	Spostati!	让一让！ 	もっと詰めろぉ！			
+&Text.Inmates.Showers	Посунься, любий	"Zusammenrücken, Herzchen."	"Décale-toi, bébé."	"Muévete, cariño."	"Подвинься, золотце"	"Spostati, tesoro"	让一让， 亲爱的	詰めてくれ、 ハニー			
+&Text.Inmates.FoodHall	Дві виделки…	Zwei Gabeln.	Le couteau ?	Dos tenedores...	Две вилки...	Due forchette...	两把叉子……	食えたもんじゃない…			
+Text.JobQuota.B	"Знову не виконав свою роботу, ще декілька разів ($ATTEMPTS_LEFT) і мене звільнять!"	"Zweite Warnung, noch $ATTEMPTS_LEFT Mal das Soll nicht erfüllen und ich bin arbeitslos!"	Encore un avertissement. Encore $ATTEMPTS_LEFT et c'est la porte !	"Otro intento, ¡si fallo $ATTEMPTS_LEFT más me quedo sin trabajo!"	"Еще одна попытка, еще $ATTEMPTS_LEFT невыполненных норм, и меня уволят!"	"Un altro fallimento, altri $ATTEMPTS_LEFT errori e perderò il lavoro!"	又罢工了。 再出现$ATTEMPTS_LEFT次不完成指标的情况， 我就要丢饭碗了！ 	またノルマを達成できなかった。 もう$ATTEMPTS_LEFT回失敗すると、 仕事を失ってしまう！			
+&Text.Guards.InmatesBeingNaughtyDEMO	Не змушуй мене гарненько тебе побити!	"Zwing mich nicht dazu, dich zu verprügeln!"	"Arrête, ou tu recevras une bonne vieille correction !"	¡No me hagas darte una buena paliza!	Не заставляй ломать об тебя дубинку!	Non costringermi a darti un po’ di sane botte!	别逼我揍你！ 	おまえをぶん殴らせるな！			
+&Text.Inmates.PlayerRep1	Не змушуй мене пустити тобі юшку	"Zwing mich nicht, dir eine zu hauen."	Me force pas à t'en mettre une.	No hagas que te dé.	Не заставляй меня применять силу	Non costringermi a pestarti	别逼我打你	オレに殴らせるな			
+Text.Engineer.EquipItem	Мені потрібні лютівник та захисні окуляри	Ich brauche einen Lötkolben und eine Schutzbrille	Il me faut des lunettes et un fer à souder	Necesito un soldador y gafas de protección.	Мне нужен паяльник и защитные очки	Mi servono il Saldatore e gli Occhiali protettivi.	我需要焊接铁块和安全护目镜	「はんだごて」と「安全ゴーグル」が必要だ			
 											
-&Text.NPC.JobstaffGreeting	Alright?	Geht’s gut?	C'est bon ?	¿Vale?	Хорошо?	Ve bene?	你好吗？	それで？			
-&Text.NPC.JobstaffGreeting	Some interesting developments	Hat sich was Interessantes getan?	Voilà un développement intéressant.	Hay interesantes progresos.	Ходят интересные слухи	Ci sono sviluppi interessanti	事情变得有趣了	面白いことになった			
-&Text.NPC.JobstaffGreeting	Guess what…	Rate mal ...	Devine quoi...	¿Adivinar qué?	Не угадаешь...	Indovina...	你猜发生了什么……	実はだ…			
-&Text.NPC.JobstaffGreeting	How's it going?	Wie läuft’s?	Comment ça va ?	¿Cómo va?	Как дела?	Come va?	你好吗？	調子はどうだね？			
-&Text.NPC.JobstaffGreeting	"Ooh hello, stranger!"	"Oh, hallo, Fremder!"	"Salut, toi !"	"¡Oh, hola!"	"Привет, незнакомец!"	"Oh, salve!"	你好， 陌生人！ 	どうも、 新顔さん！			
+&Text.NPC.JobstaffGreeting	Гаразд?	Geht’s gut?	C'est bon ?	¿Vale?	Хорошо?	Ve bene?	你好吗？	それで？			
+&Text.NPC.JobstaffGreeting	Відбулися цікаві події	Hat sich was Interessantes getan?	Voilà un développement intéressant.	Hay interesantes progresos.	Ходят интересные слухи	Ci sono sviluppi interessanti	事情变得有趣了	面白いことになった			
+&Text.NPC.JobstaffGreeting	Вгадай що…	Rate mal ...	Devine quoi...	¿Adivinar qué?	Не угадаешь...	Indovina...	你猜发生了什么……	実はだ…			
+&Text.NPC.JobstaffGreeting	Як життя?	Wie läuft’s?	Comment ça va ?	¿Cómo va?	Как дела?	Come va?	你好吗？	調子はどうだね？			
+&Text.NPC.JobstaffGreeting	"Ооо, вітаю, незнайомцю!"	"Oh, hallo, Fremder!"	"Salut, toi !"	"¡Oh, hola!"	"Привет, незнакомец!"	"Oh, salve!"	你好， 陌生人！ 	どうも、 新顔さん！			
 											
 											
-&Text.NPC.JobstaffBanter	Well this is awkward	Das ist jetzt peinlich.	"Hum, c'est gênant."	Esto es algo incómodo.	Это странно	"Beh, è imbarazzante"	好尴尬	おっと気まずい			
-&Text.NPC.JobstaffBanter	This one again?	Der schon wieder?	Encore celui-là ?	¿Otra vez este?	Снова он?	Di nuovo?	又是这家伙？	またこいつか？			
-&Text.NPC.JobstaffBanter	The state of this one…	Der Zustand von dem ...	Sacrément amoché...	Vaya condiciones....	Состояние этого...	Guarda in che stato è...	这家伙的状态……	こいつの恰好ときたら…			
-&Text.NPC.JobstaffBanter	You're on thin ice!	Du läufst auf dünnem Eis!	Déconne pas !	¡Te la estás jugando!	Ходишь по тонкому льду!	Sei sul filo del rasoio!	你如履薄冰！ 	いつでもクビにできるんだぞ！			
-&Text.NPC.JobstaffBanter	Let's get on with this...	Gehen wir’s an ...	"Allez, on s'y met..."	Vamos a comenzar con esto...	Пора разобраться с этим...	Andiamo avanti...	开始吧……	さっさと片づけるか…			
-&Text.NPC.JobstaffBanter	I hate this job	Ich hasse den Job.	Je hais ce boulot.	Odio este trabajo.	Ненавижу эту работу	Odio questo lavoro	我讨厌这份工作	この仕事がだいっ嫌いだ			
-&Text.NPC.JobstaffBanter	Can't we ignore this one?	Können wir den nicht ignorieren?	On ne peut pas ignorer celui-ci ?	¿Podemos ignorar a este?	Мы не можем пропустить этого?	Possiamo far finta di niente?	我们能无视这家伙吗？	こいつはシカトしても？			
-&Text.NPC.JobstaffBanter	Oh I know things...	"Oh, ich weiß Sachen ..."	"Oh, je sais des choses."	Yo sé cosas...	Я повидал жизнь...	Io so delle cose...	噢， 我知道的不少呢……	ああ、 そっち系ね…			
-&Text.NPC.JobstaffBanter	Who do you think you are?	"Was glaubst du, wer du bist?"	Pour qui tu te prends ?	¿Quién te crees que eres?	Кем ты себя возомнил?	Chi ti credi di essere?	你以为自己是谁啊？	何様のつもりだ？			
-&Text.NPC.JobstaffBanter	Time to think it over…	"Zeit, darüber nachzudenken."	Réfléchis à tes actes...	Hora de pensárselo...	Пришло время все обдумать...	Pensa a ciò che hai fatto...	该考虑考虑了……	よく考えたまえ…			
+&Text.NPC.JobstaffBanter	Що-ж, се ніяково	Das ist jetzt peinlich.	"Hum, c'est gênant."	Esto es algo incómodo.	Это странно	"Beh, è imbarazzante"	好尴尬	おっと気まずい			
+&Text.NPC.JobstaffBanter	Знову цей?	Der schon wieder?	Encore celui-là ?	¿Otra vez este?	Снова он?	Di nuovo?	又是这家伙？	またこいつか？			
+&Text.NPC.JobstaffBanter	Глянь-но на цього…	Der Zustand von dem ...	Sacrément amoché...	Vaya condiciones....	Состояние этого...	Guarda in che stato è...	这家伙的状态……	こいつの恰好ときたら…			
+&Text.NPC.JobstaffBanter	Ти ходиш тонкою кригою!	Du läufst auf dünnem Eis!	Déconne pas !	¡Te la estás jugando!	Ходишь по тонкому льду!	Sei sul filo del rasoio!	你如履薄冰！ 	いつでもクビにできるんだぞ！			
+&Text.NPC.JobstaffBanter	Розпочнімо ж...	Gehen wir’s an ...	"Allez, on s'y met..."	Vamos a comenzar con esto...	Пора разобраться с этим...	Andiamo avanti...	开始吧……	さっさと片づけるか…			
+&Text.NPC.JobstaffBanter	Ненавиджу цю роботу	Ich hasse den Job.	Je hais ce boulot.	Odio este trabajo.	Ненавижу эту работу	Odio questo lavoro	我讨厌这份工作	この仕事がだいっ嫌いだ			
+&Text.NPC.JobstaffBanter	Невже ми не можемо сим знехтувати?	Können wir den nicht ignorieren?	On ne peut pas ignorer celui-ci ?	¿Podemos ignorar a este?	Мы не можем пропустить этого?	Possiamo far finta di niente?	我们能无视这家伙吗？	こいつはシカトしても？			
+&Text.NPC.JobstaffBanter	Ох, я всяке знаю...	"Oh, ich weiß Sachen ..."	"Oh, je sais des choses."	Yo sé cosas...	Я повидал жизнь...	Io so delle cose...	噢， 我知道的不少呢……	ああ、 そっち系ね…			
+&Text.NPC.JobstaffBanter	Ким ти себе вважаєш?	"Was glaubst du, wer du bist?"	Pour qui tu te prends ?	¿Quién te crees que eres?	Кем ты себя возомнил?	Chi ti credi di essere?	你以为自己是谁啊？	何様のつもりだ？			
+&Text.NPC.JobstaffBanter	Час усе обміркувати…	"Zeit, darüber nachzudenken."	Réfléchis à tes actes...	Hora de pensárselo...	Пришло время все обдумать...	Pensa a ciò che hai fatto...	该考虑考虑了……	よく考えたまえ…			
 &Text.NPC.JobstaffBanter	Розслабся	Beruhig dich.	Relax.	Relájate.	Остынь	Rilassati	冷静点	落ち着きたまえ			
-&Text.NPC.JobstaffBanter	You're pathetic	Du bist erbärmlich.	T'es pathétique.	Eres patético.	Ты жалок	Patetico	你真可悲	まったく情けない			
-&Text.NPC.JobstaffBanter	Don't you be eyeballin' me	Glotz mich nicht an.	Me reluque pas.	No me mires así.	Хватит на меня пялиться	Non fissarmi	别盯着我	ジロジロ見るな			
-&Text.NPC.JobstaffBanter	Shut up	Halt den Mund.	Tais-toi.	Cállate.	Заткнись	Taci	闭嘴	だまれ			
-&Text.NPC.JobstaffBanter	You got a problem?	Hast du ein Problem?	T'as un problème ?	¿Tienes algún problema?	У тебя проблемы?	C’è qualche problema?	你有什么问题吗？	文句でもあるのか？			
-&Text.NPC.JobstaffBanter	Hmmmmm…	Hmmmmm ...	Hummm...	Mmmm…	Хм-м-м...	Uhmmm...	嗯……	ふーむ…			
-&Text.NPC.JobstaffBanter	I don't wanna be seen talking to you	Ich will nicht mit dir gesehen werden.	On peut pas me voir en train de te parler.	No quiero que me vean hablando contigo.	"Не хочу, чтобы видели, как мы разговариваем"	Non voglio che mi vedano parlare con te	我不想别人看到我在跟你谈话	キミと話してるところを見られたくない			
-&Text.NPC.JobstaffBanter	Confirmed moron found	Idiot gefunden.	"Détection de débile, ici."	"Confirmado, tenemos un idiota."	Обнаружен конченый придурок	Idiota individuato	确认， 已找到那个蠢货	掛け値なしのボンクラだ			
-&Text.NPC.JobstaffBanter	You bore me	Langweilig!	Tu m'ennuies.	Me aburres.	Ты меня достал	Mi annoi	你这人真无聊	つまらんヤツだ			
-&Text.NPC.JobstaffBanter	lol	lol	MDR	¡Ja!	ржу не могу	lol	哈哈哈	ギャハハ			
-&Text.NPC.JobstaffBanter	You're not that interesting	So interessant bist du nicht.	Tu m'intéresses pas.	No eres tan interesante.	Не такой уж ты интересный	Non sei così interessante	你没那么有趣	面白みのないヤツだ			
-&Text.NPC.JobstaffBanter	Am I meant to be impressed?	Soll ich beeindruckt sein?	C'est censé m'impressionner ?	¿Debo estar impresionado?	"Я что, должен быть впечатлен?"	Dovrei impressionarmi?	我应该觉得了不起吗？	褒めたほうがよかったか？			
-&Text.NPC.JobstaffBanter	Well well well…	"Sieh an, sieh an ..."	"Bien, bien, bien..."	"Vaya, vaya, vaya..."	Так-так-так...	Bene bene bene...	哎呀呀……	これはこれは…			
-&Text.NPC.JobstaffBanter	Can't hack it?	Schaffst es nicht?	Trop difficile ?	¿No podéis más?	"Что, слабо?"	Non ci riuscite?	搞不定吗？	キミにはムリか？			
+&Text.NPC.JobstaffBanter	Ти жалюгідний	Du bist erbärmlich.	T'es pathétique.	Eres patético.	Ты жалок	Patetico	你真可悲	まったく情けない			
+&Text.NPC.JobstaffBanter	Не дивись так на мене	Glotz mich nicht an.	Me reluque pas.	No me mires así.	Хватит на меня пялиться	Non fissarmi	别盯着我	ジロジロ見るな			
+&Text.NPC.JobstaffBanter	Заціпся	Halt den Mund.	Tais-toi.	Cállate.	Заткнись	Taci	闭嘴	だまれ			
+&Text.NPC.JobstaffBanter	Якісь проблеми?	Hast du ein Problem?	T'as un problème ?	¿Tienes algún problema?	У тебя проблемы?	C’è qualche problema?	你有什么问题吗？	文句でもあるのか？			
+&Text.NPC.JobstaffBanter	Гм-м-м-м-м…	Hmmmmm ...	Hummm...	Mmmm…	Хм-м-м...	Uhmmm...	嗯……	ふーむ…			
+&Text.NPC.JobstaffBanter	Не хочу, щоб бачили, що я з тобою спілкуюся	Ich will nicht mit dir gesehen werden.	On peut pas me voir en train de te parler.	No quiero que me vean hablando contigo.	"Не хочу, чтобы видели, как мы разговариваем"	Non voglio che mi vedano parlare con te	我不想别人看到我在跟你谈话	キミと話してるところを見られたくない			
+&Text.NPC.JobstaffBanter	Знайдено закоренілого дебіла	Idiot gefunden.	"Détection de débile, ici."	"Confirmado, tenemos un idiota."	Обнаружен конченый придурок	Idiota individuato	确认， 已找到那个蠢货	掛け値なしのボンクラだ			
+&Text.NPC.JobstaffBanter	Ти мені набридаєш	Langweilig!	Tu m'ennuies.	Me aburres.	Ты меня достал	Mi annoi	你这人真无聊	つまらんヤツだ			
+&Text.NPC.JobstaffBanter	Ги-ги	lol	MDR	¡Ja!	ржу не могу	lol	哈哈哈	ギャハハ			
+&Text.NPC.JobstaffBanter	Ти не такий то й цікавий	So interessant bist du nicht.	Tu m'intéresses pas.	No eres tan interesante.	Не такой уж ты интересный	Non sei così interessante	你没那么有趣	面白みのないヤツだ			
+&Text.NPC.JobstaffBanter	Я мав бути під враженням?	Soll ich beeindruckt sein?	C'est censé m'impressionner ?	¿Debo estar impresionado?	"Я что, должен быть впечатлен?"	Dovrei impressionarmi?	我应该觉得了不起吗？	褒めたほうがよかったか？			
+&Text.NPC.JobstaffBanter	Так-так-так…	"Sieh an, sieh an ..."	"Bien, bien, bien..."	"Vaya, vaya, vaya..."	Так-так-так...	Bene bene bene...	哎呀呀……	これはこれは…			
+&Text.NPC.JobstaffBanter	Не можеш витерпіти?	Schaffst es nicht?	Trop difficile ?	¿No podéis más?	"Что, слабо?"	Non ci riuscite?	搞不定吗？	キミにはムリか？			
 											
 											
 											
@@ -1439,31 +1439,31 @@ Text.Engineer.EquipItem	I need a Soldering Iron and Safety Goggles	Ich brauche e
 											
 											
 											
-&Text.NPC.JobstaffLeaving	I gotta go	Ich muss los.	J'y vais.	Tengo que irme.	Мне пора	Devo andare	我得走了	行かないと			
-&Text.NPC.JobstaffLeaving	I'll be off anyway	Ich muss sowieso los.	Je vais partir.	No estaré de todas maneras.	Меня все равно не будет	Devo andare comunque	反正我也要走	とにかく失礼する			
-&Text.NPC.JobstaffLeaving	I got things to do!	Ich muss was erledigen!	J'ai des choses à faire !	¡Tengo cosas que hacer!	У меня есть дела!	Ho delle cose da fare!	我有事要做呢！ 	私も忙しいのでね！			
+&Text.NPC.JobstaffLeaving	Я маю йти	Ich muss los.	J'y vais.	Tengo que irme.	Мне пора	Devo andare	我得走了	行かないと			
+&Text.NPC.JobstaffLeaving	Я все одно збирався йти	Ich muss sowieso los.	Je vais partir.	No estaré de todas maneras.	Меня все равно не будет	Devo andare comunque	反正我也要走	とにかく失礼する			
+&Text.NPC.JobstaffLeaving	Я маю дещо зробити!	Ich muss was erledigen!	J'ai des choses à faire !	¡Tengo cosas que hacer!	У меня есть дела!	Ho delle cose da fare!	我有事要做呢！ 	私も忙しいのでね！			
 											
 											
 											
 											
 											
-&Text.NPC.Generic	"Without me, nothing would get sorted!"	Ohne mich würde hier gar nichts laufen!	"Sans moi, rien ne serait fait !"	"¡Sin mí, esto no iría a ninguna parte!"	Без меня был бы полный хаос	Senza di me sarebbe un disastro!	没有我， 什么事都办不好！ 	ひとりじゃ何もできないくせに！			
-&Text.NPC.Generic	Am I an inmate?	Bin ich Insasse?	Je suis un détenu ?	¿Soy un preso?	Я заключенный?	Sono un detenuto?	我是囚犯吗？	まるで囚人だろう？			
-&Text.NPC.Generic	I'm not here to chat	Bin nicht zum Plaudern da.	Va bavarder plus loin.	No estoy aquí para hablar.	Я здесь не за болтовней	Non son qui per conversare	我不是来聊天的	おしゃべりに来てるわけじゃない			
-&Text.NPC.Generic	The conditions in this place are absolutely vile!	Die Zustände hier sind völlig unzumutbar!	Cet endroit est dans un piteux état !	¡Las condiciones de este sitio son absolutamente asquerosas!	Условия здесь просто ужасающие!	Lo stato di questo posto è assolutamente indegno!	这地方的条件糟糕透顶！ 	まったくひどい場所だ、 完全に腐ってる！			
-&Text.NPC.Generic	This place is an absolute state!	Dieser Ort ist in fürchterlichem Zustand!	Cet endroit est une décharge !	¡Este lugar es un desastre!	Это место в жутком состоянии!	Questo posto è in uno stato pietoso!	这里是个绝对主义国家！ 	この場所には一切自由がない！			
-&Text.NPC.Generic	Seriously?!	Ernsthaft?!	Sérieux ?!	¡¿En serio?!	Серьезно?!	Sul serio?!	当真？！ 	本気か？！			
-&Text.NPC.Generic	Alright?	Geht’s gut?	C'est bon ?	¿Vale?	Хорошо?	Ve bene?	你好吗？	大丈夫か？			
-&Text.NPC.Generic	Huh?	Häh?	Hum ?	¿Eh?	Э?	Eh?	嗯？	うん？			
-&Text.NPC.Generic	Yawn…	Gähn ...	*Bâille*	Bostezo…	Зевает...	Yawn…	打哈欠……	まったく…			
-&Text.NPC.Generic	Whatever...	Egal ...	Peu importe...	Da igual...	Плевать...	Come vuoi...	随便了……	知らんね…			
-&Text.NPC.Generic	*Yawn*	*Gähn*	*Baille*	*Bostezo*	*Зевает*	*Yawn*	*打哈欠*	ふぁ～あ…			
-&Text.NPC.Generic	It doesn't get any easier	Wird nicht leichter werden.	Ça ne s'arrange pas.	No es nada fácil.	Проще не становится	È sempre più difficile	并没有变简单	すべてが悪くなる一方だ			
-&Text.NPC.Generic	Sup	Was geht?	Yo	¿Qué hay?	Отлично	Ehi	怎么了	どうした？			
+&Text.NPC.Generic	"Без мене нічого не владнають!"	Ohne mich würde hier gar nichts laufen!	"Sans moi, rien ne serait fait !"	"¡Sin mí, esto no iría a ninguna parte!"	Без меня был бы полный хаос	Senza di me sarebbe un disastro!	没有我， 什么事都办不好！ 	ひとりじゃ何もできないくせに！			
+&Text.NPC.Generic	Я що, в’язень?	Bin ich Insasse?	Je suis un détenu ?	¿Soy un preso?	Я заключенный?	Sono un detenuto?	我是囚犯吗？	まるで囚人だろう？			
+&Text.NPC.Generic	Я тут не щоб погутарити	Bin nicht zum Plaudern da.	Va bavarder plus loin.	No estoy aquí para hablar.	Я здесь не за болтовней	Non son qui per conversare	我不是来聊天的	おしゃべりに来てるわけじゃない			
+&Text.NPC.Generic	Умови в цьому місці надзвичайно паскудні!	Die Zustände hier sind völlig unzumutbar!	Cet endroit est dans un piteux état !	¡Las condiciones de este sitio son absolutamente asquerosas!	Условия здесь просто ужасающие!	Lo stato di questo posto è assolutamente indegno!	这地方的条件糟糕透顶！ 	まったくひどい場所だ、 完全に腐ってる！			
+&Text.NPC.Generic	Се місце жахливе!	Dieser Ort ist in fürchterlichem Zustand!	Cet endroit est une décharge !	¡Este lugar es un desastre!	Это место в жутком состоянии!	Questo posto è in uno stato pietoso!	这里是个绝对主义国家！ 	この場所には一切自由がない！			
+&Text.NPC.Generic	Невже?!	Ernsthaft?!	Sérieux ?!	¡¿En serio?!	Серьезно?!	Sul serio?!	当真？！ 	本気か？！			
+&Text.NPC.Generic	Добре?	Geht’s gut?	C'est bon ?	¿Vale?	Хорошо?	Ve bene?	你好吗？	大丈夫か？			
+&Text.NPC.Generic	Га?	Häh?	Hum ?	¿Eh?	Э?	Eh?	嗯？	うん？			
+&Text.NPC.Generic	*Зітхає*	Gähn ...	*Bâille*	Bostezo…	Зевает...	Yawn…	打哈欠……	まったく…			
+&Text.NPC.Generic	Як скажеш...	Egal ...	Peu importe...	Da igual...	Плевать...	Come vuoi...	随便了……	知らんね…			
+&Text.NPC.Generic	*Позіхає*	*Gähn*	*Baille*	*Bostezo*	*Зевает*	*Yawn*	*打哈欠*	ふぁ～あ…			
+&Text.NPC.Generic	Легше не стає	Wird nicht leichter werden.	Ça ne s'arrange pas.	No es nada fácil.	Проще не становится	È sempre più difficile	并没有变简单	すべてが悪くなる一方だ			
+&Text.NPC.Generic	Здоров	Was geht?	Yo	¿Qué hay?	Отлично	Ehi	怎么了	どうした？			
 											
-Text.Player.NoStaminaInteract	I'm out of energy!	Ich habe keine Energie mehr!	Je n'ai plus d'énergie !	¡Me he quedado sin energía!	У меня закончилась энергия!	Non ho più energia!	我没能量了！ 	スタミナぎれだ！			
-Text.Player.TryGiftContrabandToGuard	That would be foolish of me...	Das wäre ziemlich dumm von mir ...	Ce serait stupide de ma part...	Eso sería una tontería por mi parte...	Это было бы глупо...	Sarebbe decisamente stupido...	这对我来说太傻了……	バカなことはよそう…			
-Text.Player.EmptyContainer	The container is empty!	Der Container ist leer	Le container est vide!	El contenedor esta vacio	контейнер пуст!	Il contenitore è vuoto!	容器是空的!	コンテナが空だ！			
+Text.Player.NoStaminaInteract	Я занадто втомлений!	Ich habe keine Energie mehr!	Je n'ai plus d'énergie !	¡Me he quedado sin energía!	У меня закончилась энергия!	Non ho più energia!	我没能量了！ 	スタミナぎれだ！			
+Text.Player.TryGiftContrabandToGuard	Це було б необачно з мого боку...	Das wäre ziemlich dumm von mir ...	Ce serait stupide de ma part...	Eso sería una tontería por mi parte...	Это было бы глупо...	Sarebbe decisamente stupido...	这对我来说太傻了……	バカなことはよそう…			
+Text.Player.EmptyContainer	Тут пусто!	Der Container ist leer	Le container est vide!	El contenedor esta vacio	контейнер пуст!	Il contenitore è vuoto!	容器是空的!	コンテナが空だ！			
 											
 END											
 											
