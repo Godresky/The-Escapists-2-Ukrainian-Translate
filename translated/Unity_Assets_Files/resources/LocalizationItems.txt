@@ -11,7 +11,7 @@ Text.Item.Battery	Батарейка	Batterie	Pile	Pila	Батарейка	Batte
 Text.Item.Mug	Чашка	Becher	Mug	Taza	Кружка	Tazza	马克杯	マグカップ			
 Text.Item.PaintedBox	Розписана скринька	Bemalte Schachtel	Boîte peinte	Caja pintada	Цвет. коробка	Scatola dipinta	上了漆的盒子	塗装した箱			
 Text.Item.Broom	Мітла	Besen	Balai	Escoba	Метла	Scopa	扫帚	ホウキ			
-Text.Item.BroomHandle	Ручка від мітли	Besenstil	Manche à balai	Palo de escoba	Ручка от метлы	Manico di scopa	扫帚柄	ホウキの柄			
+Text.Item.BroomHandle	Мітлище	Besenstil	Manche à balai	Palo de escoba	Ручка от метлы	Manico di scopa	扫帚柄	ホウキの柄			
 Text.Item.BedSheet	Простирало	Bettlaken	Drap	Sábana	Простыня	Lenzuola	床单	ベッドシーツ			
 Text.Item.Sheet	Простирало	Bettlaken	Drap	Sábana	Простыня	Lenzuola	床单	ベッドシーツ			
 Text.Item.Paper	Аркуш паперу	Blatt Papier	Feuille de papier	Folio	Лист бумаги	Foglio di carta	纸张	紙きれ			
@@ -198,7 +198,7 @@ Text.Item.MusicWashboard	Музична дошка для прання	Musik-Was
 Text.Item.PaperMache	Пап’є-маше	Pappmaché	Papier mâché	Papel maché	Папье-маше	Cartapesta	纸模	張り子紙			
 Text.Item.Sling	Канат	Schleuder	Lance-pierre	Honda	Канат	Fionda	吊带	パチンコ			
 Text.Item.SockMace	Шкарпеткова булава	Sockenkeule	Chaussette lestée	Calcetín maza	Носок-кистень	Mazza con calzino	袜锤	靴下ハンマー			
-Text.Item.ToolHandle	Ручка знаряддя	Werkzeuggriff	Poignée d'outil	Mango de herramienta	Ручка инструм.	Manico di attrezzo	工具把手	工具のハンドル			
+Text.Item.ToolHandle	Руків’я знаряддя	Werkzeuggriff	Poignée d'outil	Mango de herramienta	Ручка инструм.	Manico di attrezzo	工具把手	工具のハンドル			
 Text.Item.FinishedFurniture	Готовий виріб	Fertiges Möbelstück	Meuble terminé	Mueble terminado	Готовая мебель	Mobile finito	制成家具	完成した家具			
 Text.Item.WadOfPutty	Жмуток шпаклівки	Stück Knete	Boule de mastic	Montón de masilla	Кусок мастики	Manciata di stucco	油灰团	パテの塊			
 Text.Item.ZipLine	Зиплайн	Seilrutsche	Tyrolienne	Tirolina	Зиплайн	Fune sospesa	滑索	ワイヤロープ			
