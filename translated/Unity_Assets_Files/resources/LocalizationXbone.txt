@@ -73,7 +73,7 @@ Text.Menu.Legend08	[IN=UI_Cancel] НАЗАД [IN=UI_CycleLeft] [IN=UI_CycleRight
 Text.Interaction.Take	[IN=UI_Submit] Взяти	[IN=UI_Submit] Nehmen	[IN=UI_Submit] Prendre	[IN=UI_Submit] Coger	Взять [IN=UI_Submit]	[IN=UI_Submit] Prendi		
 Text.Interaction.Drop	[IN=UI_Drop] Кинути	[IN=UI_Drop] Abwurf	[IN=UI_Drop] Jeter	[IN=UI_Drop] Soltar	Выбросить [IN=UI_Drop]	[IN=UI_Drop] Lascia		
 Text.Interaction.Hide	[IN=UI_PutIntoHidden] Заховати	[IN=UI_PutIntoHidden] Verstecken	[IN=UI_PutIntoHidden] Cacher	[IN=UI_PutIntoHidden] Ocultar	Спрятать [IN=UI_PutIntoHidden]	[IN=UI_PutIntoHidden] Nascondi		
-Text.Interaction.Use	[IN=SecondaryInteraction] Використ.	[IN=SecondaryInteraction] Nutzen	[IN=SecondaryInteraction] Utiliser	[IN=SecondaryInteraction] Usar	Использ. [IN=SecondaryInteraction]	[IN=SecondaryInteraction] Usa		
+Text.Interaction.Use	[IN=SecondaryInteraction] Вжити	[IN=SecondaryInteraction] Nutzen	[IN=SecondaryInteraction] Utiliser	[IN=SecondaryInteraction] Usar	Использ. [IN=SecondaryInteraction]	[IN=SecondaryInteraction] Usa		
 Text.Interaction.Add	[IN=UI_Submit] Додати	[IN=UI_Submit] Hinzufügen	[IN=UI_Submit] Ajouter	[IN=UI_Submit] Añadir	Добавить [IN=UI_Submit]	[IN=UI_Submit] Aggiungi		
 Text.Interaction.Place	[IN=UI_Submit] Покласти	[IN=UI_Submit] Positionieren	[IN=UI_Submit] Déposer	[IN=UI_Submit] Colocar	Поместить [IN=UI_Submit]	[IN=UI_Submit] Posiziona		
 Text.Interaction.Equip	[IN=UI_Submit] Спорядити	[IN=UI_Submit] Ausrüsten	[IN=UI_Submit] Équiper	[IN=UI_Submit] Equipar	Снарядить [IN=UI_Submit]	[IN=UI_Submit] Equipaggia		

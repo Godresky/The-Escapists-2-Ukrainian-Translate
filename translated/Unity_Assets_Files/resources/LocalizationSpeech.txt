@@ -843,7 +843,7 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Inmates.Showers	Нам не знайома любов	Liebe ist uns nicht fremd.	"L'amour, ça nous connaît."	Estamos acostumbrados al amor.	"Мы знаем, что такое любовь"	Sappiamo cos’è l’amore	爱对我们来说并不陌生	愛なら互いによく知ってる			
 &Text.Guards.FoodHall	Ліпше ти, чим я...	Lieber du als ich ...	Plutôt vous que moi...	Mejor tú que yo...	"Лучше ты, чем я..."	Meglio te che me...	是你总比是我强……	食うのがおまえらでよかった…			
 &Text.NPC.Chef	Краще вони, аніж я	Lieber sie als ich.	Mieux vaut eux que moi.	Mejor ellos que yo.	"Лучше они, чем я"	Meglio loro che me	是他们总比是我强	作るより食うほうがマシだ			
-&Text.Inmates.FoodHall	Я краще голодуватиму	Lieber verhungere ich.	Plutôt mourir de faim.	Antes muero de hambre.	Лучше сдохну от голода	Preferisco morire di fame	我宁愿饿肚子	餓死したほうがマシだ			
+&Text.Inmates.FoodHall	Я ліпше голодуватиму	Lieber verhungere ich.	Plutôt mourir de faim.	Antes muero de hambre.	Лучше сдохну от голода	Preferisco morire di fame	我宁愿饿肚子	餓死したほうがマシだ			
 &Text.Guards.Shakedown	У перелік на обшук сьогодні потраплять…	Liste der heute zu filzenden Zellen:	Liste des fouilles du jour...	Lista de registros de hoy...	Список обыска на сегодня...	Le perquisizioni di oggi...	今天的搜查名单如下……	本日の所持品検査は…			
 &Text.Inmates.PlayerRep2	Ги-ги	lol	MDR	¡Ja!	ржу не могу	lol	哈哈哈	ハハハ			
 &Text.Guard.CharacterKnockedOut	Ги-ги	lol	LOL	lol	ржу не могу	lol	哈哈哈	ハハハ			

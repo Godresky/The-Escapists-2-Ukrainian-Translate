@@ -59,7 +59,7 @@ Text.Interaction.Hide	[IN=UI_PutIntoHidden] Заховати	[IN=UI_PutIntoHidde
 Text.Interaction.Mould	[IN=SecondaryInteraction] Mould	[IN=SecondaryInteraction] Formen	[IN=SecondaryInteraction] Mouler	[IN=SecondaryInteraction] Moldear	[IN=SecondaryInteraction] Трепка	[IN=SecondaryInteraction] Stampo	[IN=SecondaryInteraction] 浇铸	[IN=SecondaryInteraction]で型をとる
 Text.Interaction.Place	[IN=UI_Submit] Покласти	[IN=UI_Submit] Platzieren	[IN=UI_Submit] Déposer	[IN=UI_Submit] Colocar	Поместить [IN=UI_Submit]	[IN=UI_Submit] Posiziona	[IN=UI_Submit] 放置	[IN=UI_Submit]で設置
 Text.Interaction.Take	[IN=UI_Submit] Взяти	[IN=UI_Submit] Nehmen	[IN=UI_Submit] Prendre	[IN=UI_Submit] Coger	Взять [IN=UI_Submit]	[IN=UI_Submit] Prendi	[IN=UI_Submit] 拿取	[IN=UI_Submit]で入手
-Text.Interaction.Use	[IN=Use] Використ.	[IN=Use] Nutzen	[IN=Use] Utiliser	[IN=Use] Usar	Использ. [IN=Use]	[IN=Use] Usa	[IN=SecondaryInteraction] 使用	[IN=Use]で使用
+Text.Interaction.Use	[IN=Use] Вжити	[IN=Use] Nutzen	[IN=Use] Utiliser	[IN=Use] Usar	Использ. [IN=Use]	[IN=Use] Usa	[IN=SecondaryInteraction] 使用	[IN=Use]で使用
 Text.InviteNativeBody	Come play The Escapists 2!	Komm und spiel The Escapists 2!	Viens jouer à The Escapists 2 !	¡Ven a jugar a The Escapists 2!	Присоединяйтесь к игре The Escapists 2!	Vieni a giocare a The Escapists 2!
 Text.Leaderboards.FailedToRead	LEADERBOARD ERROR	BESTENLISTEN FEHLER	ERREUR	ERROR EN EL MARCADOR	ОШИБКА ТАБЛИЦЫ ЛИДЕРОВ	ERRORE CLASSIFICA	排行榜出错	ランキングエラー
 Text.Leaderboards.FailedToRead.Body	Failed To Retrieve Leaderboard Data.	Konnte Bestenliste nicht abfragen.	Récupération données de classement : échec.	Error al recuperar los datos del marcador.	Не удалось получить сведения таблицы лидеров.	Impossibile acquisire i dati della classifica.	未能读取排行榜数据	ランキングデータの取得に失敗しました。 
