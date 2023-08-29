@@ -1389,7 +1389,7 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.NPC.Medic	На щастя, він пішов під білу березу	Zum Glück gab das Herz auf.	"Heureusement, il est mort."	Por suerte se murió.	"К счастью, он скончался"	Per fortuna è morto	幸运的是他断气了	あの男は死んで幸いだったよ			
 &Text.Inmates.DetachedFromEquipment	Якого біса?	Zum Teufel?	Bordel !	¿Qué...?	Что за?..	Che diamine?	搞什么？	なんだぁ？			
 &Text.NPC.Gardener	Не пожимай мені тут плечима!	Zupf nicht mit den Achseln!	Ne hausse pas les épaules !	No te encojas de hombros.	Нечего пожимать плечами!	Non scrollare le spalle!	不许耸肩！ 	あきらめたらそこで終わりだ！			
-&Text.NPC.MedicCarrying	Іду!	Zur Seite!	Chaud devant !	"¡Paso, paso!"	Прорвемся!	Arrivo!	借过！ 	通してくれ！			
+&Text.NPC.MedicCarrying	Йду!	Zur Seite!	Chaud devant !	"¡Paso, paso!"	Прорвемся!	Arrivo!	借过！ 	通してくれ！			
 &Text.Inmates.Showers	Відійшов, а то в харю отримаєш	Zurück oder du fängst dir eine.	Recule ou je t'en mets une.	Retrocede o te meto una leche.	"Назад, или получишь"	Spostati o le prenderai	退后， 不然我就揍你	下がれ、 殴るぞ			
 &Text.NPC.Maintenance	Оце насвинячили	Zusammengeflickt.	Réparé.	Lo he clavado.	Сляпал кое-как	Aggiustato	胡乱修好了	一時しのぎだ			
 &Text.Guards.RollCallMain	Ану зібрались, люди!	"Zusammenreißen, Leute!"	"Ressaisissez-vous, les gars !"	¡Vamos a concentrarnos!	"Соберитесь, люди!"	Un po' di contegno!	大家打起精神来！ 	チンタラするな！			
