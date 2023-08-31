@@ -330,7 +330,7 @@ Text.Item.MailbagRed	Мішок з червоною поштою	Postsack (rot)	
 Text.Item.WeakBaton	М’який кийок	Gepolsterter Schlagstock	Matraque capitonnée	Porra acolchada	Мягкая дубинка	Manganello imbottito	带垫子的短棍	パッド入り警棒			
 Text.Item.ColouredBox	Розписана коробка	Farbige Schachtel	Boîte colorée	Caja pintada	Цветная коробка	Scatola colorata	带色盒子	カラーボックス			
 Text.Item.Harmonica	Harmonica	Позитва	Harmonica	Armónica	Губн. гарм.	Armonica	口琴	ハーモニカ			
-Text.Item.InflatableAlien	Inflatable Alien	Aufblasbares Alien	Extraterrestre gonflable	Extraterrestre inflable	Надувной пришелец	Alieno gonfiabile	充气外星人	風船エイリアン			
+Text.Item.InflatableAlien	Надувний прибулець	Aufblasbares Alien	Extraterrestre gonflable	Extraterrestre inflable	Надувной пришелец	Alieno gonfiabile	充气外星人	風船エイリアン			
 Text.Item.KeyMouldGreen	Виліпок зеленого ключа	Schlüsselform (grün)	Moule à clé verte	Molde de llave verde	Слепок зел. ключа	Stampo di chiave verde	绿色钥匙模具	カギの型（緑）			
 Text.Item.Microchip	Мікрочип	Mikrochip	Puce électronique	Microchip	Микрочип	Microchip	芯片	マイクロチップ			
 Text.Item.MissileKeyring	Ракетний дармовис	Geschoss-Schlüsselanhänger	Porte-clés missile	Llavero de misil	Метательный брелок	Portachiavi missile	导弹钥匙圈	ミサイルキーホルダー			
