@@ -216,7 +216,7 @@ Text.RewiredAction.SecondaryInteraction	Вторинна взаємодія	Seku
 Text.RewiredAction.TertiaryInteraction	Третинна взаємодія	Tertiäre Interaktion	Interaction tertiaire	Interacción terciaria	Третье взаимодействие	Interazione terziaria	三级互动	調べる（予備）
 Text.RewiredAction.StopInteraction	Зупинити взаємодію	Interaktion beenden	Annuler l'interaction	Detener la interacción	Остановить взаимодействие	Ferma interazione	停止互动	調べるのをよす
 Text.RewiredAction.Tag	Позначити	Taggen	Placer le repère	Etiquetar	Метка	Marchio	标记	マーク付け
-Text.RewiredAction.Attack	Вдарити	Angriff	Attaquer	Atacar	Атака	Attacco	攻击	攻撃
+Text.RewiredAction.Attack	Ударити	Angriff	Attaquer	Atacar	Атака	Attacco	攻击	攻撃
 Text.RewiredAction.Block	Блокувати	Blocken	Contrer	Bloquear	Блок	Blocca	防御	防御
 Text.RewiredAction.CombatTargetting	Ціль	Zielen	Cibler	Objetivo	Цель	Obiettivo	锁定	標的を決定
 Text.RewiredAction.OpenIngameMenu	Меню гравця	Spielermenü	Menu du joueur	Menú del jugador	Меню игрока	Menu giocatori	菜单	プレイヤーメニュー
