@@ -26,7 +26,7 @@ Text.Escape.TakeControl.Stage4.Wrong
 Text.Escape.TakeControl.TooManyPlayers												
 Text.Escape.TakeControl.TooFewPlayers	Я не можу керувати поїздом власноруч!	Ich kann diesen Zug nicht allein steuern!	Je ne peux pas contrôler ce train tout seul !	¡No puedo controlar este tren yo solo!	Я не смогу управлять поездом в одиночку!	Serve un aiuto per controllare questo treno!	我无法自己控制这列火车！	1人では列車を制御できない！				
 Text.Escape.TakeControl.ProximityDialogue												
-Text.Escape.TakeControl.Interact	Взяти керування	Kontrolle übernehmen	Contrôler train	Tomar el control	Взять управление	Prendi il controllo	控制	乗っ取る				
+Text.Escape.TakeControl.Interact	Узяти керування	Kontrolle übernehmen	Contrôler train	Tomar el control	Взять управление	Prendi il controllo	控制	乗っ取る				
 Text.Escape.TakeControl.DealWithGuards	Треба позбутися варти цього паротяга!	Wir müssen die Wärter aus dieser Lokomotive herausbekommen!	Il faut faire sortir les gardes de cette locomotive !	¡Tenemos que sacar a los guardias de esta locomotora!	Нам нужно вышвырнуть охрану из локомотива!	Dobbiamo allontanare le guardie da questa locomotiva!	我们得把守卫从车头赶出去！	看守を機関車から追い払わないと！				
 												
 Text.Escape.Grapple.Stage1.Succeed												
