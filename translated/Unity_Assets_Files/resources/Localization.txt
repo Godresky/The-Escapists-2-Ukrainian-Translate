@@ -105,10 +105,10 @@ Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese
 &Text.Quest.DeliveryDriver.Desc	"So a former delivery driver eh? Well I've got a couple of tasks for you, chum…\n\nHow about it?"	"Also ein ehemaliger Auslieferungsfahrer, ja? Nun, ich habe ein paar Aufträge für dich, Kumpel ...\n\nWie wär’s?"	"Donc, un ancien livreur hein ? Eh bien, j'ai quelques boulots pour toi, mon pote…\n\nQu'est-ce que t'en penses ?"	"Así que antes eras repartidor, ¿eh? Bien, pues tengo un par de tareas para ti, amigo...\n\n¿Qué me dices?"	"Бывший водитель службы доставки, верно? У меня тут пара заданий для тебя, парень...\n\nЧто думаешь?"	"Ah, un ex fattorino... Beh, amico, ho un paio di cosette da farti fare...\n\nChe ne dici?"	你之前当过送货司机？  我有几个任务要交给你， 伙计…… \n\n怎么样？ 	あんた、 元宅配ドライバーなんだって？ そういうことなら、 いくつか頼みたい 仕事がある。 \n\nやってくれるか？		
 &Text.Quest.DeliveryDriver.Desc	"Well, well, well. I heard one of the cons speaking about you the other day.\n\nApparently, if you needed reliability from a former delivery driver - then you were the one to ask!\n\nFancy it?"	"Nun, nun, nun. Ich habe neulich einen der Knackis über dich reden gehört.\n\nWenn man einen zuverlässigen Ex-Auslieferungsfahrer braucht, bist du anscheinend die richtige Person!\n\nHast du Lust?"	"Bien, bien, bien. J'ai entendu un des taulards parler de toi l'autre jour.\n\nApparemment, si on veut la fiabilité d'un ancien livreur - c'est à toi qu'il faut s'adresser !\n\nTu vois le genre ?"	"Vaya, vaya, vaya... Uno de los presos hablaba de ti el otro día.\n\nParece ser que si necesito un buen repartidor, tú eres la persona a quien debo preguntar.\n\n¿Qué me dices?"	"Так-так-так... На днях кое-кто из зэков болтал о тебе.\n\nГоворят, что если нужен бывший водитель службы доставки, то стоит обратиться к тебе!\n\nКак насчет дельца?"	"Bene, bene, bene. L'altro giorno c'era un detenuto che parlava di te.\n\nA quanto pare, se serve un ex fattorino di cui fidarsi, è a te che bisogna chiedere!\n\nCi stai?"	哎呀呀。 前几天我听一名囚犯提起过你。 \n\n显然， 如果谁想找一名可靠的前运货司机， 找你就对了！ \n\n怎么样， 干吗？ 	おやおや、あんたか。 こないだある囚人が、 あんたのウワサを していてね。 \n\n信用できる元宅配員を お探しなら、 あんたに聞けって 言うのさ。 \n\n興味あるかい？		
 &Text.Quest.DeliveryDriver.Desc	"I can do this, I *CAN* do this… Oh hello there! Sorry I was just…Talking to myself.\n\nI need some errands running - Think you could help me out here?"	"Ich kann das schaffen, ich *KANN* das schaffen ... Oh, hallo! Entschuldige, ich habe nur ... Selbstgespräche geführt.\n\nIch muss ein paar Botengänge erledigen – Meinst du, du könntest mir dabei helfen?"	"Je peux le faire, je *PEUX* le faire… Oh, bonjour ! Désolé, j'étais juste… en train de parler tout seul.\n\nJ'ai quelques affaires en cours - tu penses pouvoir m'aider ?"	"Puedo hacerlo, PUEDO hacerlo... ¡Ah, hola! Lo siento, estaba... hablando solo.\n\nTengo que solucionar un par de asuntos. ¿Crees que me podrías ayudar?"	"Я смогу, я СМОГУ... О, привет! Прошу прощения, я просто... Бубню себе под нос.\n\nМне нужно кое-что сделать. Сможешь мне помочь?"	"Posso farcela, *POSSO* farcela... Ehi, ciao! Scusami, stavo solo... parlando fra me e me.\n\nHo delle faccende da sbrigare, pensi di potermi aiutare?"	我能行， 我绝对能行…… 哦， 你好呀！  抱歉， 我刚刚…… 自言自语来着。 \n\n我要请人帮我跑个腿。 你能帮我吗？ 	オレならやれる、 オレならやれる…って、 ああ！ ちわっす！ 悪いな、ちょっと… 独り言に忙しくってさ。 \n\nちょいと届けたい代物が あるんだが… あんたが 頼まれてくれないか？		
-&Text.Visitor.AreaBanterJoin	Another thing…	Also sag ...	Dis-moi...	Cuéntame...	Скажи мне...	Dì un po'...	还有一件事…… 	それとだ…		
-&Text.Visitor.AreaBanterJoin	So tell me…	Beantworte mir das ...	Réponds à ça...	Respóndeme esto...	Ответь мне...	Rispondi a questo...	告诉我…… 	では聞くが…		
-&Text.Visitor.AreaBanterJoin	I'm not done with you yet…	Ich bin nicht fertig mit dir ...	J'en ai pas encore fini avec toi...	No he terminado contigo...	С тобой еще не все...	Non ho ancora finito con te...	我们俩还没完呢…… 	まだ話は終わってない…		
-&Text.Visitor.AreaBanterJoin	Answer me this…	Noch was ...	Autre chose...	Otra cosa...	И вот еще что...	Un’altra cosa...	回答我…… 	こいつに答えろ…		
+&Text.Visitor.AreaBanterJoin	І ще одне…	Also sag ...	Dis-moi...	Cuéntame...	Скажи мне...	Dì un po'...	还有一件事…… 	それとだ…		
+&Text.Visitor.AreaBanterJoin	Тож скажи мені…	Beantworte mir das ...	Réponds à ça...	Respóndeme esto...	Ответь мне...	Rispondi a questo...	告诉我…… 	では聞くが…		
+&Text.Visitor.AreaBanterJoin	З тобою ще не все…	Ich bin nicht fertig mit dir ...	J'en ai pas encore fini avec toi...	No he terminado contigo...	С тобой еще не все...	Non ho ancora finito con te...	我们俩还没完呢…… 	まだ話は終わってない…		
+&Text.Visitor.AreaBanterJoin	Дай мені відповідь…	Noch was ...	Autre chose...	Otra cosa...	И вот еще что...	Un’altra cosa...	回答我…… 	こいつに答えろ…		
 EscapeMethods.TakeControlOfShip	Повернення контролю	Wieder im Griff	Reprise du contrôle	Recuperando el control	Вернуть контроль	Ripresa di controllo	夺回控制权	われら海賊		
 EscapeMethods.Crate	В останню путь	Letzte Post	Dernière levée	Última base	Последняя почта	Ultimo messaggio	熄灯号	最後の郵便		
 EscapeMethods.Dictator_StolenHelicopter	Біжи до гелікоптера!	Auf zum Hubschrauber!	Monte dans l'hélicoptère !	¡A por el helicóptero!	Быстро в вертолет!	Vai all’elicottero!	登上直升机！ 	ヘリジャック		
@@ -142,8 +142,8 @@ EscapeMethods.Unknown	Гарно зроблено!	Gut gemacht!	Bien joué !	¡
 EscapeMethods.Unknown	Результати:	Ergebnisse:	Résultats :	Resultados:	Результаты:	Risultati:	结果： 	結果:		
 EscapeMethods.Zipline	Заціпся	Rutsch los!	Tyrolienne	¡Jerónimo!	Рот на замок	Teleferica	滑索逃生	ターザンのごとく		
 HUD.Interact.Job.BlacksmithStepA	Листи металу	Bleche	Plaques de métal	Láminas de metal	Метал. пластины	Lastre in metallo	金属板	金属板		
-HUD.Interact.Job.BlacksmithStepB	Tempering Machine	Temperiermaschine	Machine de trempe	Máquina de templado	Мешалка	Macchina temperatrice	回火机器	焼き戻し装置		
-HUD.Interact.Job.BlacksmithStepC	Commemorative Plates	Gedenkschilder	Plaques commémoratives	Placas conmemorativas	Памятные тарелки	Placche commemorative	纪念牌	記念プレート		
+HUD.Interact.Job.BlacksmithStepB	Відпускна машина	Temperiermaschine	Machine de trempe	Máquina de templado	Мешалка	Macchina temperatrice	回火机器	焼き戻し装置		
+HUD.Interact.Job.BlacksmithStepC	Розписані тарілки	Gedenkschilder	Plaques commémoratives	Placas conmemorativas	Памятные тарелки	Placche commemorative	纪念牌	記念プレート		
 HUD.Interact.Job.DogBowl	Dog Bowls	Hundenäpfe	Gamelles	Cuencos	Собач. миски	Ciotole per cani	狗盆	ドッグボウル		
 HUD.Interact.Job.DogFood	Dog Food	Hundefutter	Croquettes	Comida para perros	Собачья еда	Cibo per cani	狗粮	ドッグフード		
 HUD.Interact.Job.EngineeringStepA	Soldering Iron & Goggles	Lötkolben und Schutzbrillen	Lunettes & fer à souder	Soldador y gafas	Паяльник и защитные очки	Saldatore e occhiali	焊接铁块和护目镜	はんだごてとゴーグル		
@@ -156,7 +156,7 @@ HUD.Interact.Job.KennelsStepA	Dog Bowls	Hundenäpfe	Gamelles	Cuencos	Собач.
 HUD.Interact.Job.KennelsStepB	Dog Feed	Hundefutter	Nourriture	Pienso	Собач. еда	Cibo per cani	狗饲料	ドッグフード		
 HUD.Interact.Job.KitchenStepA	Харчові інґредієнти	Zutaten	Ingrédients	Ingredientes	Пищевые ингредиенты	Ingredienti	食材	食材		
 HUD.Interact.Job.KitchenStepB	Духовка	Ofen	Four	Horno	Печь	Forno	烤箱	オーブン		
-HUD.Interact.Job.KitchenStepC	Ready Food	Fertiges Essen	Plats préparés	Comida	Готовая еда	Cibo pronto	熟食	完成したパイ		
+HUD.Interact.Job.KitchenStepC	Готова їжа	Fertiges Essen	Plats préparés	Comida	Готовая еда	Cibo pronto	熟食	完成したパイ		
 HUD.Interact.Job.MailSortingStepA	Mail Sacks	Postsäcke	Sacs de courrier	Correo	Почтов. мешки	Sacchi postali	 邮袋	郵便袋		
 HUD.Interact.Job.MailSortingStepB	Sorting Machine	Sortiermaschine	Trieuse	Clasificadora	Сортиров. машина	Smistatrice	分类机	仕分け機		
 HUD.Interact.Job.MailSortingStepC	Sorted Letters	Sortierte Briefe	Lettres triées	Cartas organizadas	Отсорт. письма	Lettere smistate	整理好的信件	仕分けた手紙		
@@ -164,7 +164,7 @@ HUD.Interact.Job.MiningA	Heavy Duty Protectors	Schwere Schutzkleidung	Protection
 HUD.Interact.Job.PaintingStepA	Paint Brush & Paint	Farbpinsel und Farbe	Pinceau et peinture	Brocha y pintura	Кисточка и краска	Pennello e vernice	油漆刷和油漆	はけとペンキ		
 HUD.Interact.Job.PlumbingStepA	Plungers	Pümpel	Ventouses	Desatascadores	Вантузы	Sturalavandini	搋子	ラバーカップ		
 HUD.Interact.Job.ShoemakerStepA	Підошви та копили	Sohlen und Rahmen	Semelles et tiges	Suelas y empeines	Подошвы и колодки	Suola e tomaia	鞋底和支架	ソールとフレーム		
-HUD.Interact.Job.ShoemakerStepB	Взуттєвий прес	Schuhpresse	Montage	Prensa de zapatos	Пресс для обуви	Pressa	靴式压榨	靴プレス機		
+HUD.Interact.Job.ShoemakerStepB	Взуттєвий гніт	Schuhpresse	Montage	Prensa de zapatos	Пресс для обуви	Pressa	靴式压榨	靴プレス機		
 HUD.Interact.Job.ShoemakerStepC	Пари взуття	Schuhpaare	Paires de chaussures	Pares de zapatos	Пара ботинок	Paia di scarpe	成双的鞋子	一足の靴		
 HUD.Interact.Job.WasteDisposalStepA	Маска та рукавиці	Maske & Handschuhe	Masque et gants	Máscara y guantes	Маска и перчатки	Maschera e guanti	面具和手套	マスクと手袋		
 HUD.Interact.Job.WasteDisposalStepB	Відходи	Abfall	Déchets	Basura	Отходы	Rifiuti	废料	ゴミ		
@@ -1201,13 +1201,13 @@ Text.NamePlateDistance.Trash 	 Сміттєвий бак	 Müllcontainer	 Poubel
 Text.NamePlateDistance.MailBags 	 Мішки з поштою	 Postsäcke	 Sacs de courrier	 Bolsas de correo	 Мешки с почтой	 Sacchi di posta	 邮件袋	 郵便袋		
 Text.NamePlateDistance.MailSorting 	 Сортувач пошти	 Post-Sortiermaschine	 Machine de traitement du courrier	 Clasificadora de correo	 Машинка для сортировки почты	 Smistatrice Posta	 邮件分拣机	 郵便仕分け機		
 Text.NamePlateDistance.MailContainers 	 Шафа з поштою	 Postcontainer	 Caisse pour courrier	 Contenedor de correo	 Почтовый контейнер	 Contenitore Posta	 邮件容器	 郵便コンテナ		
-Text.NamePlateDistance.PaintJobSupplies 	 Матеріали для малярства	 Malerei-Job-Utensilien	 Outils de peintre	 Suministros de pintura	 Инструменты для малярных работ	 Attrezzi per pittura	 上漆工作补给	 ペンキ塗り用具		
-Text.NamePlateDistance.ShoeMaterials 	 Матеріали для взуття	 Schuhmaterialien	 Matériaux pour chaussures	 Materiales de calzado	 Материалы для сапожного мастерства	 Attrezzi da calzolaio	 制鞋材料	 靴の材料		
+Text.NamePlateDistance.PaintJobSupplies 	 Спорядження маляра	 Malerei-Job-Utensilien	 Outils de peintre	 Suministros de pintura	 Инструменты для малярных работ	 Attrezzi per pittura	 上漆工作补给	 ペンキ塗り用具		
+Text.NamePlateDistance.ShoeMaterials 	 Спорядження чоботаря	 Schuhmaterialien	 Matériaux pour chaussures	 Materiales de calzado	 Материалы для сапожного мастерства	 Attrezzi da calzolaio	 制鞋材料	 靴の材料		
 Text.NamePlateDistance.ShoeContainer 	 Коробка зі взуттям	 Schuhcontainer	 Caisse pour chaussures	 Contenedor de calzado	 Контейнер с материалами	 Contenitore di scarpe	 鞋子容器	 靴コンテナ		
 Text.NamePlateDistance.DogBowlMat 	 Dog Bowl Mat	 Hundenapfmatte	 Matériaux pour gamelle	 Alfombrilla para cuenco	 Подстилка под собачью миску	 Tappetino per Ciotola per cani	 狗粮盆垫	 ドッグボウルのマット		
-Text.NamePlateDistance.PlumbingJobSupplies 	 Plumbing Job Supplies	 Klempnerei-Job-Utensilien	 Outils de plombier	 Suministros de fontanería	 Инструменты для сантехнических работ	 Attrezzi da idraulico	 管道工作补给	 詰まり直し用具		
-Text.NamePlateDistance.EngineeringJobSupplies 	 Engineering Job Supplies	 Technik-Job-Utensilien	 Outils d'ingénieur	 Suministros de ingeniería	 Инструменты для инженерно-технических работ	 Attrezzi da operaio	 工程工作补给	 修理用具		
-Text.NamePlateDistance.FarmingJobSupplies 	 Farming Job Supplies	 Gärtnerei-Job-Utensilien	 Outils de fermier	 Suministros de jardinería	 Инструменты для с/х работ	 Attrezzi da agricoltore	 农耕工作补给	 種植え用具		
+Text.NamePlateDistance.PlumbingJobSupplies 	 Спорядження водопровідника	 Klempnerei-Job-Utensilien	 Outils de plombier	 Suministros de fontanería	 Инструменты для сантехнических работ	 Attrezzi da idraulico	 管道工作补给	 詰まり直し用具		
+Text.NamePlateDistance.EngineeringJobSupplies 	 Спорядження інженера	 Technik-Job-Utensilien	 Outils d'ingénieur	 Suministros de ingeniería	 Инструменты для инженерно-технических работ	 Attrezzi da operaio	 工程工作补给	 修理用具		
+Text.NamePlateDistance.FarmingJobSupplies 	 Спорядження рільника	 Gärtnerei-Job-Utensilien	 Outils de fermier	 Suministros de jardinería	 Инструменты для с/х работ	 Attrezzi da agricoltore	 农耕工作补给	 種植え用具		
 Text.NamePlateDistance.Rocks 	 Rocks Container	 Steincontainer	 Caisse pour pierres	 Contenedor de piedras	 Контейнер с камнями	 Contenitore di rocce	 石头容器	 鉱石コンテナ		
 										
 Text.Menu.LevelsUnlocked	Доступна нова в’язниця	Neue Gefängnisse freigeschaltet	Nouvelles prisons débloquées !	Nuevas prisiones desbloqueadas	Открыты новые тюрьмы	Nuove Prigioni Sbloccate	新的监狱已解锁	新しい刑務所がアンロックされた		

@@ -137,7 +137,7 @@ Text.Item.Handkerchief	Носовичок	Taschentuch	Mouchoir	Pañuelo	Носо
 Text.Item.Cup	Кухлик	Tasse	Tasse	Taza	Чашка	Tazzina	杯子	カップ			
 Text.Item.TeaBag	Мішечок чаю	Teebeutel	Sachet de thé	Bolsita de té	Чайн. пак.	Bustina di tè	茶包	ティーバッグ			
 Text.Item.JarOfInk	Баночка чорнила	Tintenfass	Fiole d'encre	Bote de tinta	Чернила	Bottiglia di inchiostro	罐装墨水	インクびん			
-Text.Item.PastryCase	Кондитерська таця	Törtchenform	Moule à tarte	Molde de pastel	Выпечка	Base per torta	糕点柜	パイの皿			
+Text.Item.PastryCase	Форма для випікання	Törtchenform	Moule à tarte	Molde de pastel	Выпечка	Base per torta	糕点柜	パイの皿			
 Text.Item.DeadRat	Мертва миша	Tote Ratte	Rat mort	Rata muerta	Дохлая крыса	Topo morto	死老鼠	死んだネズミ			
 Text.Item.Drums	Барабан	Trommel	Tambour	Tambor	Барабан	Tamburo	鼓	ドラム			
 Text.Item.TalcumPowder	Лояковий порошок	Tube mit Talkumpuder	Bac de talc	Bote de talco	Тальк	Flacone di borotalco	盆装滑石粉	ベビーパウダー			
