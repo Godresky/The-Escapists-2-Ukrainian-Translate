@@ -19,7 +19,7 @@ Text.Item.SheetOfMetal	Лист металу	Blech	Plaque de métal	Lámina de m
 Text.Item.Bleach	Відбілювач	Bleichmittel	Bac d'eau de Javel	Bote de lejía	Отбеливатель	Flacone di candeggina	一盆漂白剂	漂白剤			
 Text.Item.Bolts	Прогонич	Bolzen	Boulons	Tornillos	Болты	Bulloni	螺栓	ボルト			
 Text.Item.Bongos	Бонґо	Bongos	Bongo	Bongos	Бонго	Bongo	邦戈鼓	ボンゴ			
-Text.Item.Crowbar	Цвяходер	Brecheisen	Pied-de-biche	Palanca	Ломик	Piede di porco	撬棍	バール			
+Text.Item.Crowbar	Лапка	Brecheisen	Pied-de-biche	Palanca	Ломик	Piede di porco	撬棍	バール			
 Text.Item.Letter	Лист	Brief	Lettre	Carta	Письмо	Lettera	信件	手紙			
 Text.Item.Book	Книжка	Buch	Livre	Libro	Книга	Libro	书本	本			
 Text.Item.PaperClip	Спинач	Büroklammer	Trombone	Clip	Скрепка	Graffetta	回形针	クリップ			
@@ -59,7 +59,7 @@ Text.Item.InmateOutfit	Вбрання в’язня	Häftlingskleidung	Tenue de 
 Text.Item.Bracket	Кремпіль	Halter	Équerre	Gancho	Кронштейн	Staffa	支架	ブラケット			
 Text.Item.Hammer	Молоток	Hammer	Marteau	Martillo	Молоток	Martello	锤子	トンカチ			
 Text.Item.HandCream	Крем для рук	Handcreme	Crème pour les mains	Crema de manos	Крем для рук	Crema per le mani	桶装护手霜	ハンドクリーム			
-Text.Item.Trowel	Кельня	Handschaufel	Déplantoir	Pala	Лопатка	Cazzuola	抹子	スコップ			
+Text.Item.Trowel	Копачка	Handschaufel	Déplantoir	Pala	Лопатка	Cazzuola	抹子	スコップ			
 Text.Item.CookedPie	Приготований пляцок	Heiße Pastete	Tarte cuite	Pastel terminado	Готовый пирог	Torta cotta	烹制好的馅饼	焼き上がったパイ			
 Text.Item.Timber	Колода	Holz	Bois	Madera	Доска	Pezzo di legno	木料	木材			
 Text.Item.DogFood	Банка собачого корму	Hundefutterdose	Pâtée pour chien	Lata de pienso	Собачьи консервы	Latta di cibo per cani	罐装狗粮	ドッグフード缶			
@@ -212,7 +212,7 @@ Text.Item.FakeAudioEquipment	Несправжнє звукове обладна�
 Text.Item.FakeFence	Несправжня огорожа	Falscher Zaun	Fausse clôture	Valla falsa	Фальш. заграж.	Recinzione finta	仿制篱笆	偽フェンス			
 Text.Item.GrappleHead	Голівка гаку	Greifkopf	Tête de grappin	Cabeza de gancho	Захват	Gancio	抓钩头部	フックヘッド			
 Text.Item.GunMakerKit	Набір для виготовлення зброї	Schusswaffen-Bastelset	Pièces de pistolet	Kit de armas	Набор для изгот. оружия	Kit pistola	制枪套件	銃作成キット			
-Text.Item.HalfFrameOfGlider	Пів рама планера	Halber Gleiterrahmen	Demi cadre de planeur	Medio bastidor de planeador	1/2 каркаса дельтаплана	Metà telaio per aliante	滑翔机半副骨架	グライダーフレーム（半分）			
+Text.Item.HalfFrameOfGlider	Пів рами планера	Halber Gleiterrahmen	Demi cadre de planeur	Medio bastidor de planeador	1/2 каркаса дельтаплана	Metà telaio per aliante	滑翔机半副骨架	グライダーフレーム（半分）			
 Text.Item.HalfSlingshotTrebuchetSupportFrame	Пів головної рами требушета	Halber Tribok-Unterstützungsrahmen	Demi cadre de trébuchet	Medio bastidor de base de catapulta	Половина подставки под катапульту	Metà telaio per catapulta	半具投石机支撑骨架	投石機のサポートフレームの片方			
 Text.Item.HeartRateSlower	Уповільнювач пульсу	Herzschlag-Verlangsamer	Ralentisseur de rythme cardiaque	Ralentizador de latidos	Замедлитель пульса	Rallentatore di battito cardiaco	心率减慢器	心拍数低下装置			
 Text.Item.HiddenCompartment	Схованка	Verstecktes Fach	Compartiment secret	Compartimento secreto	Тайник	Scomparto segreto	隐藏隔间	隠し場所			

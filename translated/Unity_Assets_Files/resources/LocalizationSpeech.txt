@@ -13,7 +13,7 @@ Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese
 &Text.GuardAlert.Fighting	$name! Припини!	$name! Lass das!	$name ! Stop !	¡$name! ¡Desiste!	$name! Прекрати!	$name! Arrenditi!	$name！ 住手！ 	$name！よせ！			
 &Text.Guard.NaughtyLocation	$name! Вимітайся звідси!	$name! Raus da!	$name ! Sors de là !	"¡$name, sal de ahí!"	$name! Вылезай оттуда!	$name! Vai via da lì!	$name！ 给我出来！ 	$name！そこから出ろ！			
 &Text.Guard.NaughtyLocation	$name! Що ти тут робиш?!	$name! Was machst du da drin?!	$name ! Qu'est-ce que tu fiches ici ?	¡$name! ¡¿Qué haces ahí?!	$name! Что ты там делаешь?	$name! Che ci fai lì?!	$name！ 你在那里干嘛？	$name！そこで何やってる？			
-&Text.Guard.Work	"$name, до станка!"	"$name, an die Arbeit!"	"Au boulot, $name !"	"¡$name, a trabajar!"	"$name, за работу!"	"$name, fila a lavorare!"	$name， 快去干活！ 	$name、 働け！			
+&Text.Guard.Work	"$name, до верстату!"	"$name, an die Arbeit!"	"Au boulot, $name !"	"¡$name, a trabajar!"	"$name, за работу!"	"$name, fila a lavorare!"	$name， 快去干活！ 	$name、 働け！			
 &Text.Guard.Naked	"$name, ніхто не хоче цього бачити!"	"$name, das will niemand sehen!"	"$name, personne ne veut voir ça !"	"¡$name, nadie quiere ver eso!"	"$name, никто не хочет это видеть!"	"$name, nessuno vuole vederti!"	$name， 你那么做没人会高兴！ 	$name、 誰もそんなモノは見たくない！			
 &Text.Guards.GetDownFromThere	"$name, спускайся звідти!"	"$name, komm da runter!"	"$name, descends de là !"	"¡$name, baja de ahí!"	"$name, слезай оттуда!"	"$name, scendi da lì!"	$name， 从那里下来！ 	$name、 そこから下りろ！			
 &Text.Guard.CharacterTardy	"$name, мерщій!"	"$name, leg einen Zahn zu!"	"Plus vite, $name !"	"¡$name, acelera el ritmo!"	"$name, живее!"	"$name, più veloce!"	$name， 别磨蹭！ 	$name、 モタモタするな！			
