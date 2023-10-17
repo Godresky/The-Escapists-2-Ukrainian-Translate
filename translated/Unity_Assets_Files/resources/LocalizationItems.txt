@@ -210,7 +210,7 @@ Text.Item.CrossbowBody	Приклад арбалета	Armbrust-Körper	Support 
 Text.Item.CrossbowLathe	Дуга арбалета	Armbrust-Wurfarm	Arc d'arbalète	Cuerda de ballesta	Плечо арбалета	Arco di balestra	十字弓车床	クロスボウの弓			
 Text.Item.FakeAudioEquipment	Несправжнє звукове обладнання	Falsche Audioausrüstung	Faux équipement audio	Equipo de sonido falso	Фальш. аудиооборудование	Apparecchio audio finto	仿制音频设备	偽ガンマイク			
 Text.Item.FakeFence	Несправжня огорожа	Falscher Zaun	Fausse clôture	Valla falsa	Фальш. заграж.	Recinzione finta	仿制篱笆	偽フェンス			
-Text.Item.GrappleHead	Голівка гаку	Greifkopf	Tête de grappin	Cabeza de gancho	Захват	Gancio	抓钩头部	フックヘッド			
+Text.Item.GrappleHead	Голівка кішки	Greifkopf	Tête de grappin	Cabeza de gancho	Захват	Gancio	抓钩头部	フックヘッド			
 Text.Item.GunMakerKit	Набір для виготовлення зброї	Schusswaffen-Bastelset	Pièces de pistolet	Kit de armas	Набор для изгот. оружия	Kit pistola	制枪套件	銃作成キット			
 Text.Item.HalfFrameOfGlider	Пів рами планера	Halber Gleiterrahmen	Demi cadre de planeur	Medio bastidor de planeador	1/2 каркаса дельтаплана	Metà telaio per aliante	滑翔机半副骨架	グライダーフレーム（半分）			
 Text.Item.HalfSlingshotTrebuchetSupportFrame	Пів головної рами требушета	Halber Tribok-Unterstützungsrahmen	Demi cadre de trébuchet	Medio bastidor de base de catapulta	Половина подставки под катапульту	Metà telaio per catapulta	半具投石机支撑骨架	投石機のサポートフレームの片方			
