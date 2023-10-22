@@ -256,7 +256,7 @@ Text.Item.SturdyShovel	Міцна лопата	Stabile Schaufel	Pelle robuste	Pa
 Text.Item.SuperKnuckleDuster	Суперкастет	Toller Schlagring	Super poing américain	Puño americano superior	Суперкастет	Tirapugni super	超级指关节套	スーパーメリケンサック			
 Text.Item.SuperSockMace	Супершкарпеткова булава	Tolle Sockenkeule	Super chaussette lestée	Calcetín maza superior	Суперкистень из носка	Mazza con calzino super	超级袜锤	スーパー靴下ハンマー			
 Text.Item.Whip	Батіг	Peitsche	Fouet	Látigo	Кнут	Frusta	鞭	ムチ			
-Text.Item.ZiplineHook	Гак зиплайну	Seilrutschen-Haken	Crochet de tyrolienne	Gancho de tirolina	Крюк для зиплайна	Gancio per fune sospesa	滑索钩	ワイヤロープのフック			
+Text.Item.ZiplineHook	Гак зиплайна	Seilrutschen-Haken	Crochet de tyrolienne	Gancho de tirolina	Крюк для зиплайна	Gancio per fune sospesa	滑索钩	ワイヤロープのフック			
 Text.Item.BreakdanceIdle	Breakdance Idle	Breakdance Pose	Pose breakdance	Pose de breakdance	Брейкданс — пауза	Posa breakdance	闲置霹雳舞	ブレイクダンス像			
 Text.Item.CattleProd	Електропалиця	Viehtreiber	Pique	Picana para ganado	Электрохлыст	Sprone per bestiame	赶牛棒	牛追い棒			
 Text.Item.CompleteCrossbow	Готовий арбалет	Fertige Armbrust	Arbalète complète	Ballesta completa	Завершенный арбалет	Balestra completa	完整的十字弓	完成したクロスボウ			
