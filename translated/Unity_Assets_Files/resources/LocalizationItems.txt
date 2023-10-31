@@ -257,7 +257,7 @@ Text.Item.SuperKnuckleDuster	Суперкастет	Toller Schlagring	Super poin
 Text.Item.SuperSockMace	Супершкарпеткова булава	Tolle Sockenkeule	Super chaussette lestée	Calcetín maza superior	Суперкистень из носка	Mazza con calzino super	超级袜锤	スーパー靴下ハンマー			
 Text.Item.Whip	Батіг	Peitsche	Fouet	Látigo	Кнут	Frusta	鞭	ムチ			
 Text.Item.ZiplineHook	Гак зиплайна	Seilrutschen-Haken	Crochet de tyrolienne	Gancho de tirolina	Крюк для зиплайна	Gancio per fune sospesa	滑索钩	ワイヤロープのフック			
-Text.Item.BreakdanceIdle	Breakdance Idle	Breakdance Pose	Pose breakdance	Pose de breakdance	Брейкданс — пауза	Posa breakdance	闲置霹雳舞	ブレイクダンス像			
+Text.Item.BreakdanceIdle	Брейкданс - павза	Breakdance Pose	Pose breakdance	Pose de breakdance	Брейкданс — пауза	Posa breakdance	闲置霹雳舞	ブレイクダンス像			
 Text.Item.CattleProd	Електропалиця	Viehtreiber	Pique	Picana para ganado	Электрохлыст	Sprone per bestiame	赶牛棒	牛追い棒			
 Text.Item.CompleteCrossbow	Готовий арбалет	Fertige Armbrust	Arbalète complète	Ballesta completa	Завершенный арбалет	Balestra completa	完整的十字弓	完成したクロスボウ			
 Text.Item.CompleteTrebuchet	Готовий требушет	Fertiger Tribok	Trébuchet complet	Catapulta completa	Завершенная катапульта	Catapulta completa	完整的投石机	完成した投石機			
@@ -266,7 +266,7 @@ Text.Item.EnergySword	Енергомеч	Energieschwert	Épée énergétique	Esp
 Text.Item.FakeGun	Несправжній пістоль	Falsche Schusswaffe	Faux pistolet	Pistola de mentira	Фальш. оруж	Pistola finta	仿制枪	インチキ銃			
 Text.Item.GrapplingHook	Кішка	Enterhaken	Crochet de grappin	Gancho de sujeción	Захватный крюк	Rampino	抓钩	投げフック			
 Text.Item.MakeshiftGasMask	Саморобна газова маска	Provisorische Gasmaske	Masque à gaz de fortune	Máscara de gas improvisada	Самодельный респиратор	Maschera antigas di fortuna	临时用防毒面具	簡易ガスマスク			
-Text.Item.MimeIdle	Mime Idle	Pantomime Pose	Pose mime	Pose de mimo	Мим — пауза	Posa mimo	闲置哑剧	パントマイム像			
+Text.Item.MimeIdle	Пантоміма - павза	Pantomime Pose	Pose mime	Pose de mimo	Мим — пауза	Posa mimo	闲置哑剧	パントマイム像			
 Text.Item.Multitool	Багатоцільовий прилад	Allzweckwerkzeug	Outil multifonction	Multiherramienta	Унив. инстр.	Multiattrezzo	多用途工具	マルチツール			
 Text.Item.SkinnedGlider	Шкіряний планер	Bespannter Gleiter	Planeur avec toile	Planeador con tela	Дельтаплан с парусом	Aliante di tessuto	有外壳的滑翔机	カバー付きグライダー			
 Text.Item.SuperBaseballBat	Супербейсбольна бита	Toller Baseballschläger	Super batte de base-ball	Bate de béisbol superior	Супербита	Mazza da baseball super	超级棒球棍	スーパーバット			
@@ -306,14 +306,14 @@ Text.Item.VentCover	Вентиляційна решітка	Lüftungsdeckel	Bouc
 Text.Item.DummiesGuide	Посібник з польотів	Flughandbuch	Manuel de vol	Manual de vuelo	Руков. по полету	Manuale di volo	飞行手册	飛行マニュアル			
 Text.Item.RockHammer	Молоточок	Presslufthammer	Marteau de géologue	Martillo de roca	Альпеншток	Martello da roccia	石锤	ロックハンマー			
 Text.Item.MedicOutfit	Вбрання лікаря	Sanitäter-Kleidung	Tenue de médecin	Uniforme de médico	Одежда медика	Vestiti da medico	医生服装	医務官の服			
-Text.Item.JuicyWorm	Гробак	Saftiger Wurm	Ver juteux	Gusano jugoso	Дожд. червяк	Verme succoso	多汁的虫子	ぶっといミミズ			
-Text.Item.HardHat	Hard Hat	Schutzhelm	Casque de chantier	Casco de obra	Каска	Elmetto	硬帽子	ヘルメット			
-Text.Item.Salmon	Salmon	Lachs	Saumon	Salmón	Лосось	Salmone	鲑鱼	シャケ			
-Text.Item.FishingRod	Fishing Rod	Angel	Canne à pêche	Caña de pescar	Удочка	Canna da pesca	鱼竿	釣り竿			
-Text.Item.ReadiedFishingRod	Readied Fishing Rod	Bereitgemachte Angel	Canne à pêche prête	Caña de pescar preparada	Подготовленная удочка	Canna da pesca preparata	应急用鱼竿	エサ付きの釣り竿			
-Text.Item.Pearls	Pearls	Perlen	Perles	Perlas	Жемчуг	Perle	珍珠	真珠			
-Text.Item.DolphinTooth	Dolphin Tooth	Delfinzahn	Dent de dauphin	Diente de delfín	Зуб дельфина	Dente di delfino	海豚牙齿	イルカの歯			
-Text.Item.SeaSicknessBand	Sea Sickness Band	Band gegen Seekrankheit	Bracelet anti-mal de mer	Cinta para mareo	Браслет от укачивания	Cerotto per il mal di mare	晕船带	酔い止めバンド			
+Text.Item.JuicyWorm	Хробак	Saftiger Wurm	Ver juteux	Gusano jugoso	Дожд. червяк	Verme succoso	多汁的虫子	ぶっといミミズ			
+Text.Item.HardHat	Шолом	Schutzhelm	Casque de chantier	Casco de obra	Каска	Elmetto	硬帽子	ヘルメット			
+Text.Item.Salmon	Лосось	Lachs	Saumon	Salmón	Лосось	Salmone	鲑鱼	シャケ			
+Text.Item.FishingRod	Вудка	Angel	Canne à pêche	Caña de pescar	Удочка	Canna da pesca	鱼竿	釣り竿			
+Text.Item.ReadiedFishingRod	Готова вудка	Bereitgemachte Angel	Canne à pêche prête	Caña de pescar preparada	Подготовленная удочка	Canna da pesca preparata	应急用鱼竿	エサ付きの釣り竿			
+Text.Item.Pearls	Перли	Perlen	Perles	Perlas	Жемчуг	Perle	珍珠	真珠			
+Text.Item.DolphinTooth	Зуб дельфіна	Delfinzahn	Dent de dauphin	Diente de delfín	Зуб дельфина	Dente di delfino	海豚牙齿	イルカの歯			
+Text.Item.SeaSicknessBand	Наруччя від морської хвороби	Band gegen Seekrankheit	Bracelet anti-mal de mer	Cinta para mareo	Браслет от укачивания	Cerotto per il mal di mare	晕船带	酔い止めバンド			
 Text.Item.CompleteShoe	Готовий черевик	Fertiger Schuh	Chaussure complète	Zapato completo	Целый ботинок	Scarpa completa	完整的鞋	完成した靴			
 Text.Item.PairOfShoes	Пара черевик	Schuhe	Chaussures	Par de zapatos	Ботинки	Paio di scarpe	一双鞋	一足の靴			
 Text.ItemTooltip.Armour	Броня	Rüstung	Armure	Armadura	Защита	Armatura	护甲	防具			
@@ -329,7 +329,7 @@ Text.Item.MailbagGreen	Мішок зі зеленою поштою	Postsack (gr�
 Text.Item.MailbagRed	Мішок з червоною поштою	Postsack (rot)	Sac de courrier rouge	Bolsa de correo roja	Кр. почт. сумка	Borsa postale rossa	红色邮袋	郵便袋（赤）			
 Text.Item.WeakBaton	М’який кийок	Gepolsterter Schlagstock	Matraque capitonnée	Porra acolchada	Мягкая дубинка	Manganello imbottito	带垫子的短棍	パッド入り警棒			
 Text.Item.ColouredBox	Розписана коробка	Farbige Schachtel	Boîte colorée	Caja pintada	Цветная коробка	Scatola colorata	带色盒子	カラーボックス			
-Text.Item.Harmonica	Harmonica	Позитва	Harmonica	Armónica	Губн. гарм.	Armonica	口琴	ハーモニカ			
+Text.Item.Harmonica	Позитва	Harmonica	Harmonica	Armónica	Губн. гарм.	Armonica	口琴	ハーモニカ			
 Text.Item.InflatableAlien	Надувний прибулець	Aufblasbares Alien	Extraterrestre gonflable	Extraterrestre inflable	Надувной пришелец	Alieno gonfiabile	充气外星人	風船エイリアン			
 Text.Item.KeyMouldGreen	Виліпок зеленого ключа	Schlüsselform (grün)	Moule à clé verte	Molde de llave verde	Слепок зел. ключа	Stampo di chiave verde	绿色钥匙模具	カギの型（緑）			
 Text.Item.Microchip	Мікрочип	Mikrochip	Puce électronique	Microchip	Микрочип	Microchip	芯片	マイクロチップ			
