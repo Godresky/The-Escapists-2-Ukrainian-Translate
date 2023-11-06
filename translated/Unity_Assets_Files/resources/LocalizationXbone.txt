@@ -1,5 +1,5 @@
 Text ID	English	German	French	Spanish	Russian	Italian		
-Text.Menu.PressStart	Натисніть [IN=UI_Submit], щоб почати	Zum Start [IN=UI_Submit] drücken	Appuyez sur [IN=UI_Submit]	Pulsa [IN=UI_Submit] para iniciar	"Нажмите [IN=UI_Submit], чтобы начать"	Premi [IN=UI_Submit] per iniziare		
+Text.Menu.PressStart	Натисніть [IN=UI_Submit], щоби почати	Zum Start [IN=UI_Submit] drücken	Appuyez sur [IN=UI_Submit]	Pulsa [IN=UI_Submit] para iniciar	"Нажмите [IN=UI_Submit], чтобы начать"	Premi [IN=UI_Submit] per iniziare		
 								
 &Text.Speech.Banter	Speech 1	Rede 1	Dialogue 1	Diálogo 1	Речь 1	Discorso 1		
 &Text.Speech.Banter	Speech 2	Rede 2	Dialogue 2	Diálogo 2	Речь 2	Discorso 2		
