@@ -40,7 +40,7 @@ Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese
 &Text.Guards.RollCallStart	Увага!	Achtung!	Attention !	¡Atención!	Внимание!	Attenti!	注意了！ 	ちゅうもーく！			
 &Text.Inmates.PlayerRep2	Поглянь	Achtung.	Attention.	¡Cuidado!	Смотри	Guarda	当心	用心しな			
 &Text.Guard.SentToContrabandDesk	Ага!	Aha!	Ah ah !	¡Ja!	А-ха!	Ah-ha!	啊哈！ 	おやおや！			
-&Text.Guards.EscapeAttempt	Ага! Як я й думав!	Aha! Wie erwartet!	Aha ! Je m'en doutais !	¡Ajá! ¡Como sospechaba!	Ага! Как я и подозревал!	Aha! Come sospettavo!	啊哈！ 不出我所料！ 	ハッ！やっぱりか！			
+&Text.Guards.EscapeAttempt	Ага! Як я і думав!	Aha! Wie erwartet!	Aha ! Je m'en doutais !	¡Ajá! ¡Como sospechaba!	Ага! Как я и подозревал!	Aha! Come sospettavo!	啊哈！ 不出我所料！ 	ハッ！やっぱりか！			
 &Text.Guards.Showers	"По кутках, пацюки!"	"Alle in eure Winkel, ihr Gauner!"	"Passez bien partout, tas de crétins !"	"¡Al rincón, ladrones!"	"Прячьтесь в норы, ворюги!"	"Tutti all’angolo, furfanti!"	你们这帮混混， 都给我进去！ 	隅々まで洗えよ、 ボンクラども！			
 &Text.Guards.FoodHall	Усе, що треба пройдисвіту для існування!	"Alle Nährwerte, die ein Knacki braucht!"	Tout ce dont un détenu pourrait avoir besoin !	¡Todo el alimento que necesita un preso!	"Все, что нужно зэку для пропитания!"	Tutto il nutrimento di cui un galeotto ha bisogno!	罪犯需要的食物这里都有！ 	受刑者に必要な栄養がたっぷりだ！			
 &Text.NPC.Warden	Це місце - руїна…	Alles Durcheinander hier.	Cet endroit est une ruine.	Este lugar es una ruina...	Полная разруха...	"Che disastro, qui..."	这儿真乱……	ここはひどい場所だ…			
