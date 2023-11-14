@@ -132,7 +132,7 @@ Text.Item.Spittoon	Плювальниця	Spucknapf	Crachoir	Escupidera	Плев
 Text.Item.String	Шматок мотузки	Stück Schnur	Morceau de ficelle	Trozo de hilo	Кусок бечевки	Pezzo di filo	线	ひも			
 Text.Item.Rope	Міток мотузки	Stück Seil	Longueur de corde	Trozo de cuerda	Моток веревки	Tratto di corda	绳子	ロープ			
 Text.Item.Sugar	Грудка цукру	Stück Zucker	Morceau de sucre	Trozo de azúcar	Кусок сахара	Zolletta di zucchero	糖块	角砂糖			
-Text.Item.DinnerTray	Обідня таця	Tablett	Plateau repas	Bandeja de cena	Поднос	Vassoio per la cena	餐盘	ディナートレイ			
+Text.Item.DinnerTray	Таця	Tablett	Plateau repas	Bandeja de cena	Поднос	Vassoio per la cena	餐盘	ディナートレイ			
 Text.Item.Handkerchief	Носовичок	Taschentuch	Mouchoir	Pañuelo	Носовой платок	Fazzoletto	手帕	ハンカチ			
 Text.Item.Cup	Кухлик	Tasse	Tasse	Taza	Чашка	Tazzina	杯子	カップ			
 Text.Item.TeaBag	Мішечок чаю	Teebeutel	Sachet de thé	Bolsita de té	Чайн. пак.	Bustina di tè	茶包	ティーバッグ			
