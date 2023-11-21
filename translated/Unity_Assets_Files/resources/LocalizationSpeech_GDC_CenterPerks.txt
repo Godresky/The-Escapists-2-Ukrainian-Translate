@@ -2,8 +2,8 @@ Text ID	English	German	French	Spanish	Russian	Polish
 												
 Text.GDC.IntroCutscene.01	Testing 1 2 3											
 												
-Text.Quest.CraftTitle	The Crafty Con!											
-Text.Quest.CraftObjective	Craft a fierce weapon known as the 'Sock Mace'.											
+Text.Quest.CraftTitle	Мастак на всі руки!											
+Text.Quest.CraftObjective	Змайструйте люту зброю, відому як «Шкарпеткова булава»											
 Text.Quest.CraftDescription	"""There you are squire! I was beginning to think you'd run out on me… If you were to do that I'd remove your legs, pixel by pixel.\n\nRight, heh… I want you to piece me together a weapon… Using the Soap and the Sock - craft me it up... Or else… Use the map locations as reference to see where you need to be. Fancy it?"""											
 												
 Text.Quest.PlantTitle	You Dirty Rat!											
