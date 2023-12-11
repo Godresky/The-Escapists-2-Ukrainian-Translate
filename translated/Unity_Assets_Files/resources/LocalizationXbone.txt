@@ -1,16 +1,16 @@
 Text ID	English	German	French	Spanish	Russian	Italian		
 Text.Menu.PressStart	Натисніть [IN=UI_Submit], щоби почати	Zum Start [IN=UI_Submit] drücken	Appuyez sur [IN=UI_Submit]	Pulsa [IN=UI_Submit] para iniciar	"Нажмите [IN=UI_Submit], чтобы начать"	Premi [IN=UI_Submit] per iniziare		
 								
-&Text.Speech.Banter	Speech 1	Rede 1	Dialogue 1	Diálogo 1	Речь 1	Discorso 1		
-&Text.Speech.Banter	Speech 2	Rede 2	Dialogue 2	Diálogo 2	Речь 2	Discorso 2		
-&Text.Speech.Banter	Speech 3	Rede 3	Dialogue 3	Diálogo 3	Речь 3	Discorso 3		
-&Text.Speech.Banter	Speech 4	Rede 4	Dialogue 4	Diálogo 4	Речь 4	Discorso 4		
-&Text.Speech.Banter	Speech 5	Rede 5	Dialogue 5	Diálogo 5	Речь 5	Discorso 5		
-&Text.Speech.Banter	Speech 6	Rede 6	Dialogue 6	Diálogo 6	Речь 6	Discorso 6		
-&Text.Speech.Banter[DLC1]	Speech 7	Rede 7	Dialogue 7	Diálogo 7	Речь 7	Discorso 7		
-&Text.Speech.Banter[DLC1]	Speech 8	Rede 8	Dialogue 8	Diálogo 8	Речь 8	Discorso 8		
-&Text.Speech.Banter[DLC2]	Speech 9	Rede 9	Dialogue 9	Diálogo 9	Речь 9	Discorso 9		
-Text.Dialog.PrimaryUserSignOut	WARNING	WARNUNG	ATTENTION	ATENCIÓN	ВНИМАНИЕ	AVVISO		
+&Text.Speech.Banter	Вигук 1	Rede 1	Dialogue 1	Diálogo 1	Речь 1	Discorso 1		
+&Text.Speech.Banter	Вигук 2	Rede 2	Dialogue 2	Diálogo 2	Речь 2	Discorso 2		
+&Text.Speech.Banter	Вигук 3	Rede 3	Dialogue 3	Diálogo 3	Речь 3	Discorso 3		
+&Text.Speech.Banter	Вигук 4	Rede 4	Dialogue 4	Diálogo 4	Речь 4	Discorso 4		
+&Text.Speech.Banter	Вигук 5	Rede 5	Dialogue 5	Diálogo 5	Речь 5	Discorso 5		
+&Text.Speech.Banter	Вигук 6	Rede 6	Dialogue 6	Diálogo 6	Речь 6	Discorso 6		
+&Text.Speech.Banter[DLC1]	Вигук 7	Rede 7	Dialogue 7	Diálogo 7	Речь 7	Discorso 7		
+&Text.Speech.Banter[DLC1]	Вигук 8	Rede 8	Dialogue 8	Diálogo 8	Речь 8	Discorso 8		
+&Text.Speech.Banter[DLC2]	Вигук 9	Rede 9	Dialogue 9	Diálogo 9	Речь 9	Discorso 9		
+Text.Dialog.PrimaryUserSignOut	УВАГА	WARNUNG	ATTENTION	ATENCIÓN	ВНИМАНИЕ	AVVISO		
 Text.Dialog.PrimaryUserSignOut.Body	The Primary User ([User]) was signed out. The game will be returned to the title screen. 	Hauptnutzer ([User]) hat sich abgemeldet. Spiel kehrt zurück zum Startbildschirm. 	L'utilisateur principal ([User]) a été déconnecté. Vous allez être redirigé(e) vers le menu principal. 	El usuario principal ([User]) ha salido de la sesión. El juego volverá a la pantalla de inicio. 	Основной пользователь ([User]) вышел из системы. Вы вернетесь на начальный экран. 	L’utente principale ([User]) si è disconnesso. Il gioco tornerà alla schermata principale. 		
 Text.Dialog.PrimaryUserChanged	WARNING	WARNUNG	ATTENTION	ATENCIÓN	ВНИМАНИЕ	AVVISO		
 Text.Dialog.PrimaryUserChanged.Body	The Primary User ([User]) was changed. The game will be returned to the title screen. 	Hauptnutzer ([User]) wurde gewechselt. Spiel kehrt zurück zum Startbildschirm. 	L'utilisateur principal ([User]) a changé. Vous allez être redirigé(e) vers le menu principal. 	El usuario principal ([User]) ha cambiado. El juego volverá a la pantalla de inicio. 	Основной пользователь ([User]) изменен. Вы вернетесь на начальный экран. 	L’utente principale ([User]) è cambiato. Il gioco tornerà alla schermata principale. 		
@@ -28,8 +28,8 @@ Text.Dialog.XPRIVILEGE_MULTIPLAYER_SESSIONS.Banned	WARNING	WARNUNG	ATTENTION	ATE
 Text.Dialog.XPRIVILEGE_MULTIPLAYER_SESSIONS.Banned.Body	[User] was banned from using Xbox Live features.	[User] wurde die Nutzung der Xbox Live-Funktionen verboten.	[User] n'est plus autorisé(e) à utiliser le Xbox Live.	Se ha prohibido que [User] use las funciones de Xbox Live.	Игроку [User] запрещено использовать функции Xbox Live.	[User] non può usare le funzionalità di Xbox Live.		
 Text.Dialog.XPRIVILEGE_MULTIPLAYER_SESSIONS.Restricted	WARNING	WARNUNG	ATTENTION	ATENCIÓN	ВНИМАНИЕ	AVVISO		
 Text.Dialog.XPRIVILEGE_MULTIPLAYER_SESSIONS.Restricted.Body	An Xbox Live account setting restricts [User] from using this feature.	Funktion wegen Xbox Live-Kontoeinstellungen für [User] nicht verfügbar.	Les paramètres de compte Xbox Live de [User] l'empêchent d'utiliser cette fonctionnalité.	Un ajuste de la cuenta de Xbox Live impide que [User] use esta función.	Настройки учетной записи Xbox Live не позволяют игроку [User] использовать эту функцию.	[User] non può usare questa funzionalità per le restrizioni dell’account Xbox Live.		
-Text.Dialog.NoConnection	DISCONNECTED	GETRENNT	DÉCONNEXION	DESCONECTADO	ОТКЛЮЧЕНО	DISCONNESSO		
-Text.Dialog.NoConnection.Body	Please check your connection to Xbox Live.	Bitte Verbindung zu Xbox Live prüfen.	Veuillez vérifier votre connexion au Xbox Live.	Comprueba la conexión a Xbox Live.	Проверьте подключение к Xbox Live.	Controlla la tua connessione a Xbox Live.		
+Text.Dialog.NoConnection	ВІД’ЄДНАНО	GETRENNT	DÉCONNEXION	DESCONECTADO	ОТКЛЮЧЕНО	DISCONNESSO		
+Text.Dialog.NoConnection.Body	Будь ласка, перевірте ваше з’єднання з Xbox Live.	Bitte Verbindung zu Xbox Live prüfen.	Veuillez vérifier votre connexion au Xbox Live.	Comprueba la conexión a Xbox Live.	Проверьте подключение к Xbox Live.	Controlla la tua connessione a Xbox Live.		
 Text.Dialog.LostConnection	LOST CONNECTION	VERBINDUNG VERLOREN	CONNEXION PERDUE	CONEXIÓN PERDIDA	ПОТЕРЯ СОЕДИНЕНИЯ	CONNESSIONE PERSA		
 Text.Dialog.LostConnection.Body	You have been disconnected from Xbox Live.	Du wurdest von Xbox Live getrennt.	Votre connexion au Xbox Live a été perdue.	Has sido desconectado de Xbox Live.	Вы отключились от Xbox Live.	Sei stato disconnesso da Xbox Live.		
 Text.Dialog.XPRIVILEGE_COMMUNICATIONS.Aborted	WARNING	WARNUNG	ATTENTION	ATENCIÓN	ВНИМАНИЕ	AVVISO		

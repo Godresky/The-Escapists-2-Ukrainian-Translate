@@ -91,7 +91,7 @@ Text.CutleryTray	Таця для приладдя	Besteckkasten	Plateau de couve
 &Text.Guard.Chat	Кроком руш, $name	"Beweg dich, $name."	"Bouge, $name !"	"Muévete, $name."	"Шевелись, $name"	"Muoviti, $name"	$name， 快点	あっちへ行け、 $name			
 &Text.Guards.Gym	НУМО!	BEWEGUNG!	ALLEZ.	¡MOVEOS!	ДАВАЙ!	MUOVERSI!	快走！ 	走れ走れ！			
 &Text.Guard.Chat	Та йди вже, $name	"Bewegung, $name."	"Avance, $name !"	"Sal, $name."	"Вперед, $name"	Datti una mossa $name	走开， $name	立ち止まるな、 $name			
-&Text.ChatToGuard	Рухайсі	Bewegung.	Avance.	Moveos.	Шевелись	Muoviti	走开	立ち止まるな			
+&Text.ChatToGuard	Ся рухай	Bewegung.	Avance.	Moveos.	Шевелись	Muoviti	走开	立ち止まるな			
 &Text.NPC.MedicCarrying	Я подбаю про тебе…	Bin da ...	Tiens bon...	Te pillé...	Понял...	Sei con me...	有我在……	しっかりしろ…			
 &Text.Inmates.PlayerRep3	Я завжди буду поруч	"Bin da, wenn du mich brauchst."	Je serai là si t'as besoin.	Aquí estaré si me necesitas.	Я всегда рядом	Sono qui se hai bisogno	有需要的话就来这儿找我	困った時はオレがついてる			
 &Text.Inmates.PlayerRep3	Зрозумів	Bin da.	Je suis là.	Te pillé.	Понял	Sono con te	我照应你	任せておけ			
@@ -752,7 +752,7 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Inmates.MaxPrisonAlertness	Отакої! Найулюбленіша частина!	Jippie! Darauf steh ich am meisten!	Wouhou ! Mon passage préféré !	¡Yuujuu! ¡Esta es mi parte preferida!	Йо-хо-о! Обожаю это!	Woohoo! È la parte che preferisco!	哇呼！  这是我最喜欢的部分！ 	ヒャッホー！盛り上がるねぇ！			
 &Text.Inmates.JobChat	Насолода від праці? Тю	Jobzufriedenheit? Pfft.	Si j'aime ce travail ? Pff.	¿Satisfacción laboral? Bueno.	Удовлетворение от работы? Пф	Amare il proprio lavoro? Pfff	工作满意度？ 没了	やりがい？どこに？			
 &Text.Lockdown	Можемо покласти край цьому.  	Kann genauso gut hier Schluss machen. 	Autant en finir. 	Podría terminar con todo esto. 	Можно прямо сейчас сдаться. 	Dovrei farla finita. 	不如做个了断。  	一度リセットしたほうがいい			
-&Text.NPC.Maintenance.Idle	Можна спитатисі твій номер?	Kann ich deine Nummer haben?	Je peux avoir ton numéro ?	¿Me das tu número?	Можно твой телефончик?	Mi daresti il tuo numero?	能告诉我你的号码吗？	電話番号を聞いても？			
+&Text.NPC.Maintenance.Idle	Можна ся спитати твій номер?	Kann ich deine Nummer haben?	Je peux avoir ton numéro ?	¿Me das tu número?	Можно твой телефончик?	Mi daresti il tuo numero?	能告诉我你的号码吗？	電話番号を聞いても？			
 &Text.NPC.FavourAttention	Можна тебе на кілька слів?	Kann ich dich sprechen?	Je peux te parler ?	¿Podemos hablar?	Можно на пару слов?	Posso parlarti?	能借一步说话吗？	今話しても？			
 &Text.GuardAlert.Flood	Ну й навіщо?	Kann ich fragen?	Euh... ?	¿Tengo que preguntar?	Можно спросить?	Posso chiedere?	斗胆问一句。 	なぜなんだ？			
 &Text.Inmate.Disguise	Я можу допомогти?	Kann ich helfen?	Je t'aide ?	¿Puedo ayudar?	Я могу помочь?	Serve aiuto?	我可以帮忙吗？	どういったご用で？			
@@ -1024,7 +1024,7 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Inmates.Showers	Глянь йому в очі	"Schau, seine Augen."	Regarde-le.	Ojo a dónde mira.	Глянь ему в глаза	Guardalo in faccia	看他的眼睛	ヤツの目を見ろって…			
 &Text.Guard.ContrabandInContainer	Ну і ну, що я надибав!	"Schau, was ich gefunden hab!"	Regardez ce que j'ai trouvé !	¡Mira lo que he encontrado!	"Смотри, что я нашел!"	"Guarda guarda, cosa ho trovato!"	看看我找到了什么！ 	おやおや、 こんなモノが出てきたぞ！			
 &Text.Inmates.FoodHall	Диви, що я в себе знайшов!	"Schau, was in meinem war!"	Regarde ce que j'ai trouvé !	¡Mira lo que había en el mío!	"Смотри, что я нашел у себя!"	Guardo cosa ho trovato nel mio!	看看我在食物里找到了啥！ 	すげえもんが入ってたぜ！			
-&Text.NPC.Janitor	Тут наче чорт з очерету пройшовсі!	Schaut aus wie von einer Deutschen Dogge!	On dirait qu'un danois a fait ça !	¡Parece obra de un gran danés!	"Кажется, это сделал немецкий дог!"	Sembra quella di un Alano!	似乎是大丹狗干的！ 	あのバカ犬がやりやがった！			
+&Text.NPC.Janitor	Тут наче чорт з очерету ся пройшов!	Schaut aus wie von einer Deutschen Dogge!	On dirait qu'un danois a fait ça !	¡Parece obra de un gran danés!	"Кажется, это сделал немецкий дог!"	Sembra quella di un Alano!	似乎是大丹狗干的！ 	あのバカ犬がやりやがった！			
 &Text.Guards.EscapeAttemptDEMO	Погляньте, як тут все кепсько... Навіть пацюки звідсиля тікають!	Schaut euch diesen Zustand an ... Das geht nicht einmal für Knackis!	Regardez un peu l'état de ce truc... Ce n'est même pas adapté aux détenus !	Solo hay que mirar cómo está esto... ¡Ni siquiera vale para los presos!	"Только посмотрите, на что это похоже... Это место не годится даже для зэков!"	Guarda che condizioni... Non va bene neanche per i galeotti!	看看这儿的状态啊……这里连关罪犯都不合适！ 	こいつを見てくれ…刑務所にしたってひどすぎるぞ！			
 &Text.Guards.Gym	Погляньте на себе... жалюгіддя!	Schaut euch doch an ... erbärmlich!	Regardez dans quel état vous êtes... Pathétiques !	Mirad cómo estáis... ¡patético!	"Посмотрите, на что вы похожи... кучка слизняков!"	Guardate in che stato siete... patetici!	看看你们这帮人的样子……实在可悲！ 	ひどいザマだぞ、 情けない！			
 &Text.Guards.Showers	Подивіться на себе!	Schaut euch nur an!	Regardez dans quel état vous êtes !	¡Mirad cómo estáis!	"Посмотрите, на что вы похожи!"	Guardate in che stato siete!	看看你们这帮人的样子！ 	おまえら、 なんてザマだ！			
@@ -1172,8 +1172,8 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Guards.CombatEnded	Не забувай своє місце…	"Vergiss nicht, wo du stehst."	N'oublie pas ta place...	No te olvides de tu sitio...	Не забывай свое место...	Non dimenticare il tuo posto...	别忘了自己的身份……	調子に乗るなよ…			
 &Text.Chase.Missing	Загубив його…	Verloren ...	Perdus...	Los he perdido...	Потерял...	Li ho persi...	甩掉他们了……	見失った…			
 &Text.Guard.CharacterAttacking	Знищую ціль!	Vernichte Ziel!	Destruction de la cible	¡Destruyendo objetivo!	Уничтожение цели!	Distruzione obiettivo!	正在摧毁目标！ 	野郎をぶっつぶせ！			
-&Text.Inmates.PlayerRep1	Та відчеписі ти вже	Verpiss dich.	Éloigne-toi de moi.	Quítate de mi vista.	Скройся с глаз	Stai alla larga	滚	その顔を見せるな			
-&Text.Guards.LockdownStart	ВВЕДІТЬ РЕЖИМ ЗАМИКАННЯ!	VERRIEGELUNG AUSLÖSEN!	LANCEZ L'ÉTAT D'URGENCE !	¡INICIAD BLOQUEO!	ВВОДИМ РЕЖИМ ИЗОЛЯЦИИ!	ATTIVARE LOCKDOWN!	开始封锁！ 	施設封鎖を開始！			
+&Text.Inmates.PlayerRep1	Та ся відчепи ти вже	Verpiss dich.	Éloigne-toi de moi.	Quítate de mi vista.	Скройся с глаз	Stai alla larga	滚	その顔を見せるな			
+&Text.Guards.LockdownStart	ВВЕДІТЬ ЗАМИКАННЯ!	VERRIEGELUNG AUSLÖSEN!	LANCEZ L'ÉTAT D'URGENCE !	¡INICIAD BLOQUEO!	ВВОДИМ РЕЖИМ ИЗОЛЯЦИИ!	ATTIVARE LOCKDOWN!	开始封锁！ 	施設封鎖を開始！			
 &Text.Inmates.PlayerRep1	Йди до біса	Verschwinde.	Casse-toi.	Date un paseo.	Свали	Fatti un giro	走开	散歩してこい			
 &Text.Inmates.FoodHall	Скоштуй це...	Versuch das ...	Essaie ça...	Prueba esto...	Попробуй-ка...	Prova questo	试试这个……	こいつを食ってみ…			
 &Text.ChatToGuard	"Спробуй, я наполягаю"	"Versuch’s doch, trau dich."	"Essaie, si tu l'oses."	"Inténtalo, vamos."	Только попробуй	"Provaci, ti sfido"	有种就试试这个	やってみろ、 腰抜け			
@@ -1365,7 +1365,7 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.NPC.Warden	Я б поклав свої легені, аби сей заклад працював надалі!	"Würde meine Lunge verkaufen, um das hier am Laufen zu halten!"	Je vendrais mes poumons pour que cet endroit reste ouvert !	¡Vendería mis pulmones por dejar abierto este sitio!	"Я почку продам, лишь бы это место не закрывали!"	Venderei i miei polmoni per tenere aperto questo posto!	我就是去卖肾也要把这儿经营下去！ 	この場所を守るためなら、 肺だって売ろう！			
 &Text.Inmates.Banter	А ти знав, що у Великій Британії більше нема голландської хвороби?	"Wusstest du, dass es in Großbritannien keine holländische Ulme mehr gibt?"	Tu savais qu'il n'y a plus d'orme en Angleterre ?	¿Sabes que en Inglaterra no quedan más gnomos de jardín?	"Ты знал, что в Британии больше не осталось голландских вязов?"	Sapevi che non ci sono più olmi in Inghilterra?	你知道英国已经没有荷兰榆木了吗？	オークって木の名前なのか？			
 &Text.Inmates.JobChat	Хоча б гроші є...	Zahlt die Rechnungen ...	Ça paie les factures.	Paga las facturas...	Это того стоит...	Ci pago le bollette...	这钱能付各种账单……	こいつを返済の足しに…			
-&Text.Guards.MaxPrisonAlertness	Покажисі	Zeig dich.	Montre-toi.	¡Descúbrete!	Покажись!	Fatti vedere	现身吧	姿を見せろ			
+&Text.Guards.MaxPrisonAlertness	Ся покажи	Zeig dich.	Montre-toi.	¡Descúbrete!	Покажись!	Fatti vedere	现身吧	姿を見せろ			
 &Text.Guards.Gym	Не соромтеся!	Zeig keine Scham!	Affirmez-vous !	¡Sin vergüenza!	Не стыдись!	Non avete pudore!	没什么丢脸的！ 	全力でいけ！			
 &Text.Guards.Gym	ПОКАЖИ НАМ СЕ!	ZEIG’S UNS!	DÉMENEZ-VOUS !	¡ENSEÑÁDNOSLO!	ПОКАЖИ НАМ!	FATECI VEDERE!	做给我们看！ 	本気を見せろ！			
 &Text.Inmates.Gym	Час піднатужитися!	Zeit aufzudrehen!	"Allez, on accélère !"	¡Hora de darle más caña!	Пришло время прокачаться!	Diamoci dentro!	锻炼时间到！ 	負荷を上げちゃる！			
