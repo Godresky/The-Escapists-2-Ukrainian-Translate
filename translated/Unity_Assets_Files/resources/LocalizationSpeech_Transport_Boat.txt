@@ -24,7 +24,7 @@ Text.Escape.TakeControl.Stage3.Wrong
 Text.Escape.TakeControl.Stage4.Succeed												
 Text.Escape.TakeControl.Stage4.Wrong												
 Text.Escape.TakeControl.TooManyPlayers												
-Text.Escape.TakeControl.TooFewPlayers	Я не можу поїхати сам!	Ich kann das nicht allein fahren!	Je ne peux pas piloter ça tout seul !	¡No puedo conducir esto yo solo!	Я не смогу управлять этой штукой в одиночку!	Non posso pilotarlo senza un aiuto!	我一个人没法驾驶这东西！	1人では操縦できない！ 				
+Text.Escape.TakeControl.TooFewPlayers	Я не можу керувати сам!	Ich kann das nicht allein fahren!	Je ne peux pas piloter ça tout seul !	¡No puedo conducir esto yo solo!	Я не смогу управлять этой штукой в одиночку!	Non posso pilotarlo senza un aiuto!	我一个人没法驾驶这东西！	1人では操縦できない！ 				
 Text.Escape.TakeControl.ProximityDialogue	Щоб перекрити міст, ми повинні бути тут у повному складі!	"Wir müssen alle hier sein, um diese Brücke zu sperren!"	Nous devons tous être là pour sécuriser ce pont !	¡Tenemos que estar todos aquí para hacernos con el puente de mando!	"Нам всем нужно быть здесь, чтобы заблокировать мост!"	Dobbiamo esserci tutti per bloccare questo ponte!	必须所有人到齐后才能封锁舰桥！	全員がそろわないとブリッジを封鎖できない！ 				
 Text.Escape.TakeControl.Interact												
 Text.Escape.TakeControl.DealWithGuards	Нам треба прибрати варту!	Wir müssen die Wärter ausschalten!	Il faut se débarrasser des gardes !	¡Tenemos que deshacernos de los guardias!	Нам нужно увести охрану!	Dobbiamo eliminare le guardie!	我们需要干掉守卫！	看守を全員倒さないと！ 				
