@@ -191,7 +191,7 @@ Text.Item.FakeVentCover	Несправжня вентиляційна решіт
 Text.Item.FramedPhoto	Світлина в рамці	Gerahmtes Foto	Photo encadrée	Foto enmarcada	Фото в рамке	Foto con cornice	装裱后照片	フレーム入り写真			
 Text.Item.GlassShank	Скляна заточка	Glasmesser	Lame de verre	Cuchillo de cristal	Осколок стекла	Coltello di vetro	玻璃杆	ガラスナイフ			
 Text.Item.GlueReadiedFurniture	Склеєний виріб	Mit Leim vorbereitetes Möbelstück	Meuble monté	Mueble reparado con cola	Проклеенная мебель	Mobile preparato con colla	上好胶的家具	接着済みの家具			
-Text.Item.MakeshiftCosh	Саморобий кий	Provisorischer Knüppel	Gourdin de fortune	Arma improvisada	Самодельн. дубинка	Randello di fortuna	临时用短棍	即席こん棒			
+Text.Item.MakeshiftCosh	Саморобний кий	Provisorischer Knüppel	Gourdin de fortune	Arma improvisada	Самодельн. дубинка	Randello di fortuna	临时用短棍	即席こん棒			
 Text.Item.MakeshiftRocketThruster	Саморобний ракетний рушій	Provisorische Raketendüse	Propulseur de fortune	Propulsor improvisado	Самодельный ракетный двигатель	Propulsore di fortuna	临时用火箭推进器	簡易ジェット装置			
 Text.Item.MoltenPlastic	Розтоплений пластик	Geschmolzenes Plastik	Plastique fondu	Plástico derretido	Расплавл. пластик	Plastica fusa	熔化的塑料	溶けたプラスチック			
 Text.Item.MusicWashboard	Музична дошка для прання	Musik-Waschbrett	Planche à laver musicale	Tabla de lavar musical	Музык. стир. доска	Washboard	音乐搓板	演奏用ウォッシュボード			
