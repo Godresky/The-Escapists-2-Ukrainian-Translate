@@ -598,7 +598,7 @@ Text.Item.RiotGuardOutfit	Однострій спецпризначенця	Spez
 Text.Item.TubeOfArtPaintsB	Тюбик художньої фарби	Tube Künstlerfarbe	Tube de peinture	Tubo de pinturas	Тюбик краски	Tubetto di pittura	美术颜料管	絵の具		
 Text.JobBoard.ApplyForJob	ПОДАТИ ЗАЯВКУ	Für Job bewerben	Accepter la mission	Solicitar empleo	Подать заявку на работу	Fai domanda per il lavoro	申请工作	仕事を申し込む		
 Text.JobBoard.CanAccessJob	Робота доступна	Job verfügbar	Mission disponible	Empleo disponible	Место свободно	Lavoro disponibile	可用工作	現在募集中		
-Text.JobBoard.JobAccepted	Ви успішно подали заявку і тепер виконуєте працюєте на цій посаді.	Deine Bewerbung war erfolgreich und du hast nun diesen Job inne.	Ta candidature a été retenue et tu t'occupes désormais de ce travail. »	"Tu solicitud ha sido aceptada, ahora tienes que cumplir con tu papel en este trabajo."	"Ваше заявление принято, вы получили эту работу."	La tua richiesta ha avuto successo e hai ottenuto questo lavoro.	你申请成功， 现在将从事这份工作。 	仕事の申請が受理されました。 今からこの仕事を担当します。		
+Text.JobBoard.JobAccepted	Ви успішно подали заявку і тепер працюєте на цій посаді.	Deine Bewerbung war erfolgreich und du hast nun diesen Job inne.	Ta candidature a été retenue et tu t'occupes désormais de ce travail. »	"Tu solicitud ha sido aceptada, ahora tienes que cumplir con tu papel en este trabajo."	"Ваше заявление принято, вы получили эту работу."	La tua richiesta ha avuto successo e hai ottenuto questo lavoro.	你申请成功， 现在将从事这份工作。 	仕事の申請が受理されました。 今からこの仕事を担当します。		
 Text.JobBoard.JobFilled	Вже працює в’язень $JobEmployee	Job vergeben an $JobEmployee	Boulot occupé par $JobEmployee	Puesto de $JobEmployee	Здесь работает $JobEmployee	Lavoro svolto da $JobEmployee	工作拥有者： $JobEmployee	現在の担当者: $JobEmployee		
 Text.JobBoard.QuitCurrentJobForNew	ЗМІНИТИ РОБОТУ	Job wechseln	Changer de mission	Intercambiar empleo	Сменить работу	Cambia lavoro	换工作	仕事を替える		
 Text.JobBoard.QuitJob	ЗВІЛЬНИТИСЯ	Job kündigen	Quitter la mission	Dejar empleo	Бросить работу	Lascia lavoro	放弃工作	仕事をやめる		
@@ -715,7 +715,7 @@ Text.MapFloorname.Floor_Vent8	Вентиляція 8	Lüftung 8	Bouche 8	Rejilla
 Text.MapFloorname.Floor_Vent9	Вентиляція 9	Lüftung 9	Bouche 9	Rejilla 9	Вент. 9	Condotto 9	通风口9	ダクト9		
 Text.Menu.Apply	ЗАСТОСУВАТИ	ANWENDEN	APPLIQUER	APLICAR	ПРИНЯТЬ	APPLICA	应用	適用		
 Text.Menu.BrowseGames	МЕРЕЖЕВІ СЕАНСИ	SPIELE DURCHSUCHEN	VOIR LES PARTIES	OJEAR PARTIDAS	ПОИСК ИГР	CERCA PARTITA	浏览游戏	ゲームを検索		
-Text.Menu.BuyRecipe	Купити рецепт виготовлення:	Herstellungsanleitung kaufen:	Acheter des recettes de fabrication :	Comprar receta de creación:	Купить рецепт изготовл.:	Compra ricetta di creazione:	购买制作图样： 	工作レシピ：		
+Text.Menu.BuyRecipe	Куплений рецепт виготовлення:	Herstellungsanleitung kaufen:	Acheter des recettes de fabrication :	Comprar receta de creación:	Купить рецепт изготовл.:	Compra ricetta di creazione:	购买制作图样： 	工作レシピ：		
 Text.Menu.Campaign	ГРАТИ	SPIELEN	JOUER	JUGAR	ИГРАТЬ	GIOCA	开始游戏	ゲームをプレイ		
 Text.Menu.Cancel	СКАСУВАТИ	ABBRUCH	ANNULER	CANCELAR	ОТМЕНА	ANNULLA	取消	キャンセル		
 Text.Menu.Collectables	ЗБИРАНИЦЯ	SAMMELOBJEKTE	COLLECTION	COLECCIONABLES	СОБРАННОЕ	COLLEZIONABILI	可收集物	コレクタブル		
@@ -1014,7 +1014,7 @@ Text.RapSheet.Title05	Підпільний злочинець	Untergrundkriminel
 Text.RapSheet.Title06	Засуджений	Sträfling	Taulard	Convicto	Осужденный надолго	Detenuto	服刑囚犯	罪人		
 Text.RapSheet.Title07	Закоренілий рецидивіст	Knastbruder	Récidiviste	Habitual	Сиделец	Galeotto	常年罪犯	受刑者		
 Text.RapSheet.Title08	Серійний злочинець	Serientäter	Repris de justice	Reincidente	Рецидивист	Criminale seriale	惯犯	常習犯		
-Text.RapSheet.Title09	Професійний злочинець	Berufsverbrecher	Criminel de carrière	Profesional	Криминальный профи	Criminale in carriera	职业罪犯	凶悪犯		
+Text.RapSheet.Title09	Професійний лиходій	Berufsverbrecher	Criminel de carrière	Profesional	Криминальный профи	Criminale in carriera	职业罪犯	凶悪犯		
 Text.RapSheet.Title10	Довічне ув’язнення	Lebenslänglicher	Prisonnier à perpétuité	A perpetua	Пожизненное	Ergastolano	无期徒刑犯	終身刑囚		
 Text.RapSheet.Title11	Утікач	Ausbrecher	Évadé	Escapista	Беглец	Latitante	脱逃者	脱獄名人		
 Text.Results.Escaped	Ви втекли!	Du bist ausgebrochen!	Tu t'es échappé !	¡Has escapado!	Вы на свободе!	Sei evaso!	你逃出了监狱！ 	脱獄成功！		
