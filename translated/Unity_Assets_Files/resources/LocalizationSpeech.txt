@@ -1376,9 +1376,9 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.NPC.MedicDismissFromInfirmary	Час виписуватися	"Zeit, zu gehen."	"Allez, on s'en va !"	Hora de irse.	Пришло время проверки	Fammi controllare	下班时间到	退院の時間だ			
 &Text.Inmates.Banter	Потягни за палець	Zieh den Finger.	Tire sur ce doigt.	Tírame del dedo.	Дерни мой палец	Tirami il dito	拉我的手指	この指を引っ張ってみ			
 &Text.Guard.Naked	Одягни щось, $name!	"Zieh dir was an, $name!"	"Trouve-toi des vêtements, $name !"	"¡Ponte algo, $name!"	"Надень на себя что-нибудь, $name!"	"Mettiti dei vestiti, $name!"	$name ， 穿上衣服！ 	服を着ろっての、 $name！			
-&Text.Guard.CharacterKnockedOut	Ціль знешкоджено!!	Ziel erledigt!	Cible abattue !	¡Objetivo abatido!	Цель снята!	Obiettivo a terra!	目标已倒下！ 	対象を制圧！			
+&Text.Guard.CharacterKnockedOut	Ціль знешкоджено!	Ziel erledigt!	Cible abattue !	¡Objetivo abatido!	Цель снята!	Obiettivo a terra!	目标已倒下！ 	対象を制圧！			
 &Text.Inmates.CombatEnded	Ціль знешкоджено	Ziel erledigt.	Cible abattue.	¡Objetivo abatido!	Цель снята	Obiettivo a terra	目标已倒下	ターゲット死亡だ			
-&Text.Guards.CombatEnded	Ціль знищена	Ziel erledigt.	Cible abattue.	¡Objetivo abatido!	Цель снята	Obiettivo a terra	目标已倒下	対象を制圧			
+&Text.Guards.CombatEnded	Ціль знищено	Ziel erledigt.	Cible abattue.	¡Objetivo abatido!	Цель снята	Obiettivo a terra	目标已倒下	対象を制圧			
 &Text.Guard.Heat	Ціль помічено!	Ziel gesichtet!	Cible en vue !	¡Objetivo a la vista!	Цель захвачена!	Obiettivo in vista!	发现目标！ 	対象を発見！			
 &Text.Guard.SpottedWantedCharacter	Ціль помічено!	Ziel gesichtet!	Cible en vue !	¡Objetivo a la vista!	Цель захвачена!	Obiettivo in vista!	发现目标！ 	ターゲットを発見！			
 &Text.Guards.MaxPrisonAlertnessSpotted	ЦІЛЬ ЗНАЙДЕНО	ZIEL GESICHTET.	CIBLE REPÉRÉE.	¡OBJETIVO A LA VISTA!	ЦЕЛЬ ЗАХВАЧЕНА!	OBIETTIVO IN VISTA	发现目标	ターゲットを視認			
