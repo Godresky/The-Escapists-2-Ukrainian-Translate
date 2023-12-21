@@ -50,7 +50,7 @@ Text.Escape.JetSki.Stage3.Succeed
 Text.Escape.JetSki.Stage3.Wrong												
 Text.Escape.JetSki.Stage4.Succeed												
 Text.Escape.JetSki.Sage4.Wrong												
-Text.Escape.JetSki.TooManyPlayers	Нас забагато, щоб поміститися тут…	"Wir sind zu viele, um hier hineinzupassen ..."	On ne tiendra pas tous là-dessus...	Somos demasiados para caber en esto...	"Нас слишком много, мы все не поместимся..."	"Siamo troppi, non ci stiamo..."	空间不够， 挤不了这么多人……	これでは定員オーバーだ… 				
+Text.Escape.JetSki.TooManyPlayers	Нас забагато, щоби поміститися тут…	"Wir sind zu viele, um hier hineinzupassen ..."	On ne tiendra pas tous là-dessus...	Somos demasiados para caber en esto...	"Нас слишком много, мы все не поместимся..."	"Siamo troppi, non ci stiamo..."	空间不够， 挤不了这么多人……	これでは定員オーバーだ… 				
 Text.Escape.JetSki.TooFewPlayers												
 Text.Escape.JetSki.ProximityDialogue												
 Text.Escape.JetSki.Interact	Полагодити гідроцикл 	Jetski reparieren 	Réparer le Jet Ski 	Arreglar moto acuática 	Закрепить гидроцикл 	Ripara Moto d'acqua 	修好摩托艇 	ジェットスキーを修理する				
