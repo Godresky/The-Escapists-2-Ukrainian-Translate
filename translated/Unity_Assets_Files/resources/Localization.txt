@@ -599,7 +599,7 @@ Text.Item.TubeOfArtPaintsB	Тюбик художньої фарби	Tube Künstl
 Text.JobBoard.ApplyForJob	ПОДАТИ ЗАЯВКУ	Für Job bewerben	Accepter la mission	Solicitar empleo	Подать заявку на работу	Fai domanda per il lavoro	申请工作	仕事を申し込む		
 Text.JobBoard.CanAccessJob	Робота доступна	Job verfügbar	Mission disponible	Empleo disponible	Место свободно	Lavoro disponibile	可用工作	現在募集中		
 Text.JobBoard.JobAccepted	Ви успішно подали заявку і тепер працюєте на цій посаді.	Deine Bewerbung war erfolgreich und du hast nun diesen Job inne.	Ta candidature a été retenue et tu t'occupes désormais de ce travail. »	"Tu solicitud ha sido aceptada, ahora tienes que cumplir con tu papel en este trabajo."	"Ваше заявление принято, вы получили эту работу."	La tua richiesta ha avuto successo e hai ottenuto questo lavoro.	你申请成功， 现在将从事这份工作。 	仕事の申請が受理されました。 今からこの仕事を担当します。		
-Text.JobBoard.JobFilled	Вже працює в’язень $JobEmployee	Job vergeben an $JobEmployee	Boulot occupé par $JobEmployee	Puesto de $JobEmployee	Здесь работает $JobEmployee	Lavoro svolto da $JobEmployee	工作拥有者： $JobEmployee	現在の担当者: $JobEmployee		
+Text.JobBoard.JobFilled	Уже працює в’язень $JobEmployee	Job vergeben an $JobEmployee	Boulot occupé par $JobEmployee	Puesto de $JobEmployee	Здесь работает $JobEmployee	Lavoro svolto da $JobEmployee	工作拥有者： $JobEmployee	現在の担当者: $JobEmployee		
 Text.JobBoard.QuitCurrentJobForNew	ЗМІНИТИ РОБОТУ	Job wechseln	Changer de mission	Intercambiar empleo	Сменить работу	Cambia lavoro	换工作	仕事を替える		
 Text.JobBoard.QuitJob	ЗВІЛЬНИТИСЯ	Job kündigen	Quitter la mission	Dejar empleo	Бросить работу	Lascia lavoro	放弃工作	仕事をやめる		
 Text.JobBoard.RequirementNotMet	Вимоги не виконано	Anforderungen nicht erfüllt	Conditions non remplies	No cumples los requisitos	Несоотв. требованиям	Requisiti non soddisfatti	未满足需求	条件を満たしていません		
@@ -757,7 +757,7 @@ Text.Menu.InmateHair	ЗАЧІСКА	HAAR	CHEVEUX	PELO	ВОЛОСЫ	CAPELLI	发�
 Text.Menu.InmateHead	ГОЛОВА	KOPF	TÊTE	CABEZA	ГОЛОВА	TESTA	头部	頭		
 Text.Menu.InmateInfo	ВІДОМОСТІ	INFO	INFOS	INFO.	ИНФ.	INFO	信息	情報		
 Text.Menu.InmateInfoTitle	ПРОФІЛЬ	PROFIL	PROFIL	PERFIL	ПРОФИЛЬ	PROFILO	档案	プロフィール		
-Text.Menu.InmateSelection	ОБЕРИ СВОГО ПЕРСОНАЖА	WÄHLE DEINEN CHARAKTER	CHOIX DU PERSONNAGE	ELIGE TU PERSONAJE	ВЫБЕРИТЕ ПЕРСОНАЖА	SCEGLI IL TUO PERSONAGGIO	选择你的角色	キャラを選択		
+Text.Menu.InmateSelection	ОБЕРІТЬ СВОГО ПЕРСОНАЖА	WÄHLE DEINEN CHARAKTER	CHOIX DU PERSONNAGE	ELIGE TU PERSONAJE	ВЫБЕРИТЕ ПЕРСОНАЖА	SCEGLI IL TUO PERSONAGGIO	选择你的角色	キャラを選択		
 Text.Menu.Join	ПРИЄДНАТИСЯ	BEITRETEN	REJOINDRE	UNIRSE	ПРИСОЕД.	ENTRA	加入	参加		
 Text.Menu.JournalTitle	ЩОДЕННИК	TAGEBUCH	JOURNAL	DIARIO	ЖУРНАЛ	DIARIO	日志	日記		
 Text.Menu.Leaderboards	ТАБЛИЦЯ ЛІДЕРІВ	BESTENLISTEN	CLASSEMENT	MARCADORES	ТАБЛИЦЫ ЛИДЕРОВ	CLASSIFICHE	排行榜	ランキング		
