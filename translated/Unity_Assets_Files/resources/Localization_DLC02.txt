@@ -128,8 +128,8 @@ HUD.Tutorial.Job.TrickOrTreatTextC	Віддайте зроблені пакун�
 &Text.JobName.TrickOrTreat.Positive	О-о-о, так!	Oooh ja!	"Oooh, ouais !"	¡Ohhhhh sí!	О-о-о да!	"Ohhh, sì!"	哦——耶！ 	うーん、サイコー！
 								
 &Text.JobName.TrickOrTreat.Negative	Що за…	Was zum ...	Qu'est-ce que...	¿¡Qué dem...!?	Что за...	Ma che...	什么…… 	なんなのぉ…
-&Text.JobName.TrickOrTreat.Negative	Це. Бридко!	Das. Ist widerlich!	C'est... Dégoûtant !	Eso. ¡Es asqueroso!	Это. Отвратительно!	È disgustoso!	这东西。 真恶心！ 	うげぇ、キモい！
-&Text.JobName.TrickOrTreat.Negative	Це є…. ФУ-У-У-У!	Ist das ein …. IIIIIIIEEHH!	C'est un... BEEEUUURRRK !	¿Es una...? ¡AAARRGHHH!	Это... ФУУУУУ!	Ma è... BLEEEEAHH!	那东西是不是…… 呃——！ 	これって…うえぇぇぇ！
+&Text.JobName.TrickOrTreat.Negative	Це. Це бридко!	Das. Ist widerlich!	C'est... Dégoûtant !	Eso. ¡Es asqueroso!	Это. Отвратительно!	È disgustoso!	这东西。 真恶心！ 	うげぇ、キモい！
+&Text.JobName.TrickOrTreat.Negative	Це є… ФУ-У-У-У!	Ist das ein …. IIIIIIIEEHH!	C'est un... BEEEUUURRRK !	¿Es una...? ¡AAARRGHHH!	Это... ФУУУУУ!	Ma è... BLEEEEAHH!	那东西是不是…… 呃——！ 	これって…うえぇぇぇ！
 								
 &Text.Customer.WaitingForService	Ем… Добридень?	Äh ... hallo?	Euh... Salut ?	¿Ho-hola?	Эм... Здравствуйте?	Ehm... ehilà?	呃…… 打扰了？ 	ええと…もしもし？
 &Text.Customer.WaitingForService	Ласощі чи капощі?	Süßes oder Saures?	Des bonbons ou un sort ?	¡Truco o trato!	Сладость или гадость?	Dolcetto o scherzetto?	不给糖就捣蛋？ 	トリック・オア・トリート？
@@ -137,7 +137,7 @@ HUD.Tutorial.Job.TrickOrTreatTextC	Віддайте зроблені пакун�
 								
 &Text.Inmate.ServicingCustomersJob	Тримай!	Nimm das!	Prends ça !	¡Toma esto!	Получай!	Prendi questo!	拿好了！ 	おら持ってけ！
 &Text.Inmate.ServicingCustomersJob	Геть звідси!	Geh weg!	Du balai !	¡Vete!	Проваливай!	Via da qui!	快走开！ 	あっちへ行け！
-&Text.Inmate.ServicingCustomersJob	Невдячна мала…	Sowas Undankbares ...	Quelle ingratitude...	De lo más desagradecido...	Ах ты неблагодарный...	Ingrati teste di cavolo...	一群不知好歹的东西…… 	恩知らずどもめ…
+&Text.Inmate.ServicingCustomersJob	Невдячне мале…	Sowas Undankbares ...	Quelle ingratitude...	De lo más desagradecido...	Ах ты неблагодарный...	Ingrati teste di cavolo...	一群不知好歹的东西…… 	恩知らずどもめ…
 								
 								
 Text.Presence.InGamePrison14	Пробує не злякатися у «Проклята варта»! День %DAY%	"Versucht, im Wicked Ward keine Angst zu haben! Tag %DAY%"	Essaie de ne pas avoir peur dans Wicked Ward ! Jour %DAY%	¡Intenta no asustarte en el Wicked Ward! Día %DAY%	Пытаюсь не напугаться до смерти в Wicked Ward! День %DAY%	Cercando di non spaventarsi a Wicked Ward! Giorno %DAY%	正被关在Wicked Ward里头， 尽量别吓破了胆哦！ Day %DAY% 	「呪われた病棟」で恐怖に耐えている！ %DAY% 日目

@@ -123,7 +123,7 @@ Text.CutleryTray	Таця для приладдя	Besteckkasten	Plateau de couve
 &Text.Inmates.JobChat	Маю бути зайнятим	Brauch was zu tun.	Faut s'occuper.	Hay que estar ocupado.	Надо что-то делать	Devo tenermi occupato	不能偷懒	忙しくしていたい			
 &Text.ChatToGuard	Треба щось?	Brauchst du was?	Tu cherches quoi ?	¿Necesitas algo?	Тебе что-то надо?	Hai bisogno di qualcosa?	你有何需要？	なにか用か？			
 &Text.Inmates.Ignore	Тікаєш звідси?	Brichst du aus?	On s'échappe ?	¿Huyendo?	Это побег?	Scappare?	逃出去吗？	脱獄か？			
-&Text.Inmates.Gym	ROAR	BRÜLL	GRRRR	RUGIDO	РЕВ	ROAR	吼	うらあぁぁっ！			
+&Text.Inmates.Gym	*Реве*	BRÜLL	GRRRR	RUGIDO	РЕВ	ROAR	吼	うらあぁぁっ！			
 &Text.Guards.LockdownStart	БУМ! ЦЕ ЗАМИКАННЯ!	BUMM! DAS IST EINE VERRIEGELUNG!	BOUM ! ÉTAT D'URGENCE !	¡PUM! ¡ESTO ES UN BLOQUEO!	БУМ! ЭТО ИЗОЛЯЦИЯ!	BOOM! SIAMO IN LOCKDOWN!	轰！ 封锁开始了！ 	キター！施設封鎖だぁぁ！			
 &Text.NPC.Maintenance	Керівник пишався би	Chef wär begeistert.	Mon vieux serait fier.	El jefe estaría orgulloso.	Начальник будет доволен	Il capo sarà fiero di me	领班会感到自豪的	爺さんも誇らしいだろ			
 &Text.GuardAlert.DisguiseCaught	А ОСЬ ти де!	DA bist du!	TE voilà !	¡AQUÍ estás!	Вот так сюрприз!	ECCOTI qui!	发现你了！ 	見つけたぞ！			
@@ -1405,7 +1405,7 @@ Text.Engineer.EquipItem	Мені потрібні лютівник та захи
 &Text.NPC.JobstaffGreeting	Відбулися цікаві події	Hat sich was Interessantes getan?	Voilà un développement intéressant.	Hay interesantes progresos.	Ходят интересные слухи	Ci sono sviluppi interessanti	事情变得有趣了	面白いことになった			
 &Text.NPC.JobstaffGreeting	Вгадай що…	Rate mal ...	Devine quoi...	¿Adivinar qué?	Не угадаешь...	Indovina...	你猜发生了什么……	実はだ…			
 &Text.NPC.JobstaffGreeting	Як життя?	Wie läuft’s?	Comment ça va ?	¿Cómo va?	Как дела?	Come va?	你好吗？	調子はどうだね？			
-&Text.NPC.JobstaffGreeting	"Ооо, вітаю, незнайомцю!"	"Oh, hallo, Fremder!"	"Salut, toi !"	"¡Oh, hola!"	"Привет, незнакомец!"	"Oh, salve!"	你好， 陌生人！ 	どうも、 新顔さん！			
+&Text.NPC.JobstaffGreeting	"О-о-о, вітаю, незнайомцю!"	"Oh, hallo, Fremder!"	"Salut, toi !"	"¡Oh, hola!"	"Привет, незнакомец!"	"Oh, salve!"	你好， 陌生人！ 	どうも、 新顔さん！			
 											
 											
 &Text.NPC.JobstaffBanter	Що-ж, се ніяково	Das ist jetzt peinlich.	"Hum, c'est gênant."	Esto es algo incómodo.	Это странно	"Beh, è imbarazzante"	好尴尬	おっと気まずい			
