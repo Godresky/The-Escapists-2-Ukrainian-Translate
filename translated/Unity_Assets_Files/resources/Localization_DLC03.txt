@@ -1,6 +1,6 @@
 Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese
 								
-Text.Item.ChristmasList	Різдвяний список	Weihnachtsliste	Liste de Noël	Lista de Navidad	Список подарков Рождество	Lista di Natale	圣诞节清单	クリスマスリスト
+Text.Item.ChristmasList	Список бажаного	Weihnachtsliste	Liste de Noël	Lista de Navidad	Список подарков Рождество	Lista di Natale	圣诞节清单	クリスマスリスト
 Text.Item.PantomimeScript	Сценарій пантоміми	Skript des Weihnachtsspiels	Script du spectacle de Noël	Guión de la obra	Сценарий пантомимы	Copione della recita	舞剧剧本	劇の脚本
 Text.Item.JarOfMince	Банка з фаршем	Glas mit Zutaten für Mince Pie	Bocal de fruits secs	Bote de carne picada	Начинка для пирога	Vasetto di macinato	一罐肉馅	ミンスミート
 Text.Item.WoodenSoldier	Дерев’яний солдатик	Holzsoldat	Soldat en bois	Soldado de madera	Деревянный солдат	Soldatino di legno	木头士兵	木の兵隊
@@ -129,16 +129,16 @@ Text.IntroCutscene.J	Наразі наш начальник кличе його 
 Text.IntroCutscene.K	"«Глядовище»"	„Das Theater“	« Le théâtre ».	"""El teatro"""	Театром.	“Il Teatro”	‘剧院’	“劇場”となっている
 Text.IntroCutscene.L	Начальник у цю пору року вельми сповнений ентузіазмом…	Der Wächter freut sich sehr auf diese Jahreszeit …	Le directeur est toujours surexcité à cette période de l'année...	Al alcaide le entusiasma esta época del año...	Надзиратель обожает это время года...	Il Direttore è davvero entusiasta di questo periodo dell’anno...	典狱长非常热衷于每年的这个时候……	所長はこの時期、異様に盛り上がるお方でね…
 Text.IntroCutscene.M	Ми навіть залучили якогось постановника, аби провести це	Wir haben sogar irgendeinen Theaterproduzenten für dieses Stück angeheuert	Nous avons même engagé un producteur de théâtre pour tout organiser.	Incluso tenemos a un productor de teatro para dirigirlo todo	"Мы даже наняли какого-то театрального продюсера, чтобы он тут всем заправлял"	Abbiamo perfino fatto entrare un produttore teatrale per fargli gestire il tutto	我们甚至找来了一个戏剧作家来负责这件事	わざわざ演出家まで雇って、劇を行うという熱の入れようだ
-Text.IntroCutscene.N	Written some lame story about a talking horse	Er hat irgendeine langweilige Geschichte über ein sprechendes Pferd geschrieben	Et écrit une histoire idiote à propos d'un cheval qui parle.	Han escrito una historia patética sobre un caballo	И написали какую-то дурацкую историю про говорящую лошадь	Ha scritto una storia patetica su un cavallo parlante	写了一篇无聊的故事，主角是一匹会说话的马	しゃべる馬が主役の三流芝居らしいが
-Text.IntroCutscene.O	THINK! Like the audience…	DENKE! Wie das Publikum …	IL FAUT PENSER ! comme le public...	¡PIENSA! Como la audiencia...	ДУМАЙ! Как зрители...	PENSA! Come il pubblico...	思考！代入观众的想法……	考えろっ！観客のように…
-Text.IntroCutscene.P	BECOME THE AUDIENCE	WERDE ZUM PUBLIKUM	DEVENIR LE PUBLIC !	SÉ LA AUDIENCIA	СТАНЬ ЗРИТЕЛЯМИ	DIVENTA IL PUBBLICO	成为观众	観客になったつもりでっ！
-Text.IntroCutscene.Q	This is the Warden's office… 	Das ist das Wächterbüro … 	Voici le bureau du directeur… 	Esta es la oficina del alcaide… 	Это офис надзирателя... 	Questa è la Direzione... 	这就是典狱长办公室…… 	ここが所長室だ…
-Text.IntroCutscene.R	Got himself a right nice cushy little lounge	Er hat sich seine nette Kuschelecke eingerichtet	Il a un joli petit nid douillet.	Se ha hecho un salón muy acogedor	Он устроил себе славный маленький уголок...	Il Direttore si è procurato proprio una bella saletta comoda	他给自己搞了一个很棒很舒服的小休息室	中には実に快適なリビングがある
-Text.IntroCutscene.S	My Christmas list is finally finished! 	Meine Weihnachtsliste ist endlich fertig! 	Ma liste de Noël est presque terminée ! 	¡He acabado mi lista de Navidad! 	Мой список подарков Рождество наконец-то закончен! 	Finalmente la mia lista di Natale è finita! 	我的圣诞节清单终于完成了！ 	ついにクリスマスの“欲しいものリスト”が完成したぞ！
-Text.IntroCutscene.T	Outside we ha…	Draußen ist …	"À l'extérieur, nous av..."	Fuera tení...	А снаружи у на...	E qua fuori abbia...	在外面我们有……	屋外には…ハ…ハ…
-Text.IntroCutscene.U	*BZZZZT*	*BZZZZT*	*BZZZZT*	*BZZZZ*	*БЗЗЗЗЗТ*	*BZZZZZ*	*铃铃铃铃铃*	ハックション！
-Text.IntroCutscene.V	"Well look at that, I can finally go home…"	Na sieh an. Ich kann endlich nach Hause …	"Eh bien, je peux enfin rentrer chez moi..."	"Vaya, vaya. Ya me puedo ir a casa..."	"Вы только посмотрите, я наконец-то могу отправиться домой..."	"Ma guarda un po’, finalmente posso andare a casa..."	瞧啊，我终于能回家了……	こりゃカゼだな。 やっと家に帰れる…
-Text.IntroCutscene.w	Er… hello?	Äh … hallo?	Euh... Il y a quelqu'un ?	Eh... ¿diga?	Эм... эй?	Ehm... ehilà?	呃……你好？	ええと…もしも～し？
+Text.IntroCutscene.N	Написали якусь недолугу історію про коня, що розмовляє	Er hat irgendeine langweilige Geschichte über ein sprechendes Pferd geschrieben	Et écrit une histoire idiote à propos d'un cheval qui parle.	Han escrito una historia patética sobre un caballo	И написали какую-то дурацкую историю про говорящую лошадь	Ha scritto una storia patetica su un cavallo parlante	写了一篇无聊的故事，主角是一匹会说话的马	しゃべる馬が主役の三流芝居らしいが
+Text.IntroCutscene.O	ДУМАЙ! Неначе глядач…	DENKE! Wie das Publikum …	IL FAUT PENSER ! comme le public...	¡PIENSA! Como la audiencia...	ДУМАЙ! Как зрители...	PENSA! Come il pubblico...	思考！代入观众的想法……	考えろっ！観客のように…
+Text.IntroCutscene.P	СТАНЬ ГЛЯДАЧЕМ	WERDE ZUM PUBLIKUM	DEVENIR LE PUBLIC !	SÉ LA AUDIENCIA	СТАНЬ ЗРИТЕЛЯМИ	DIVENTA IL PUBBLICO	成为观众	観客になったつもりでっ！
+Text.IntroCutscene.Q	А це офіс начальника… 	Das ist das Wächterbüro … 	Voici le bureau du directeur… 	Esta es la oficina del alcaide… 	Это офис надзирателя... 	Questa è la Direzione... 	这就是典狱长办公室…… 	ここが所長室だ…
+Text.IntroCutscene.R	У нього є гарненька затишна кімнатка для відпочинку	Er hat sich seine nette Kuschelecke eingerichtet	Il a un joli petit nid douillet.	Se ha hecho un salón muy acogedor	Он устроил себе славный маленький уголок...	Il Direttore si è procurato proprio una bella saletta comoda	他给自己搞了一个很棒很舒服的小休息室	中には実に快適なリビングがある
+Text.IntroCutscene.S	Мій список бажаного нарешті закінчено! 	Meine Weihnachtsliste ist endlich fertig! 	Ma liste de Noël est presque terminée ! 	¡He acabado mi lista de Navidad! 	Мой список подарков Рождество наконец-то закончен! 	Finalmente la mia lista di Natale è finita! 	我的圣诞节清单终于完成了！ 	ついにクリスマスの“欲しいものリスト”が完成したぞ！
+Text.IntroCutscene.T	Назовні у нас…	Draußen ist …	"À l'extérieur, nous av..."	Fuera tení...	А снаружи у на...	E qua fuori abbia...	在外面我们有……	屋外には…ハ…ハ…
+Text.IntroCutscene.U	*БЗ-З-З-*	*BZZZZT*	*BZZZZT*	*BZZZZ*	*БЗЗЗЗЗТ*	*BZZZZZ*	*铃铃铃铃铃*	ハックション！
+Text.IntroCutscene.V	"Тільки поглянь, я нарешті можу піти додому…"	Na sieh an. Ich kann endlich nach Hause …	"Eh bien, je peux enfin rentrer chez moi..."	"Vaya, vaya. Ya me puedo ir a casa..."	"Вы только посмотрите, я наконец-то могу отправиться домой..."	"Ma guarda un po’, finalmente posso andare a casa..."	瞧啊，我终于能回家了……	こりゃカゼだな。 やっと家に帰れる…
+Text.IntroCutscene.w	Ем… агов?	Äh … hallo?	Euh... Il y a quelqu'un ?	Eh... ¿diga?	Эм... эй?	Ehm... ehilà?	呃……你好？	ええと…もしも～し？
 								
 Text.GenericCutscene.A	They can't have got far!	Sie können nicht weit gekommen sein!	Ils n'ont pas pu aller bien loin !	¡No pueden estar lejos!	Они не могли далеко уйти!	Non possono essere lontani!	他们不可能跑远的！	まだ近くにいるはずだ～！
 Text.GenericCutscene.B	Hehehe…	Hehehe …	Héhéhé…	"Je, je, je..."	Хе-хе-хе...	Eheheh...	呵呵呵……	しめしめ…
