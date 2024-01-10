@@ -136,7 +136,7 @@ Text.IntroCutscene.Q	А це офіс начальника… 	Das ist das Wäch
 Text.IntroCutscene.R	У нього є гарненька затишна кімнатка для відпочинку	Er hat sich seine nette Kuschelecke eingerichtet	Il a un joli petit nid douillet.	Se ha hecho un salón muy acogedor	Он устроил себе славный маленький уголок...	Il Direttore si è procurato proprio una bella saletta comoda	他给自己搞了一个很棒很舒服的小休息室	中には実に快適なリビングがある
 Text.IntroCutscene.S	Мій список бажаного нарешті закінчено! 	Meine Weihnachtsliste ist endlich fertig! 	Ma liste de Noël est presque terminée ! 	¡He acabado mi lista de Navidad! 	Мой список подарков Рождество наконец-то закончен! 	Finalmente la mia lista di Natale è finita! 	我的圣诞节清单终于完成了！ 	ついにクリスマスの“欲しいものリスト”が完成したぞ！
 Text.IntroCutscene.T	Назовні у нас…	Draußen ist …	"À l'extérieur, nous av..."	Fuera tení...	А снаружи у на...	E qua fuori abbia...	在外面我们有……	屋外には…ハ…ハ…
-Text.IntroCutscene.U	*БЗ-З-З-*	*BZZZZT*	*BZZZZT*	*BZZZZ*	*БЗЗЗЗЗТ*	*BZZZZZ*	*铃铃铃铃铃*	ハックション！
+Text.IntroCutscene.U	*БЗ-З-З-З*	*BZZZZT*	*BZZZZT*	*BZZZZ*	*БЗЗЗЗЗТ*	*BZZZZZ*	*铃铃铃铃铃*	ハックション！
 Text.IntroCutscene.V	"Тільки поглянь, я нарешті можу піти додому…"	Na sieh an. Ich kann endlich nach Hause …	"Eh bien, je peux enfin rentrer chez moi..."	"Vaya, vaya. Ya me puedo ir a casa..."	"Вы только посмотрите, я наконец-то могу отправиться домой..."	"Ma guarda un po’, finalmente posso andare a casa..."	瞧啊，我终于能回家了……	こりゃカゼだな。 やっと家に帰れる…
 Text.IntroCutscene.w	Ем… агов?	Äh … hallo?	Euh... Il y a quelqu'un ?	Eh... ¿diga?	Эм... эй?	Ehm... ehilà?	呃……你好？	ええと…もしも～し？
 								
