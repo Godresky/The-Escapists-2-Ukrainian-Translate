@@ -721,7 +721,7 @@ Text.Menu.Cancel	СКАСУВАТИ	ABBRUCH	ANNULER	CANCELAR	ОТМЕНА	ANNULL
 Text.Menu.Collectables	ЗБИРАНИЦЯ	SAMMELOBJEKTE	COLLECTION	COLECCIONABLES	СОБРАННОЕ	COLLEZIONABILI	可收集物	コレクタブル		
 Text.Menu.Confirm	ПІДТВЕРДИТИ	BESTÄTIGEN	CONFIRMER	CONFIRMAR	ПОДТВЕР.	CONFERMA	确认	決定		
 Text.Menu.Continue	ПРОДОВЖИТИ	FORTFAHREN	CONTINUER	CONTINUAR	ПРОДОЛЖИТЬ	CONTINUA	继续	続ける		
-Text.Menu.CoopGoal	Втечіть з в’язниці самотужки або з іншими гравцями!	Entkomme allein oder mit anderen Spielern!	Évadez-vous seul ou avec d'autres joueurs !	¡Escapa de la prisión solo o con otros jugadores!	Сбегайте в одиночку или с другими игроками!	Evadi di prigione da solo o con altri giocatori!	独自一人或与其他玩家一起越狱！ 	単独で、あるいは仲間と一緒に 脱獄しよう！ 		
+Text.Menu.CoopGoal	Утечіть із в’язниці самотужки або з іншими гравцями!	Entkomme allein oder mit anderen Spielern!	Évadez-vous seul ou avec d'autres joueurs !	¡Escapa de la prisión solo o con otros jugadores!	Сбегайте в одиночку или с другими игроками!	Evadi di prigione da solo o con altri giocatori!	独自一人或与其他玩家一起越狱！ 	単独で、あるいは仲間と一緒に 脱獄しよう！ 		
 Text.Menu.CraftingTitle	МАЙСТРУВАННЯ	FERTIGEN	FABRIQUER	CREACIÓN	МАСТЕРИТЬ	CREAZIONE	制作	工作		
 Text.Menu.Credits	ТВОРЦІ	MITWIRKENDE	CRÉDITS	CRÉDITOS	СОЗДАТЕЛИ ИГРЫ	CREDITI	制作人员	クレジット		
 Text.Menu.CriminalRecord	СПРАВА ЗЛОЧИНЦЯ	STRAFREGISTER	CASIER JUDICIAIRE	HISTORIAL DELICTIVO	СУДИМОСТИ	FEDINA PENALE	犯罪记录	犯罪歴		

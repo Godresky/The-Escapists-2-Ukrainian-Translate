@@ -3,7 +3,7 @@ Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese
 OVERRIDE=DLC04								
 								
 								
-&Text.Guards.RollCallStart	Roll up! Roll up!	Tretet näher! Tretet näher!	Approchez ! Approchez !	¡Pasen y vean!	Послушайте! Послушайте!	Accorrete! Accorrete!	快来！ 快来！ 	寄ってらっしゃい、 見てらっしゃい！  
+&Text.Guards.RollCallStart	Алярм! Алярм!	Tretet näher! Tretet näher!	Approchez ! Approchez !	¡Pasen y vean!	Послушайте! Послушайте!	Accorrete! Accorrete!	快来！ 快来！ 	寄ってらっしゃい、 見てらっしゃい！  
 &Text.Guards.RollCallStart	Smile like you mean it!	"Lächelt, so echt ihr könnt!"	Je veux voir des sourires !	¡Sonreíd de verdad!	Улыбайтесь естественнее!	Sorridete come se foste contenti!	会心一笑！ 	心から笑えっての！  
 &Text.Guards.RollCallStart	"Much like our last audience, I am not amused…"	"Fast genau wie unser letztes Publikum, das gefällt mir nicht …"	"Tout comme le public précédent, je ne trouve pas ça drôle..."	"Como nuestra última audiencia, no estoy impresionado..."	"Мне скучно, как и зрителям на прошлом выступлении…"	"Proprio come il pubblico dell’ultima volta, io non mi diverto..."	很像我们上一个观众， 我笑不出来……	こないだの客みたいに面白くない… 
 &Text.Guards.RollCallStart	What a sorry looking bunch	Was für ein armseliger Haufen	Quel ramassis de bons à rien.	Vaya patético grupito	Что за жалкое сборище!	Che banda pietosa!	多可怜兮兮的一群	どいつもシケた顔しやがって… 
