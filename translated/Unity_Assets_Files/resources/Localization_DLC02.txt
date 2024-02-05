@@ -120,8 +120,8 @@ HUD.Interact.Job.TrickOrTreat.StepA	Інґредієнти для пакункі
 HUD.Interact.Job.Experiment.TrickOrTreatB	Прошак ласощів	„Süßes oder Saures“-Spieler	Chasseur de bonbons	Niño haciendo «truco o trato»	Охотник за конфетами	Persona travestita da Halloween	讨要糖果的人	トリック・オア・トリーター
 								
 HUD.Tutorial.Job.TrickOrTreatTextA	Візміть інґредієнти з коробки.	Nimm Zutaten aus dem Container.	Prenez des ingrédients dans la caisse.	Coge los ingredientes del contenedor.	Возьмите ингредиенты из контейнера.	Prendi gli ingredienti dal contenitore.	从箱子里拿取原料。 	コンテナから材料を取り出す。 
-HUD.Tutorial.Job.TrickOrTreatTextB	Змайструєте пакунки з ласощами або з пакощами.	Stelle entweder eine Tüte mit Süßem oder eine Tüte mit Saurem her.	Fabriquez un sac à malices ou un sac à bonbons.	Haz una bolsa de caramelos o una bolsa para trucos.	"Изготовьте либо мешок со сладостями, либо мешок с гадостями."	Crea una Sacca di dolcetti o una Sacca di scherzetti	制作一个捣蛋袋， 或是一个糖果袋。 	「おかし袋」か「いたずら袋」を作成する。 
-HUD.Tutorial.Job.TrickOrTreatTextC	Віддайте зроблені пакунки прошакам ласощів.	Gib dem „Süßes oder Saures“-Spieler die Tüte.	Donnez le sac fabriqué au chasseur de bonbons.	Da la bolsa que has hecho a quien te pida «truco o trato».	Дайте изготовленный мешок охотнику за конфетами.	Dai la sacca alla persona travestita.	把做好的袋子交给讨要糖果的人。 	作成した袋をトリック・オア・トリーターに与える。 
+HUD.Tutorial.Job.TrickOrTreatTextB	Зробіть пакунки з ласощами або з пакощами.	Stelle entweder eine Tüte mit Süßem oder eine Tüte mit Saurem her.	Fabriquez un sac à malices ou un sac à bonbons.	Haz una bolsa de caramelos o una bolsa para trucos.	"Изготовьте либо мешок со сладостями, либо мешок с гадостями."	Crea una Sacca di dolcetti o una Sacca di scherzetti	制作一个捣蛋袋， 或是一个糖果袋。 	「おかし袋」か「いたずら袋」を作成する。 
+HUD.Tutorial.Job.TrickOrTreatTextC	Віддайте приготовані пакунки прошакам ласощів.	Gib dem „Süßes oder Saures“-Spieler die Tüte.	Donnez le sac fabriqué au chasseur de bonbons.	Da la bolsa que has hecho a quien te pida «truco o trato».	Дайте изготовленный мешок охотнику за конфетами.	Dai la sacca alla persona travestita.	把做好的袋子交给讨要糖果的人。 	作成した袋をトリック・オア・トリーターに与える。 
 								
 &Text.JobName.TrickOrTreat.Positive	Ой, приємно! 	"Oh, super! "	"Oh, super ! "	¡Genial! 	"О, классно! "	Adorabile! 	好甜啊！ 	わあ、甘い！
 &Text.JobName.TrickOrTreat.Positive	Смакота! Дякую!	Lecker! Danke!	Délicieux ! Merci !	¡Delicioso! ¡Gracias!	Вкуснятина! Спасибо!	Delizioso! Grazie!	真好吃！ 谢谢你！ 	おいしい、ありがとう！
@@ -239,7 +239,7 @@ Text.Frontend.DLC02.Upsell	"Божевільний вчений і його зг
 Text.DLC02.Guard.Prefix	Зомбі-наглядач	Zombie-Wachmann	Gardien zombie	Oficial zombi	Надзиратель-зомби	Agente zombie	僵尸狱警	ゾンビ看守
 Text.DLC02.Warden.Prefix	Професор	Professor	Professeur	Profesor	Профессор	Professore	教授	教授
 								
-Text.Player.EmptyContainer	Коробка пуста!	Der Container ist leer!	La caisse est vide !	¡El contenedor está vacío!	Контейнер пуст!	Il contenitore è vuoto!	这个箱子是空的！ 	コンテナが空だ！
+Text.Player.EmptyContainer	Тут пусто!	Der Container ist leer!	La caisse est vide !	¡El contenedor está vacío!	Контейнер пуст!	Il contenitore è vuoto!	这个箱子是空的！ 	コンテナが空だ！
 								
 Text.Prison.DLC02	Проклята варта	Wicked Ward	Wicked Ward	Wicked Ward	Wicked Ward	Wicked Ward	Wicked Ward	呪われた病棟
 								
