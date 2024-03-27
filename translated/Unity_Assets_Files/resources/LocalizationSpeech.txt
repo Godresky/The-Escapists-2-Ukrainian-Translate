@@ -854,7 +854,7 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Inmates.Banter	Ощасливив мене! Принеси мені сонечко!	Mach mich froh! Gib mir Sonnenschein!	Fais-moi plaisir ! Apporte-moi du soleil !	¡Hazme feliz! ¡Tráeme el sol!	Сделай меня счастливым! Подари мне восход!	Fammi felice! Portami il sole!	让我开心开心！ 给我带来阳光！ 	幸福を授けよ！光を授けよ！			
 &Text.NPC.JobstaffRandom	Виконуйте роботу, якою можна пишатися!	"Mach nen Job, der dich stolz macht!"	Trouve un travail gratifiant !	¡Trabaja en algo enorgullecedor!	"Делайте работу, которой можно гордиться!"	Fate un lavoro di cui andare fieri!	干自己引以为傲的工作！ 	自分が誇れる仕事をするんだ！			
 &Text.Guards.Gym	Зробіть якнайліпше	Mach was draus.	Donnez tout.	Que valga la pena.	Выложись по полной	Fatevi valere	别浪费了	一歩一歩だ			
-&Text.Inmates.PlayerRep1	Нужбо	Mach weiter.	Remue-toi.	Pírate.	Продолжай	Va’ via	满帆前进	立ち止まるな			
+&Text.Inmates.PlayerRep1	Ну ж бо	Mach weiter.	Remue-toi.	Pírate.	Продолжай	Va’ via	满帆前进	立ち止まるな			
 &Text.NPC.MedicDismissFromSolitary	Влаштовуйся зручніше!	Mach’s dir bequem!	Après toi !	¡Arrópate!	Подкрепись-ка!	"Dentro, forza!"	进去吧你！ 	少し寝とけ！			
 &Text.Inmates.Showers	Протри мою спинку, будь ласка!	Machst du mir den Rücken?	Tu me frottes le dos ?	¿Me frotas la espalda?	Потри мне спинку!	Mi lavi la schiena?	把我擦擦背好吗！ 	背中を流してくれ！			
 &Text.ChatToGuard	Ти щось задумав?	Machst du Stress?	Tu prépares quelque chose ?	¿Vas a empezar algo?	Ты что-то замышляешь?	Vuoi iniziare qualcosa?	你想搞事情？	何かおっ始める気か？			
