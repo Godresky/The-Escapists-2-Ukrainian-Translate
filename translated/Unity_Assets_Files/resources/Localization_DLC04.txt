@@ -1,21 +1,21 @@
 Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese
 								
-Text.Item.Balloon	Balloon	Ballon	Ballon	Globo	Воздушный шарик	Palloncino	气球	風船
-Text.Item.BowTie	Bow Tie	Fliege	Nœud papillon	Pajarita	Галстук-бабочка	Papillon	领结	蝶ネクタイ
-Text.Item.Horn	Horn	Horn	Corne	Bocina	Рог	Corno	喇叭	ぱふぱふラッパ
-Text.Item.ChatteringTeeth	Chattering Teeth	Klappernde Zähne	Dents claquantes	Dientes castañeantes	Прыгающие зубы	Dentiera	打颤牙齿	カチカチ歯
-Text.Item.RubberChicken	Rubber Chicken	Gummihuhn	Poulet en plastique	Pollo de goma	Резиновая курица	Pollo di gomma	橡皮鸡	ゴムチキン
-Text.Item.FacePaints	Face Paints	Gesichtsfarben	Maquillage	Pintura facial	Грим	Pitture per il viso	脸部涂料	フェイスペイント
-Text.Item.Steak	Steak	Steak	Steak	Filete	Стейк	Bistecca	肉排	ステーキ
-Text.Item.CircusPoster	Circus Poster	Zirkusposter	Affiche de cirque	Póster circense	Цирковая афиша	Manifesto del circo	马戏团海报	サーカスのポスター
-Text.Item.SquirtyFlower	Squirty Flower	Spritzblume	Fleur à eau	Flor de agua	Брызгающийся цветок	Fiore che spruzza	喷射花	花水鉄砲
-Text.Item.CanOfCustard	Can of Custard	Eiercremedose	Boîte de crème	Lata de crema	Банка заварного крема	Barattolo di crema	一罐蛋奶	カスタード缶
-Text.Item.Coconut	Coconut	Kokosnuss	Noix de coco	Coco	Кокос	Cocco	椰子	ココナッツ
-Text.Item.Spring	Spring	Feder	Ressort	Muelle	Пружина	Molla	弹簧	バネ
-Text.Item.Keys	Enclosure Keys	Gehegeschlüssel	Clés de l'enclos	Llaves de recinto	Ключи от вольеров	Chiavi del recinto	围场钥匙	檻のカギ
-Text.Item.SuperRubberChicken	Super Rubber Chicken	Supergummihuhn	Gros poulet en plastique	Superpollo de goma	Суперрезиновая курица	Super pollo di gomma	超级橡胶鸡	スーパーゴムチキン
-Text.Item.BalloonAnimal	Balloon Animal	Ballontier	Animal en ballons	Animal de globos	Животное из шарика	Palloncino a forma di animale	气球动物	バルーンアニマル
-Text.Item.WindUpMouse	Wind-Up Mouse	Aufziehmaus	Souris mécanique	Ratón de cuerda	Заводная мышь	Topo a manovella	发条老鼠	ぜんまいネズミ
+Text.Item.Balloon	Кулька	Ballon	Ballon	Globo	Воздушный шарик	Palloncino	气球	風船
+Text.Item.BowTie	Краватка-метелик	Fliege	Nœud papillon	Pajarita	Галстук-бабочка	Papillon	领结	蝶ネクタイ
+Text.Item.Horn	Клаксон	Horn	Corne	Bocina	Рог	Corno	喇叭	ぱふぱふラッパ
+Text.Item.ChatteringTeeth	Стукітливі зубки	Klappernde Zähne	Dents claquantes	Dientes castañeantes	Прыгающие зубы	Dentiera	打颤牙齿	カチカチ歯
+Text.Item.RubberChicken	Ґумова курка	Gummihuhn	Poulet en plastique	Pollo de goma	Резиновая курица	Pollo di gomma	橡皮鸡	ゴムチキン
+Text.Item.FacePaints	Грим	Gesichtsfarben	Maquillage	Pintura facial	Грим	Pitture per il viso	脸部涂料	フェイスペイント
+Text.Item.Steak	Steak	Стейк	Steak	Filete	Стейк	Bistecca	肉排	ステーキ
+Text.Item.CircusPoster	Цирковий плакат	Zirkusposter	Affiche de cirque	Póster circense	Цирковая афиша	Manifesto del circo	马戏团海报	サーカスのポスター
+Text.Item.SquirtyFlower	Квіточка-бризкалка	Spritzblume	Fleur à eau	Flor de agua	Брызгающийся цветок	Fiore che spruzza	喷射花	花水鉄砲
+Text.Item.CanOfCustard	Заварний крем	Eiercremedose	Boîte de crème	Lata de crema	Банка заварного крема	Barattolo di crema	一罐蛋奶	カスタード缶
+Text.Item.Coconut	Кокос	Kokosnuss	Noix de coco	Coco	Кокос	Cocco	椰子	ココナッツ
+Text.Item.Spring	Пружина	Feder	Ressort	Muelle	Пружина	Molla	弹簧	バネ
+Text.Item.Keys	Ключі від вольєрів	Gehegeschlüssel	Clés de l'enclos	Llaves de recinto	Ключи от вольеров	Chiavi del recinto	围场钥匙	檻のカギ
+Text.Item.SuperRubberChicken	Суперґумова курка	Supergummihuhn	Gros poulet en plastique	Superpollo de goma	Суперрезиновая курица	Super pollo di gomma	超级橡胶鸡	スーパーゴムチキン
+Text.Item.BalloonAnimal	Тваринка з кульки	Ballontier	Animal en ballons	Animal de globos	Животное из шарика	Palloncino a forma di animale	气球动物	バルーンアニマル
+Text.Item.WindUpMouse	Завідна мишка	Aufziehmaus	Souris mécanique	Ratón de cuerda	Заводная мышь	Topo a manovella	发条老鼠	ぜんまいネズミ
 Text.Item.CustardPie	Custard Pie	Sahnetorte	Tarte à la crème	Pastel de crema	Пирог с заварным кремом	Torta alla crema	蛋奶派	カスタードパイ
 Text.Item.MakeshiftHelmet	Makeshift Helmet	Provisorischer Helm	Casque de fortune	Casco improvisado	Самодельный шлем	Casco di fortuna	临时头盔	即席ヘルメット
 Text.Item.MakeshiftLauncher	Makeshift Launcher	Provisorischer Werfer	Lanceur de fortune	Lanzador improvisado	Самодельная пусковая установка	Mortaio di fortuna	临时发射器	即席ランチャー
@@ -23,7 +23,7 @@ Text.Item.GlueReadiedPoster	Glue Readied Poster	Kleberbestrichenes Poster	Affich
 								
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////								
 								
-Text.JobName.LionFeeding	Lion Feeding	Löwenfüttern	Nourrir les lions	Alimentar a los leones	Кормить львов	Sfamare i leoni	喂狮子	ライオンの餌やり
+Text.JobName.LionFeeding	Годування лева	Löwenfüttern	Nourrir les lions	Alimentar a los leones	Кормить львов	Sfamare i leoni	喂狮子	ライオンの餌やり
 Text.JobDesc.LionFeeding	"Just like a house cat, except much larger and much pointier. "	"Genau wie eine Hauskatze, bloß viel größer und spitzer. "	"C'est comme nourrir un chat, mais en plus gros et plus pointu. "	"Es como un gato doméstico, pero mucho más grande y con garras más afiladas. "	"Похож на обычную кошку, только гораздо больше и опаснее. "	"È proprio come un gatto domestico, solo più grande e con i denti più affilati. "	看起来就像家猫， 但是更大更凶猛。  	基本は飼い猫と一緒だ。 ただ図体がでかく、 爪やら牙やらが鋭いだけで。 
 								
 HUD.Tutorial.Job.LionFeedingBodyTextA	Take the steak from the container.	Nimm das Steak aus dem Container.	Prenez le steak dans le conteneur.	Coge el filete del contenedor.	Возьмите стейк из контейнера.	Prendi la Bistecca dal contenitore.	从箱子里拿肉排。 	コンテナから「ステーキ」を入手する。 
@@ -40,7 +40,7 @@ HUD.Interact.Job.LionFeedingStand	Feed Lion	Löwen füttern	Nourrir le lion	Alim
 								
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////								
 								
-Text.JobName.FacePainting	Face Painting	Gesichtsbemalung	Maquillage	Pintar caras	Нанесение грима	Face-painting	脸部彩绘	フェイスペイント
+Text.JobName.FacePainting	Гримування	Gesichtsbemalung	Maquillage	Pintar caras	Нанесение грима	Face-painting	脸部彩绘	フェイスペイント
 Text.JobDesc.FacePainting	"Stick to the agreed designs, no artistic skills required."	"Halt dich an die vereinbarten Designs, keine künstlerischen Fertigkeiten benötigt."	"Suivez les dessins, aucun talent artistique n'est nécessaire."	"Según los diseños acordados, no se necesitan habilidades artísticas."	"Выполняйте всё по схеме, давать волю творчеству не нужно."	"Segui i disegni, non sono richieste competenze artistiche."	参照已完成的图案便可， 不需要艺术技巧。 	お手本どおりに顔を塗るだけ。 芸術的センスは一切必要ない。 
 								
 HUD.Interact.Job.FacePaintingStepA	Take the Face Paints from the container. 	Nimm die Gesichtsfarben aus dem Container. 	Prenez le maquillage dans le conteneur. 	Coge las pinturas faciales del contenedor. 	Возьмите грим из контейнера. 	Prendi le Pitture per il viso dal contenitore. 	在容器中拿一些脸部涂料。  	コンテナから「フェイスペイント」を入手する。 
@@ -72,7 +72,7 @@ HUD.Interact.Job.FacePaintStepA	Face Paint	Gesichtsfarbe	Maquillage	Pintura faci
 								
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////								
 								
-Text.JobName.HangingPosters	Hanging Posters	Poster aufhängen	Coller les affiches	Colgar pósteres	Расклеивать афиши	Affissione manifesti	挂海报	ポスター貼り
+Text.JobName.HangingPosters	Вішання плакатів	Poster aufhängen	Coller les affiches	Colgar pósteres	Расклеивать афиши	Affissione manifesti	挂海报	ポスター貼り
 Text.JobDesc.HangingPosters	Put up the posters for tonights show.	Häng Poster für die heutige Show auf.	Collez les affiches pour le spectacle de ce soir.	Coloca los pósteres para la función de esta noche.	Расклейте афиши для вечернего представления.	Attacca i manifesti per lo spettacolo di questa sera.	为今晚的演出张贴海报。 	今夜のショーのポスターを 貼ってくれ。 
 								
 HUD.Tutorial.Job.HangingPostersBodyTextA	Take the Glue and Circus Poster from the container.	Nimm den Kleber und Zirkusposter aus dem Container.	Prenez la colle et l'affiche de cirque dans le conteneur.	Coge el pegamento y el póster circense del contenedor.	Возьмите из контейнера клей и цирковую афишу.	Prendi la Colla e il Manifesto del circo dal contenitore.	从箱子中拿些胶水和马戏团的海报。 	コンテナから「接着剤」と「サーカスのポスター」を入手する。 
@@ -86,7 +86,7 @@ HUD.Interact.Job.HangingPosters.NoPosterEquipped	I need a Glue Readied Poster!	I
 								
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////								
 								
-Text.JobName.BalloonAnimals	Balloon Artist	Ballonkünstler	Sculpteur de ballons	Artista de los globos	Моделирование шариков	Artista dei palloncini	气球艺术家	風船アーティスト
+Text.JobName.BalloonAnimals	Кулькороб	Ballonkünstler	Sculpteur de ballons	Artista de los globos	Моделирование шариков	Artista dei palloncini	气球艺术家	風船アーティスト
 Text.JobDesc.BalloonAnimals	"Keep it simple, those Balloons are expensive."	"Halt es einfach, diese Ballons sind teuer."	"Faites simple, ces ballons coûtent cher."	"No te compliques, esos globos son caros."	"Не усложняйте, эти воздушные шарики дорого стоят."	"Non esagerare, quei Palloncini sono costosi."	不用那么麻烦， 这些气球很贵。 	シンプルに頼む、 この風船は高いんだ。 
 								
 HUD.Tutorial.Job.BalloonAnimalBodyTextA	Take three Balloons from the container.	Nimm drei Ballons aus dem Container.	Prenez trois ballons dans le conteneur.	Coge tres globos del contenedor.	Возьмите три воздушных шарика из контейнера.	Prendi tre Palloncini dal contenitore.	从箱子里拿三个气球。 	コンテナから「風船」を3個、入手する。 
@@ -170,7 +170,7 @@ Text.Guiseppe.Prefix	$name, що літає	Der Fliegende $name	$name l’homme 
 &Text.Guard.DLC04.Prefix	$name, що чарує	Der Fantastische $name	L’extraordinaire $name	Sensacional $name	$name — это просто фантастика	Formidabile $name	奇妙的 $name	華麗なる$name
 &Text.Guard.DLC04.Prefix	$name, що приголомшує	Der Unglaubliche $name	L’incroyable $name	Increíble $name	$name изумит вас	L’incredibile $name	不可思议的 $name	超人$name
 								
-HUD.Routine.ShowTime	Вистава	Showtime	L'heure du spectacle	Hora del espectáculo	Время представления	Ora dello spettacolo	表演时间	ショータイム
+HUD.Routine.ShowTime	Вистава Showtime	L'heure du spectacle	Hora del espectáculo	Время представления	Ora dello spettacolo	表演时间	ショータイム
 								
 Text.Warden.DLC04.Prefix	Ведучий $name	Zirkusdirektor $name	$name le dompteur	Maestro de ceremonias $name	$name — властелин колец	"$name, presentatore del circo"	演出指挥者 $name	団長$name
 Text.Magician.DLC04.Prefix	Всевидющий $name	Der Allsehende $name	$name l’omniscient	Vidente $name	$name видит всё	"$name, che tutto vede"	无所不见的 $name	千里眼の$name
@@ -206,36 +206,36 @@ Text.Milestone.DLC04.Escape2	It's A Long Shot	Es Ist Gewagt	C'est pas gagné	Un 
 Text.Milestone.DLC04.Escape3	Wind Up Merchant	Aufzieh-Händler	Marchand de rêve	Mercader de cuerda	Заводной купец	Il topo nella stanza	发条商人	からくり商人
 								
 								
-Text.DLC04.Intro.Cutscene.A	Welcome!	Willkommen!	Bienvenue !	¡Saludos!	Добро пожаловать!	Salve!	欢迎！ 	ようこそ！
-Text.DLC04.Intro.Cutscene.B	We've been able to acquire you from your previous prison…	"Es war uns möglich, dich aus deinem vorherigen Gefängnis zu holen …"	Nous avons pu te récupérer de ton ancienne prison…	Hemos logrado sacarte de tu antigua prisión...	Мы сумели освободить вас из предыдущей тюрьмы...	Siamo riusciti a prelevarti dalla tua precedente prigione...	我们已经能够从你之前的监狱中抓到你…… 	キミを刑務所から引き抜けてよかった…
-Text.DLC04.Intro.Cutscene.C	"We get a performer, the prison system frees up a cell…"	"Wir erhalten einen Performer, das Gefängnissystem erhält eine freie Zelle …"	"On nous donne un artiste de cirque, la prison libère une de ses cellules…"	"Nosotros obtenemos un artista, el sistema penitenciario libera una celda..."	"Мы получаем исполнителя, а в тюрьме освобождается камера..."	Noi troviamo un intrattenitore e la prigione libera una cella...	我们找到了一个表演者， 监狱系统打开一个牢房…… 	我々は新たなパフォーマーを獲得し、刑務所は房がひとつ空く…
-Text.DLC04.Intro.Cutscene.D	Everyone's a winner!	Jeder gewinnt!	Tout le monde y gagne !	¡Todos ganamos!	Все получают свою выгоду!	E tutti sono contenti!	每个人都是胜利者！ 	ウィンウィンというやつだ！
+Text.DLC04.Intro.Cutscene.A	Ласкаво просимо!	Willkommen!	Bienvenue !	¡Saludos!	Добро пожаловать!	Salve!	欢迎！ 	ようこそ！
+Text.DLC04.Intro.Cutscene.B	Ми змогли тебе викупити з попередньої в’язниці…	"Es war uns möglich, dich aus deinem vorherigen Gefängnis zu holen …"	Nous avons pu te récupérer de ton ancienne prison…	Hemos logrado sacarte de tu antigua prisión...	Мы сумели освободить вас из предыдущей тюрьмы...	Siamo riusciti a prelevarti dalla tua precedente prigione...	我们已经能够从你之前的监狱中抓到你…… 	キミを刑務所から引き抜けてよかった…
+Text.DLC04.Intro.Cutscene.C	"Ми отримали артиста — вони звільнили камеру…"	"Wir erhalten einen Performer, das Gefängnissystem erhält eine freie Zelle …"	"On nous donne un artiste de cirque, la prison libère une de ses cellules…"	"Nosotros obtenemos un artista, el sistema penitenciario libera una celda..."	"Мы получаем исполнителя, а в тюрьме освобождается камера..."	Noi troviamo un intrattenitore e la prigione libera una cella...	我们找到了一个表演者， 监狱系统打开一个牢房…… 	我々は新たなパフォーマーを獲得し、刑務所は房がひとつ空く…
+Text.DLC04.Intro.Cutscene.D	Кожен при виграші!	Jeder gewinnt!	Tout le monde y gagne !	¡Todos ganamos!	Все получают свою выгоду!	E tutti sono contenti!	每个人都是胜利者！ 	ウィンウィンというやつだ！
 								
-Text.DLC04.Intro.Cutscene.E	I've spent years growing Cirque Du Catastrophe…	"Ich habe Jahre damit verbracht, den Cirque Du Catastrophe aufzubauen …"	Ça fait des années que je développe le Cirque Catastrophe…	Durante años he estado convirtiendo el Cirque Du Catastrophe…	Я многие годы работаю над цирком Cirque Du Catastrophe…	Mi ci sono voluti anni per far diventare Cirque Du Catastrophe...	我花了数年的时间来策划马戏团大灾难…… 	私は“ダイサンジ・デ・サーカス団”を何年もかけて育ててきた…
-Text.DLC04.Intro.Cutscene.F	Into the finest Travelling circus! 	Bis hin zum feinsten Wanderzirkus! 	pour qu'il devienne le meilleur cirque itinérant ! 	¡En el mejor circo ambulante! 	"И хочу, чтобы он стал самым лучшим бродячим цирком! "	...il miglior circo itinerante! 	进入最好的巡游马戏团！  	世界一のサーカス団にするために！
-Text.DLC04.Intro.Cutscene.G	Using the overspill from the prison system…	Den Überfluss des Gefängnissystems verwenden …	J'utilise les excédents du système carcéral…	Aprovechando la sobrepoblación del sistema penitenciario...	Я использую отбросы тюремной системы...	Ho sfruttato le prigioni sovraffollate...	带领来自监狱中的多余的罪犯…… 	刑務所制度のおこぼれを活用し…
-Text.DLC04.Intro.Cutscene.H	To keep the crowds entertained!	Um die Menge zu unterhalten!	pour divertir la foule !	¡Para entretener a la muchedumbre!	Чтобы развлекать толпу!	...per continuare a divertire la folla!	来让人们感受到快乐！ 	観客を喜ばせてきたのだ！
-Text.DLC04.Intro.Cutscene.I	Which of course means…	Das heißt natürlich …	Ce qui signifie bien évidemment…	Lo que significa que...	"И конечно же, это значит..."	Questo ovviamente significa...	这当然意味着…… 	それはもちろん…
-Text.DLC04.Intro.Cutscene.J	You WILL be expected to perform here…	"Von dir WIRD erwartet, hier aufzutreten …"	que tu DEVRAS te produire ici…	VAIS a actuar aquí...	Что вы ТОЖЕ будете здесь выступать...	Che tu DOVRAI esibirti qui...	你将会在这里演出…… 	キミもステージに立つことを意味する！
-Text.DLC04.Intro.Cutscene.K	Each and every night. 	Jede einzelne Nacht. 	"Tous les soirs, sans exception. "	Todas y cada una de las noches. 	Каждый вечер. 	...ogni singola sera. 	每个夜晚。  	毎晩な
-Text.DLC04.Intro.Cutscene.V	Oh bravo!	Oh bravo!	"Oh, bravo !"	"¡Oh, bravo!"	"О, браво!"	"Oh, complimenti!"	噢， 棒极了！ 	おお、ブラボー！
-Text.DLC04.Intro.Cutscene.W	Ask for my consent next time!	Frag nächstes Mal nach meiner Einwilligung!	"Demande ma permission, la prochaine fois !"	"¡La próxima vez, pídeme permiso!"	В следующий раз спросите у меня разрешения.	Dovrai chiedere la mia autorizzazione la prossima volta!	下次征求我的同意！ 	次はやる前に言ってくれ！
+Text.DLC04.Intro.Cutscene.E	Я стратив роки, щоби Cirque Du Catastrophe…	"Ich habe Jahre damit verbracht, den Cirque Du Catastrophe aufzubauen …"	Ça fait des années que je développe le Cirque Catastrophe…	Durante años he estado convirtiendo el Cirque Du Catastrophe…	Я многие годы работаю над цирком Cirque Du Catastrophe…	Mi ci sono voluti anni per far diventare Cirque Du Catastrophe...	我花了数年的时间来策划马戏团大灾难…… 	私は“ダイサンジ・デ・サーカス団”を何年もかけて育ててきた…
+Text.DLC04.Intro.Cutscene.F	Став найкращим мандрівним цирком! 	Bis hin zum feinsten Wanderzirkus! 	pour qu'il devienne le meilleur cirque itinérant ! 	¡En el mejor circo ambulante! 	"И хочу, чтобы он стал самым лучшим бродячим цирком! "	...il miglior circo itinerante! 	进入最好的巡游马戏团！  	世界一のサーカス団にするために！
+Text.DLC04.Intro.Cutscene.G	Використав залишки тюремщини…	Den Überfluss des Gefängnissystems verwenden …	J'utilise les excédents du système carcéral…	Aprovechando la sobrepoblación del sistema penitenciario...	Я использую отбросы тюремной системы...	Ho sfruttato le prigioni sovraffollate...	带领来自监狱中的多余的罪犯…… 	刑務所制度のおこぼれを活用し…
+Text.DLC04.Intro.Cutscene.H	Для розважання натовпу!	Um die Menge zu unterhalten!	pour divertir la foule !	¡Para entretener a la muchedumbre!	Чтобы развлекать толпу!	...per continuare a divertire la folla!	来让人们感受到快乐！ 	観客を喜ばせてきたのだ！
+Text.DLC04.Intro.Cutscene.I	Що, звісно, означає…	Das heißt natürlich …	Ce qui signifie bien évidemment…	Lo que significa que...	"И конечно же, это значит..."	Questo ovviamente significa...	这当然意味着…… 	それはもちろん…
+Text.DLC04.Intro.Cutscene.J	Від тебе тут ЧЕКАЮТЬ виступів…	"Von dir WIRD erwartet, hier aufzutreten …"	que tu DEVRAS te produire ici…	VAIS a actuar aquí...	Что вы ТОЖЕ будете здесь выступать...	Che tu DOVRAI esibirti qui...	你将会在这里演出…… 	キミもステージに立つことを意味する！
+Text.DLC04.Intro.Cutscene.K	День-у-день. 	Jede einzelne Nacht. 	"Tous les soirs, sans exception. "	Todas y cada una de las noches. 	Каждый вечер. 	...ogni singola sera. 	每个夜晚。  	毎晩な
+Text.DLC04.Intro.Cutscene.V	О, браво!	Oh bravo!	"Oh, bravo !"	"¡Oh, bravo!"	"О, браво!"	"Oh, complimenti!"	噢， 棒极了！ 	おお、ブラボー！
+Text.DLC04.Intro.Cutscene.W	Спитай наступного разу в мене дозвіл!	Frag nächstes Mal nach meiner Einwilligung!	"Demande ma permission, la prochaine fois !"	"¡La próxima vez, pídeme permiso!"	В следующий раз спросите у меня разрешения.	Dovrai chiedere la mia autorizzazione la prossima volta!	下次征求我的同意！ 	次はやる前に言ってくれ！
 								
-Text.DLC04.Intro.Cutscene.L	We pride the quality of our performers	Wir sind stolz auf die Qualität unserer Darsteller	Nous sommes fiers du talent de nos artistes	Estamos orgullosos de la calidad de nuestros artistas.	Мы гордимся умениями наших артистов	Siamo fieri della qualità dei nostri intrattenitori	我们为我们的演员品质感到骄傲	演目のクオリティには自信がある
-Text.DLC04.Intro.Cutscene.M	Er… 	Eh … 	Euh… 	Eh… 	Эм... 	Ehm... 	呃……  	ええと…
-Text.DLC04.Intro.Cutscene.X	Do you want to see an elephant?	Willst du einen Elefanten sehen?	Tu veux voir un éléphant ?	¿Quieres ver un elefante?	"Хотите, слона покажу?"	Ti piacerebbe vedere un elefante?	你想看看大象吗？ 	ゾウを見たいか？
+Text.DLC04.Intro.Cutscene.L	Майстерність наших артистів — гордість	Wir sind stolz auf die Qualität unserer Darsteller	Nous sommes fiers du talent de nos artistes	Estamos orgullosos de la calidad de nuestros artistas.	Мы гордимся умениями наших артистов	Siamo fieri della qualità dei nostri intrattenitori	我们为我们的演员品质感到骄傲	演目のクオリティには自信がある
+Text.DLC04.Intro.Cutscene.M	Еу… 	Eh … 	Euh… 	Eh… 	Эм... 	Ehm... 	呃……  	ええと…
+Text.DLC04.Intro.Cutscene.X	Хтось хоче поглянути на слона?	Willst du einen Elefanten sehen?	Tu veux voir un éléphant ?	¿Quieres ver un elefante?	"Хотите, слона покажу?"	Ti piacerebbe vedere un elefante?	你想看看大象吗？ 	ゾウを見たいか？
 								
-Text.DLC04.Intro.Cutscene.N	I take tremendous care of all my animals	Ich passe ungemein auf meine Tiere auf	Je prends grand soin de tous mes animaux	Cuido mucho a todos mis animales.	Я усердно забочусь о своих животных	Mi prendo moltissima cura dei miei animali	我把我所有的动物都照顾的很好	動物たちは我が子と変わらない
-Text.DLC04.Intro.Cutscene.O	I trust YOU not to bother them	Ich hoffe DU belästigst sie nicht	Je compte sur TOI pour ne pas les embêter	Confío en que no los molestes.	"Я ВЕРЮ, что вы не будете им докучать"	Spero che TU non li disturberai	我相信你不会打扰它们	彼らを怖がらせないようにな
+Text.DLC04.Intro.Cutscene.N	Я страшенно піклуюся про всіх своїх тварин	Ich passe ungemein auf meine Tiere auf	Je prends grand soin de tous mes animaux	Cuido mucho a todos mis animales.	Я усердно забочусь о своих животных	Mi prendo moltissima cura dei miei animali	我把我所有的动物都照顾的很好	動物たちは我が子と変わらない
+Text.DLC04.Intro.Cutscene.O	Сподіваюсь, ТИ не потурбуєш їх	Ich hoffe DU belästigst sie nicht	Je compte sur TOI pour ne pas les embêter	Confío en que no los molestes.	"Я ВЕРЮ, что вы не будете им докучать"	Spero che TU non li disturberai	我相信你不会打扰它们	彼らを怖がらせないようにな
 								
-Text.DLC04.Intro.Cutscene.P	Our contract dictates you must still adhere to routines…	"Unser Vertrag gibt vor, dass du dich immer noch an Routinen halten musst …"	Notre contrat indique que tu dois toujours respecter notre routine…	Nuestro contrato especifica que debes cumplir las rutinas...	"В нашем контракте написано, что вы должны следовать распорядку дня..."	Sul contratto è stabilito che devi attenerti alla nostra routine...	我们的合同规定了你必须遵守日常安排…… 	日課は今でも守ってもらうぞ…
-Text.DLC04.Intro.Cutscene.Q	"Roll calls, meal times, shower times… etc. etc. "	"Appell antreten, Essenszeiten, Duschzeiten … und so weiter. "	"Appels, repas, douches… etc. "	"El pase de lista, comer, ducharse... Y todo eso. "	"Приходить на перекличку, на обед, в душ... и так далее. "	"Appelli, orari dei pasti, orari per la doccia... eccetera. "	点名， 吃饭时间， 洗浴时间…… 等等 	点呼、食事、シャワーなどなど…
+Text.DLC04.Intro.Cutscene.P	Наш контракт вимагає, щоби ти жив за розпорядком…	"Unser Vertrag gibt vor, dass du dich immer noch an Routinen halten musst …"	Notre contrat indique que tu dois toujours respecter notre routine…	Nuestro contrato especifica que debes cumplir las rutinas...	"В нашем контракте написано, что вы должны следовать распорядку дня..."	Sul contratto è stabilito che devi attenerti alla nostra routine...	我们的合同规定了你必须遵守日常安排…… 	日課は今でも守ってもらうぞ…
+Text.DLC04.Intro.Cutscene.Q	"Переклики, сніданки, душ… і подібне"	"Appell antreten, Essenszeiten, Duschzeiten … und so weiter. "	"Appels, repas, douches… etc. "	"El pase de lista, comer, ducharse... Y todo eso. "	"Приходить на перекличку, на обед, в душ... и так далее. "	"Appelli, orari dei pasti, orari per la doccia... eccetera. "	点名， 吃饭时间， 洗浴时间…… 等等 	点呼、食事、シャワーなどなど…
 								
-Text.DLC04.Intro.Cutscene.R	Before you ask…	Bevor du fragst …	Avant que tu ne poses la question…	Antes de que lo preguntes...	Можете даже не спрашивать...	Prima che tu lo chieda...	在你提问之前…… 	先に言っておくと…
-Text.DLC04.Intro.Cutscene.S	No. It's broken…	Nein. Sie ist kaputt …	Non. Il est cassé.	No. Se ha roto...	Она сломана.	"No, è rotto..."	不。 它坏了…… 	いかにも、ぶっ壊れている…
-Text.DLC04.Intro.Cutscene.T	We haven't been able to fire it for weeks	Wir konnten sie seit Wochen nicht abfeuern	Nous n'avons pas pu le faire fonctionner depuis des semaines	Hace semanas que no lo utilizamos.	Мы уже несколько недель не можем ее починить	Sono settimane che non riusciamo a farlo sparare	我们已经好几周都无法发射了	しばらく大砲芸はお休みだよ
+Text.DLC04.Intro.Cutscene.R	Перш ніж ти спитаєш…	Bevor du fragst …	Avant que tu ne poses la question…	Antes de que lo preguntes...	Можете даже не спрашивать...	Prima che tu lo chieda...	在你提问之前…… 	先に言っておくと…
+Text.DLC04.Intro.Cutscene.S	Ні. Воно зламане…	Nein. Sie ist kaputt …	Non. Il est cassé.	No. Se ha roto...	Она сломана.	"No, è rotto..."	不。 它坏了…… 	いかにも、ぶっ壊れている…
+Text.DLC04.Intro.Cutscene.T	Ми вже не стріляли кілька тижнів	Wir konnten sie seit Wochen nicht abfeuern	Nous n'avons pas pu le faire fonctionner depuis des semaines	Hace semanas que no lo utilizamos.	Мы уже несколько недель не можем ее починить	Sono settimane che non riusciamo a farlo sparare	我们已经好几周都无法发射了	しばらく大砲芸はお休みだよ
 								
-Text.DLC04.Intro.Cutscene.U	"You better get some rest, it won't be long before show time…"	"Du ruhst dich besser ein wenig aus, es ist nicht mehr lange bis zur Showtime …"	"Va te reposer, c'est bientôt l'heure du spectacle…"	"Será mejor que descanses, pronto empezará el espectáculo..."	"Вам лучше отдохнуть, представление скоро начнется..."	"Riposati adesso, non ci vorrà molto prima dello spettacolo..."	你最好去休息一下， 演出之前已经没有多少时间了…… 	少し休んでおくんだ。 もうすぐ開演だからな…
+Text.DLC04.Intro.Cutscene.U	"Тобі ліпше перепочити, виступ зовсім скоро…"	"Du ruhst dich besser ein wenig aus, es ist nicht mehr lange bis zur Showtime …"	"Va te reposer, c'est bientôt l'heure du spectacle…"	"Será mejor que descanses, pronto empezará el espectáculo..."	"Вам лучше отдохнуть, представление скоро начнется..."	"Riposati adesso, non ci vorrà molto prima dello spettacolo..."	你最好去休息一下， 演出之前已经没有多少时间了…… 	少し休んでおくんだ。 もうすぐ開演だからな…
 								
 								
 								
@@ -286,10 +286,10 @@ Text.Quest.Fallen Comrades.ThirdObjective	Locate the final $ItemToGet1 for $Ques
 								
 								
 								
-Text.Interact.Juggle	Juggle 	Jonglieren 	Jonglage 	Malabarista 	Жонглирование 	Fai il giocoliere 	变戏法 	ジャグリング
-Text.Interact.HulaHoop	Hula Hoop	Hula-Hoop	Cerceau	Hula hoop	Обруч	Usa l’Hula Hoop	呼啦圈	フラフープ
-Text.Interact.FireBreathe	Fire Breathing	Feuerspucken	Cracheur de feu	Tragafuegos	Выдувание огня	Sputa fuoco	火焰喷息	火吹き
-Text.Interact.Unicycle	Unicycle	Einradfahren	Monocycle	Monociclo	Одноколесный велосипед	Usa il monociclo	单轮脚踏车	一輪車
+Text.Interact.Juggle	Жонглювання 	Jonglieren 	Jonglage 	Malabarista 	Жонглирование 	Fai il giocoliere 	变戏法 	ジャグリング
+Text.Interact.HulaHoop	Гулагуп	Hula-Hoop	Cerceau	Hula hoop	Обруч	Usa l’Hula Hoop	呼啦圈	フラフープ
+Text.Interact.FireBreathe	Дихання вогнем	Feuerspucken	Cracheur de feu	Tragafuegos	Выдувание огня	Sputa fuoco	火焰喷息	火吹き
+Text.Interact.Unicycle	Одноколісник	Einradfahren	Monocycle	Monociclo	Одноколесный велосипед	Usa il monociclo	单轮脚踏车	一輪車
 								
 Text.DLC04.MultiPlayerTip.NameNEW	Wind Up Merchant (Multiplayer Tip)	Aufzieh-Händler (Mehrspieler-Tipp)	Marchand de rêve (astuce multijoueur)	Mercader de cuerda (pista del multijugador)	Заводной купец (Совет для сетевой игры)	Il topo nella stanza (Consiglio multigiocatore)	恶搞专家 （多人模式小提示） 	からくり商人（マルチプレイ用ヒント）
 								
@@ -309,7 +309,7 @@ Achievement	Avoid going to the Show Time routine for 3 days in a row.	Vermeide e
 								
 EscapeMethods.DLC04_Single	It's A Long Shot	Es Ist Gewagt	C'est pas gagné	Un largo vuelo	Это большой риск	Tentativo disparato	这是大胆的尝试	もう一度、あの空へ
 EscapeMethods.DLC04_Multi	Wind Up Merchant	Aufzieh-Händler	Marchand de rêve	Mercader de cuerda	Заводной купец	Il topo nella stanza	发条商人	からくり商人
-Text.Frontend.DLC04.Name	Big Top Breakout	Big Top Breakout	Big Top Breakout	Big Top Breakout	Big Top Breakout	Big Top Breakout	马戏团来临	監獄大サーカス
+Text.Frontend.DLC04.Name	Циркова втеча	Big Top Breakout	Big Top Breakout	Big Top Breakout	Big Top Breakout	Big Top Breakout	马戏团来临	監獄大サーカス
 								
 								
 END								

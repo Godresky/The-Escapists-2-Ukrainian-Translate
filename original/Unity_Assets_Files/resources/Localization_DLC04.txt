@@ -1,20 +1,20 @@
 Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese
 								
-Text.Item.Balloon	Кулька	Ballon	Ballon	Globo	Воздушный шарик	Palloncino	气球	風船
-Text.Item.BowTie	Краватка-метелик	Fliege	Nœud papillon	Pajarita	Галстук-бабочка	Papillon	领结	蝶ネクタイ
-Text.Item.Horn	Клаксон	Horn	Corne	Bocina	Рог	Corno	喇叭	ぱふぱふラッパ
+Text.Item.Balloon	Balloon	Ballon	Ballon	Globo	Воздушный шарик	Palloncino	气球	風船
+Text.Item.BowTie	Bow Tie	Fliege	Nœud papillon	Pajarita	Галстук-бабочка	Papillon	领结	蝶ネクタイ
+Text.Item.Horn	Horn	Horn	Corne	Bocina	Рог	Corno	喇叭	ぱふぱふラッパ
 Text.Item.ChatteringTeeth	Chattering Teeth	Klappernde Zähne	Dents claquantes	Dientes castañeantes	Прыгающие зубы	Dentiera	打颤牙齿	カチカチ歯
-Text.Item.RubberChicken	Ґумова курка	Gummihuhn	Poulet en plastique	Pollo de goma	Резиновая курица	Pollo di gomma	橡皮鸡	ゴムチキン
-Text.Item.FacePaints	Грим	Gesichtsfarben	Maquillage	Pintura facial	Грим	Pitture per il viso	脸部涂料	フェイスペイント
+Text.Item.RubberChicken	Rubber Chicken	Gummihuhn	Poulet en plastique	Pollo de goma	Резиновая курица	Pollo di gomma	橡皮鸡	ゴムチキン
+Text.Item.FacePaints	Face Paints	Gesichtsfarben	Maquillage	Pintura facial	Грим	Pitture per il viso	脸部涂料	フェイスペイント
 Text.Item.Steak	Steak	Steak	Steak	Filete	Стейк	Bistecca	肉排	ステーキ
 Text.Item.CircusPoster	Circus Poster	Zirkusposter	Affiche de cirque	Póster circense	Цирковая афиша	Manifesto del circo	马戏团海报	サーカスのポスター
-Text.Item.SquirtyFlower	Квіточка-бризкалка	Spritzblume	Fleur à eau	Flor de agua	Брызгающийся цветок	Fiore che spruzza	喷射花	花水鉄砲
+Text.Item.SquirtyFlower	Squirty Flower	Spritzblume	Fleur à eau	Flor de agua	Брызгающийся цветок	Fiore che spruzza	喷射花	花水鉄砲
 Text.Item.CanOfCustard	Can of Custard	Eiercremedose	Boîte de crème	Lata de crema	Банка заварного крема	Barattolo di crema	一罐蛋奶	カスタード缶
-Text.Item.Coconut	Кокос	Kokosnuss	Noix de coco	Coco	Кокос	Cocco	椰子	ココナッツ
-Text.Item.Spring	Пружина	Feder	Ressort	Muelle	Пружина	Molla	弹簧	バネ
+Text.Item.Coconut	Coconut	Kokosnuss	Noix de coco	Coco	Кокос	Cocco	椰子	ココナッツ
+Text.Item.Spring	Spring	Feder	Ressort	Muelle	Пружина	Molla	弹簧	バネ
 Text.Item.Keys	Enclosure Keys	Gehegeschlüssel	Clés de l'enclos	Llaves de recinto	Ключи от вольеров	Chiavi del recinto	围场钥匙	檻のカギ
-Text.Item.SuperRubberChicken	Суперґумова курка	Supergummihuhn	Gros poulet en plastique	Superpollo de goma	Суперрезиновая курица	Super pollo di gomma	超级橡胶鸡	スーパーゴムチキン
-Text.Item.BalloonAnimal	Тваринка з кульки	Ballontier	Animal en ballons	Animal de globos	Животное из шарика	Palloncino a forma di animale	气球动物	バルーンアニマル
+Text.Item.SuperRubberChicken	Super Rubber Chicken	Supergummihuhn	Gros poulet en plastique	Superpollo de goma	Суперрезиновая курица	Super pollo di gomma	超级橡胶鸡	スーパーゴムチキン
+Text.Item.BalloonAnimal	Balloon Animal	Ballontier	Animal en ballons	Animal de globos	Животное из шарика	Palloncino a forma di animale	气球动物	バルーンアニマル
 Text.Item.WindUpMouse	Wind-Up Mouse	Aufziehmaus	Souris mécanique	Ratón de cuerda	Заводная мышь	Topo a manovella	发条老鼠	ぜんまいネズミ
 Text.Item.CustardPie	Custard Pie	Sahnetorte	Tarte à la crème	Pastel de crema	Пирог с заварным кремом	Torta alla crema	蛋奶派	カスタードパイ
 Text.Item.MakeshiftHelmet	Makeshift Helmet	Provisorischer Helm	Casque de fortune	Casco improvisado	Самодельный шлем	Casco di fortuna	临时头盔	即席ヘルメット
