@@ -26,17 +26,17 @@ Text.Item.GlueReadiedPoster	Клеєний плакат	Kleberbestrichenes Poste
 Text.JobName.LionFeeding	Годувач левів	Löwenfüttern	Nourrir les lions	Alimentar a los leones	Кормить львов	Sfamare i leoni	喂狮子	ライオンの餌やり
 Text.JobDesc.LionFeeding	"Це як годування домашнього кота, крім того, що лев більший та зубастіший. "	"Genau wie eine Hauskatze, bloß viel größer und spitzer. "	"C'est comme nourrir un chat, mais en plus gros et plus pointu. "	"Es como un gato doméstico, pero mucho más grande y con garras más afiladas. "	"Похож на обычную кошку, только гораздо больше и опаснее. "	"È proprio come un gatto domestico, solo più grande e con i denti più affilati. "	看起来就像家猫， 但是更大更凶猛。  	基本は飼い猫と一緒だ。 ただ図体がでかく、 爪やら牙やらが鋭いだけで。 
 								
-HUD.Tutorial.Job.LionFeedingBodyTextA	Take the steak from the container.	Nimm das Steak aus dem Container.	Prenez le steak dans le conteneur.	Coge el filete del contenedor.	Возьмите стейк из контейнера.	Prendi la Bistecca dal contenitore.	从箱子里拿肉排。 	コンテナから「ステーキ」を入手する。 
+HUD.Tutorial.Job.LionFeedingBodyTextA	Візьміть стейк із коробки.	Nimm das Steak aus dem Container.	Prenez le steak dans le conteneur.	Coge el filete del contenedor.	Возьмите стейк из контейнера.	Prendi la Bistecca dal contenitore.	从箱子里拿肉排。 	コンテナから「ステーキ」を入手する。 
 HUD.Tutorial.Job.LionFeedingBodyTextB	"Walk into an enclosure, and stand on the podium."	Betritt das Gehege und stell dich auf das Podest.	Entrez dans un enclos et placez-vous debout sur l'estrade.	Entra en un recinto y súbete a la tarima.	Подойдите к вольеру и встаньте на возвышение.	Entra nel Recinto e sali sulla Pedana.	走入围场并站在台上。 	檻の中へ入り、演台に立つ。 
-HUD.Tutorial.Job.LionFeedingBodyTextC	Feed the Lions.	Füttere die Löwen.	Donnez à manger aux lions.	Alimenta a los leones.	Покормите львов.	Sfama i Leoni.	喂狮子。 	ライオンにエサをやる。 
+HUD.Tutorial.Job.LionFeedingBodyTextC	Погодуйте левів.	Füttere die Löwen.	Donnez à manger aux lions.	Alimenta a los leones.	Покормите львов.	Sfama i Leoni.	喂狮子。 	ライオンにエサをやる。 
 								
-HUD.Interact.Job.LionFeedingMeat	Meat	Fleisch	Viande	Carne	Мясо	Carne	肉	肉
+HUD.Interact.Job.LionFeedingMeat	М’ясо	Fleisch	Viande	Carne	Мясо	Carne	肉	肉
 								
 								
-HUD.Interact.Job.LionFeedingNeedMeat	I need some Meat	Ich brauche etwas Fleisch	J’ai besoin de viande	Necesito carne	Мне нужно мясо	Mi serve della Carne	我需要一些肉	肉が必要だ
-HUD.Interact.Job.LionFeedingStand	Feed Lion	Löwen füttern	Nourrir le lion	Alimentar león	Покормить льва	Sfama il Leone	喂狮子	ライオンに餌をやる
+HUD.Interact.Job.LionFeedingNeedMeat	Мені потрібне м’ясо	Ich brauche etwas Fleisch	J’ai besoin de viande	Necesito carne	Мне нужно мясо	Mi serve della Carne	我需要一些肉	肉が必要だ
+HUD.Interact.Job.LionFeedingStand	Погодувати лева	Löwen füttern	Nourrir le lion	Alimentar león	Покормить льва	Sfama il Leone	喂狮子	ライオンに餌をやる
 								
-&Text.Customer.LionFed	ROOOAAARR	BRÜÜÜÜÜÜÜÜÜÜLL	GRRRAAAOOOUUU	GROAAAAARRR	ГР-Р-Р-Р-Р-Р-Р-Р-Р	RROOOAAAAARRR	嗷嗷嗷嗷嗷	ウガアァァァッツ
+&Text.Customer.LionFed	Р-Р-Р-РИ-И-ИК	BRÜÜÜÜÜÜÜÜÜÜLL	GRRRAAAOOOUUU	GROAAAAARRR	ГР-Р-Р-Р-Р-Р-Р-Р-Р	RROOOAAAAARRR	嗷嗷嗷嗷嗷	ウガアァァァッツ
 								
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////								
 								
