@@ -7,7 +7,7 @@ Text.Item.ChatteringTeeth	Стукітливі зубки	Klappernde Zähne	Dent
 Text.Item.RubberChicken	Ґумова курка	Gummihuhn	Poulet en plastique	Pollo de goma	Резиновая курица	Pollo di gomma	橡皮鸡	ゴムチキン
 Text.Item.FacePaints	Грим	Gesichtsfarben	Maquillage	Pintura facial	Грим	Pitture per il viso	脸部涂料	フェイスペイント
 Text.Item.Steak	Steak	Стейк	Steak	Filete	Стейк	Bistecca	肉排	ステーキ
-Text.Item.CircusPoster	Цирковий плакат	Zirkusposter	Affiche de cirque	Póster circense	Цирковая афиша	Manifesto del circo	马戏团海报	サーカスのポスター
+Text.Item.CircusPoster	Циркова афіша	Zirkusposter	Affiche de cirque	Póster circense	Цирковая афиша	Manifesto del circo	马戏团海报	サーカスのポスター
 Text.Item.SquirtyFlower	Квіточка-бризкалка	Spritzblume	Fleur à eau	Flor de agua	Брызгающийся цветок	Fiore che spruzza	喷射花	花水鉄砲
 Text.Item.CanOfCustard	Заварний крем	Eiercremedose	Boîte de crème	Lata de crema	Банка заварного крема	Barattolo di crema	一罐蛋奶	カスタード缶
 Text.Item.Coconut	Кокос	Kokosnuss	Noix de coco	Coco	Кокос	Cocco	椰子	ココナッツ
@@ -19,7 +19,7 @@ Text.Item.WindUpMouse	Завідна мишка	Aufziehmaus	Souris mécanique	Ra
 Text.Item.CustardPie	Кремовий пиріг	Sahnetorte	Tarte à la crème	Pastel de crema	Пирог с заварным кремом	Torta alla crema	蛋奶派	カスタードパイ
 Text.Item.MakeshiftHelmet	Саморобний шолом	Provisorischer Helm	Casque de fortune	Casco improvisado	Самодельный шлем	Casco di fortuna	临时头盔	即席ヘルメット
 Text.Item.MakeshiftLauncher	Саморобний запускач	Provisorischer Werfer	Lanceur de fortune	Lanzador improvisado	Самодельная пусковая установка	Mortaio di fortuna	临时发射器	即席ランチャー
-Text.Item.GlueReadiedPoster	Клеєний плакат	Kleberbestrichenes Poster	Affiche à coller	Póster preparado con pegamento	"Афиша, намазанная клеем"	Manifesto preparato con la colla	粘好胶水的海报	のり付けしたポスター
+Text.Item.GlueReadiedPoster	Клеєна афіша	Kleberbestrichenes Poster	Affiche à coller	Póster preparado con pegamento	"Афиша, намазанная клеем"	Manifesto preparato con la colla	粘好胶水的海报	のり付けしたポスター
 								
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////								
 								
@@ -43,46 +43,46 @@ HUD.Interact.Job.LionFeedingStand	Погодувати лева	Löwen füttern	
 Text.JobName.FacePainting	Гримування	Gesichtsbemalung	Maquillage	Pintar caras	Нанесение грима	Face-painting	脸部彩绘	フェイスペイント
 Text.JobDesc.FacePainting	"Жодних художніх навичок не потрібно, просто дотримуйтесь узгодженого дизайну."	"Halt dich an die vereinbarten Designs, keine künstlerischen Fertigkeiten benötigt."	"Suivez les dessins, aucun talent artistique n'est nécessaire."	"Según los diseños acordados, no se necesitan habilidades artísticas."	"Выполняйте всё по схеме, давать волю творчеству не нужно."	"Segui i disegni, non sono richieste competenze artistiche."	参照已完成的图案便可， 不需要艺术技巧。 	お手本どおりに顔を塗るだけ。 芸術的センスは一切必要ない。 
 								
-HUD.Interact.Job.FacePaintingStepA	Take the Face Paints from the container. 	Nimm die Gesichtsfarben aus dem Container. 	Prenez le maquillage dans le conteneur. 	Coge las pinturas faciales del contenedor. 	Возьмите грим из контейнера. 	Prendi le Pitture per il viso dal contenitore. 	在容器中拿一些脸部涂料。  	コンテナから「フェイスペイント」を入手する。 
-HUD.Interact.Job.FacePaintingStepB	Customers will enter the tent and sit down.	Kunden werden das Zelt betreten und sich setzen.	Les clients entreront dans la tente pour s'asseoir.	Los clientes entrarán en la carpa y se sentarán.	Клиенты войдут в палатку и сядут.	I clienti entreranno nel tendone e si accomoderanno.	客人们会进入帐篷并坐好。 	客がテントへ入り、座るのを待つ。 
-HUD.Interact.Job.FacePaintingStepC	"Stand in front of the customer, and apply the face paints. "	Stell dich vor den Kunden und trage die Gesichtsfarben auf. 	Placez-vous devant le client et appliquez le maquillage. 	Ponte frente al cliente y aplícale la pintura facial. 	Встаньте напротив клиента и нанесите грим. 	Mettiti davanti al cliente e applica le pitture per il viso. 	站在客人面前，并使用脸部涂料。  	客の前に立って、顔にペイントする。 
+HUD.Interact.Job.FacePaintingStepA	Візьміть із коробки грим. 	Nimm die Gesichtsfarben aus dem Container. 	Prenez le maquillage dans le conteneur. 	Coge las pinturas faciales del contenedor. 	Возьмите грим из контейнера. 	Prendi le Pitture per il viso dal contenitore. 	在容器中拿一些脸部涂料。  	コンテナから「フェイスペイント」を入手する。 
+HUD.Interact.Job.FacePaintingStepB	Клієнти заходитимуть у шатро та сідатимуть.	Kunden werden das Zelt betreten und sich setzen.	Les clients entreront dans la tente pour s'asseoir.	Los clientes entrarán en la carpa y se sentarán.	Клиенты войдут в палатку и сядут.	I clienti entreranno nel tendone e si accomoderanno.	客人们会进入帐篷并坐好。 	客がテントへ入り、座るのを待つ。 
+HUD.Interact.Job.FacePaintingStepC	"Встаньте перед клієнтом та нанесіть грим. "	Stell dich vor den Kunden und trage die Gesichtsfarben auf. 	Placez-vous devant le client et appliquez le maquillage. 	Ponte frente al cliente y aplícale la pintura facial. 	Встаньте напротив клиента и нанесите грим. 	Mettiti davanti al cliente e applica le pitture per il viso. 	站在客人面前，并使用脸部涂料。  	客の前に立って、顔にペイントする。 
 								
-Text.Interact.PaintFace	Paint Face	Gesicht bemalen	Maquiller	Pintar cara	Нанести грим	Pittura il viso	脸部彩绘	顔に色を塗る
+Text.Interact.PaintFace	Нанести грим	Gesicht bemalen	Maquiller	Pintar cara	Нанести грим	Pittura il viso	脸部彩绘	顔に色を塗る
 								
-&Text.Customer.WaitingForServiceFacePaint	Is anyone around?	Ist da jemand?	Il y a quelqu'un ?	¿Hay alguien aquí?	Здесь кто-нибудь есть?	C’è nessuno qui?	附近有人吗？ 	誰かいますか～？
-&Text.Customer.WaitingForServiceFacePaint	"Some point today, please"	"Irgendwann heute noch, bitte"	"J'aimerais que ce soit rapide, s'il vous plaît"	"Que venga alguien, por favor"	"Надеюсь, что меня обслужат в этом году"	"Entro oggi, per favore"	在今天的某个时候， 拜托了	ちょっと塗ってくれない？
-&Text.Customer.WaitingForServiceFacePaint	I've not got long left on the parking ticket	Mein Parkticket läuft bald ab	Mon ticket de parking va bientôt expirer	Voy a tener que renovar el billete de aparcamiento	"Мне нельзя долго ждать, парковка оплачена"	Non ho molto tempo prima che mi scada il biglietto del parcheggio	我的停车罚单快要过期了。 	急がないと駐禁とられる～
-								
-								
-&Text.Customer.Facepainted	Awesome job!	Tolle Arbeit!	Excellent travail !	¡Un trabajo increíble!	Отлично!	Stupefacente!	干得好！ 	すっばらしぃ～！
-&Text.Customer.Facepainted	Close enough to what I asked for!	"Nah genug an dem, was ich wollte!"	C'est presque ce que j'avais demandé !	¡Es casi lo que pedí!	"Ну, примерно этого мне и хотелось."	Quasi come avevo chiesto!	足够接近我的要求！ 	ほぼ注文どおり！
-&Text.Customer.Facepainted	It'll do	Sollte reichen	Ça fera l'affaire	Con esto servirá	Сойдет	Mi accontenterò	这会奏效的	これでいいや
-&Text.Customer.Facepainted	"Erm, yeah ok"	"Ehm, ja ok"	"Euh, d'accord"	"Eh, bueno, vale"	"Эм, ну ладно"	"Ehm, non c’è male"	嗯， 好的	うーん、まあまあかな
-&Text.Customer.Facepainted	That's not what I asked for?	"Das ist nicht, wonach ich gebeten hatte?"	Ce n'est pas du tout ce que j'avais demandé	Eso no es lo que pedí	Мне представлялось совсем не это	Non è proprio come avevo chiesto...	那不是我要的吗？ 	注文と違うけど？
+&Text.Customer.WaitingForServiceFacePaint	Тут є хтось?	Ist da jemand?	Il y a quelqu'un ?	¿Hay alguien aquí?	Здесь кто-нибудь есть?	C’è nessuno qui?	附近有人吗？ 	誰かいますか～？
+&Text.Customer.WaitingForServiceFacePaint	"А мене сьогодні обслужать, будь ласка?"	"Irgendwann heute noch, bitte"	"J'aimerais que ce soit rapide, s'il vous plaît"	"Que venga alguien, por favor"	"Надеюсь, что меня обслужат в этом году"	"Entro oggi, per favore"	在今天的某个时候， 拜托了	ちょっと塗ってくれない？
+&Text.Customer.WaitingForServiceFacePaint	У мене скоро прострочиться паркувальний білет	Mein Parkticket läuft bald ab	Mon ticket de parking va bientôt expirer	Voy a tener que renovar el billete de aparcamiento	"Мне нельзя долго ждать, парковка оплачена"	Non ho molto tempo prima che mi scada il biglietto del parcheggio	我的停车罚单快要过期了。 	急がないと駐禁とられる～
 								
 								
-&Text.Customer.FacePaintingInProgress	You will LOVE this	Das wirst du LIEBEN	Vous allez ADORER	Te va a ENCANTAR	Вам это точно ПОНРАВИТСЯ	Ti piacerà DA MATTI	你会爱上这个的	きっと気に入りますよ
-&Text.Customer.FacePaintingInProgress	"Never heard of it, But I can do this instead"	"Nie gehört, aber ich könnte stattdessen das hier machen"	"Connais pas, mais je peux faire ça à la place"	"No me suena de nada, pero puedo hacer otra cosa"	"Первый раз слышу, лучше сделаю кое-что другое"	"Non ne ho mai sentito parlare, ma potrei fare questo invece"	从来没有听说过它， 但是我可以做这个	それは存じませんが、かわりにこれを
-&Text.Customer.FacePaintingInProgress	"Sorry, not familiar with that one"	"Tut mir leid, das kenne ich nicht"	"Désolé, je ne connais pas celui-là"	"Lo siento, no tengo ni idea de lo que me pides"	"Простите, я не знаю, как это делается"	"Mi spiace, non lo conosco"	抱歉， 我对那个并不熟悉	すみません、それはちょっと
+&Text.Customer.Facepainted	Чудова робота!	Tolle Arbeit!	Excellent travail !	¡Un trabajo increíble!	Отлично!	Stupefacente!	干得好！ 	すっばらしぃ～！
+&Text.Customer.Facepainted	Майже те, чого хотілось!	"Nah genug an dem, was ich wollte!"	C'est presque ce que j'avais demandé !	¡Es casi lo que pedí!	"Ну, примерно этого мне и хотелось."	Quasi come avevo chiesto!	足够接近我的要求！ 	ほぼ注文どおり！
+&Text.Customer.Facepainted	Піде	Sollte reichen	Ça fera l'affaire	Con esto servirá	Сойдет	Mi accontenterò	这会奏效的	これでいいや
+&Text.Customer.Facepainted	"Ем-м, ну, най буде"	"Ehm, ja ok"	"Euh, d'accord"	"Eh, bueno, vale"	"Эм, ну ладно"	"Ehm, non c’è male"	嗯， 好的	うーん、まあまあかな
+&Text.Customer.Facepainted	Хіба я це просив?	"Das ist nicht, wonach ich gebeten hatte?"	Ce n'est pas du tout ce que j'avais demandé	Eso no es lo que pedí	Мне представлялось совсем не это	Non è proprio come avevo chiesto...	那不是我要的吗？ 	注文と違うけど？
 								
 								
-HUD.Interact.Job.NeedFacePaint	I need some more Face Paint…	Ich brauche etwas mehr Gesichtsfarbe …	Il me faut plus de maquillage…	Necesito más pintura facial...	Мне нужно больше грима...	Mi serve altra Pittura per il viso...	我需要更多的脸部涂料…… 	フェイスペイントが必要だ…
+&Text.Customer.FacePaintingInProgress	Вам то СПОДОБАЄТЬСЯ	Das wirst du LIEBEN	Vous allez ADORER	Te va a ENCANTAR	Вам это точно ПОНРАВИТСЯ	Ti piacerà DA MATTI	你会爱上这个的	きっと気に入りますよ
+&Text.Customer.FacePaintingInProgress	"Не вмію такого, але можу зробити отаке"	"Nie gehört, aber ich könnte stattdessen das hier machen"	"Connais pas, mais je peux faire ça à la place"	"No me suena de nada, pero puedo hacer otra cosa"	"Первый раз слышу, лучше сделаю кое-что другое"	"Non ne ho mai sentito parlare, ma potrei fare questo invece"	从来没有听说过它， 但是我可以做这个	それは存じませんが、かわりにこれを
+&Text.Customer.FacePaintingInProgress	"Даруйте, не чув про таке"	"Tut mir leid, das kenne ich nicht"	"Désolé, je ne connais pas celui-là"	"Lo siento, no tengo ni idea de lo que me pides"	"Простите, я не знаю, как это делается"	"Mi spiace, non lo conosco"	抱歉， 我对那个并不熟悉	すみません、それはちょっと
 								
-HUD.Interact.Job.FacePaintStepA	Face Paint	Gesichtsfarbe	Maquillage	Pintura facial	Грим	Pittura per il viso	脸部涂料	フェイスペイント
+								
+HUD.Interact.Job.NeedFacePaint	Мені потрібен грим…	Ich brauche etwas mehr Gesichtsfarbe …	Il me faut plus de maquillage…	Necesito más pintura facial...	Мне нужно больше грима...	Mi serve altra Pittura per il viso...	我需要更多的脸部涂料…… 	フェイスペイントが必要だ…
+								
+HUD.Interact.Job.FacePaintStepA	Грим	Gesichtsfarbe	Maquillage	Pintura facial	Грим	Pittura per il viso	脸部涂料	フェイスペイント
 								
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////								
 								
-Text.JobName.HangingPosters	Вішання плакатів	Poster aufhängen	Coller les affiches	Colgar pósteres	Расклеивать афиши	Affissione manifesti	挂海报	ポスター貼り
-Text.JobDesc.HangingPosters	Розвішуйте плакати сьогоднішнього шоу.	Häng Poster für die heutige Show auf.	Collez les affiches pour le spectacle de ce soir.	Coloca los pósteres para la función de esta noche.	Расклейте афиши для вечернего представления.	Attacca i manifesti per lo spettacolo di questa sera.	为今晚的演出张贴海报。 	今夜のショーのポスターを 貼ってくれ。 
+Text.JobName.HangingPosters	Вішання афіш	Poster aufhängen	Coller les affiches	Colgar pósteres	Расклеивать афиши	Affissione manifesti	挂海报	ポスター貼り
+Text.JobDesc.HangingPosters	Розвішуйте афіші сьогоднішнього шоу.	Häng Poster für die heutige Show auf.	Collez les affiches pour le spectacle de ce soir.	Coloca los pósteres para la función de esta noche.	Расклейте афиши для вечернего представления.	Attacca i manifesti per lo spettacolo di questa sera.	为今晚的演出张贴海报。 	今夜のショーのポスターを 貼ってくれ。 
 								
-HUD.Tutorial.Job.HangingPostersBodyTextA	Take the Glue and Circus Poster from the container.	Nimm den Kleber und Zirkusposter aus dem Container.	Prenez la colle et l'affiche de cirque dans le conteneur.	Coge el pegamento y el póster circense del contenedor.	Возьмите из контейнера клей и цирковую афишу.	Prendi la Colla e il Manifesto del circo dal contenitore.	从箱子中拿些胶水和马戏团的海报。 	コンテナから「接着剤」と「サーカスのポスター」を入手する。 
-HUD.Tutorial.Job.HangingPostersBodyTextB	Craft a Glue Readied Poster.	Fertige ein Kleberbestrichenes Poster.	Fabriquez une affiche à coller	Crea un póster preparado con pegamento.	"Изготовьте афишу, намазанную клеем."	Crea un Manifesto preparato con la colla.	制作一张粘好胶水的海报	「のり付けしたポスター」を作る。 
-HUD.Tutorial.Job.HangingPostersBodyTextC	Place the Glue Readied Posters on the Boards outsite the Bigtop.	Platziere die Kleberbestrichenen Poster an den Tafeln außerhalb des Zirkuszelts.	Placez les affiches à coller sur les panneaux à l'extérieur du Big Top.	Coloca los pósteres preparados con pegamento en el tablón situado fuera de la carpa principal.	Разместите намазанные клеем афиши на стендах снаружи цирка.	Posiziona il Manifesto preparato con la colla sulle Bacheche all’esterno del Tendone principale.	将粘好胶水的海报布置在马戏团帐篷外的布告板上。 	「のり付けしたポスター」をテントの外の掲示板に貼る。 
+HUD.Tutorial.Job.HangingPostersBodyTextA	Візьміть із коробки клей та циркову афішу.	Nimm den Kleber und Zirkusposter aus dem Container.	Prenez la colle et l'affiche de cirque dans le conteneur.	Coge el pegamento y el póster circense del contenedor.	Возьмите из контейнера клей и цирковую афишу.	Prendi la Colla e il Manifesto del circo dal contenitore.	从箱子中拿些胶水和马戏团的海报。 	コンテナから「接着剤」と「サーカスのポスター」を入手する。 
+HUD.Tutorial.Job.HangingPostersBodyTextB	Змайструйте клеєну афішу.	Fertige ein Kleberbestrichenes Poster.	Fabriquez une affiche à coller	Crea un póster preparado con pegamento.	"Изготовьте афишу, намазанную клеем."	Crea un Manifesto preparato con la colla.	制作一张粘好胶水的海报	「のり付けしたポスター」を作る。 
+HUD.Tutorial.Job.HangingPostersBodyTextC	Повісьте клеєну афішу на дошці поза цирком.	Platziere die Kleberbestrichenen Poster an den Tafeln außerhalb des Zirkuszelts.	Placez les affiches à coller sur les panneaux à l'extérieur du Big Top.	Coloca los pósteres preparados con pegamento en el tablón situado fuera de la carpa principal.	Разместите намазанные клеем афиши на стендах снаружи цирка.	Posiziona il Manifesto preparato con la colla sulle Bacheche all’esterno del Tendone principale.	将粘好胶水的海报布置在马戏团帐篷外的布告板上。 	「のり付けしたポスター」をテントの外の掲示板に貼る。 
 								
-HUD.Interact.Job.HangingPostersStepA	Posters	Poster	Affiches	Pósteres	Афиши	Manifesto	海报	ポスター
-HUD.Interact.Job.HangingPostersStepB	Hang Poster	Poster aufhängen	Coller l'affiche	Colgar póster	Повесить афишу	Appendi il manifesto	挂海报	ポスターを貼る
+HUD.Interact.Job.HangingPostersStepA	Афіші	Poster	Affiches	Pósteres	Афиши	Manifesto	海报	ポスター
+HUD.Interact.Job.HangingPostersStepB	Повісити афішу	Poster aufhängen	Coller l'affiche	Colgar póster	Повесить афишу	Appendi il manifesto	挂海报	ポスターを貼る
 								
-HUD.Interact.Job.HangingPosters.NoPosterEquipped	I need a Glue Readied Poster!	Ich brauche ein Kleberbestrichenes Poster!	J’ai besoin d’une affiche à coller !	¡Necesito un póster preparado con pegamento!	"Мне нужна афиша, намазанная клеем!"	Mi serve un Manifesto preparato con la colla!	我需要一张粘好胶水的海报！ 	「のり付けしたポスター」が必要だ！
+HUD.Interact.Job.HangingPosters.NoPosterEquipped	Потрібна клеєна афіша!	Ich brauche ein Kleberbestrichenes Poster!	J’ai besoin d’une affiche à coller !	¡Necesito un póster preparado con pegamento!	"Мне нужна афиша, намазанная клеем!"	Mi serve un Manifesto preparato con la colla!	我需要一张粘好胶水的海报！ 	「のり付けしたポスター」が必要だ！
 								
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////								
 								
