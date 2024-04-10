@@ -1166,7 +1166,7 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Guard.SuspiciousOfCharacter	Стежу за підозрілою особою	Verfolge Verdächtigen.	Je suis le suspect.	Siguiendo al sospechoso.	Следую за подозреваемым	Seguo il sospetto	正在跟踪嫌疑人	不審者を追跡中			
 &Text.Guard.Suspicious	Постерігаю за підозрюваним	Verfolge Verdächtigen.	On suit le suspect.	Siguiendo al sospechoso.	Следую за подозреваемым	Seguo il sospetto	正在跟踪嫌疑人	不審者を追跡中			
 &Text.Guards.MaxPrisonAlertnessSpotted	ЗА НИМ!	VERFOLGUNG LÄUFT!	EN POURSUITE !	¡A LA BÚSQUEDA!	ВЕДУ ПРЕСЛЕДОВАНИЕ!	INSEGUIMENTO!	正在追踪	追跡する！			
-&Text.NPC.Maintenance.Idle	Не забувай про мене   Vergesst mich nicht.	Ne m'oublie pas.	No te olvides de mí.	Не забудь обо мне	Non dimenticarti di me	别忘了我	私のことを忘れないでくれ			
+&Text.NPC.Maintenance.Idle	Не забувай про мене	Vergesst mich nicht.	Ne m'oublie pas.	No te olvides de mí.	Не забудь обо мне	Non dimenticarti di me	别忘了我	私のことを忘れないでくれ			
 &Text.Inmates.Gym	Не забувай про дихання!	Vergiss nicht zu atmen!	N'oublie pas de respirer !	¡No te olvides de respirar!	Не забывай дышать!	"Respira, mi raccomando!"	别忘了深呼吸！ 	深呼吸を忘れずにぃぃぃ！			
 &Text.NPC.MedicDismissFromSolitary	Не забудь написати	Vergiss nicht zu schreiben!	N'oublie pas d'écrire.	No te olvides de escribir.	Не забывай писать	Scrivimi!	别忘了写信	ちゃんと手紙を書くようにな！			
 &Text.Guards.CombatEnded	Не забувай своє місце…	"Vergiss nicht, wo du stehst."	N'oublie pas ta place...	No te olvides de tu sitio...	Не забывай свое место...	Non dimenticare il tuo posto...	别忘了自己的身份……	調子に乗るなよ…			
