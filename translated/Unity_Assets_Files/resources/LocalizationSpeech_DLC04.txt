@@ -45,17 +45,17 @@ OVERRIDE=DLC04
 &Text.Visitor.Greet	"Привіт, сонце…"	"Hallo, mein Guter …"	"Bonjour, mon chou..."	"Hola, querido:"	"Здравствуй, дорогуша…"	"Ciao, tesoro..."	嘿， 亲爱的…… 	やあ、 どうも… 
 &Text.Visitor.Greet	Останній твій виступ був неймовірний!	Dein letzter Auftritt war fantastisch!	Ta dernière performance était fabuleuse !	¡Tu última actuación fue maravillosa!	Твое последнее выступление было просто великолепно!	La tua ultima esibizione è stata splendida!	你上次的表演太精彩了！ 	こないだのステージは最高だったな！  
 &Text.Visitor.Greet	Ти такий класний у цьому вбранні!	Du siehst super aus in dem Outfit!	Tu es magnifique dans cette tenue !	¡El traje te queda fantástico!	Идеально выглядишь в этом наряде!	Hai un aspetto favoloso in quel costume!	你穿上这身装备看上去简直绝妙！ 	衣装がよく似合ってたぞ！  
-&Text.Visitor.Greet	Та завше був гарненьким артистом	Du standst schon immer gerne auf der Bühne	Tu as toujours eu la fibre artistique.	Siempre actuaste bien	Ты умеешь удивить	C’è sempre stato un artista in te	你一直都是位十足的表演者	昔から芸達者だったもんな
+&Text.Visitor.Greet	Ти завше був гарненьким артистом	Du standst schon immer gerne auf der Bühne	Tu as toujours eu la fibre artistique.	Siempre actuaste bien	Ты умеешь удивить	C’è sempre stato un artista in te	你一直都是位十足的表演者	昔から芸達者だったもんな
 &Text.Visitor.Greet	У вас немає вихідних?	Hast du auch irgendwann mal einen Tag frei?	Tu n'as aucun jour de repos ?	¿No tienes días libres?	Тебя отсюда могут отпустить на время?	Non hai dei giorni liberi?	你没放两天假吗？ 	オフってないのか？ 
 								
 								
-&Text.NPC.MedicCarrying	This one feels funny!	Das fühlt sich komisch an!	Celui-là se sent mal !	¡Este se siente raro!	"Хм, странный он на ощупь!"	Questo sembra divertente!	这个感觉很好笑！ 	なんか様子がヘンだぞ！  
-&Text.NPC.MedicCarrying	Not laughing now are you!	"Jetzt ist dir das Lachen vergangen, was!"	"Tu fais moins le rigolo, maintenant !"	"Ya no te ríes, ¿eh?"	"Что, больше не смешно?"	"Ora non ridi più, eh?"	你不正在笑嘛！ 	今は笑えないだろ？ 
-&Text.NPC.MedicCarrying	Are you not entertained?	Amüsierst du dich nicht?	Ça ne t'amuse pas ?	¿No te estás divirtiendo?	"Что, не весело тебе?"	Non ti stai divertendo?	你觉得不够开心吗？ 	楽しいか？ 
-&Text.NPC.MedicCarrying	Stop clowning around!	"Hör auf, herumzukaspern!"	Arrête de faire le clown !	¡Deja de hacer el payaso!	Хватит дурака валять!	Piantala di fare il pagliaccio!	别胡闹了！ 	ふざけるのはよせ！  
-&Text.NPC.MedicCarrying	Still has a smile on it's face!	Und immer noch am Lächeln!	Il a encore le sourire !	¡Aún sonríe!	"Глянь, улыбается еще!"	"Guarda un po’, sorride ancora!"	它脸上还挂着笑呢！ 	まだ笑ってやがるぞ！  
-&Text.NPC.MedicCarrying	Is this a comedy or a tragedy? 	Soll ich lachen oder weinen? 	C'est une comédie ou une tragédie ? 	¿Es una comedia o una tragedia? 	Это комедия или трагедия? 	"Ma è una commedia o una tragedia, questa? "	这是个喜剧还是悲剧？ 	これは冗談か？ 悲劇か？ 
-&Text.NPC.MedicCarrying	Feels like a broken funny bone!	Ich hab mir wohl einen komischen Knochen gebrochen!	On dirait une déchirure de la fibre humoristique !	¡Parece un hueso de la risa roto!	"Кому-то смешинку сломали, похоже!"	"Il tuo numero non ha alcun senso, nemmeno quello dell’umorismo"	感觉像一根滑稽的断骨！ 	骨が折れてるっぽいぞ！  
+&Text.NPC.MedicCarrying	Цей чудний якийсь!	Das fühlt sich komisch an!	Celui-là se sent mal !	¡Este se siente raro!	"Хм, странный он на ощупь!"	Questo sembra divertente!	这个感觉很好笑！ 	なんか様子がヘンだぞ！  
+&Text.NPC.MedicCarrying	От тобі й ха-ха!	"Jetzt ist dir das Lachen vergangen, was!"	"Tu fais moins le rigolo, maintenant !"	"Ya no te ríes, ¿eh?"	"Что, больше не смешно?"	"Ora non ridi più, eh?"	你不正在笑嘛！ 	今は笑えないだろ？ 
+&Text.NPC.MedicCarrying	Шо, більше не весело?	Amüsierst du dich nicht?	Ça ne t'amuse pas ?	¿No te estás divirtiendo?	"Что, не весело тебе?"	Non ti stai divertendo?	你觉得不够开心吗？ 	楽しいか？ 
+&Text.NPC.MedicCarrying	Годі блазнювати!	"Hör auf, herumzukaspern!"	Arrête de faire le clown !	¡Deja de hacer el payaso!	Хватит дурака валять!	Piantala di fare il pagliaccio!	别胡闹了！ 	ふざけるのはよせ！  
+&Text.NPC.MedicCarrying	Ця усмішка так і не зникла з пики!	Und immer noch am Lächeln!	Il a encore le sourire !	¡Aún sonríe!	"Глянь, улыбается еще!"	"Guarda un po’, sorride ancora!"	它脸上还挂着笑呢！ 	まだ笑ってやがるぞ！  
+&Text.NPC.MedicCarrying	То комедія чи трагедія? 	Soll ich lachen oder weinen? 	C'est une comédie ou une tragédie ? 	¿Es una comedia o una tragedia? 	Это комедия или трагедия? 	"Ma è una commedia o una tragedia, questa? "	这是个喜剧还是悲剧？ 	これは冗談か？ 悲劇か？ 
+&Text.NPC.MedicCarrying	Схоже, він зламав собі ХАрю!	Ich hab mir wohl einen komischen Knochen gebrochen!	On dirait une déchirure de la fibre humoristique !	¡Parece un hueso de la risa roto!	"Кому-то смешинку сломали, похоже!"	"Il tuo numero non ha alcun senso, nemmeno quello dell’umorismo"	感觉像一根滑稽的断骨！ 	骨が折れてるっぽいぞ！  
 								
 								
 &Text.NPC.Warden	Send in the clowns!	Schickt die Clowns rein!	Faisons entrer les clowns !	¡Que entren los payasos!	Выпускайте клоунов!	Che entrino i pagliacci!	让小丑们进来！ 	ピエロを呼べ！  

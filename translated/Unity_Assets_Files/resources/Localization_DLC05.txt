@@ -1,25 +1,25 @@
 Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese	
 									
 Text.Item.Gemstone	Gemstone	Edelstein	Pierre précieuse	Gema	Драгоценный камень	Gemma	宝石	宝石	
-Text.Item.MoltenMetal	Molten Metal	Geschmolzenes Metall	Métal fondu	Metal fundido	Расплавленный металл	Metallo fuso	熔化的金属	溶けた金属	
-Text.Item.ReplicaLute	Replica Lute	Lauten-Nachbildung	Réplique de luth	Réplica de laúd	Копия лютни	Replica di un liuto	鲁特琴仿造品	リュートのレプリカ	
-Text.Item.TorchFuel	Torch Fuel	Fackelbrennstoff	Huile de torche	Combustible	Топливо для факела	Combustibile per torcia	火炬燃料	たいまつの油	
-Text.Item.MetalIngot	Metal Ingot	Metallbarren	Lingot de métal	Lingote de metal	Металлический слиток	Lingotto di metallo	金属锭	金属塊	
-Text.Item.Horseshoe	Horseshoe	Hufeisen	Fer à cheval	Herradura	Подкова	Ferro di cavallo	马蹄铁	蹄鉄	
-Text.Item.Rivets	Rivets	Nieten	Rivets	Remaches	Заклепки	Rivetti	铆钉	リベット	
-Text.Item.WoodenPeg	Дерев’яний кілок	Holzbolzen	Cheville en bois	Estaca de madera	Деревянный колышек	Piolo di legno	木栓	木のペグ	
-Text.Item.LeatherStrap	Leather Strap	Lederriemen	Lanière de cuir	Tira de piel	Кожаный ремень	Cinghia in cuoio	皮带	革ひも	
-Text.Item.StoneTablet	Stone Tablet	Steintafel	Tablette de pierre	Tabla de piedra	Каменная табличка	Tavoletta di pietra	石碑	石板	
-Text.Item.PlasticChalice	Cheap Plastic Chalice	Billiger Plastikkelch	Coupe en plastique bon marché	Cáliz de plástico barato	Дешевая пластиковая чаша	Calice di plastica dozzinale	劣质塑料杯	安物のプラ杯	
-Text.Item.MedievalHalbard	Makeshift Halbard	Provisorische Hellebarde	Hallebarde de fortune	Alabarda improvisada	Самодельная алебарда	Alabarda di fortuna	临时用戟	即席ハルバード	
-Text.Item.MedievalStaff	Makeshift Staff	Provisorischer Stab	Bâton de fortune	Bastón improvisado	Самодельный посох	Bastone di fortuna	临时木棒	即席こん棒	
-Text.Item.MedievalSword	Makeshift Sword	Provisorisches Schwert	Épée de fortune	Espada improvisada	Самодельный меч	Spada di fortuna	临时长剑	即席の剣	
-Text.Item.MedievalHelmet	Makeshift Knights Helm	Provisorischer Ritterhelm	Heaume de chevalier de fortune	Yelmo de caballero improvisado	Самодельный рыцарский шлем	Elmo da cavaliere di fortuna	临时骑士头盔	即席かぶと	
-Text.Item.MedievalChestPlate	Makeshift Chest Plate	Provisorischer Harnisch	Plastron de fortune	Peto improvisado	Самодельный нагрудник	Piastra pettorale di fortuna	临时护胸	即席胸当て	
-Text.Item.MedievalGreaves	Makeshift Greaves	Provisorische Beinschienen	Grèves de fortune	Grebas improvisadas	Самодельные наголенники	Gambiere di fortuna	临时胫甲	即席すね当て	
-Text.Item.MedievalGauntlets	Makeshift Gauntlets	Provisorische Panzerhandschuhe	Gantelets de fortune	Guanteletes improvisados	Самодельные латные рукавицы	Guanti in metallo di fortuna	临时护手	即席ガントレット	
-Text.Item.MedievalHalfCatapultFrame	Half Catapult Frame	Halber Katapultrahmen	Demi cadre de catapulte	Medio bastidor de catapulta	Половина рамы для катапульты	Metà telaio per catapulta	半成品弹射器框架	カタパルトの骨組みの半分	
-Text.Item.MedievalCatapultBeam	Catapult Beam	Katapultbalken	Bras de catapulte	Brazo de catapulta	Балка катапульты	Braccio della catapulta	弹射器梁	カタパルトのはり	
+Text.Item.MoltenMetal	Розтоплений метал	Geschmolzenes Metall	Métal fondu	Metal fundido	Расплавленный металл	Metallo fuso	熔化的金属	溶けた金属	
+Text.Item.ReplicaLute	Репліка лютні	Lauten-Nachbildung	Réplique de luth	Réplica de laúd	Копия лютни	Replica di un liuto	鲁特琴仿造品	リュートのレプリカ	
+Text.Item.TorchFuel	Скипидар	Fackelbrennstoff	Huile de torche	Combustible	Топливо для факела	Combustibile per torcia	火炬燃料	たいまつの油	
+Text.Item.MetalIngot	Металевий виливок	Metallbarren	Lingot de métal	Lingote de metal	Металлический слиток	Lingotto di metallo	金属锭	金属塊	
+Text.Item.Horseshoe	Підкова	Hufeisen	Fer à cheval	Herradura	Подкова	Ferro di cavallo	马蹄铁	蹄鉄	
+Text.Item.Rivets	Нюти	Nieten	Rivets	Remaches	Заклепки	Rivetti	铆钉	リベット	
+Text.Item.WoodenPeg	Дерев’яний клинець	Holzbolzen	Cheville en bois	Estaca de madera	Деревянный колышек	Piolo di legno	木栓	木のペグ	
+Text.Item.LeatherStrap	Смужка шкіри	Lederriemen	Lanière de cuir	Tira de piel	Кожаный ремень	Cinghia in cuoio	皮带	革ひも	
+Text.Item.StoneTablet	Скрижаль	Steintafel	Tablette de pierre	Tabla de piedra	Каменная табличка	Tavoletta di pietra	石碑	石板	
+Text.Item.PlasticChalice	Дешева пластикова чаша	Billiger Plastikkelch	Coupe en plastique bon marché	Cáliz de plástico barato	Дешевая пластиковая чаша	Calice di plastica dozzinale	劣质塑料杯	安物のプラ杯	
+Text.Item.MedievalHalbard	Саморобна алебарда	Provisorische Hellebarde	Hallebarde de fortune	Alabarda improvisada	Самодельная алебарда	Alabarda di fortuna	临时用戟	即席ハルバード	
+Text.Item.MedievalStaff	Саморобний посох	Provisorischer Stab	Bâton de fortune	Bastón improvisado	Самодельный посох	Bastone di fortuna	临时木棒	即席こん棒	
+Text.Item.MedievalSword	Саморобний меч	Provisorisches Schwert	Épée de fortune	Espada improvisada	Самодельный меч	Spada di fortuna	临时长剑	即席の剣	
+Text.Item.MedievalHelmet	Саморобний лицарський шолом	Provisorischer Ritterhelm	Heaume de chevalier de fortune	Yelmo de caballero improvisado	Самодельный рыцарский шлем	Elmo da cavaliere di fortuna	临时骑士头盔	即席かぶと	
+Text.Item.MedievalChestPlate	Саморобний нагрудник	Provisorischer Harnisch	Plastron de fortune	Peto improvisado	Самодельный нагрудник	Piastra pettorale di fortuna	临时护胸	即席胸当て	
+Text.Item.MedievalGreaves	Саморобні наголінники	Provisorische Beinschienen	Grèves de fortune	Grebas improvisadas	Самодельные наголенники	Gambiere di fortuna	临时胫甲	即席すね当て	
+Text.Item.MedievalGauntlets	Саморобні рукавиці	Provisorische Panzerhandschuhe	Gantelets de fortune	Guanteletes improvisados	Самодельные латные рукавицы	Guanti in metallo di fortuna	临时护手	即席ガントレット	
+Text.Item.MedievalHalfCatapultFrame	Пів рами катапульти	Halber Katapultrahmen	Demi cadre de catapulte	Medio bastidor de catapulta	Половина рамы для катапульты	Metà telaio per catapulta	半成品弹射器框架	カタパルトの骨組みの半分	
+Text.Item.MedievalCatapultBeam	Балка катапульти	Katapultbalken	Bras de catapulte	Brazo de catapulta	Балка катапульты	Braccio della catapulta	弹射器梁	カタパルトのはり	
 Text.Item.MedievalCatapultBucket	Catapult Bucket	Katapultbehälter	Panier de catapulte	Bolsa de catapulta	Ковш для катапульты	Cucchiara della catapulta	弹射器筐	カタパルトの投石カップ	
 Text.Item.MedievalWoodenOar	Wooden Oar	Holzruder	Rame en bois	Remo de madera	Деревянное весло	Remo di legno	木制桨	木のオール	
 Text.Item.MedievalCatapultCounterWeight	Catapult Counter-Weight	Katapult-Gegengewicht	Contrepoids de catapulte	Contrapeso de catapulta	Противовес катапульты	Contrappeso della catapulta	弹射器配重	カタパルトのおもり	
@@ -216,8 +216,8 @@ Text.Quest.ItBelongsInAMuseum.ThirdObjective	Beat up $CombatTarget with $ItemToC
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////									
 									
 Text.DLC05.Cutscene.Intro.A	Доброго ранку	Morgen!	Salut !	Buenos días	Доброе утро	‘Giorno	早啊	ごきげんよう	
-Text.DLC05.Cutscene.Intro.B	Сподіваюся, що ти полюбляєш історичні драми…	"Ich hoffe, du bist ein Fan von Geschichtsdramen …"	J'espère que tu aimes les drames historiques...	Espero que te gusten los dramas históricos...	"Надеюсь, вам нравятся исторические драмы…"	Spero che tu sia un fan dei drammi storici...	希望你对历史剧感兴趣......	歴史ドラマは好きかね？	
-Text.DLC05.Cutscene.Intro.C	Тому що ти скоро опинишся в одній із них	"Weil du im Begriff bist, dich in einem wiederzufinden."	Car tu es sur le point d'en vivre un.	Porque vas a meterte de lleno en uno.	Потому что вы почти вляпались в одну из них	Perché stai per ritrovarti in uno di loro	因为你即将走入历史	これからキミは、その世界に足を踏み入れるのだ	
+Text.DLC05.Cutscene.Intro.B	Сподіваюся, ти полюбляєш історичні драми…	"Ich hoffe, du bist ein Fan von Geschichtsdramen …"	J'espère que tu aimes les drames historiques...	Espero que te gusten los dramas históricos...	"Надеюсь, вам нравятся исторические драмы…"	Spero che tu sia un fan dei drammi storici...	希望你对历史剧感兴趣......	歴史ドラマは好きかね？	
+Text.DLC05.Cutscene.Intro.C	Тому що скоро опинишся в одній із них	"Weil du im Begriff bist, dich in einem wiederzufinden."	Car tu es sur le point d'en vivre un.	Porque vas a meterte de lleno en uno.	Потому что вы почти вляпались в одну из них	Perché stai per ritrovarti in uno di loro	因为你即将走入历史	これからキミは、その世界に足を踏み入れるのだ	
 Text.DLC05.Cutscene.Intro.D	Вітаємо в замку Лок!	Willkommen im Locke Castle!	Bienvenue au château de Locke.	Te damos la bienvenida al castillo Locke.	Добро пожаловать в замок Локк	Ti do il benvenuto a Castel Locke	欢迎来到洛克城堡	ロック城へようこそ！	
 Text.DLC05.Cutscene.Intro.E	"Surrounded by a stagnant moat,"	Umgeben von einem Wassergraben.	L'endroit est protégé par des douves.	Rodeado de un foso de agua estancada.	Окруженный рвом с застоявшейся водой	Circondato da un fossato d’acqua stagnante	被一条污浊的护城河环绕	周囲は悪臭を放つ堀や	
 Text.DLC05.Cutscene.Intro.F	"And thick stone walls,"	Und dicken Steinmauern.	Et d'épaisses murailles en pierre.	Y gruesos muros de piedra.	И толстыми каменными стенами	E da spesse mura di pietra	还有密不透风的石墙	分厚い城壁で囲まれている	
