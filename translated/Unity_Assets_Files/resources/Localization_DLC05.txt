@@ -20,15 +20,15 @@ Text.Item.MedievalGreaves	Саморобні наголінники	Provisorisch
 Text.Item.MedievalGauntlets	Саморобні рукавиці	Provisorische Panzerhandschuhe	Gantelets de fortune	Guanteletes improvisados	Самодельные латные рукавицы	Guanti in metallo di fortuna	临时护手	即席ガントレット	
 Text.Item.MedievalHalfCatapultFrame	Пів рами катапульти	Halber Katapultrahmen	Demi cadre de catapulte	Medio bastidor de catapulta	Половина рамы для катапульты	Metà telaio per catapulta	半成品弹射器框架	カタパルトの骨組みの半分	
 Text.Item.MedievalCatapultBeam	Балка катапульти	Katapultbalken	Bras de catapulte	Brazo de catapulta	Балка катапульты	Braccio della catapulta	弹射器梁	カタパルトのはり	
-Text.Item.MedievalCatapultBucket	Catapult Bucket	Katapultbehälter	Panier de catapulte	Bolsa de catapulta	Ковш для катапульты	Cucchiara della catapulta	弹射器筐	カタパルトの投石カップ	
-Text.Item.MedievalWoodenOar	Wooden Oar	Holzruder	Rame en bois	Remo de madera	Деревянное весло	Remo di legno	木制桨	木のオール	
-Text.Item.MedievalCatapultCounterWeight	Catapult Counter-Weight	Katapult-Gegengewicht	Contrepoids de catapulte	Contrapeso de catapulta	Противовес катапульты	Contrappeso della catapulta	弹射器配重	カタパルトのおもり	
+Text.Item.MedievalCatapultBucket	Кошик катапульти	Katapultbehälter	Panier de catapulte	Bolsa de catapulta	Ковш для катапульты	Cucchiara della catapulta	弹射器筐	カタパルトの投石カップ	
+Text.Item.MedievalWoodenOar	Дерев’яне весло	Holzruder	Rame en bois	Remo de madera	Деревянное весло	Remo di legno	木制桨	木のオール	
+Text.Item.MedievalCatapultCounterWeight	Противага катапульти	Katapult-Gegengewicht	Contrepoids de catapulte	Contrapeso de catapulta	Противовес катапульты	Contrappeso della catapulta	弹射器配重	カタパルトのおもり	
 									
-Text.CaidensDesk.Title	Caiden's Desk	Pult von Caiden	Bureau de Caiden	Escritorio de Caiden	Стол Кайдена	Tavolo di Caiden	凯登的书桌	カイデンの机	
+Text.CaidensDesk.Title	Стіл Кайдена	Pult von Caiden	Bureau de Caiden	Escritorio de Caiden	Стол Кайдена	Tavolo di Caiden	凯登的书桌	カイデンの机	
 									
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////									
 									
-Text.ConstructCatapult.Interact	Construct Catapult	Katapult bauen	Fabriquer une catapulte	Construir catapulta	Сделать катапульту	Costruisci catapulta	弹射器结构图	カタパルトを組み立てる	
+Text.ConstructCatapult.Interact	Змайструвати катапульту	Katapult bauen	Fabriquer une catapulte	Construir catapulta	Сделать катапульту	Costruisci catapulta	弹射器结构图	カタパルトを組み立てる	
 									
 Text.CatapultEscape.Stage01.Fail	We need to craft a Half Catapult Frame…	Wir müssen einen halben Katapultrahmen herstellen …	Nous devons fabriquer un demi cadre de catapulte...	Tenemos que fabricar medio bastidor de catapulta...	Нам нужно сделать половину рамы для катапульты…	Dobbiamo creare una Metà telaio per catapulta...	我们需要制作一个半成品弹射器框架......	「カタパルトの骨組みの半分」を作らないと…	
 Text.CatapultEscape.Stage01.Succeed	"Great, now for the other half!"	"Sehr gut, jetzt die andere Hälfte!"	"Parfait, passons maintenant à la deuxième moitié !"	"¡Muy bien, ahora la otra mitad!"	"Отлично, а теперь нужна вторая половина!"	"Ottimo, ora ci serve l’altra metà!"	很好， 现在制作另一半！	よし、残り半分だ！	
