@@ -27,11 +27,11 @@ Text.Presence.EscapedPrison18	Clocked-out one last time from Snow Way Out! Day %
 Text.ActivityFeed.EscapedPrison18.Cap	$USER_NAME_OR_ID Clocked-out from Snow Way Out!	$USER_NAME_OR_ID hat sich in Snow Way Out ausgestempelt!	$USER_NAME_OR_ID a quitté Snow Way Out !	$USER_NAME_OR_ID ha hecho el último turno en Snow Way Out.	$USER_NAME_OR_ID выходит из тюрьмы Snow Way Out!	$USER_NAME_OR_ID ha timbrato il cartellino da Snow Way Out!	$USER_NAME_OR_ID 在雪中逃狱打卡下班了！ 	$USER_NAME_OR_ID が雪の脱出を後にしました！ 		
 										
 Text.Milestone.DLC06.Escape1	Прорив периметра	Eingrenzungs-Ausbruch	Évasion du périmètre	Fuga del perímetro	Нарушение периметра	Evasione dal perimetro	周界突破	境界線突破		
-Text.Milestone.DLC06.Escape2	"It's not a Toy, It's a collectable"	"Kein Spielzeug, sondern ein Sammlerstück"	"Ce n’est pas un jouet, c’est une pièce de collection"	"No es un juguete, es un objeto coleccionable"	"Это не игрушка, это коллекционный предмет"	"Non è un Giocattolo, ma un pezzo da collezione"	这不是玩具， 是收集品	これは単なるおもちゃじゃなく、コレクターズアイテムだ		
-Text.Milestone.DLC06.Escape3	Batteries Not Included	Batterien nicht inbegriffen	Piles non incluses	Pilas no incluidas.	Батарейки в комплекте не идут	Batterie non incluse	不含电池	電池は別売りです		
+Text.Milestone.DLC06.Escape2	"Не іграшка, а колекційка"	"Kein Spielzeug, sondern ein Sammlerstück"	"Ce n’est pas un jouet, c’est une pièce de collection"	"No es un juguete, es un objeto coleccionable"	"Это не игрушка, это коллекционный предмет"	"Non è un Giocattolo, ma un pezzo da collezione"	这不是玩具， 是收集品	これは単なるおもちゃじゃなく、コレクターズアイテムだ		
+Text.Milestone.DLC06.Escape3	Батарейок не передбачено	Batterien nicht inbegriffen	Piles non incluses	Pilas no incluidas.	Батарейки в комплекте не идут	Batterie non incluse	不含电池	電池は別売りです		
 										
-EscapeMethods.DLC06_Single	"It's not a Toy, It's a collectable"	"Kein Spielzeug, sondern ein Sammlerstück"	"Ce n’est pas un jouet, c’est une pièce de collection"	"No es un juguete, es un objeto coleccionable"	"Это не игрушка, это коллекционный предмет"	"Non è un Giocattolo, ma un pezzo da collezione"	这不是玩具， 是收集品	これは単なるおもちゃじゃなく、コレクターズアイテムだ		
-EscapeMethods.DLC06_Multi	Batteries Not Included	Batterien nicht inbegriffen	Piles non incluses	Pilas no incluidas.	Батарейки в комплекте не идут	Batterie non incluse	不含电池	電池は別売りです		
+EscapeMethods.DLC06_Single	"Не іграшка, а колекційка"	"Kein Spielzeug, sondern ein Sammlerstück"	"Ce n’est pas un jouet, c’est une pièce de collection"	"No es un juguete, es un objeto coleccionable"	"Это не игрушка, это коллекционный предмет"	"Non è un Giocattolo, ma un pezzo da collezione"	这不是玩具， 是收集品	これは単なるおもちゃじゃなく、コレクターズアイテムだ		
+EscapeMethods.DLC06_Multi	Батарейок не передбачено	Batterien nicht inbegriffen	Piles non incluses	Pilas no incluidas.	Батарейки в комплекте не идут	Batterie non incluse	不含电池	電池は別売りです		
 Text.Frontend.DLC06.Name	Сніговий вихід	Snow Way Out	Snow Way Out	Snow Way Out	Snow Way Out	Snow Way Out	雪中逃狱	雪の脱出		
 										
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////										
