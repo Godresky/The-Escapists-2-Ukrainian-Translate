@@ -157,15 +157,15 @@ HUD.Interact.Job.Horseshoe.StepD	Підкови 	Hufeisen 	Fers à cheval 	Herra
 Text.JobName.Stonemason	Каменяр	Steinmetz	Maçonnerie	Mampostero	Каменщик	Muratore	石工	石像づくり	
 Text.JobDesc.Stonemason	А все тому, що ви дешевший за фахівців.	Weil du billiger als ein Fachmann bist	Vous coûtez moins cher qu'un vrai pro	Porque te preocupa el dinero más que la profesionalidad	Потому что нанять профессионала намного дороже	Perché tu costi meno di un professionista	因为你比专业的便宜	プロに頼むより安上がりだ。	
 									
-HUD.Tutorial.Job.StonemasonBodyTextA	"Take a stone block from the container, carry it to the desk."	Nimm einen Steinblock aus dem Container und trage ihn zum Pult	Prendre un bloc de pierre dans le conteneur et le placer sur l'établi	Coge un bloque de piedra del contenedor y llévalo al escritorio.	Возьмите в контейнере каменную глыбу и перенесите ее на стол	Prendi un blocco di pietra dal contenitore e trasportalo al tavolo	从箱子中拿出石块， 将其带到书桌处	コンテナから石を入手し、机へ運ぶ。	
-HUD.Tutorial.Job.StonemasonBodyTextB	Carve the stone.	Meißle den Stein	Tailler la pierre	Talla la piedra.	Обработайте камень	Scolpisci la pietra	切割石头	石を彫刻する。	
-HUD.Tutorial.Job.StonemasonBodyTextC	Take the carved stone over to the finished container.	Bring den gemeißelten Stein zum Container für fertige Materialien	Placer la pierre taillée dans le conteneur des pierres terminées	Lleva la piedra tallada al contenedor terminado.	Перенесите обработанный камень в контейнер готовых изделий	Porta la pietra scolpita al contenitore delle pietre finite	将已切割的石块放入箱子	彫刻を完成品コンテナへ入れる。	
+HUD.Tutorial.Job.StonemasonBodyTextA	"Візміть кам’яну брилу з коробки та перенесіть її на стіл."	Nimm einen Steinblock aus dem Container und trage ihn zum Pult	Prendre un bloc de pierre dans le conteneur et le placer sur l'établi	Coge un bloque de piedra del contenedor y llévalo al escritorio.	Возьмите в контейнере каменную глыбу и перенесите ее на стол	Prendi un blocco di pietra dal contenitore e trasportalo al tavolo	从箱子中拿出石块， 将其带到书桌处	コンテナから石を入手し、机へ運ぶ。	
+HUD.Tutorial.Job.StonemasonBodyTextB	Витесіть камінь.	Meißle den Stein	Tailler la pierre	Talla la piedra.	Обработайте камень	Scolpisci la pietra	切割石头	石を彫刻する。	
+HUD.Tutorial.Job.StonemasonBodyTextC	Перекладіть витесану брилу в коробку для готових каменів.	Bring den gemeißelten Stein zum Container für fertige Materialien	Placer la pierre taillée dans le conteneur des pierres terminées	Lleva la piedra tallada al contenedor terminado.	Перенесите обработанный камень в контейнер готовых изделий	Porta la pietra scolpita al contenitore delle pietre finite	将已切割的石块放入箱子	彫刻を完成品コンテナへ入れる。	
 									
 HUD.Tutorial.Job.Stonemason.StoneBlocks	Камені	Steine	Pierres	Piedras	Камни	Pietre	石头	石	
-HUD.Tutorial.Job.Stonemason.Carved	Carved Blocks	Gemeißelte Blöcke	Blocs taillés	Bloques tallados	Обработанные блоки	Blocchi scolpiti	已切割的石块	彫刻済の石	
-HUD.Tutorial.Job.Stonemason.CarveStone	Carve Stone	Stein meißeln	Tailler la pierre	Tallar piedra	Обработать камень	Scolpisci Pietra	切割石头	石の彫刻	
+HUD.Tutorial.Job.Stonemason.Carved	Витесані брили	Gemeißelte Blöcke	Blocs taillés	Bloques tallados	Обработанные блоки	Blocchi scolpiti	已切割的石块	彫刻済の石	
+HUD.Tutorial.Job.Stonemason.CarveStone	Витесати камінь	Stein meißeln	Tailler la pierre	Tallar piedra	Обработать камень	Scolpisci Pietra	切割石头	石の彫刻	
 									
-HUD.Interact.Job.Stonemason.NeedStone	I need a Stone!	Ich brauche einen Stein!	J'ai besoin d'une pierre !	¡Necesito una piedra!	Мне нужен камень!	Mi serve una Pietra!	我需要一块石头！	石が必要だ！	
+HUD.Interact.Job.Stonemason.NeedStone	Мені потрібен камінь!	Ich brauche einen Stein!	J'ai besoin d'une pierre !	¡Necesito una piedra!	Мне нужен камень!	Mi serve una Pietra!	我需要一块石头！	石が必要だ！	
 HUD.Interact.Job.Stonemason.StonePlaced									
 HUD.Interact.Job.Stonemason.StoneCarved									
 									
@@ -183,14 +183,14 @@ HUD.Interact.Job.Minstrel.StepB	Грати	Vorspielen	Jouer	Actuar	Играть	
 									
 HUD.Interact.Job.Minstrel.Equip	Мені потрібна репліка лютні…	Ich brauche eine Lauten-Nachbildung …	J'ai besoin d'une réplique de luth...	Necesito una réplica de laúd...	Мне нужна копия лютни…	Mi serve una Replica di un liuto...	我需要一把鲁特琴仿造品......	「リュートのレプリカ」が必要だ…	
 									
-&HUD.Interact.Job.Minstrel.Reaction	My ears!	Meine Ohren!	Mes oreilles !	¡Mis oídos!	Мои уши!	"Ah, le mie orecchie!"	我的耳朵！	鼓膜がぁ！	
-&HUD.Interact.Job.Minstrel.Reaction	Do you take requests?	Nimmst du Songwünsche an?	On peut te demander une chanson en particulier ?	¿Aceptas peticiones?	Вы принимаете заявки?	Accetti richieste?	你接任务吗？	リクエストしても？	
-&HUD.Interact.Job.Minstrel.Reaction	Sounds like a ringtone I once had…	"Klingt wie ein Klingelton, den ich mal hatte …"	J'avais une sonnerie qui ressemblait à ça...	Me recuerda a un politono que tuve una vez...	У меня на звонке похожая мелодия стояла…	È uguale alla mia vecchia suoneria...	让我想起了我之前的手机铃声......	昔の着メロみたいだ…	
-&HUD.Interact.Job.Minstrel.Reaction	So you're the entertainment?	Du sorgst also für die Unterhaltung?	C'est toi l'attraction du jour ?	¿Tú eres quien nos va a entretener?	Так это и есть обещанное «развлечение»?	E così saresti tu lo spettacolo?	所以你是表演的人？	なら、エンタメってのはあんたのことか？	
-&HUD.Interact.Job.Minstrel.Reaction	"Turn it down a bit, please?!"	"Geht das etwas leiser, bitte?!"	"Baisse d'un ton, tu veux ?!"	"¡¿Puedes bajar un poco el volumen, por favor?!"	А можно потише? Пожалуйста!	Ti spiace abbassare il volume?!	小点声， 好吗？！	ボリュームを下げてくれぇ！！	
-&HUD.Interact.Job.Minstrel.Reaction	"Great, it's *that* song again…"	"Super, *der* Song schon wieder …"	"Super, *encore* cette chanson..."	"Qué bien, es *esa* canción otra vez..."	"Ну вот, опять эта песня…"	"Grandioso, di nuovo *quella* canzone..."	很好， 又是“那首”歌......	また「あの」曲かよ…	
-&HUD.Interact.Job.Minstrel.Reaction	Please learn something else…	Lern bitte was anderes …	Tu ne veux pas apprendre à jouer autre chose ?	A ver si aprendemos alguna nueva...	Разучили бы что-нибудь другое…	"Per favore, impara qualcos’altro..."	能不能学点别的......	他の曲も覚えろっての…	
-&HUD.Interact.Job.Minstrel.Reaction	Wish I brought Ear Plugs…	Hätte ich doch nur Ohrstöpsel …	J'aurais dû apporter des bouchons d'oreille...	Ojalá hubiera traído tapones...	"И где мои беруши, когда они так нужны…"	Vorrei aver portato dei tappi per le orecchie...	真希望我能想到带耳塞进来......	耳栓ないすかね…	
+&HUD.Interact.Job.Minstrel.Reaction	Мої вуха!	Meine Ohren!	Mes oreilles !	¡Mis oídos!	Мои уши!	"Ah, le mie orecchie!"	我的耳朵！	鼓膜がぁ！	
+&HUD.Interact.Job.Minstrel.Reaction	Ви приймаєте замовлення?	Nimmst du Songwünsche an?	On peut te demander une chanson en particulier ?	¿Aceptas peticiones?	Вы принимаете заявки?	Accetti richieste?	你接任务吗？	リクエストしても？	
+&HUD.Interact.Job.Minstrel.Reaction	Звучить як ринґтон, що я мав колись…	"Klingt wie ein Klingelton, den ich mal hatte …"	J'avais une sonnerie qui ressemblait à ça...	Me recuerda a un politono que tuve una vez...	У меня на звонке похожая мелодия стояла…	È uguale alla mia vecchia suoneria...	让我想起了我之前的手机铃声......	昔の着メロみたいだ…	
+&HUD.Interact.Job.Minstrel.Reaction	Тож, ти і є розвага?	Du sorgst also für die Unterhaltung?	C'est toi l'attraction du jour ?	¿Tú eres quien nos va a entretener?	Так это и есть обещанное «развлечение»?	E così saresti tu lo spettacolo?	所以你是表演的人？	なら、エンタメってのはあんたのことか？	
+&HUD.Interact.Job.Minstrel.Reaction	"А можна трішки тихіше?!"	"Geht das etwas leiser, bitte?!"	"Baisse d'un ton, tu veux ?!"	"¡¿Puedes bajar un poco el volumen, por favor?!"	А можно потише? Пожалуйста!	Ti spiace abbassare il volume?!	小点声， 好吗？！	ボリュームを下げてくれぇ！！	
+&HUD.Interact.Job.Minstrel.Reaction	"Чудово, знову *та* пісня…"	"Super, *der* Song schon wieder …"	"Super, *encore* cette chanson..."	"Qué bien, es *esa* canción otra vez..."	"Ну вот, опять эта песня…"	"Grandioso, di nuovo *quella* canzone..."	很好， 又是“那首”歌......	また「あの」曲かよ…	
+&HUD.Interact.Job.Minstrel.Reaction	Будь ласка, вивчи щось нове…	Lern bitte was anderes …	Tu ne veux pas apprendre à jouer autre chose ?	A ver si aprendemos alguna nueva...	Разучили бы что-нибудь другое…	"Per favore, impara qualcos’altro..."	能不能学点别的......	他の曲も覚えろっての…	
+&HUD.Interact.Job.Minstrel.Reaction	Треба було брати вушні затички…	Hätte ich doch nur Ohrstöpsel …	J'aurais dû apporter des bouchons d'oreille...	Ojalá hubiera traído tapones...	"И где мои беруши, когда они так нужны…"	Vorrei aver portato dei tappi per le orecchie...	真希望我能想到带耳塞进来......	耳栓ないすかね…	
 									
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////									
 									
