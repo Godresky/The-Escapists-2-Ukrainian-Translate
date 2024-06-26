@@ -1,6 +1,6 @@
 Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese	
 									
-Text.Item.Gemstone	Gemstone	Edelstein	Pierre précieuse	Gema	Драгоценный камень	Gemma	宝石	宝石	
+Text.Item.Gemstone	Самоцвіт	Edelstein	Pierre précieuse	Gema	Драгоценный камень	Gemma	宝石	宝石	
 Text.Item.MoltenMetal	Розтоплений метал	Geschmolzenes Metall	Métal fondu	Metal fundido	Расплавленный металл	Metallo fuso	熔化的金属	溶けた金属	
 Text.Item.ReplicaLute	Репліка лютні	Lauten-Nachbildung	Réplique de luth	Réplica de laúd	Копия лютни	Replica di un liuto	鲁特琴仿造品	リュートのレプリカ	
 Text.Item.TorchFuel	Скипидар	Fackelbrennstoff	Huile de torche	Combustible	Топливо для факела	Combustibile per torcia	火炬燃料	たいまつの油	
@@ -122,46 +122,46 @@ Text.Frontend.DLC05.Name	Підземелля та липка стрічка	Dun
 									
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////									
 									
-Text.JobName.RelightTorches	Lighting Torches	Fackeln anzünden	Allumage des torches	Encendiendo antorchas	Зажжение факелов	Accendere le Torce	点燃火炬	たいまつの点火	
-Text.JobDesc.RelightTorches	Makes the place look a bit more 'Authentic'. Also cheaper than bulbs.	Lässt den Ort ein wenig „authentischer“ aussehen. Ist auch günstiger als Glühbirnen.	"Pour une touche un peu plus ""authentique"". C'est aussi moins cher qu'une ampoule."	"Hacen que el lugar sea como más auténtico. Además, las bombillas no son baratas."	Факелы добавляют аутентичности. И они дешевле лампочек.	Fanno sembrare il posto più “autentico”. E costano anche meno delle lampadine.	使这地方看起来更“真实”。 而且火炬比电灯泡廉价的多。 	お城っぽいムードを演出。 電球よりも安上がりだ。	
+Text.JobName.RelightTorches	Смолоскипник	Fackeln anzünden	Allumage des torches	Encendiendo antorchas	Зажжение факелов	Accendere le Torce	点燃火炬	たいまつの点火	
+Text.JobDesc.RelightTorches	Зробіть місце більш «автентичним». Це дешевше за жарівки.	Lässt den Ort ein wenig „authentischer“ aussehen. Ist auch günstiger als Glühbirnen.	"Pour une touche un peu plus ""authentique"". C'est aussi moins cher qu'une ampoule."	"Hacen que el lugar sea como más auténtico. Además, las bombillas no son baratas."	Факелы добавляют аутентичности. И они дешевле лампочек.	Fanno sembrare il posto più “autentico”. E costano anche meno delle lampadine.	使这地方看起来更“真实”。 而且火炬比电灯泡廉价的多。 	お城っぽいムードを演出。 電球よりも安上がりだ。	
 									
-HUD.Tutorial.Job.RelightTorchesBodyTextA	Take a Lighter and Torch Fuel from the container.	Nimm ein Feuerzeug und Fackelbrennstoff aus dem Container	Prendre un briquet et de l'huile de torche dans le conteneur	Coge un mechero y combustible del contenedor.	Возьмите зажигалку и топливо для факела в контейнере	Prendi un Accendino e del Combustibile per torcia dal contenitore	从箱子中取出打火机和火炬燃料	コンテナから「ライター」と「たいまつの油」を入手する。	
-HUD.Tutorial.Job.RelightTorchesBodyTextB	"Locate a torch, first use the Torch Fuel on the extinguished torch."	"Finde eine Fackel, nutze zuerst den Fackelbrennstoff für die ausgebrannte Fackel"	Trouver une torche et utiliser l'huile sur la torche éteinte	Coloca la antorcha apagada y ponle combustible.	Найдите факел и используйте топливо для факела на погашенном факеле	Trova una torcia spenta e usa su di essa il Combustibile per torcia	找到火炬， 首先在熄灭的火炬上使用火炬燃料	火のついていない「たいまつ」を見つけて、「油」をかける。	
-HUD.Tutorial.Job.RelightTorchesBodyTextC	Next use a Lighter on the torch to relight it.	Zünde danach die Fackel mit einem Feuerzeug wieder an	Utiliser un briquet pour allumer la torche	"Después, usa un mechero para volver a encender la antorcha."	Затем используйте зажигалку на факеле и зажгите его	Poi usa un Accendino sulla torcia per riaccenderla	随后在火炬上使用打火机， 将其点亮	次に「ライター」でたいまつに火を灯す。	
+HUD.Tutorial.Job.RelightTorchesBodyTextA	Візміть запальничку та скипидар з коробки.	Nimm ein Feuerzeug und Fackelbrennstoff aus dem Container	Prendre un briquet et de l'huile de torche dans le conteneur	Coge un mechero y combustible del contenedor.	Возьмите зажигалку и топливо для факела в контейнере	Prendi un Accendino e del Combustibile per torcia dal contenitore	从箱子中取出打火机和火炬燃料	コンテナから「ライター」と「たいまつの油」を入手する。	
+HUD.Tutorial.Job.RelightTorchesBodyTextB	"Знайдіть смолоскип та заправте його скипидаром."	"Finde eine Fackel, nutze zuerst den Fackelbrennstoff für die ausgebrannte Fackel"	Trouver une torche et utiliser l'huile sur la torche éteinte	Coloca la antorcha apagada y ponle combustible.	Найдите факел и используйте топливо для факела на погашенном факеле	Trova una torcia spenta e usa su di essa il Combustibile per torcia	找到火炬， 首先在熄灭的火炬上使用火炬燃料	火のついていない「たいまつ」を見つけて、「油」をかける。	
+HUD.Tutorial.Job.RelightTorchesBodyTextC	Опісля запаліть смолоскип запальничкою.	Zünde danach die Fackel mit einem Feuerzeug wieder an	Utiliser un briquet pour allumer la torche	"Después, usa un mechero para volver a encender la antorcha."	Затем используйте зажигалку на факеле и зажгите его	Poi usa un Accendino sulla torcia per riaccenderla	随后在火炬上使用打火机， 将其点亮	次に「ライター」でたいまつに火を灯す。	
 									
-HUD.Interact.Job.RelightTorches.Materials	Torch Lighting Materials	Fackel-Entzündungs-Materialien	Matériaux pour allumage de torche	Materiales para encender antorchas	Материалы для работы факела	Materiali per accensione torcia	照明火炬材料	たいまつ点火の材料	
+HUD.Interact.Job.RelightTorches.Materials	Спорядження смолоскипника	Fackel-Entzündungs-Materialien	Matériaux pour allumage de torche	Materiales para encender antorchas	Материалы для работы факела	Materiali per accensione torcia	照明火炬材料	たいまつ点火の材料	
 									
-HUD.Interact.Job.RelightTorches.TorchJobA	Refuel Torch	Fackel auffüllen	Remettre de l'huile	Poner combustible a la antorcha	Заправить факел	Ricarica Torcia	为火炬充填燃料	燃料をかける	
-HUD.Interact.Job.RelightTorches.TorchJobB	Ignite Torch	Fackel anzünden	Allumer la torche	Prender antorcha	Зажечь факел	Accendi Torcia	点燃火炬	火を灯す	
+HUD.Interact.Job.RelightTorches.TorchJobA	Заправити смолоскип	Fackel auffüllen	Remettre de l'huile	Poner combustible a la antorcha	Заправить факел	Ricarica Torcia	为火炬充填燃料	燃料をかける	
+HUD.Interact.Job.RelightTorches.TorchJobB	Запалити смолоскип	Fackel anzünden	Allumer la torche	Prender antorcha	Зажечь факел	Accendi Torcia	点燃火炬	火を灯す	
 									
-HUD.Interact.Job.RelightTorches.NeedFuel	I need Torch Fuel…	Ich brauche Fackelbrennstoff …	J'ai besoin d'huile de torche...	Necesito combustible...	Нужно топливо для факела…	Mi serve del Combustibile per torcia...	我需要火炬燃料......	「たいまつの油」が必要だ…	
-HUD.Interact.Job.RelightTorches.NeedLighter	I need a Lighter…	Ich brauche ein Feuerzeug …	J'ai besoin d'un briquet...	Necesito un mechero…	Нужна зажигалка…	Mi serve un Accendino...	我需要打火机......	「ライター」が必要だ…	
-									
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////									
-									
-Text.JobName.HorseshoeName	Making Horseshoes	Hufeisen herstellen	Fabrication de fers à cheval	Haciendo herraduras	Изготовление подков	Fare Ferri di cavallo	制作马蹄铁	蹄鉄作り	
-Text.JobName.HorseshoeDesc	Lucky for some	Bringt manch einem Glück	De la chance à l'état pur	Dicen que dan buena suerte.	На счастье другим	Fortunati per alcuni	运气不错	幸運のお守りにどうぞ。	
-									
-HUD.Tutorial.Job.HorseshoeBodyTextA	Take a Metal Ingot from the container.	Nimm einen Metallbarren aus dem Container	Prendre un lingot de métal dans le conteneur	Coge un lingote de metal del contenedor.	Возьмите металлический слиток в контейнере	Prendi un Lingotto di metallo dal contenitore	从箱子里取出金属锭	コンテナから「金属塊」を入手する。	
-HUD.Tutorial.Job.HorseshoeBodyTextB	"Put the Metal Ingot into the furnace, wait for it to melt."	"Leg den Metallbarren in den Ofen und warte, bis er schmilzt"	Placer le lingot de métal dans le fourneau et attendre qu'il fonde	Pon el lingote en el horno y espera a que se funda.	"Положите металлический слиток в печь и подождите, пока он расплавится"	"Metti il Lingotto di metallo nella fornace, attendi che si fonda"	将金属锭放置到熔炉中， 等待其熔化	「金属塊」を溶鉱炉に入れて、溶けるのを待つ。	
-HUD.Tutorial.Job.HorseshoeBodyTextC	"Take the Molten Metal from the furnace, and take it to the Anvil."	Nimm das geschmolzene Metall aus dem Ofen und bring es zum Amboss	Prendre le métal fondu dans le fourneau et le placer sur l'enclume	Coge el metal fundido y ponlo en el yunque.	Достаньте расплавленный металл из печи и положите его на наковальню	Prendi il Metallo fuso dalla fornace e portalo all’Incudine	从熔炉中取出熔化的金属， 将其放置在铁砧上。 	溶鉱炉から「溶けた金属」を入手し、作業台に乗せる。	
-HUD.Tutorial.Job.HorseshoeBodyTextD	"Make a Horseshoe using the Anvil, then place it in the container."	Stelle mithilfe des Ambosses ein Hufeisen her und platziere es dann im Container	"Fabriquer un fer à cheval sur l'enclume, puis le placer dans le conteneur"	Haz una herradora usando el yunque y métela en el contenedor.	"С помощью наковальни изготовьте подкову, затем положите ее в контейнер"	"Crea un Ferro di cavallo usando l’Incudine, poi mettilo nel contenitore"	使用铁砧制作马蹄铁， 随后将其放进箱子。 	作業台で「蹄鉄」を作り、コンテナへ入れる。	
-									
-HUD.Tutorial.Job.HorseshoeB.AnvilNoItem	I need Molten Metal…	Ich brauche geschmolzenes Metall …	J'ai besoin de métal fondu...	Necesito metal fundido...	Нужен расплавленный металл…	Mi serve del Metallo fuso...	我需要熔化的金属......	「溶けた金属」が必要だ…	
-									
-HUD.Interact.Job.Horseshoe.StepA	Metal Ingots	Metallbarren	Lingots de métal	Lingotes de metal	Металлические слитки	Lingotti di metallo	金属锭	金属塊	
-HUD.Interact.Job.Horseshoe.StepD	Horseshoes 	Hufeisen 	Fers à cheval 	Herraduras 	Подковы 	Ferri di cavallo 	马蹄铁 	蹄鉄	
+HUD.Interact.Job.RelightTorches.NeedFuel	Мені потрібен скипидар…	Ich brauche Fackelbrennstoff …	J'ai besoin d'huile de torche...	Necesito combustible...	Нужно топливо для факела…	Mi serve del Combustibile per torcia...	我需要火炬燃料......	「たいまつの油」が必要だ…	
+HUD.Interact.Job.RelightTorches.NeedLighter	Мені потрібна запальничка…	Ich brauche ein Feuerzeug …	J'ai besoin d'un briquet...	Necesito un mechero…	Нужна зажигалка…	Mi serve un Accendino...	我需要打火机......	「ライター」が必要だ…	
 									
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////									
 									
-Text.JobName.Stonemason	Stone Mason	Steinmetz	Maçonnerie	Mampostero	Каменщик	Muratore	石工	石像づくり	
-Text.JobDesc.Stonemason	Because you're cheaper than a professional.	Weil du billiger als ein Fachmann bist	Vous coûtez moins cher qu'un vrai pro	Porque te preocupa el dinero más que la profesionalidad	Потому что нанять профессионала намного дороже	Perché tu costi meno di un professionista	因为你比专业的便宜	プロに頼むより安上がりだ。	
+Text.JobName.HorseshoeName	Кувач підков	Hufeisen herstellen	Fabrication de fers à cheval	Haciendo herraduras	Изготовление подков	Fare Ferri di cavallo	制作马蹄铁	蹄鉄作り	
+Text.JobName.HorseshoeDesc	Деяким на щастя.	Bringt manch einem Glück	De la chance à l'état pur	Dicen que dan buena suerte.	На счастье другим	Fortunati per alcuni	运气不错	幸運のお守りにどうぞ。	
+									
+HUD.Tutorial.Job.HorseshoeBodyTextA	Візміть металевий виливок з коробки.	Nimm einen Metallbarren aus dem Container	Prendre un lingot de métal dans le conteneur	Coge un lingote de metal del contenedor.	Возьмите металлический слиток в контейнере	Prendi un Lingotto di metallo dal contenitore	从箱子里取出金属锭	コンテナから「金属塊」を入手する。	
+HUD.Tutorial.Job.HorseshoeBodyTextB	"Покладіть металевий виливок у піч та зачекайте, доки той не розтане."	"Leg den Metallbarren in den Ofen und warte, bis er schmilzt"	Placer le lingot de métal dans le fourneau et attendre qu'il fonde	Pon el lingote en el horno y espera a que se funda.	"Положите металлический слиток в печь и подождите, пока он расплавится"	"Metti il Lingotto di metallo nella fornace, attendi che si fonda"	将金属锭放置到熔炉中， 等待其熔化	「金属塊」を溶鉱炉に入れて、溶けるのを待つ。	
+HUD.Tutorial.Job.HorseshoeBodyTextC	"Дістаньте розтоплений метал з печі та покладіть його на ковадло."	Nimm das geschmolzene Metall aus dem Ofen und bring es zum Amboss	Prendre le métal fondu dans le fourneau et le placer sur l'enclume	Coge el metal fundido y ponlo en el yunque.	Достаньте расплавленный металл из печи и положите его на наковальню	Prendi il Metallo fuso dalla fornace e portalo all’Incudine	从熔炉中取出熔化的金属， 将其放置在铁砧上。 	溶鉱炉から「溶けた金属」を入手し、作業台に乗せる。	
+HUD.Tutorial.Job.HorseshoeBodyTextD	"Зробивши підкову ковадлом, покладіть її у коробку."	Stelle mithilfe des Ambosses ein Hufeisen her und platziere es dann im Container	"Fabriquer un fer à cheval sur l'enclume, puis le placer dans le conteneur"	Haz una herradora usando el yunque y métela en el contenedor.	"С помощью наковальни изготовьте подкову, затем положите ее в контейнер"	"Crea un Ferro di cavallo usando l’Incudine, poi mettilo nel contenitore"	使用铁砧制作马蹄铁， 随后将其放进箱子。 	作業台で「蹄鉄」を作り、コンテナへ入れる。	
+									
+HUD.Tutorial.Job.HorseshoeB.AnvilNoItem	Мені потрібен розтоплений метал…	Ich brauche geschmolzenes Metall …	J'ai besoin de métal fondu...	Necesito metal fundido...	Нужен расплавленный металл…	Mi serve del Metallo fuso...	我需要熔化的金属......	「溶けた金属」が必要だ…	
+									
+HUD.Interact.Job.Horseshoe.StepA	Металеві виливки	Metallbarren	Lingots de métal	Lingotes de metal	Металлические слитки	Lingotti di metallo	金属锭	金属塊	
+HUD.Interact.Job.Horseshoe.StepD	Підкови 	Hufeisen 	Fers à cheval 	Herraduras 	Подковы 	Ferri di cavallo 	马蹄铁 	蹄鉄	
+									
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////									
+									
+Text.JobName.Stonemason	Каменяр	Steinmetz	Maçonnerie	Mampostero	Каменщик	Muratore	石工	石像づくり	
+Text.JobDesc.Stonemason	А все тому, що ви дешевший за фахівців.	Weil du billiger als ein Fachmann bist	Vous coûtez moins cher qu'un vrai pro	Porque te preocupa el dinero más que la profesionalidad	Потому что нанять профессионала намного дороже	Perché tu costi meno di un professionista	因为你比专业的便宜	プロに頼むより安上がりだ。	
 									
 HUD.Tutorial.Job.StonemasonBodyTextA	"Take a stone block from the container, carry it to the desk."	Nimm einen Steinblock aus dem Container und trage ihn zum Pult	Prendre un bloc de pierre dans le conteneur et le placer sur l'établi	Coge un bloque de piedra del contenedor y llévalo al escritorio.	Возьмите в контейнере каменную глыбу и перенесите ее на стол	Prendi un blocco di pietra dal contenitore e trasportalo al tavolo	从箱子中拿出石块， 将其带到书桌处	コンテナから石を入手し、机へ運ぶ。	
 HUD.Tutorial.Job.StonemasonBodyTextB	Carve the stone.	Meißle den Stein	Tailler la pierre	Talla la piedra.	Обработайте камень	Scolpisci la pietra	切割石头	石を彫刻する。	
 HUD.Tutorial.Job.StonemasonBodyTextC	Take the carved stone over to the finished container.	Bring den gemeißelten Stein zum Container für fertige Materialien	Placer la pierre taillée dans le conteneur des pierres terminées	Lleva la piedra tallada al contenedor terminado.	Перенесите обработанный камень в контейнер готовых изделий	Porta la pietra scolpita al contenitore delle pietre finite	将已切割的石块放入箱子	彫刻を完成品コンテナへ入れる。	
 									
-HUD.Tutorial.Job.Stonemason.StoneBlocks	Stones	Steine	Pierres	Piedras	Камни	Pietre	石头	石	
+HUD.Tutorial.Job.Stonemason.StoneBlocks	Камені	Steine	Pierres	Piedras	Камни	Pietre	石头	石	
 HUD.Tutorial.Job.Stonemason.Carved	Carved Blocks	Gemeißelte Blöcke	Blocs taillés	Bloques tallados	Обработанные блоки	Blocchi scolpiti	已切割的石块	彫刻済の石	
 HUD.Tutorial.Job.Stonemason.CarveStone	Carve Stone	Stein meißeln	Tailler la pierre	Tallar piedra	Обработать камень	Scolpisci Pietra	切割石头	石の彫刻	
 									
@@ -171,17 +171,17 @@ HUD.Interact.Job.Stonemason.StoneCarved
 									
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////									
 									
-Text.JobName.Minstrel	Wandering Minstrel	Reisender Minnesänger	Ménestrel itinérant	Juglar errante	Бродячий менестрель	Menestrello girovago	四处乱晃的吟游诗人	さすらいの吟遊詩人	
-Text.JobDesc.Minstrel	What do you mean 'nobody plays Lutes anymore'?	"Was soll das heißen, „niemand spielt mehr Laute“?"	"Comment ça, ""le luth, c'est démodé"" ?"	¿Qué quieres decir con eso de que “ya nadie toca el laúd”?	Как это никто больше не играет на лютне?	Che cosa vorresti dire con “nessuno suona più il liuto”?	你说“没有人弹鲁特琴了”是什么意思？	リュートが時代遅れだって？	
+Text.JobName.Minstrel	Блудний лютняр	Reisender Minnesänger	Ménestrel itinérant	Juglar errante	Бродячий менестрель	Menestrello girovago	四处乱晃的吟游诗人	さすらいの吟遊詩人	
+Text.JobDesc.Minstrel	Усенсі «більше ніхто не лабає на лютні»?	"Was soll das heißen, „niemand spielt mehr Laute“?"	"Comment ça, ""le luth, c'est démodé"" ?"	¿Qué quieres decir con eso de que “ya nadie toca el laúd”?	Как это никто больше не играет на лютне?	Che cosa vorresti dire con “nessuno suona più il liuto”?	你说“没有人弹鲁特琴了”是什么意思？	リュートが時代遅れだって？	
 									
-HUD.Tutorial.Job.MinstrelBodyTextA	Take a Replica Lute from the container.	Nimm eine Lauten-Nachbildung aus dem Container	Prendre une réplique de luth dans le conteneur	Coge una réplica de laúd del contenedor.	Возьмите копию лютни в контейнере	Prendi la Replica di un liuto dal contenitore	从箱子里取出鲁特琴仿造品	コンテナから「リュートのレプリカ」を入手する。	
-HUD.Tutorial.Job.MinstrelBodyTextB	Find one of the performance locations we have placed for you.	"Finde einen der Vorstellungsplätze, die wir für dich platziert haben"	Se rendre à l'un des emplacements indiqués	Encuentra una de los escenarios que te hemos preparado.	"Найдите одно из размещенных нами мест, в которых можно выступать"	Trova uno dei luoghi in cui esibirti che abbiamo allestito per te	找到其中一个我们为您指定的演出地点	用意された演奏エリアを見つける。	
-HUD.Tutorial.Job.MinstrelBodyTextC	Entertain the staff and fellow inmates!	Unterhalte das Personal und deine Mitinsassen!	Divertir le personnel et les codétenus	Entretén al personal y a tus compañeros.	Развлеките сотрудников и сокамерников!	Intrattieni il personale e gli altri detenuti!	取悦员工和狱友！	職員や囚人たちに楽しんでもらう！	
+HUD.Tutorial.Job.MinstrelBodyTextA	Візміть репліку лютні з коробки.	Nimm eine Lauten-Nachbildung aus dem Container	Prendre une réplique de luth dans le conteneur	Coge una réplica de laúd del contenedor.	Возьмите копию лютни в контейнере	Prendi la Replica di un liuto dal contenitore	从箱子里取出鲁特琴仿造品	コンテナから「リュートのレプリカ」を入手する。	
+HUD.Tutorial.Job.MinstrelBodyTextB	Знайдіть одне з місць для виступу, що ми залишили.	"Finde einen der Vorstellungsplätze, die wir für dich platziert haben"	Se rendre à l'un des emplacements indiqués	Encuentra una de los escenarios que te hemos preparado.	"Найдите одно из размещенных нами мест, в которых можно выступать"	Trova uno dei luoghi in cui esibirti che abbiamo allestito per te	找到其中一个我们为您指定的演出地点	用意された演奏エリアを見つける。	
+HUD.Tutorial.Job.MinstrelBodyTextC	Розважайте працівників та друзів по нещастю!	Unterhalte das Personal und deine Mitinsassen!	Divertir le personnel et les codétenus	Entretén al personal y a tus compañeros.	Развлеките сотрудников и сокамерников!	Intrattieni il personale e gli altri detenuti!	取悦员工和狱友！	職員や囚人たちに楽しんでもらう！	
 									
-HUD.Interact.Job.Minstrel.StepA	Replica Lutes	Lauten-Nachbildungen	Répliques de luth	Réplicas de laúdes	Копия лютни	Repliche di liuti	鲁特琴仿造品	リュートのレプリカ	
-HUD.Interact.Job.Minstrel.StepB	Perform	Vorspielen	Jouer	Actuar	Играть	Esibisciti	表演	演奏する	
+HUD.Interact.Job.Minstrel.StepA	Репліки лютень	Lauten-Nachbildungen	Répliques de luth	Réplicas de laúdes	Копия лютни	Repliche di liuti	鲁特琴仿造品	リュートのレプリカ	
+HUD.Interact.Job.Minstrel.StepB	Грати	Vorspielen	Jouer	Actuar	Играть	Esibisciti	表演	演奏する	
 									
-HUD.Interact.Job.Minstrel.Equip	I need a Replica Lute…	Ich brauche eine Lauten-Nachbildung …	J'ai besoin d'une réplique de luth...	Necesito una réplica de laúd...	Мне нужна копия лютни…	Mi serve una Replica di un liuto...	我需要一把鲁特琴仿造品......	「リュートのレプリカ」が必要だ…	
+HUD.Interact.Job.Minstrel.Equip	Мені потрібна репліка лютні…	Ich brauche eine Lauten-Nachbildung …	J'ai besoin d'une réplique de luth...	Necesito una réplica de laúd...	Мне нужна копия лютни…	Mi serve una Replica di un liuto...	我需要一把鲁特琴仿造品......	「リュートのレプリカ」が必要だ…	
 									
 &HUD.Interact.Job.Minstrel.Reaction	My ears!	Meine Ohren!	Mes oreilles !	¡Mis oídos!	Мои уши!	"Ah, le mie orecchie!"	我的耳朵！	鼓膜がぁ！	
 &HUD.Interact.Job.Minstrel.Reaction	Do you take requests?	Nimmst du Songwünsche an?	On peut te demander une chanson en particulier ?	¿Aceptas peticiones?	Вы принимаете заявки?	Accetti richieste?	你接任务吗？	リクエストしても？	
@@ -324,7 +324,7 @@ Text.GrappleHint.Interaction	Hand Written Message	Handschriftliche Nachricht	Let
 Text.GrappleHint.Title	Psssst…	Psssst …	Psssst…	Tss...	Пс-с-с-ст...	Psssst…	嘶......	なあ、あんた…	
 Text.GrappleHint.Body	"Turns out this place is real easy to get around, if you’ve got the right tools of course! Craft yourself a grapple hook, and you can climb around all over the place right under the nose of the guards… I’ve even left some graffiti of where the good places are to climb!"	"An diesem Ort kommt man scheinbar doch ganz gut rum. Natürlich nur mit den richtigen Werkzeugen! Fertige einen Enterhaken, dann kannst du überall rumklettern, ohne dass die Wärter etwas davon spitzkriegen … An allen guten Kletterpunkten habe ich sogar Graffitis hinterlassen!"	"Parcourir cet endroit est un jeu d'enfant. Enfin, si on a les bons outils ! Fabriquez-vous un grappin pour explorer tout le château au nez et à la barbe des gardes... J'ai même laissé des graffitis pour indiquer les meilleurs endroits où grimper !"	Parece que es bastante sencillo salir de este lugar... ¡siempre que tengas las herramientas adecuadas! Fabrícate un gancho de sujeción y podrás escalar este lugar delante de las mismísimas narices de los guardias... ¡Incluso he marcado con grafitis los lugares buenos para subirse!	"Похоже, здесь довольно легко передвигаться, если обзавестись нужными инструментами! Сделайте захватный крюк, чтобы лазать повсюду прямо под носом у охраны... Вот вам графическая карта от меня: здесь обозначены все места, куда стоит залезть!"	"Alla fin fine, è molto facile esplorare questo posto... se hai gli strumenti giusti, ovviamente! Crea un rampino e potrai arrampicarti dappertutto proprio sotto il naso delle guardie... Ho perfino lasciato dei graffiti per indicare i posti migliori dove arrampicarsi!"	事实证明， 只要拥有正确的工具， 这地方还是很好逃出去的！为自己制作一个抓钩爪， 就可以在警卫的眼皮底下爬到任何你想去的地方......我在适于攀爬的地方都留下了涂鸦。 	この城から抜け出すのは 意外にも簡単だぜ。 もちろん、 道具が必要だけどな！ 投げフックを作るのさ。 そしたら看守どもの 目と鼻の先でも、 そこら中をよじ登れるようになる… 登りやすい場所には 落書きも描いておいたから、 目印に使ってくれよな！	
 									
-Text.NamePlateDistance.Stone	Stones	Steine	Pierres	Piedras	Камни	Pietre	石头	石	
-Text.NamePlateDistance.MinstrelJobSupplies	Replica Lutes	Lauten-Nachbildungen	Répliques de luth	Réplicas de laúdes	Копия лютни	Repliche di liuti	鲁特琴仿造品	リュートのレプリカ	
+Text.NamePlateDistance.Stone	Камені	Steine	Pierres	Piedras	Камни	Pietre	石头	石	
+Text.NamePlateDistance.MinstrelJobSupplies	Репліки лютень	Lauten-Nachbildungen	Répliques de luth	Réplicas de laúdes	Копия лютни	Repliche di liuti	鲁特琴仿造品	リュートのレプリカ	
 									
 									

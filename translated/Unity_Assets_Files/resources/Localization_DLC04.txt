@@ -82,7 +82,7 @@ HUD.Tutorial.Job.HangingPostersBodyTextC	Повісьте клеєну афіш�
 HUD.Interact.Job.HangingPostersStepA	Афіші	Poster	Affiches	Pósteres	Афиши	Manifesto	海报	ポスター
 HUD.Interact.Job.HangingPostersStepB	Повісити афішу	Poster aufhängen	Coller l'affiche	Colgar póster	Повесить афишу	Appendi il manifesto	挂海报	ポスターを貼る
 								
-HUD.Interact.Job.HangingPosters.NoPosterEquipped	Потрібна клеєна афіша!	Ich brauche ein Kleberbestrichenes Poster!	J’ai besoin d’une affiche à coller !	¡Necesito un póster preparado con pegamento!	"Мне нужна афиша, намазанная клеем!"	Mi serve un Manifesto preparato con la colla!	我需要一张粘好胶水的海报！ 	「のり付けしたポスター」が必要だ！
+HUD.Interact.Job.HangingPosters.NoPosterEquipped	Мені потрібна клеєна афіша!	Ich brauche ein Kleberbestrichenes Poster!	J’ai besoin d’une affiche à coller !	¡Necesito un póster preparado con pegamento!	"Мне нужна афиша, намазанная клеем!"	Mi serve un Manifesto preparato con la colla!	我需要一张粘好胶水的海报！ 	「のり付けしたポスター」が必要だ！
 								
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////								
 								
