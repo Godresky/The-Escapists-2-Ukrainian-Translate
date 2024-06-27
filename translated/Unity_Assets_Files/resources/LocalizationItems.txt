@@ -156,12 +156,12 @@ Text.Item.DentalFloss	Зубна нитка	Zahnseide	Fil dentaire	Seda dental	�
 Text.Item.CellKey	Ключ від камери	Zellenschlüssel	Clé de cellule	Llave de celda	Ключ от камеры	Chiave della cella	牢房钥匙	監房のカギ			
 Text.Item.CivilianClothes	Вбрання цивільного	Zivilkleidung	Tenue de civil	Ropa de civil	Штатская одежда	Vestiti da civile	平民服装	民間人の服			
 Text.EquipmentStat.OutfitType.Civilian	Цивільний	Zivil	Civil	Civil	Штатская	Civile	国内	民間人			
-Text.Item.BaseballIdle	Бейсбол - павза	Baseball Pose	Pose base-ball 	Pose de béisbol	Бейсбол — пауза	Posa baseball	闲置棒球	野球フィギュア			
+Text.Item.BaseballIdle	Бейсбол — павза	Baseball Pose	Pose base-ball 	Pose de béisbol	Бейсбол — пауза	Posa baseball	闲置棒球	野球フィギュア			
 Text.Item.CombShiv	Заточений гребінець	Kammklinge	Peigne taillé	Peine-pincho	Гребень-заточ	Coltello pettine	梳子剃刀	くしナイフ			
 Text.Item.CounterWeight	Противага	Gegengewicht	Contrepoids	Contrapeso	Противовес	Contrappeso	配重	おもり			
 Text.Item.CupOfTea	Кухлик чаю	Tasse Tee	Tasse de thé	Taza de té	Чашка чая	Tazza di tè	一杯茶	紅茶入りマグ			
 Text.Item.GliderSkin	Покриття планера	Gleiter-Bespannung	Toile de planeur	Tela para planeador	Парус дельтапл.	Tessuto per aliante	滑翔机外壳	グライダーカバー			
-Text.Item.JugglingIdle	Жонґлювання - павза	Jonglier-Pose	Pose jonglage	Pose de malabares	Жонглир. — пауза	Posa giocoliere	闲置杂耍球	ジャグリング人形			
+Text.Item.JugglingIdle	Жонґлювання — павза	Jonglier-Pose	Pose jonglage	Pose de malabares	Жонглир. — пауза	Posa giocoliere	闲置杂耍球	ジャグリング人形			
 Text.Item.LaxativeMix	Проносне	Abführmittel	Mélange de laxatif	Mezcla laxante	Слабительное	Mix lassativo	泻药	下剤ミックス			
 Text.Item.MakeshiftHarness	Саморобне кріплення	Provisorisches Gurtzeug	Harnais de fortune	Arnés improvisado	Самодельная страховка	Imbragatura di fortuna	临时用马具	簡易ハーネス			
 Text.Item.ManicureKit	Манікюрний набір	Maniküreset	Trousse de manucure	Kit de manicura	Маникюрный набор	Kit per manicure	指甲护理套件	マニキュアキット			
@@ -257,7 +257,7 @@ Text.Item.SuperKnuckleDuster	Суперкастет	Toller Schlagring	Super poin
 Text.Item.SuperSockMace	Супершкарпеткова булава	Tolle Sockenkeule	Super chaussette lestée	Calcetín maza superior	Суперкистень из носка	Mazza con calzino super	超级袜锤	スーパー靴下ハンマー			
 Text.Item.Whip	Батіг	Peitsche	Fouet	Látigo	Кнут	Frusta	鞭	ムチ			
 Text.Item.ZiplineHook	Гак зиплайна	Seilrutschen-Haken	Crochet de tyrolienne	Gancho de tirolina	Крюк для зиплайна	Gancio per fune sospesa	滑索钩	ワイヤロープのフック			
-Text.Item.BreakdanceIdle	Брейкданс - павза	Breakdance Pose	Pose breakdance	Pose de breakdance	Брейкданс — пауза	Posa breakdance	闲置霹雳舞	ブレイクダンス像			
+Text.Item.BreakdanceIdle	Брейкданс — павза	Breakdance Pose	Pose breakdance	Pose de breakdance	Брейкданс — пауза	Posa breakdance	闲置霹雳舞	ブレイクダンス像			
 Text.Item.CattleProd	Електропалиця	Viehtreiber	Pique	Picana para ganado	Электрохлыст	Sprone per bestiame	赶牛棒	牛追い棒			
 Text.Item.CompleteCrossbow	Готовий арбалет	Fertige Armbrust	Arbalète complète	Ballesta completa	Завершенный арбалет	Balestra completa	完整的十字弓	完成したクロスボウ			
 Text.Item.CompleteTrebuchet	Готовий требушет	Fertiger Tribok	Trébuchet complet	Catapulta completa	Завершенная катапульта	Catapulta completa	完整的投石机	完成した投石機			
@@ -266,7 +266,7 @@ Text.Item.EnergySword	Енергомеч	Energieschwert	Épée énergétique	Esp
 Text.Item.FakeGun	Несправжній пістоль	Falsche Schusswaffe	Faux pistolet	Pistola de mentira	Фальш. оруж	Pistola finta	仿制枪	インチキ銃			
 Text.Item.GrapplingHook	Кішка	Enterhaken	Crochet de grappin	Gancho de sujeción	Захватный крюк	Rampino	抓钩	投げフック			
 Text.Item.MakeshiftGasMask	Саморобна газова маска	Provisorische Gasmaske	Masque à gaz de fortune	Máscara de gas improvisada	Самодельный респиратор	Maschera antigas di fortuna	临时用防毒面具	簡易ガスマスク			
-Text.Item.MimeIdle	Пантоміма - павза	Pantomime Pose	Pose mime	Pose de mimo	Мим — пауза	Posa mimo	闲置哑剧	パントマイム像			
+Text.Item.MimeIdle	Пантоміма — павза	Pantomime Pose	Pose mime	Pose de mimo	Мим — пауза	Posa mimo	闲置哑剧	パントマイム像			
 Text.Item.Multitool	Багатоцільовий прилад	Allzweckwerkzeug	Outil multifonction	Multiherramienta	Унив. инстр.	Multiattrezzo	多用途工具	マルチツール			
 Text.Item.SkinnedGlider	Шкіряний планер	Bespannter Gleiter	Planeur avec toile	Planeador con tela	Дельтаплан с парусом	Aliante di tessuto	有外壳的滑翔机	カバー付きグライダー			
 Text.Item.SuperBaseballBat	Супербейсбольна бита	Toller Baseballschläger	Super batte de base-ball	Bate de béisbol superior	Супербита	Mazza da baseball super	超级棒球棍	スーパーバット			
