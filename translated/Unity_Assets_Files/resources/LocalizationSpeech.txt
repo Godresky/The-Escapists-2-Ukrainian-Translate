@@ -988,7 +988,7 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.NPC.Maintenance	Виняткова майстерність!	Qualitätsarbeit!	Un travail de qualité !	¡Un trabajo de calidad!	Высочайшее качество!	Che maestria!	优质做工！ 	優れた職人わざ！			
 &Text.Visitor.Greet	Знаєш що…	Rate mal ...	Devine quoi...	¿Adivinar qué?	Не угадаешь...	Indovina...	你猜发生了什么……	なんだと思う…			
 &Text.Inmates.Banter	Вгадайте, що я щойно почув...	"Rate, was ich gerade gehört habe."	Devine ce que j'ai entendu...	Adivina de qué me he enterado...	"Угадай, что я только что услышал"	Indovina cosa ho appena sentito	你知道我刚听说了啥吗……	すげえこと聞いちまった…			
-&Text.Guards.LockdownStart	Вгадаєте що? ЗАМИКАННЯ!	Ratet mal? VERRIEGELUNG!	Devinez : ÉTAT D'URGENCE !	¿Adivina qué? ¡UN BLOQUEO!	"Угадай, что? ИЗОЛЯЦИЯ!"	Indovinate... LOCKDOWN!	你猜怎么着？封锁开始了！ 	こりゃ何かって？施設封鎖だ！			
+&Text.Guards.LockdownStart	Вгадайте що? ЗАМИКАННЯ!	Ratet mal? VERRIEGELUNG!	Devinez : ÉTAT D'URGENCE !	¿Adivina qué? ¡UN BLOQUEO!	"Угадай, что? ИЗОЛЯЦИЯ!"	Indovinate... LOCKDOWN!	你猜怎么着？封锁开始了！ 	こりゃ何かって？施設封鎖だ！			
 &Text.GuardAlert.DisguiseBeating	Грубе правосуддя - те, що я ОБОЖНЮЮ!	Raue Gerechtigkeit – GEFÄLLT MIR!	J'ADORE la justice brutale !	"Justicia dura, ¡ME ENCANTA!"	Суровое правосудие — ОБОЖАЮ это!	Giustizia brutale... la ADORO!	粗暴的正义。 我喜欢！ 	いいねえ、 これこそ正義だ！			
 &Text.NPC.Chef	Геть з моєї кухні!	Raus aus meiner Küche!	Sors de ma cuisine !	¡Sal de mi cocina!	Убирайся с моей кухни!	Esci dalla mia cucina!	滚出我的厨房！ 	厨房から出てけ！			
 &Text.NPC.MedicDismissFromInfirmary	Забирайся звідси!	Raus hier!	Tire-toi !	¡Fuera de aquí!	Иди сюда!	Esci fuori!	滚出去！ 	さっさと出てけ！			
