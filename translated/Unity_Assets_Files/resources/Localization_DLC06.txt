@@ -1,19 +1,19 @@
 Text ID	English	German	French	Spanish	Russian	Italian	Chinese	Japanese		
 										
-Text.Item.Cardboard	Cardboard	Pappe	Carton	Cartón	Картон	Cartone	纸板	段ボール		
-Text.Item.BluePaint	Blue Paint	Blaue Farbe	Peinture bleue	Pintura azul	Синяя краска	Pittura blu	蓝色油漆	青色のペンキ		
-Text.Item.RedPaint	Red Paint	Rote Farbe	Peinture rouge	Pintura roja	Красная краска	Pittura rossa	红色油漆	赤色のペンキ		
-Text.Item.YellowPaint	Yellow Paint	Gelbe Farbe	Peinture jaune	Pintura amarilla	Желтая краска	Pittura gialla	黄色油漆	黄色のペンキ		
-Text.Item.LaptopPassword	Laptop Password	Laptop-Passwort	Mot de passe de l’ordinateur portable	Contraseña de portátil	Пароль от ноутбука	Password del portatile	笔记本电脑密码	ノートPCのパスワード		
-Text.Item.SleighChipset	Sleigh Chipset	Schlitten-Chipsatz	Puce électronique du traineau	Chip de trineo	Микросхемы для саней	Chipset della slitta	雪橇芯片组	ソリのチップセット		
-Text.Item.ReindeerFood	Reindeer Food	Rentierfutter	Nourriture pour renne	Comida para renos	Оленья еда	Cibo per renne	麋鹿食物	トナカイのエサ		
-Text.Item.DicedVegetables	Diced vegetables	Gewürfeltes Gemüse	Légumes découpés	Hortalizas troceadas	Нарезанные овощи	Verdure tagliate	切碎蔬菜	角切りの野菜		
-Text.Item.OilCan	Oil Can	Ölkanne	Bidon d’huile	Lata de aceite	Канистра с маслом	Latta d'olio	机油罐	油差し		
-Text.Item.USBStick	USB Stick	USB-Stick	Clé USB	Lápiz USB	USB-флешка	Chiavetta USB	USB盘	USBスティック		
-Text.Item.CandyCane	Candy Cane	Zuckerstange	Sucre d’orge	Bastón de caramelo	Конфета в виде трости	Bastoncino di zucchero	糖拐杖	キャンディーケイン		
-Text.Item.AIModule	AI Module	KI-Modul	Module d’IA	Módulo de IA	Модуль ИИ	Modulo IA	AI模块	AIモジュール		
-Text.Item.CardboardBox	Cardboard Box	Karton	Boite en carton	Caja de cartón	Картонная коробка	Scatola di cartone	纸板箱	段ボール箱		
-Text.Item.CandyPain	Candy Pain	Zuckerbange	Bonbon douleur	Dolor de caramelos	Зубная боль от конфет	Dolore zuccheroso	痛拐杖	キャンディーペイン		
+Text.Item.Cardboard	Картон	Pappe	Carton	Cartón	Картон	Cartone	纸板	段ボール		
+Text.Item.BluePaint	Синя фарба	Blaue Farbe	Peinture bleue	Pintura azul	Синяя краска	Pittura blu	蓝色油漆	青色のペンキ		
+Text.Item.RedPaint	Червона фарба	Rote Farbe	Peinture rouge	Pintura roja	Красная краска	Pittura rossa	红色油漆	赤色のペンキ		
+Text.Item.YellowPaint	Жовта фарба	Gelbe Farbe	Peinture jaune	Pintura amarilla	Желтая краска	Pittura gialla	黄色油漆	黄色のペンキ		
+Text.Item.LaptopPassword	Пароль до ноутбука	Laptop-Passwort	Mot de passe de l’ordinateur portable	Contraseña de portátil	Пароль от ноутбука	Password del portatile	笔记本电脑密码	ノートPCのパスワード		
+Text.Item.SleighChipset	Чип для саней	Schlitten-Chipsatz	Puce électronique du traineau	Chip de trineo	Микросхемы для саней	Chipset della slitta	雪橇芯片组	ソリのチップセット		
+Text.Item.ReindeerFood	Їжа для оленів	Rentierfutter	Nourriture pour renne	Comida para renos	Оленья еда	Cibo per renne	麋鹿食物	トナカイのエサ		
+Text.Item.DicedVegetables	Нарізана городина	Gewürfeltes Gemüse	Légumes découpés	Hortalizas troceadas	Нарезанные овощи	Verdure tagliate	切碎蔬菜	角切りの野菜		
+Text.Item.OilCan	Оліярка	Ölkanne	Bidon d’huile	Lata de aceite	Канистра с маслом	Latta d'olio	机油罐	油差し		
+Text.Item.USBStick	Флешка	USB-Stick	Clé USB	Lápiz USB	USB-флешка	Chiavetta USB	USB盘	USBスティック		
+Text.Item.CandyCane	Карамельна тростина	Zuckerstange	Sucre d’orge	Bastón de caramelo	Конфета в виде трости	Bastoncino di zucchero	糖拐杖	キャンディーケイン		
+Text.Item.AIModule	Модуль ШІ	KI-Modul	Module d’IA	Módulo de IA	Модуль ИИ	Modulo IA	AI模块	AIモジュール		
+Text.Item.CardboardBox	Картонка	Karton	Boite en carton	Caja de cartón	Картонная коробка	Scatola di cartone	纸板箱	段ボール箱		
+Text.Item.CandyPain	Карамельна біль	Zuckerbange	Bonbon douleur	Dolor de caramelos	Зубная боль от конфет	Dolore zuccheroso	痛拐杖	キャンディーペイン		
 										
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////										
 										
@@ -131,12 +131,12 @@ Text.DLC06.MultiPlayerTip.Desc	"The big guy is  sinking cash into his autonomous
 Text.DLC06.SinglePlayerEscapeNote.Title	To the warehouse drones…	Zu den Lagerdrohnen …	Les drones de l’entrepôt...	A los drones del almacén...	К дронам на склад...	Ai droni del magazzino…	仓库无人机请注意… … 	倉庫のドローンへ… 		
 Text.DLC06.SinglePlayerEscapeNote.Body	"The new action figure shipment has been delayed. Don’t forget to add a listing on the store once they arrive. These pieces of tat are meant to be the hot item this year, they should fly right off the shelves as soon as we list them!"	"Die Lieferung für die neue Actionfigur hat sich verzögert. Vergiss nicht, das Angebot im Shop zu veröffentlichen, wenn sie da sind. Dieser Ramsch ist dieses Jahr total angesagt. Sobald sie im Onlineshop zu finden sind, werden die Regale blitzschnell leer gefegt!"	"La livraison des nouvelles figurines a été retardée. N'oubliez pas d'ajouter l'annonce dans la boutique en ligne une fois qu’elles arriveront. Cette camelote est supposée être l’objet que tout le monde veut cette année, elle devrait se vendre comme des petits pains dès que l’annonce sera publiée !"	El envío de la nueva figura de acción se ha retrasado. No te olvides de añadir las novedades a la tienda en cuanto lleguen. ¡Esta porquería será el gran éxito del año! Nos las quitarán de las manos en cuanto las pongamos a la venta.	"Поставка новой фигурки героя отложена. Не забудьте добавить их в список в магазине, когда они прибудут. Предполагается, что эти куски парусины будут хорошо продаваться в этом году. Они исчезнут с полок, как только мы занесем их в список!"	"La spedizione della nuova Action Figure è stata posticipata. Una volta arrivati, non dimenticarti di aggiungerlo nel negozio online. Questo ciarpame è super popolare quest'anno: sarà venduto non appena lo metteremo online!"	新型动作人偶的送货遭到了推迟。 货物到达时， 别忘了将其添加到商店的商品列表。 这些破烂玩意今年特别走红， 只要一上架， 应该就会瞬间被抢光！	新作アクションフィギュアの発送が遅れている。 到着したら、お店の商品一覧に追加するのを忘れずに。 このくだらないおもちゃは今年の目玉商品なので、商品一覧に追加するやいなや、あっという間に売り切れてしまうはずだ！		
 										
-Text.DLC06.MultiPlayerEscapeNote.Title	PLEASE READ.	BITTE LESEN.	IMPORTANT ! À LIRE.	LEER.	"ПОЖАЛУЙСТА, ПРОЧИТАЙТЕ."	"PER FAVORE, LEGGI."	请务必阅读。 	お読み下さい。 		
+Text.DLC06.MultiPlayerEscapeNote.Title	ПРОШУ, ПРОЧИТАЙТЕ.	BITTE LESEN.	IMPORTANT ! À LIRE.	LEER.	"ПОЖАЛУЙСТА, ПРОЧИТАЙТЕ."	"PER FAVORE, LEGGI."	请务必阅读。 	お読み下さい。 		
 Text.DLC06.MultiPlayerEscapeNote.Body	"Sleigh 2.0 is practically finished. This prototype will be held until potential investors arrive, so Santa can demonstrate the new tech in action. Key components are to remain OUT of the sleigh until then, the last thing we need is it whizzing off simulating a delivery."	"Schlitten 2.0 ist so gut wie fertig. Dieser Prototyp wird geheim gehalten, bis potenzielle Investoren hier sind, denen er vom Weihnachtsmann präsentiert werden kann. Die Schlüsselkomponenten werden bis dahin NICHT eingebaut. Wir wollen auf keinen Fall, dass dieses Ding eine Lieferung simuliert."	Le Trainauto 2.0 est presque terminé. Ce prototype sera conservé jusqu’à l’arrivée d’investisseurs potentiels afin que le père Noël puisse le présenter en action. Gardez les pièces manquantes HORS du traineau en attendant. Nous devons éviter qu’il ne décolle pour simuler une livraison.	"El trineo 2.0 ya está casi acabado. Este prototipo no se anunciará hasta que lleguen posibles inversores para que Santa pueda hacer una demostración de la nueva tecnología. Los componentes clave deben permanecer FUERA del trineo hasta entonces, lo último que queremos es que salga disparado para simular una entrega."	"Сани 2.0 почти закончены. Этот прототип нужно придержать до прибытия потенциальных инвесторов, чтобы Санта смог продемонстрировать им новую технологию в действии. Ключевые компоненты должны храниться подальше от саней, мы не хотим, чтобы они улетели куда-нибудь, симулируя доставку."	"La Slitta 2.0 è praticamente pronta. Il prototipo rimarrà celato fino a quando non arriveranno gli investitori, così che Babbo Natale possa mostrarlo all'opera. Per questo motivo, le componenti chiavi NON saranno inserite fino ad allora. Sia mai che spicchi il volo durante la simulazione di una consegna."	雪橇2.0已经基本完成。 原型机将被保存起来， 待潜在投资者来临， 圣诞老人便可演示这一最新科技的结晶。 在那之前， 所有关键部件都不得安装到雪橇之上， 我们可不想它直接飞出去进行模拟送货。 	ソリ 2.0 は部分的に完成した。 見込みのある投資家が来るまでこのプロトタイプを使って、サンタは新しい技術を実際に動作させて披露することができる。 それまでは重要コンポーネントが欠けた状態になる。 配送のシミュレーションとしてソリを飛ばすデモだけはどうしても避けたい。 		
 										
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////										
 										
-Text.Name.RobotWorker.Prefix	Worker-Bot	Arbeiterbot	Robot-ouvrier	Robot trabajador	Работобот	Robot-operaio	工作机器人	作業ボット		
+Text.Name.RobotWorker.Prefix	РоБОТник	Arbeiterbot	Robot-ouvrier	Robot trabajador	Работобот	Robot-operaio	工作机器人	作業ボット		
 										
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////										
 										

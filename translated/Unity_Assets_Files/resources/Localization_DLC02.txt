@@ -179,7 +179,7 @@ Text.DLC02.MultiPlayerTip.Desc	"Нещодавній дослід Професо
 								
 Text.Cutscene.Intro.A	Що за… Де я?	Wa... Wo bin ich?	Où... Où suis-je ?	¿Do... dónde estoy?	Чт... Где я?	Do... Dove sono?	什…… 我这是在哪儿？ 	こ…ここはどこだぁ？
 Text.Cutscene.Intro.B	А ЩО ТИ ТАКЕ?!	WAS BIST DU?!	QUI ES-TU ?!	¡¿QUÉ ERES?!	ВЫ КТО?!	COSA SEI?!	你是谁？ 	あんた誰だよ？！
-Text.Cutscene.Intro.C	Ти проснувся!	Du bist wach!	Tu es réveillé !	¡Estás despierto!	Вы проснулись!	Era ora che ti svegliassi!	你醒过来了！ 	目覚めたか！
+Text.Cutscene.Intro.C	Проснувся!	Du bist wach!	Tu es réveillé !	¡Estás despierto!	Вы проснулись!	Era ora che ti svegliassi!	你醒过来了！ 	目覚めたか！
 Text.Cutscene.Intro.D	Тоді почнімо…	Dann lass uns anfangen!	Que la fête commence...	Comencemos...	Тогда начнем...	"Iniziamo, allora..."	那我们就开始吧…… 	では、始めよう…
 Text.Cutscene.Intro.E	Тебе було відібрано Професором як піддослідного.	Du wurdest vom Professor als Testperson ausgewählt.	Tu as été sélectionné par le professeur en tant que sujet de test.	El profesor te ha elegido como sujeto de pruebas.	Профессор выбрал вас в качестве испытуемого.	Il Professore ti ha selezionato come cavia.	你被教授选为了受试者。 	おまえは教授に選ばれた実験体だ
 Text.Cutscene.Intro.F	Поталанило…	Du Glückspilz ...	Quelle chance tu as...	Has tenido suerte...	Повезло...	È il tuo giorno fortunato...	运气不错嘛…… 	幸運に思え…
