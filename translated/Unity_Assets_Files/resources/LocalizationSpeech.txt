@@ -811,7 +811,7 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Inmates.Banter	Бачиш, щоб я сміявся?	Lach ich etwa?	Tu me vois rire ?	¿Ves que me ría?	"Похоже, что я смеюсь?"	Sto forse ridendo?	你看到我笑了？	笑ってるだろ？			
 &Text.NPC.Warden	Уля-ля-ляяя… 	La-di-daaaaa... 	La-di-daaaaa… 	La-di-daaaaa… 	Ла-ди-да-а-а... 	La-di-daaaaa… 	啦~嘀~哒~ 	ララララ～			
 &Text.NPC.Counselor	Просто повільно дихай	Langsam atmen.	Respire lentement.	Solo respira lentamente.	Просто дыши	Respira lentamente	慢慢呼吸	とにかくゆっくり深呼吸を			
-&Text.Guards.RollCallMain	Я вам усім скребу голову? Якщо так, то… ЧУДОВО.	Langweile ich euch alle? Wenn ja ... GUT.	Je vous ennuis ? TANT MIEUX.	¿Os estoy aburriendo? Entonces... BIEN.	Я вас достал? Если так... ХОРОШО.	Sono forse noioso? Se è così... BENE.	我让你们都感觉无聊了吗？ 如果是……那就正好。 	私の話は退屈か？ ならよかった			
+&Text.Guards.RollCallMain	Я вам усім скребу голову? Якщо так, то… ЧУДОВО	Langweile ich euch alle? Wenn ja ... GUT.	Je vous ennuis ? TANT MIEUX.	¿Os estoy aburriendo? Entonces... BIEN.	Я вас достал? Если так... ХОРОШО.	Sono forse noioso? Se è così... BENE.	我让你们都感觉无聊了吗？ 如果是……那就正好。 	私の話は退屈か？ ならよかった			
 &Text.Guards.Inactive	Так нудно…	Langweilig ...	Je m'ennuie...	Me aburro...	Так скучно...	Che noia...	好无聊……	退屈すぎる…			
 &Text.Inmates.PlayerRep1	Ти мені набридаєш	Langweilig!	Tu m'ennuies.	Me aburres.	Ты меня достал	Mi annoi	你这人真无聊	あんたは退屈だ			
 &Text.NPC.Maintenance.Idle	Так нудно	Langweilig.	Quel ennui	Me aburro.	Так скучно	Che noia	好无聊	退屈すぎる			
@@ -1037,7 +1037,7 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Inmates.Attacked	Не на того напав	Schlechte Wahl.	T'as mal choisi.	Has elegido mal.	Ты ошибся с выбором	Hai fatto una scelta sbagliata	你选错人了	選択を誤ったな			
 &Text.ChatToGuard	Рило затули, коли зі мною розмовляєш!	"Schließ dein Maul, wenn du mit mir sprichst!"	Ferme la bouche quand tu parles !	¡Cierra la boca cuando me hables!	"Закрой рот, когда говоришь со мной!"	Chiudi la bocca quando parli con me!	跟我说话时把嘴闭上！ 	その汚い口を閉じてしゃべれ！			
 &Text.Inmates.FoodHall	Годі чавкати мені під вухом	Schmatz nicht so laut.	Tu me soules.	No mastiques tan cerca.	Хватит чавкать мне в ухо	Non masticarmi nell’orecchio	嚼东西时别靠我那么近	クチャクチャ音を立てるなっての			
-&Text.Guards.FoodHall	Погано смакує? Ой-й... ЧУДОВО.	Schmeckt’s nicht? Ohhh – GUT.	Ce n'est pas bon ? Oooh... TANT MIEUX.	"Sabe bien, ¿verdad? Mmm... RICO."	"Что, невкусно? О-о — ХОРОШО."	"Non è buono? Mmm, BUONO."	不好吃吗？ 噢……妙啊。 	メシが不味いって？何よりだ			
+&Text.Guards.FoodHall	Погано смакує? Ой-й... ЧУДОВО	Schmeckt’s nicht? Ohhh – GUT.	Ce n'est pas bon ? Oooh... TANT MIEUX.	"Sabe bien, ¿verdad? Mmm... RICO."	"Что, невкусно? О-о — ХОРОШО."	"Non è buono? Mmm, BUONO."	不好吃吗？ 噢……妙啊。 	メシが不味いって？何よりだ			
 &Text.Guard.SentToContrabandDesk	Контрабанду знайдено!	Schmuggelware gefunden!	De la contrebande !	¡Contrabando hallado!	Найдена контрабанда!	Merce di contrabbando!	发现违禁品！ 	禁制品を発見！			
 &Text.Guard.ContrabandInContainer	Контрабанда, га!	"Schmuggelware, eh?"	De la contrebande ?	"Contrabando, ¿no?"	Контрабанда!	"Contrabbando, eh?"	违禁品！ 	禁制品だ！			
 &Text.NPC.Janitor	Вандал!	Schmutzfink!	Pollueur !	¡Gusano!	Свинья!	Sozzone!	垃圾虫！ 	ゴミを捨てるな！			

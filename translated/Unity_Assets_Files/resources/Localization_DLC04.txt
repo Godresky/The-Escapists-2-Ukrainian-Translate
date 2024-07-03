@@ -217,7 +217,7 @@ Text.DLC04.Intro.Cutscene.G	Використав залишки тюремщин
 Text.DLC04.Intro.Cutscene.H	Для розважання натовпу!	Um die Menge zu unterhalten!	pour divertir la foule !	¡Para entretener a la muchedumbre!	Чтобы развлекать толпу!	...per continuare a divertire la folla!	来让人们感受到快乐！ 	観客を喜ばせてきたのだ！
 Text.DLC04.Intro.Cutscene.I	Що, звісно, означає…	Das heißt natürlich …	Ce qui signifie bien évidemment…	Lo que significa que...	"И конечно же, это значит..."	Questo ovviamente significa...	这当然意味着…… 	それはもちろん…
 Text.DLC04.Intro.Cutscene.J	Від тебе тут ЧЕКАЮТЬ виступів…	"Von dir WIRD erwartet, hier aufzutreten …"	que tu DEVRAS te produire ici…	VAIS a actuar aquí...	Что вы ТОЖЕ будете здесь выступать...	Che tu DOVRAI esibirti qui...	你将会在这里演出…… 	キミもステージに立つことを意味する！
-Text.DLC04.Intro.Cutscene.K	День-у-день. 	Jede einzelne Nacht. 	"Tous les soirs, sans exception. "	Todas y cada una de las noches. 	Каждый вечер. 	...ogni singola sera. 	每个夜晚。  	毎晩な
+Text.DLC04.Intro.Cutscene.K	День-у-день 	Jede einzelne Nacht. 	"Tous les soirs, sans exception. "	Todas y cada una de las noches. 	Каждый вечер. 	...ogni singola sera. 	每个夜晚。  	毎晩な
 Text.DLC04.Intro.Cutscene.V	О, браво!	Oh bravo!	"Oh, bravo !"	"¡Oh, bravo!"	"О, браво!"	"Oh, complimenti!"	噢， 棒极了！ 	おお、ブラボー！
 Text.DLC04.Intro.Cutscene.W	Спитай наступного разу в мене дозвіл!	Frag nächstes Mal nach meiner Einwilligung!	"Demande ma permission, la prochaine fois !"	"¡La próxima vez, pídeme permiso!"	В следующий раз спросите у меня разрешения.	Dovrai chiedere la mia autorizzazione la prossima volta!	下次征求我的同意！ 	次はやる前に言ってくれ！
 								
