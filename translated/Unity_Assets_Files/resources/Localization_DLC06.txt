@@ -172,7 +172,7 @@ Text.Sleigh2.Stage03.Fail	Потрібна флешка Санти з адрес
 										
 Text.Sleigh2.Interact	Приготувати Санчата 2.0	Schlitten 2.0 vorbereiten	Préparer le Trainauto 2.0	Prepara el trineo 2.0	Подготовка саней 2.0	Prepara la Slitta 2.0	将雪橇2.0准备好	ソリ 2.0を準備する		
 Text.Sleigh2.TooFewPlayers	Я не можу зробити цього самотужки…	Ich schaffe das nicht alleine ...	Je n'y arriverai pas sans aide...	No puedo hacer esto solo…	Я не справлюсь в одиночку...	Mi ci vuole qualcun altro...	只靠我自己是不可能做到的… …  	1人ではできない… 		
-Text.Sleigh2.PlayerProximity	I can't leave without the others!	Ich kann ohne die anderen nicht abhauen!	Je ne peux pas partir sans les autres !	¡No puedo irme sin los demás!	Я не могу бежать без остальных!	Non posso andarmene senza gli altri!	我不能自己一个人离开！  	仲間を置いてはいけない！ 		
+Text.Sleigh2.PlayerProximity	Я не можу втекти без решти!	Ich kann ohne die anderen nicht abhauen!	Je ne peux pas partir sans les autres !	¡No puedo irme sin los demás!	Я не могу бежать без остальных!	Non posso andarmene senza gli altri!	我不能自己一个人离开！  	仲間を置いてはいけない！ 		
 										
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////										
 										
