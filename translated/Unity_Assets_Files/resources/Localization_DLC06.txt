@@ -218,36 +218,36 @@ Text.DLC06.Intro.AI	ДО РОБОТИ	ZURÜCK AN DIE ARBEIT	RETOUR AU TRAVAIL	DE
 										
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////										
 										
-Text.DLC06.Generic.A	SLEIGH LOCATED!	SCHLITTEN GEFUNDEN!	TRAINEAU LOCALISÉ !	¡TRINEO ENCONTRADO!	ОБНАРУЖЕНЫ САНИ!	SLITTA LOCALIZZATA!	雪橇已定位！ 	ソリの設置完了！ 		
-Text.DLC06.Generic.B	INITIATING RECOVERY	RÜCKHOLUNG GESTARTET	RÉCUPÉRATION EN COURS	INICIANDO RECUPERACIÓN	НАЧИНАЕМ ВОССТАНОВЛЕНИЕ	INIZIA RECUPERO	启动恢复程序	復旧作業開始		
-Text.DLC06.Generic.C	RECOVERY FAILED	RÜCKHOLUNG GESCHEITERT	ÉCHEC DE RÉCUPÉRATION	ERROR EN LA RECUPERACIÓN	ВОССТАНОВЛЕНИЕ НЕ УДАЛОСЬ	RECUPERO NON RIUSCITO	恢复失败	復旧失敗		
-Text.DLC06.Generic.D	**ERROR**	**FEHLER**	**ERREUR**	**ERROR**	**ОШИБКА**	***ERRORE***	**错误**	**エラー**		
-Text.DLC06.Generic.E	**REBOOTING**	**NEUSTART**	**REDÉMARRAGE**	**REINICIANDO**	**ПЕРЕЗАГРУЗКА**	**RIAVVIO IN CORSO**	**重新启动中**	**再起動中**		
-Text.DLC06.Generic.F	And these are supposed to be replacing us?	Und dadurch sollen wir ersetzt werden?	Et c’est ça qui est supposé nous remplacer ?	¿Y se supone que estos son los que van a sustituirnos?	"Они что, заменят нас?"	E questi dovrebbero sostituirci?	居然说要用这些玩意代替我们？	これが俺たちの代わりになるってこと？		
-Text.DLC06.Generic.G	Oh boy…	Ohje …	Oh là là !	Pues vaya...	О боже...	Oh cielo…	天哪… … 	なんてこった… 		
-Text.DLC06.Generic.H	ESCAPEE!	FLÜCHTIGER!	FUGITIF !	¡PRÓFUGO!	БЕГЛЕЦ!	SCAPPA!	有人逃脱！ 	脱出！ 		
-Text.DLC06.Generic.I	DESTROY! DESTROY! DESTROY!	VERNICHTEN! VERNICHTEN! VERNICHTEN!	DÉTRUIRE ! DÉTRUIRE ! DÉTRUIRE !	¡DESTRUIR! ¡DESTRUIR! ¡DESTRUIR!	УНИЧТОЖИТЬ! УНИЧТОЖИТЬ! УНИЧТОЖИТЬ!	DISTRUGGI! DISTRUGGI! DISTRUGGI!	摧毁！ 摧毁！ 摧毁！ 	破壊！ 破壊！ 破壊！ 		
+Text.DLC06.Generic.A	ПОМІЧЕНО САНИ!	SCHLITTEN GEFUNDEN!	TRAINEAU LOCALISÉ !	¡TRINEO ENCONTRADO!	ОБНАРУЖЕНЫ САНИ!	SLITTA LOCALIZZATA!	雪橇已定位！ 	ソリの設置完了！ 		
+Text.DLC06.Generic.B	РОЗПОЧИНАЮ РЕМОНТ	RÜCKHOLUNG GESTARTET	RÉCUPÉRATION EN COURS	INICIANDO RECUPERACIÓN	НАЧИНАЕМ ВОССТАНОВЛЕНИЕ	INIZIA RECUPERO	启动恢复程序	復旧作業開始		
+Text.DLC06.Generic.C	ЗБІЙ РЕМОНТУ	RÜCKHOLUNG GESCHEITERT	ÉCHEC DE RÉCUPÉRATION	ERROR EN LA RECUPERACIÓN	ВОССТАНОВЛЕНИЕ НЕ УДАЛОСЬ	RECUPERO NON RIUSCITO	恢复失败	復旧失敗		
+Text.DLC06.Generic.D	**ПОМИЛКА**	**FEHLER**	**ERREUR**	**ERROR**	**ОШИБКА**	***ERRORE***	**错误**	**エラー**		
+Text.DLC06.Generic.E	**ПЕРЕЗАПУСК**	**NEUSTART**	**REDÉMARRAGE**	**REINICIANDO**	**ПЕРЕЗАГРУЗКА**	**RIAVVIO IN CORSO**	**重新启动中**	**再起動中**		
+Text.DLC06.Generic.F	І вони ще мають нас замінювати?	Und dadurch sollen wir ersetzt werden?	Et c’est ça qui est supposé nous remplacer ?	¿Y se supone que estos son los que van a sustituirnos?	"Они что, заменят нас?"	E questi dovrebbero sostituirci?	居然说要用这些玩意代替我们？	これが俺たちの代わりになるってこと？		
+Text.DLC06.Generic.G	Ох, хлопче…	Ohje …	Oh là là !	Pues vaya...	О боже...	Oh cielo…	天哪… … 	なんてこった… 		
+Text.DLC06.Generic.H	УТІКАЧ!	FLÜCHTIGER!	FUGITIF !	¡PRÓFUGO!	БЕГЛЕЦ!	SCAPPA!	有人逃脱！ 	脱出！ 		
+Text.DLC06.Generic.I	ЗНИЩИТИ! ЗНИЩИТИ! ЗНИЩИТИ!	VERNICHTEN! VERNICHTEN! VERNICHTEN!	DÉTRUIRE ! DÉTRUIRE ! DÉTRUIRE !	¡DESTRUIR! ¡DESTRUIR! ¡DESTRUIR!	УНИЧТОЖИТЬ! УНИЧТОЖИТЬ! УНИЧТОЖИТЬ!	DISTRUGGI! DISTRUGGI! DISTRUGGI!	摧毁！ 摧毁！ 摧毁！ 	破壊！ 破壊！ 破壊！ 		
 										
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////										
 										
-Text.DLC06.SP.A	Now just to wait for an order to be placed…	Jetzt warten wir nur noch auf eine Bestellung …	"Et maintenant, il faut juste attendre une commande..."	Ahora espera a que se haga un pedido...	"А теперь надо подождать, пока заказ будет размещен..."	Ora dobbiamo solo aspettare che qualcuno faccia un ordine…	接下来， 只要等有人下单… … 	あとは注文が入るのを待つだけだ… 		
-Text.DLC06.SP.B	PRODUCT LOCATED	PRODUKT GEFUNDEN	PRODUIT LOCALISÉ	PRODUCTO LOCALIZADO	ПРОДУКТ ОБНАРУЖЕН	PRODOTTO LOCALIZZATO	产品已定位	製品を設置		
-Text.DLC06.SP.C	COMMENCE WRAPPING	BEGINNE VERPACKEN	EMBALLAGE EN COURS	INICIANDO PROCESO DE ENVOLTURA	НАЧАТЬ УПАКОВКУ	INIZIO IMPACCHETTAMENTO	开始进行包装	ラッピング開始		
-Text.DLC06.SP.D	Bark! Bark!	Wau! Wau!	Ouaf ! Ouaf !	¡Ladrido! ¡Ladrido!	Гав! Гав!	Bau! Bau!	汪！ 汪！ 	ガー！ ガー！ 		
-Text.DLC06.SP.E	ENJOY YOUR PRODUCT	GENIESS DEIN PRODUKT	PROFITEZ BIEN DE VOTRE ACHAT	DISFRUTA DEL PRODUCTO	НАСЛАЖДАЙТЕСЬ ПРОДУКТОМ	GODITI IL PRODOTTO	请享受您的产品	お買い上げありがとうございます		
-Text.DLC06.SP.F	WERE YOU PLEASED…	BIST DU MIT DEM …	ÊTES-VOUS SATISFAIT...	¿ESTÁS SATISFECHO...	ПОНРАВИЛОСЬ ЛИ ВАМ...	IL SERVIZIO DI OGGI…	您对今天的服务… … 	今回のサービスには		
-Text.DLC06.SP.G	WITH TODAY'S SERVICE?	SERVICE HEUTE ZUFRIEDEN?	DE NOTRE SERVICE AUJOURD’HUI ?	CON EL SERVICIO RECIBIDO?	ОБСЛУЖИВАНИЕ СЕГОДНЯ?	TI HA SODDISFATTO?	是否满意呢？	ご満足いただけましたか？		
-Text.DLC06.SP.H	1 IS VERY UNHAPPY	1 IST SEHR UNZUFRIEDEN	1 : TRÈS INSATISFAIT	1 ES MUY DESCONTENTO	1 — ОЧЕНЬ НЕ ПОНРАВИЛОСЬ	1 STA PER MOLTO INSODDISFATTO	十分不满请按1	1 大いに不満が残る		
-Text.DLC06.SP.I	10 IS VERY PLEASED	10 IST SEHR ZUFRIEDEN	10 : TRÈS SATISFAIT	10 ES MUY CONTENTO	10 — ОЧЕНЬ ПОНРАВИЛОСЬ	10 STA PER MOLTO SODDISFATTO	十分满意请按10	10 非常に満足した		
-Text.DLC06.SP.J	GRRRRRRR	GRRRRR	GRRRRR	GRRRRRRR	ГР-Р-Р-Р-Р-Р	GRRRRR	咕噜噜	ガルルル		
-Text.DLC06.SP.K	THANK YOU	DANKE	MERCI	GRACIAS	СПАСИБО	GRAZIE	谢谢您	ありがとうございました		
+Text.DLC06.SP.A	Тепер лише чекати, аби замовленням зайнялись…	Jetzt warten wir nur noch auf eine Bestellung …	"Et maintenant, il faut juste attendre une commande..."	Ahora espera a que se haga un pedido...	"А теперь надо подождать, пока заказ будет размещен..."	Ora dobbiamo solo aspettare che qualcuno faccia un ordine…	接下来， 只要等有人下单… … 	あとは注文が入るのを待つだけだ… 		
+Text.DLC06.SP.B	ЗНАЙДЕНО ТОВАР	PRODUKT GEFUNDEN	PRODUIT LOCALISÉ	PRODUCTO LOCALIZADO	ПРОДУКТ ОБНАРУЖЕН	PRODOTTO LOCALIZZATO	产品已定位	製品を設置		
+Text.DLC06.SP.C	РОЗПОЧИНАЮ ПАКУВАННЯ	BEGINNE VERPACKEN	EMBALLAGE EN COURS	INICIANDO PROCESO DE ENVOLTURA	НАЧАТЬ УПАКОВКУ	INIZIO IMPACCHETTAMENTO	开始进行包装	ラッピング開始		
+Text.DLC06.SP.D	Гав! Гав!	Wau! Wau!	Ouaf ! Ouaf !	¡Ladrido! ¡Ladrido!	Гав! Гав!	Bau! Bau!	汪！ 汪！ 	ガー！ ガー！ 		
+Text.DLC06.SP.E	НАСОЛОДЖУЙТЕСЬ ТОВАРОМ	GENIESS DEIN PRODUKT	PROFITEZ BIEN DE VOTRE ACHAT	DISFRUTA DEL PRODUCTO	НАСЛАЖДАЙТЕСЬ ПРОДУКТОМ	GODITI IL PRODOTTO	请享受您的产品	お買い上げありがとうございます		
+Text.DLC06.SP.F	ОЦІНІТЬ ЯКІСТЬ СЕРВІСУ…	BIST DU MIT DEM …	ÊTES-VOUS SATISFAIT...	¿ESTÁS SATISFECHO...	ПОНРАВИЛОСЬ ЛИ ВАМ...	IL SERVIZIO DI OGGI…	您对今天的服务… … 	今回のサービスには		
+Text.DLC06.SP.G	ПО ДЕСЯТИБАЛЬНІЙ ШКАЛІ	SERVICE HEUTE ZUFRIEDEN?	DE NOTRE SERVICE AUJOURD’HUI ?	CON EL SERVICIO RECIBIDO?	ОБСЛУЖИВАНИЕ СЕГОДНЯ?	TI HA SODDISFATTO?	是否满意呢？	ご満足いただけましたか？		
+Text.DLC06.SP.H	1 — ДУЖЕ НЕЗАДОВОЛЕНІ	1 IST SEHR UNZUFRIEDEN	1 : TRÈS INSATISFAIT	1 ES MUY DESCONTENTO	1 — ОЧЕНЬ НЕ ПОНРАВИЛОСЬ	1 STA PER MOLTO INSODDISFATTO	十分不满请按1	1 大いに不満が残る		
+Text.DLC06.SP.I	10 — ДУЖЕ ЗАДОВОЛЕНІ	10 IST SEHR ZUFRIEDEN	10 : TRÈS SATISFAIT	10 ES MUY CONTENTO	10 — ОЧЕНЬ ПОНРАВИЛОСЬ	10 STA PER MOLTO SODDISFATTO	十分满意请按10	10 非常に満足した		
+Text.DLC06.SP.J	Р-Р-Р-Р-Р	GRRRRR	GRRRRR	GRRRRRRR	ГР-Р-Р-Р-Р-Р	GRRRRR	咕噜噜	ガルルル		
+Text.DLC06.SP.K	ДЯКУЄМО	DANKE	MERCI	GRACIAS	СПАСИБО	GRAZIE	谢谢您	ありがとうございました		
 										
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////										
 										
-Text.DLC06.MP.A	Coordinates are in!	Koordinaten gespeichert!	Coordonnées introduites !	¡Coordenadas introducidas!	Координаты введены!	Le coordinate sono state inserite!	坐标来了！ 	座標入力完了！ 		
-Text.DLC06.MP.B	Let's do this	Gehen wir’s an!	Allons-y !	Hagámoslo	Вперед	Facciamolo!	我们上吧	さぁやろう		
-Text.DLC06.MP.C	IS THIS WHAT IT FEELS LIKE…	FÜHLT ES SICH SO AN …	ALORS C’EST ÇA...	¿ES ESTO LO QUE SE SIENTE...	ТАК ВОТ НА ЧТО ЭТО ПОХОЖЕ...	È COSÌ CHE CI SI SENTE...	变得毫无意义… … 	これが時代遅れになるっていう… 		
-Text.DLC06.MP.D	TO BECOME OBSOLETE?	NICHT GEBRAUCHT ZU WERDEN?	DE DEVENIR INUTILE ?	AL QUEDAR OBSOLETO?	КОГДА ТЫ УСТАРЕВАЕШЬ?	A ESSERE OBSOLETI?	原来就是这种感觉？	感覚なのだろうか？		
-Text.DLC06.MP.E	OOF!	UFF!	OOF !	¡UUF!	УФ!	UFF!	唉呦！ 	ウーン！ 		
-Text.DLC06.MP.F	EUURGH!	IRRGH!	EUURGH !	¡AAARGH!	ГР-Р-Р!	ARGH!	唔哇！ 	オエッ！ !		
-Text.DLC06.MP.G	"Well, this isn't bad is it?"	"Das ist nicht schlecht, oder?"	"Bon, c’est pas si mal, hein ?"	"Bueno, no está mal, ¿verdad?"	"Что ж, это ведь неплохо, да?"	"Beh, non è male, vero?"	唔， 这还不错嘛， 你说呢？	そんなに悪くないだろ？		
+Text.DLC06.MP.A	Координати вписано!	Koordinaten gespeichert!	Coordonnées introduites !	¡Coordenadas introducidas!	Координаты введены!	Le coordinate sono state inserite!	坐标来了！ 	座標入力完了！ 		
+Text.DLC06.MP.B	Зробімо це	Gehen wir’s an!	Allons-y !	Hagámoslo	Вперед	Facciamolo!	我们上吧	さぁやろう		
+Text.DLC06.MP.C	ТО ОН, ЯК ЦЕ ВОНО…	FÜHLT ES SICH SO AN …	ALORS C’EST ÇA...	¿ES ESTO LO QUE SE SIENTE...	ТАК ВОТ НА ЧТО ЭТО ПОХОЖЕ...	È COSÌ CHE CI SI SENTE...	变得毫无意义… … 	これが時代遅れになるっていう… 		
+Text.DLC06.MP.D	СТАТИ ЗАСТАРІЛИМ?	NICHT GEBRAUCHT ZU WERDEN?	DE DEVENIR INUTILE ?	AL QUEDAR OBSOLETO?	КОГДА ТЫ УСТАРЕВАЕШЬ?	A ESSERE OBSOLETI?	原来就是这种感觉？	感覚なのだろうか？		
+Text.DLC06.MP.E	А-АЙ!	UFF!	OOF !	¡UUF!	УФ!	UFF!	唉呦！ 	ウーン！ 		
+Text.DLC06.MP.F	У-У-УХ!	IRRGH!	EUURGH !	¡AAARGH!	ГР-Р-Р!	ARGH!	唔哇！ 	オエッ！ !		
+Text.DLC06.MP.G	"Що ж, усе не так і погано, еге ж?"	"Das ist nicht schlecht, oder?"	"Bon, c’est pas si mal, hein ?"	"Bueno, no está mal, ¿verdad?"	"Что ж, это ведь неплохо, да?"	"Beh, non è male, vero?"	唔， 这还不错嘛， 你说呢？	そんなに悪くないだろ？		
