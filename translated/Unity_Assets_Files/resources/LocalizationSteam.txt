@@ -100,8 +100,8 @@ Text.UI.ShadowsLow	Низькі	Niedrig	Faibles	Bajo	Низк.	Basse	低	低
 Text.UI.ShadowsMed	Середні	Mittel	Moyennes	Medio	Средн.	Medie	中	中
 Text.UI.ShadowsHigh	Високі	Hoch	Élevées	Alto	Высок.	Alte	高	高
 								
-Text.Dialog.ControllerDisconnect	КОНТРОЛЕР ВІД'ЄДНАНО	CONTROLLER GETRENNT	MANETTE DÉCONNECTÉE	MANDO DESCONECTADO	КОНТРОЛЛЕР ОТКЛЮЧЕН	CONTROLLER DISCONNESSO	控制器断开连接	コントローラーとの接続切れ
-Text.Dialog.ControllerDisconnect.Body	Контролер від’єднано. Будь ласка, перепід’єднайте контролер та натисніть [IN=UI_Submit], щоб продовжити.	"Controller getrennt. Zum Fortfahren, Verbindung wieder herstellen und [IN=UI_Submit] drücken."	Manette déconnectée. Veuillez la reconnecter et appuyer sur [IN=UI_Submit] pour continuer.	Mando desconectado. Vuelve a conectar el mando y pulsa [IN=UI_Submit] para continuar.	"Контроллер отключен. Чтобы продолжить, подключите контроллер заново и нажмите [IN=UI_Submit]."	Controller disconnesso. Riconnetti il controller e premi [IN=UI_Submit] per continuare.	控制器断开连接。 请重新连接控制器并按 [IN=UI_Submit] 继续。 	コントローラーとの接続が切れました。 続行するにはコントローラーをつなぎ直し、 [IN=UI_Submit]を押してください。 
+Text.Dialog.ControllerDisconnect	КОНТРОЛЕР ВІД’ЄДНАНО	CONTROLLER GETRENNT	MANETTE DÉCONNECTÉE	MANDO DESCONECTADO	КОНТРОЛЛЕР ОТКЛЮЧЕН	CONTROLLER DISCONNESSO	控制器断开连接	コントローラーとの接続切れ
+Text.Dialog.ControllerDisconnect.Body	Контролер від’єднано. Будь ласка, перепід’єднайте контролер та натисніть [IN=UI_Submit], щоби продовжити.	"Controller getrennt. Zum Fortfahren, Verbindung wieder herstellen und [IN=UI_Submit] drücken."	Manette déconnectée. Veuillez la reconnecter et appuyer sur [IN=UI_Submit] pour continuer.	Mando desconectado. Vuelve a conectar el mando y pulsa [IN=UI_Submit] para continuar.	"Контроллер отключен. Чтобы продолжить, подключите контроллер заново и нажмите [IN=UI_Submit]."	Controller disconnesso. Riconnetti il controller e premi [IN=UI_Submit] per continuare.	控制器断开连接。 请重新连接控制器并按 [IN=UI_Submit] 继续。 	コントローラーとの接続が切れました。 続行するにはコントローラーをつなぎ直し、 [IN=UI_Submit]を押してください。 
 								
 Text.RewiredInput.LeftMouseButton	ЛКМ	LMT	CLIC GAUCHE	BIR	ЛКМ	M.SX	鼠标左键	左MB
 Text.RewiredInput.RightMouseButton	ПКМ	RMT	CLIC DROIT	BDR	ПКМ	M.DX	鼠标右键	右MB
