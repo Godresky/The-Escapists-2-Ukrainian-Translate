@@ -349,10 +349,10 @@ Text.EquipmentStat.Range.Low	Низька	Niedrig	Faible	Bajo	Низк.	Bassa	�
 Text.EquipmentStat.Range.Medium	Середня	Mittel	Moyenne	Medio	Средн.	Media	中	中			
 Text.EquipmentStat.Range.High	Висока	Hoch	Élevée	Alto	Высок.	Alta	高	高			
 Text.EquipmentStat.OutfitType.None	Немає	Keines	Aucun	Ninguno	Нет	Nessuno	无	なし			
-Text.EquipmentStat.OutfitType.Guard	Варти	Wärter	Gardien	Guardia	Охрана	Guardia	守卫	看守			
-Text.EquipmentStat.OutfitType.Inmate	В’язня	Häftling	Détenu	Preso	Заключенный	Detenuto	囚犯	囚人			
-Text.EquipmentStat.OutfitType.Medic	Лікаря	Sanitäter	Médecin	Médico	Медик	Medico	医生	医務官			
-Text.EquipmentStat.OutfitType.Warden	Начальника	Wächter	Directeur	Alcaide	Надзиратель	Direttore	典狱长	所長			
+Text.EquipmentStat.OutfitType.Guard	Варта	Wärter	Gardien	Guardia	Охрана	Guardia	守卫	看守			
+Text.EquipmentStat.OutfitType.Inmate	В’язень	Häftling	Détenu	Preso	Заключенный	Detenuto	囚犯	囚人			
+Text.EquipmentStat.OutfitType.Medic	Лікар	Sanitäter	Médecin	Médico	Медик	Medico	医生	医務官			
+Text.EquipmentStat.OutfitType.Warden	Начальник	Wächter	Directeur	Alcaide	Надзиратель	Direttore	典狱长	所長			
 Text.Item.Flour	Пачка муки	Mehlbeutel	Sac de farine	Saco de harina	Мешок муки	Sacco di farina	袋装面粉	小麦粉の袋			
 Text.Item.RobotOfficerOutfit	Однострій наглядача	Wärter-Kleidung	Tenue de gardien	Uniforme de guardia	Форма охранника	Vestiti da guardia	守卫服装	看守の服			
 Text.Item.POWOutfit	Вбрання в’язня	Häftlingskleidung	Tenue de détenu	Uniforme de preso	Одежда заключ.	Vestiti da detenuto	囚犯服装	囚人服			
@@ -361,7 +361,7 @@ Text.EquipmentStat.DamageReduction.Low	Низький	Niedrig	Faible	Bajo	Низ
 Text.EquipmentStat.DamageReduction.Medium	Середній	Mittel	Moyenne	Medio	Средн.	Media	中	中			
 Text.EquipmentStat.DamageReduction.High	Високий	Hoch	Élevée	Alto	Высок.	Alta	高	高			
 Text.Item.TubeOfArtPaintsB	Тюбик художньої фарби	Tube Künstlerfarbe	Tube de peinture	Tubo de pinturas	Тюбик краски	Tubetto di pittura	美术颜料管	絵の具			
-Text.EquipmentStat.Damage.Highest	Найвищий	Max.	Max.	Max.	Максимум	Max.	最高	最強			
+Text.EquipmentStat.Damage.Highest	Найвища	Max.	Max.	Max.	Максимум	Max.	最高	最強			
 Text.Item.RedKeyCardCopy	Матриця червоної ключ-картки	Schlüsselkarten-Form (rot)	Moule de carte magnétique rouge	Molde de tarjeta roja	Слепок кр. ключ-карты	Stampo chiave elettronica rossa	红色	キーカードの型（赤）			
 Text.Item.PurpleKeyCardCopy	Матриця пурпурової ключ-картки	Schlüsselkarten-Form (lila)	Moule de carte magnétique violette	Molde de tarjeta lila	Слепок фиол. ключ-карты	Stampo chiave elettronica viola	红色门卡模具	キーカードの型（紫）			
 Text.Item.YellowKeyCardCopy	Матриця жовтої ключ-картки	Schlüsselkarten-Form (gelb)	Moule de carte magnétique jaune	Molde de tarjeta amarilla	Слепок желтой ключ-карты	Stampo chiave elettronica gialla	紫色门卡模具	キーカードの型（黄）			
