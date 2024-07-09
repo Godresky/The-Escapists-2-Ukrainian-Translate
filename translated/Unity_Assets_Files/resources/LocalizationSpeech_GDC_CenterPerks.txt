@@ -4,21 +4,21 @@ Text.GDC.IntroCutscene.01	Testing 1 2 3
 												
 Text.Quest.CraftTitle	Мастак на всі руки!											
 Text.Quest.CraftObjective	Змайструйте люту зброю, відому як «Шкарпеткова булава»											
-Text.Quest.CraftDescription	"""There you are squire! I was beginning to think you'd run out on me… If you were to do that I'd remove your legs, pixel by pixel.\n\nRight, heh… I want you to piece me together a weapon… Using the Soap and the Sock - craft me it up... Or else… Use the map locations as reference to see where you need to be. Fancy it?"""											
+Text.Quest.CraftDescription	"А ось де ти, кавалере! Уже подумав, що ти вже про мене забув… Якби ти так зробив, то я би вирізав твої ноги, піксель за пікселем.\n\nТак от, хех… Я хочу, щоб ти зробив мені зброю… Змайструй мені її за допомогою шкарпетки та мила, або ж… Не забувай про позначки на мапі, аби бачити, куди треба піти. Ну шо, берешся?"											
 												
-Text.Quest.PlantTitle	You Dirty Rat!											
-Text.Quest.PlantObjective	Plant the $ItemToGet in their desk.											
-Text.Quest.PlantDescription	"""Hey chummy…Yeah you!\n\nListen, one of the cons has been shooting their mouth off again about me and I want you to send a message to run the chills down their pixelated spine. You *WILL* do this for me!\n\nOf course, I will reward you handsomely. I've marked the location on your map! That is if you wanna do this for me?"""											
+Text.Quest.PlantTitle	Ах ти пацюк!											
+Text.Quest.PlantObjective	Покладіть пред. $ItemToGet у стіл в'язня.											
+Text.Quest.PlantDescription	"Агов, чумбо… Ага, ти!\n\nСлухай, один із пройдисвітів почав даремно ляпати про мене язиком. Хочу, щоб ти передав йому повідомлення, аби його піксельною шкірою пробіглися мурахи. Ти *ПЕРЕДАСИ* його!\n\nЯ тобі, звичайно, добряче відплачу. Я поставлю мітку його місцеперебування на твоїй мапі! Якщо, звісно ж, візьмешся за це."											
 												
-Text.Quest.CombatTitle	Rough Justice!											
-Text.Quest.CombatItemDesc	Take the $ItemToGet											
-Text.Quest.CombatObjective	Attack and knock unconscious inmate $CombatTarget											
+Text.Quest.CombatTitle	Сувора справедливість!											
+Text.Quest.CombatItemDesc	Візьміть пред. $ItemToGet											
+Text.Quest.CombatObjective	Побийте та оглушіть перс. $CombatTarget											
 Text.Quest.CombatDescription	"""So far you haven't let me down so you're doing good - well... Not bad!\n $CombatTarget keeps pouring nonsense out of their talking hole and I'm getting sick of it!\n\nTake back your Sock Mace and use it on that punk!\n\nDon't let me down, you know how dangerous I can be... In a cutesy pixelated way that is... If you wanna do this that is? VAMOOSE!"""											
 												
 Text.Quest.FloodTitle	Open The Floodgates!											
-Text.Quest.FloodObjective	Put the item in $FloodTarget 's toilet to flood it.											
+Text.Quest.FloodObjective	Покладіть предмет у туалет $FloodTarget, аби забити його.											
 Text.Quest.FloodDescription	"""You're enjoying this ain't ya? You're doing pretty good.\nAnyway, that's enough of me being nice - on to business. I want that pixel-punk upset and rattled at just what we, errr I mean I, I mean what I can do… heh.\n\nRIGHT, take this, and jam it down $FloodTarget 's toilet and make a proper mess of their cell. If you're gonna do this, remember to check your map to see where you need to go!"""											
-Text.Quest.FloodItem.Desc	Take the $ItemToGet											
+Text.Quest.FloodItem.Desc	Візьміть пред. $ItemToGet											
 												
 Text.Quest.RedKeyTitle	Dirty Cash!											
 Text.Quest.RedKeyObjective	Obtain the Plastic Red Key											
