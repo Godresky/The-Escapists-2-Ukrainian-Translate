@@ -13,17 +13,17 @@ Text.Quest.PlantDescription	"Агов, чумбо… Ага, ти!\n\nСлуха
 Text.Quest.CombatTitle	Сувора справедливість!											
 Text.Quest.CombatItemDesc	Візьміть пред. $ItemToGet											
 Text.Quest.CombatObjective	Побийте та оглушіть перс. $CombatTarget											
-Text.Quest.CombatDescription	"""So far you haven't let me down so you're doing good - well... Not bad!\n $CombatTarget keeps pouring nonsense out of their talking hole and I'm getting sick of it!\n\nTake back your Sock Mace and use it on that punk!\n\nDon't let me down, you know how dangerous I can be... In a cutesy pixelated way that is... If you wanna do this that is? VAMOOSE!"""											
+Text.Quest.CombatDescription	"Поки що ти мене не підводив, тож пораєшся файно... цебто, непогано!\n$CombatTarget все несе й несе якісь нісенитниці своєю шумною діркою в голові, та мені це набридає!\n\nВізьми свою шкарпеткову булаву та влупи нею цього невдаху!\n\nНе підведи мене, ти ж знаєш, що я сама небезпека!.. ну така, мила, піксельна... Ну шо, надумав? УПЕРЕД!"											
 												
-Text.Quest.FloodTitle	Open The Floodgates!											
+Text.Quest.FloodTitle	Відчиняйте шлюз!											
 Text.Quest.FloodObjective	Покладіть предмет у туалет $FloodTarget, аби забити його.											
-Text.Quest.FloodDescription	"""You're enjoying this ain't ya? You're doing pretty good.\nAnyway, that's enough of me being nice - on to business. I want that pixel-punk upset and rattled at just what we, errr I mean I, I mean what I can do… heh.\n\nRIGHT, take this, and jam it down $FloodTarget 's toilet and make a proper mess of their cell. If you're gonna do this, remember to check your map to see where you need to go!"""											
+Text.Quest.FloodDescription	"А тобі це подобається, еге ж? Гарно впоруєшся.\nХай там як, годі мені хизуватися манерами — приступімо до справи. Я хочу, щоби цей піксельний шмаркач засмутився та занервувався через те, що ми... ем, тобто я... тобто я... тобто.. а що я можу зробити? Хах.\n\nТАК ОТ, візьми це, запхай в нужник $FloodTarget, та забабахай йому в камері срач. Якщо візьмешся за цю справу, то не забувай заглядати в мапу, аби подивитися, куди треба йти!"											
 Text.Quest.FloodItem.Desc	Візьміть пред. $ItemToGet											
 												
-Text.Quest.RedKeyTitle	Dirty Cash!											
-Text.Quest.RedKeyObjective	Obtain the Plastic Red Key											
-Text.Quest.RedKeyDescription	"""You sure you ain't done this before? You're turning out to be quite the 'BIG CON' around here ain't ya?\n\nI've spoken to one of my associates and they're willing to give you a reward, *very* nice indeed!\n\nThat is, if you fancy collecting it?"""											
-Text.Quest.RedKeyObjectiveA	Access the Roof using the Plastic Red Key											
+Text.Quest.RedKeyTitle	Брудна тємка!											
+Text.Quest.RedKeyObjective	Отримайте червоний пластиковий ключ											
+Text.Quest.RedKeyDescription	"Ти точно таким раніше не промишляв? Схоже, шо ти стаєш місцевим доном, еге ж?\n\nЯ погутарив з одним із моїх колег, і він хоче винагородити тебе, та ще й *дуже* файно!\n\nНу шо, хочеш?"											
+Text.Quest.RedKeyObjectiveA	Заберіться на дах, використавши червоний пластиковий ключ											
 												
 												
 												
