@@ -1085,8 +1085,8 @@ Text.JobQuota.C	НУ ВСЕ, ЦЕ КІНЕЦЬ - ТЕПЕР У МЕНЕ НЕМА
 &Text.Inmates.Banter	Бач, що вона зробила?	"Siehst du, was sie getan hat?"	T'as vu ce qu'elle a fait ?	¿Has visto lo que ha hecho?	"Вы видели, что она сделала?"	Hai visto che ha fatto?	你看到她干了什么吗？	あの女が何をしたって？			
 &Text.GuardAlert.Disguise	"Маєш добрий вигляд, кумпелю!"	"Siehst gut aus, Kumpel!"	T'as l'air en forme !	¡Tienes buen aspecto!	"Клево выглядишь, чувак!"	Che schianto!	挺神气啊， 伙计！ 	バッチリ決まってるぞ！			
 &Text.Guard.SuspiciousOfCharacter	Се підозріло…	Sieht dubios aus.	C'est louche...	Parece sospechoso…	Подозрительно...	Che aria sospetta...	看起来很可疑……	怪しいヤツめ…			
-&Text.Guard.Suspicious	Недовірливий вигляд якийсь…	Sieht dubios aus.	C'est louche...	Parece sospechoso…	Подозрительно...	Che aria sospetta...	看起来很可疑……	怪しいヤツめ…			
-&Text.NPC.JobstaffRandom	"Відбувай свій термін з користю - наймайся!"	"Sitz deine Strafe mit Stolz ab, arbeite!"	"Purge ta peine avec fierté, trouve un travail !"	"Cumple tu sentencia con orgullo, ¡busca trabajo!"	"Устраивайтесь на работу, чтобы отсидеть с честью!"	"Scontate la pena con orgoglio, fatevi assumere!"	坐牢也要有尊严， 找份工作吧！ 	職につき、 誇りをもって刑期を務めるんだ！			
+&Text.Guard.Suspicious	Підозрілий якийсь…	Sieht dubios aus.	C'est louche...	Parece sospechoso…	Подозрительно...	Che aria sospetta...	看起来很可疑……	怪しいヤツめ…			
+&Text.NPC.JobstaffRandom	"Відбувай свій термін з користю — наймайся!"	"Sitz deine Strafe mit Stolz ab, arbeite!"	"Purge ta peine avec fierté, trouve un travail !"	"Cumple tu sentencia con orgullo, ¡busca trabajo!"	"Устраивайтесь на работу, чтобы отсидеть с честью!"	"Scontate la pena con orgoglio, fatevi assumere!"	坐牢也要有尊严， 找份工作吧！ 	職につき、 誇りをもって刑期を務めるんだ！			
 &Text.Inmate.Disguise	Просто відсиджую свій термін	Sitz nur meine Zeit ab.	Je purge ma peine.	Solo paso el tiempo.	Просто отбываю срок	Sto scontando la pena	我只是在服刑	刑期を務めてるだけでさあ			
 &Text.NPC.Maintenance	Як нова копійка!	So gut wie neu!	Comme neuf !	¡Como nuevo!	Как новенькое!	Come nuovo!	和新的一样！ 	新品同様だ！			
 &Text.Inmates.Gym	Колись у мене було таке тіло	So hab ich mal ausgesehen.	"Avant, je ressemblais à ça."	Yo antes tenía esa pinta.	Раньше я вот так выглядел	Anche io ero così	我以前也是那样	前はガリガリだった			
