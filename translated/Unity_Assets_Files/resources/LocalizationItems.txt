@@ -115,7 +115,7 @@ Text.Item.RedHerb	Червона трава	Rotes Kraut	Herbe rouge	Hierba roja	
 Text.Item.Seeds	Насіння	Samen	Graines	Semillas	Семена	Semi	种子	種			
 Text.Item.OxygenTank	Кисневий балон	Sauerstoffflasche	Bouteille d'oxygène	Botella de oxígeno	Кислородный баллон	Bombola di ossigeno	氧气罐	酸素ボンベ			
 Text.Item.Baton	Кийок	Schlagstock	Matraque	Porra	Дубинка	Manganello	短棍	警棒			
-Text.Item.Tubing	Труба	Schlauch	Tuyau	Tubo	Трубы	Tubo	管子	チューブ			
+Text.Item.Tubing	Трубка	Schlauch	Tuyau	Tubo	Трубы	Tubo	管子	チューブ			
 Text.Item.Key	Ключ	Schlüssel	Clé	Llave	Ключ	Chiave	钥匙	カギ			
 Text.Item.KeyCard	Ключ-картка	Schlüsselkarte	Carte magnétique	Tarjeta de celda	Ключ-карта	Chiave elettronica	门卡	キーカード			
 Text.Item.Chocolate	Плитка шоколаду	Schokoladenriegel	Barre de chocolat	Barra de chocolate	Плитка шоколада	Barra di cioccolato	巧克力棒	チョコバー			
