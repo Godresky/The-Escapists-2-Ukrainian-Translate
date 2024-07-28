@@ -44,7 +44,7 @@ Text.Item.MonsterArm	Рука почвари	Monsterarm	Bras de monstre	Brazo de
 Text.Item.MonsterLeg	Нога почвари	Monsterbein	Jambe de monstre	Pierna de zombi	Нога монстра	Gamba di mostro	怪物的腿	怪物の足
 Text.Item.Eyeball	Очне яблуко	Augapfel	Globe oculaire	Ojo	Глазное яблоко	Bulbo oculare	眼球	目玉
 Text.Item.EmptyGiftBag	Пустий подарунковий пакунок	Leerer Geschenkbeutel	Pochette cadeau vide	Bolsa de regalos vacía	Пустая подарочная упаковка	Borsa di regali vuota	空的礼物袋	空のギフト袋
-Text.Item.Candy	Цукерка	Süßigkeiten	Bonbon	Caramelo	Конфета	Dolciumi	糖果	キャンディ
+Text.Item.Candy	Цукерки	Süßigkeiten	Bonbon	Caramelo	Конфета	Dolciumi	糖果	キャンディ
 Text.Item.Pumpkin	Гарбуз	Kürbis	Citrouille	Calabaza	Тыква	Zucca	南瓜	かぼちゃ
 Text.Item.CarvedPumpkin	Різьблений гарбуз	Geschnitzter Kürbis	Citrouille sculptée	Calabaza de Halloween	Вырезанная тыква	Zucca intagliata	刻好的南瓜	かぼちゃ提灯
 Text.Item.DirtyVampireRobes	Брудна мантія вампіра	Schmutziger Vampirumhang	Vêtements sales de vampire	Túnicas de vampiro sucias	Грязное одеяние вампира	Vestiti da vampiro sporchi	吸血鬼的脏袍子	汚れたバンパイアローブ
