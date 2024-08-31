@@ -246,8 +246,8 @@ Text.Editor.Cutlery.Desc	"Plastic cutlery that can be used as basic chipping, cu
 Text.Editor.GuardDesk.Desc	A desk for guards.	Ein Schreibtisch für die Wachen.	Un bureau pour gardiens.	Un escritorio para los guardias.	Стол для охранников.	Un tavolo per guardie.	看守的书桌。	看守の机。 				
 Text.Editor.Wardens_Desk.Desc	Dreams are made or shattered at this very table. 	"An diesem Tisch werden Träume gemacht, oder zerstört."	"A cette table, des rêves se réalisent ou se brisent."	En esta mesa se han cumplido o destruido sueños.	За этим столом сбываются или разбиваются мечты.	I sogni sono fatti o distrutti proprio su questa scrivania.	就在这张桌子决定你的梦是否成真或者打破美梦。	まさにこの机の上で多くの夢が生まれ、散っていった。 				
 												
-Text.Editor.Room.Blacksmith_01.Name	Metalworks	Metallarbeiten	Métallurgie	Herrería	Цех металлообработки	Costruzioni Metalliche	金工车间	鉄工所				
-Text.Editor.Room.Blacksmith_02.Name	Metalworks (2)	Metallarbeiten (2)	Métallurgie (2)	Herrería (2)	Цех металлообработки (2)	Costruzioni Metalliche (2)	金工车间 (2)	鉄工所（2）				
+Text.Editor.Room.Blacksmith_01.Name	Ковальня	Metallarbeiten	Métallurgie	Herrería	Цех металлообработки	Costruzioni Metalliche	金工车间	鉄工所				
+Text.Editor.Room.Blacksmith_02.Name	Ковальня (2)	Metallarbeiten (2)	Métallurgie (2)	Herrería (2)	Цех металлообработки (2)	Costruzioni Metalliche (2)	金工车间 (2)	鉄工所（2）				
 Text.Editor.Room.ContrabandRoom.Name	Contraband Room	Schmugglerraum	Salle de contrebande	Sala de Contrabando	Склад контрабанды	Stanza del Contrabbando	违禁品房间	禁制品保管室				
 Text.Editor.Room.ContrabandRoom_01.Name	Contraband Room	Schmugglerraum	Salle de contrebande	Sala de Contrabando	Склад контрабанды	Stanza del Contrabbando	违禁品房间	禁制品保管室				
 Text.Editor.Room.ControlRoom_01.Name	Prison Control Room	Gefängnis-Kontrollraum	Salle de contrôle de prison	Sala de Control	Центральный пост тюрьмы	Sala di Controllo	监狱控制室	監視室				
@@ -427,12 +427,12 @@ Text.Editor.Maintenance.Desc	Flushing stuff down toilets often causes blockages.
 Text.Editor.Medic.Desc												
 Text.Editor.RiotGuard.Desc												
 												
-Text.Editor.Menu.Exit	Exit	Ausgang	Sortie	Salir	Выход	Uscita	出口	終了				
-Text.Editor.Menu.Help	Help	Hilfe	Aide	Ayuda	Помощь	Aiuto	帮助	ヘルプ				
-Text.Editor.Menu.Play	Play Level	Spielstufe	Jouer ce niveau	Juega este nivel	Начать уровень	Gioca Livello 	玩这个等级	レベルで遊ぶ				
-Text.Editor.Menu.Save	Save	Speichern	Sauvegarder	Guardar	Сохранить	Salva	保存	セーブ				
-Text.Editor.Menu.Undo	Undo	Rückgängig 	Annuler	Deshacer	Отменить	Annulla	复原	取り消し				
-Text.Editor.Menu.Redo	Redo	Wiederholen	Refaire	Rehacer	Повторить	Ripeti	重来	やり直し				
+Text.Editor.Menu.Exit	Вийти	Ausgang	Sortie	Salir	Выход	Uscita	出口	終了				
+Text.Editor.Menu.Help	Допомога	Hilfe	Aide	Ayuda	Помощь	Aiuto	帮助	ヘルプ				
+Text.Editor.Menu.Play	Грати	Spielstufe	Jouer ce niveau	Juega este nivel	Начать уровень	Gioca Livello 	玩这个等级	レベルで遊ぶ				
+Text.Editor.Menu.Save	Зберегти	Speichern	Sauvegarder	Guardar	Сохранить	Salva	保存	セーブ				
+Text.Editor.Menu.Undo	Скасувати	Rückgängig 	Annuler	Deshacer	Отменить	Annulla	复原	取り消し				
+Text.Editor.Menu.Redo	Повторити знову	Wiederholen	Refaire	Rehacer	Повторить	Ripeti	重来	やり直し				
 Text.Editor.Menu.PrisonInfo	Go to Prison Info	Gehe zur Gefängnisinformation	Aller à Infos prison	Ir a Info de la Prisión	Перейти к инф. о тюрьме	Vai a Informazioni Prigione	进入监狱信息	刑務所情報へ移動				
 Text.Editor.Menu.PrisonSettings	Go to Prison Settings	Gehe zu den Gefängniseinstellungen	Aller à Paramètres de prison	Ir a Ajustes de la Prisión	Перейти к настройкам тюрьмы	Vai a Impostazioni Prigione	进入监狱设置	刑務所設定へ移動				
 Text.Editor.Menu.PrisonInfo	Go to Prison Routine	Gehe zur Gefängnisübung	Aller à Routine de prison	Ir a Rutina de la Prisión	Перейти к режиму тюрьмы	Vai a Routine Prigione	进入监狱例程	刑務所日課へ移動				
@@ -613,8 +613,8 @@ EscapeMethods.Editor_LandEscape	Vehicle Escape	Flucht mit einem Fahrzeug	Évasio
 EscapeMethods.Editor_SeaEscape	Sea Escape	Flucht über das Wasser	Évasion par la mer	Escape Marítimo	Побег по морю	Fuga via Mare	海路越狱	海路で脱獄				
 EscapeMethods.Editor_AirEscape	Air Escape	Flucht durch die Luft	Évasion par les airs	Escape Aereo	Побег по воздуху	Fuga aerea	空路越狱	空路で脱獄				
 												
-TBC	Prison Description	Gefängnis-Beschreibung	Description de prison	Descripción de la prisión	Описание тюрьмы	Descrizione Prigione	监狱描述	刑務所の概要				
-TBC	Enter a description for your prison here!	Gib eine Beschreibung für dein Gefängnis hier ein!	Insérez ici une description pour votre prison !	¡Introduce aquí la descripción de tu prisión!	Введите описание вашей тюрьмы!	Inserisci una descrizione della tua prigione qui!	在这里输入对你的监狱的描述！	どんな刑務所か簡潔に説明しましょう！				
+TBC	Опис в’язниці	Gefängnis-Beschreibung	Description de prison	Descripción de la prisión	Описание тюрьмы	Descrizione Prigione	监狱描述	刑務所の概要				
+TBC	Введіть тут опис вашої в’язниці!	Gib eine Beschreibung für dein Gefängnis hier ein!	Insérez ici une description pour votre prison !	¡Introduce aquí la descripción de tu prisión!	Введите описание вашей тюрьмы!	Inserisci una descrizione della tua prigione qui!	在这里输入对你的监狱的描述！	どんな刑務所か簡潔に説明しましょう！				
 TBC	Center Perks Prison Technologies. High-Tech security solutions is our business. Keeping inmates in the inside since 2017.	"Center Perks Prison Technologies. Hightech-Sicherheitslösungen sind unser Geschäft. Wir sorgen seit 2017 dafür, dass Häftlinge auch Häftlinge bleiben."	Centre Perks Prison Technologies. Les solutions de sécurité hi-tech sont notre spécialité. Garde vos détenus au chaud depuis 2017.	Center Perks Prison Technologies. Nos dedicamos a dar soluciones de seguridad con tecnología punta. Manteniendo a los presos adentro desde 2017.	Тюремные технологии Center Perks. Высокотехнологичные решения в области безопасности. Держим заключенных под контролем с 2017 г.	Center Perks Prison Technologies. Il nostro lavoro è fornire soluzioni di sicurezza ad alta tecnologia. Manteniamo i detenuti dietro le sbarre dal 2017.	困难 - 终级的惩罚！书桌上有较少的物件。你从较低的积分开始，而警卫和囚犯则更强，对你的评价比较低。	センターパークス刑務所テクノロジー社の使命は、ハイテクセキュリティソリューションをお届けすること。2017年から一度の脱獄も許しておりません。 				
 												
 Text.Editor.Difficulty_Easy.Desc	"Easy - A more forgiving experience. Desks contain more items. You start with higher stats, while guards and inmates are weaker and have a higher opinion of you."	"Einfach - Eine verzeihende Erfahrung. Schreibtische enthalten mehr Gegenstände. Du beginnst mit höheren Werten, während Wärter und Häftlinge schwächer sind als du und eine höhere Meinung von dir haben."	"Facile - Une expérience plus indulgente. Les bureaux contiennent plus d'objets. Vous commencez avec des stats plus élevées, tandis que les gardiens et les détenus sont plus faibles et ont une meilleure opinion de vous."	"Fácil - Una experiencia más compasiva. Los escritorios tienen más objetos. Empiezas con estadísticas más altas, mientras que los guardias y los presos son más débiles y tienen mejor opinión de ti."	"Низкая сложность - щадящий режим. В столах больше предметов. Вы начинаете с увеличенными очками характеристик, охранники и другие заключенные слабее, и у них о вас более высокое мнение."	"Facile - Un sfida più clemente. I tavoli contengono più elementi. Inizi con statistiche più alte, mentre le guardie e i detenuti sono più deboli e hanno un'opinione più elevata di te."	简单 - 更宽容的体验。书桌上有更多的物件。你从较高积分开始，而警卫和囚犯相对弱一些，对你有比较高的评价。	よゆう - 囚人に優しい親切設計。 机の中にあるアイテムが多い。 最初からプレイヤーの能力値や評価が高く、 看守や他の囚人たちの能力値は低い。 				
@@ -772,9 +772,9 @@ Text.Editor.RS.WoodenFloorLarge.Desc	Full of splinters.	Voller Splitter.	Plein d
 												
 Text.Editor.WallTile.Name	Red brick wall	Rote Ziegelmauer	Mur de brique rouge	Pared de ladrillos rojos	Красная кирпичная стена	Muro di mattoni rossi	红色砖墙	レンガの壁				
 												
-Text.Editor.Filter.CenterPerks	Center Perks	Center Perks	Center Perks	Center Perks	Center Perks	Center Perks	中央监狱	センターパークス				
-Text.Editor.Filter.Rattlesnake	Rattlesnake Springs	Rattlesnake Springs	Rattlesnake Springs	Rattlesnake Springs	Rattlesnake Springs	Rattlesnake Springs	响尾蛇之泉	ラトルスネイク・スプリングス				
-Text.Editor.Filter.Theme	Theme	Motiv	Thème	Tema	Тема	Tema	主题	テーマ				
+Text.Editor.Filter.CenterPerks	Центр-Перкс	Center Perks	Center Perks	Center Perks	Center Perks	Center Perks	中央监狱	センターパークス				
+Text.Editor.Filter.Rattlesnake	Зміїні копальні	Rattlesnake Springs	Rattlesnake Springs	Rattlesnake Springs	Rattlesnake Springs	Rattlesnake Springs	响尾蛇之泉	ラトルスネイク・スプリングス				
+Text.Editor.Filter.Theme	Тема	Motiv	Thème	Tema	Тема	Tema	主题	テーマ				
 												
 Text.Editor.MusicTheme	Prison Soundtrack	Gefängnis-Soundtrack	Bande-son de prison	Banda sonora de la prisión	Тюремный саундтрек	Colonna sonora prigione	监狱音轨	刑務所のサウンド				
 Text.Editor.PrisonOutfits	Prison Outfits	Gefängniskleidung	Tenues de prison	Uniformes carcelarios	Тюремные костюмы	Tenuta da prigione	监狱服装	刑務所の衣装				
